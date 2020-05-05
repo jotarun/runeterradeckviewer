@@ -26019,18 +26019,18 @@ var app = (function () {
     			div2 = element("div");
     			t4 = text("×");
     			t5 = text(/*count*/ ctx[0]);
-    			add_location(span, file, 142, 6, 2860);
-    			attr_dev(div0, "class", "cardcost svelte-b14l3t");
-    			add_location(div0, file, 141, 4, 2831);
-    			attr_dev(div1, "class", "cardname svelte-b14l3t");
-    			add_location(div1, file, 144, 4, 2895);
-    			attr_dev(div2, "class", "cardnums svelte-b14l3t");
-    			add_location(div2, file, 145, 4, 2934);
-    			attr_dev(region_1, "class", region_1_class_value = "" + (null_to_empty(/*region*/ ctx[4]) + " svelte-b14l3t"));
-    			add_location(region_1, file, 140, 2, 2803);
+    			add_location(span, file, 142, 6, 2861);
+    			attr_dev(div0, "class", "cardcost svelte-61ab5k");
+    			add_location(div0, file, 141, 4, 2832);
+    			attr_dev(div1, "class", "cardname svelte-61ab5k");
+    			add_location(div1, file, 144, 4, 2896);
+    			attr_dev(div2, "class", "cardnums svelte-61ab5k");
+    			add_location(div2, file, 145, 4, 2935);
+    			attr_dev(region_1, "class", region_1_class_value = "" + (null_to_empty(/*region*/ ctx[4]) + " svelte-61ab5k"));
+    			add_location(region_1, file, 140, 2, 2804);
     			set_style(cardblock, "background-image", "url(" + /*src*/ ctx[1] + ")");
-    			attr_dev(cardblock, "class", "svelte-b14l3t");
-    			add_location(cardblock, file, 139, 0, 2752);
+    			attr_dev(cardblock, "class", "svelte-61ab5k");
+    			add_location(cardblock, file, 139, 0, 2753);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -26054,7 +26054,7 @@ var app = (function () {
     			if (dirty & /*name*/ 4) set_data_dev(t2, /*name*/ ctx[2]);
     			if (dirty & /*count*/ 1) set_data_dev(t5, /*count*/ ctx[0]);
 
-    			if (dirty & /*region*/ 16 && region_1_class_value !== (region_1_class_value = "" + (null_to_empty(/*region*/ ctx[4]) + " svelte-b14l3t"))) {
+    			if (dirty & /*region*/ 16 && region_1_class_value !== (region_1_class_value = "" + (null_to_empty(/*region*/ ctx[4]) + " svelte-61ab5k"))) {
     				attr_dev(region_1, "class", region_1_class_value);
     			}
 
