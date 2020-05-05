@@ -26019,18 +26019,18 @@ var app = (function () {
     			div2 = element("div");
     			t4 = text("×");
     			t5 = text(/*count*/ ctx[0]);
-    			add_location(span, file, 145, 6, 2890);
-    			attr_dev(div0, "class", "cardcost svelte-dx7gil");
-    			add_location(div0, file, 144, 4, 2861);
-    			attr_dev(div1, "class", "cardname svelte-dx7gil");
-    			add_location(div1, file, 147, 4, 2925);
-    			attr_dev(div2, "class", "cardnums svelte-dx7gil");
-    			add_location(div2, file, 148, 4, 2964);
-    			attr_dev(region_1, "class", region_1_class_value = "" + (null_to_empty(/*region*/ ctx[4]) + " svelte-dx7gil"));
-    			add_location(region_1, file, 143, 2, 2833);
+    			add_location(span, file, 142, 6, 2860);
+    			attr_dev(div0, "class", "cardcost svelte-b14l3t");
+    			add_location(div0, file, 141, 4, 2831);
+    			attr_dev(div1, "class", "cardname svelte-b14l3t");
+    			add_location(div1, file, 144, 4, 2895);
+    			attr_dev(div2, "class", "cardnums svelte-b14l3t");
+    			add_location(div2, file, 145, 4, 2934);
+    			attr_dev(region_1, "class", region_1_class_value = "" + (null_to_empty(/*region*/ ctx[4]) + " svelte-b14l3t"));
+    			add_location(region_1, file, 140, 2, 2803);
     			set_style(cardblock, "background-image", "url(" + /*src*/ ctx[1] + ")");
-    			attr_dev(cardblock, "class", "svelte-dx7gil");
-    			add_location(cardblock, file, 142, 0, 2782);
+    			attr_dev(cardblock, "class", "svelte-b14l3t");
+    			add_location(cardblock, file, 139, 0, 2752);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -26054,7 +26054,7 @@ var app = (function () {
     			if (dirty & /*name*/ 4) set_data_dev(t2, /*name*/ ctx[2]);
     			if (dirty & /*count*/ 1) set_data_dev(t5, /*count*/ ctx[0]);
 
-    			if (dirty & /*region*/ 16 && region_1_class_value !== (region_1_class_value = "" + (null_to_empty(/*region*/ ctx[4]) + " svelte-dx7gil"))) {
+    			if (dirty & /*region*/ 16 && region_1_class_value !== (region_1_class_value = "" + (null_to_empty(/*region*/ ctx[4]) + " svelte-b14l3t"))) {
     				attr_dev(region_1, "class", region_1_class_value);
     			}
 
@@ -26188,7 +26188,7 @@ var app = (function () {
     	return child_ctx;
     }
 
-    // (39:2) {#each deck as card}
+    // (55:2) {#each deck as card}
     function create_each_block(ctx) {
     	let current;
 
@@ -26228,7 +26228,7 @@ var app = (function () {
     		block,
     		id: create_each_block.name,
     		type: "each",
-    		source: "(39:2) {#each deck as card}",
+    		source: "(55:2) {#each deck as card}",
     		ctx
     	});
 
@@ -26236,8 +26236,10 @@ var app = (function () {
     }
 
     function create_fragment$1(ctx) {
+    	let deckcode_1;
+    	let label;
     	let input;
-    	let t;
+    	let t1;
     	let main;
     	let current;
     	let dispose;
@@ -26255,27 +26257,36 @@ var app = (function () {
 
     	const block = {
     		c: function create() {
+    			deckcode_1 = element("deckcode");
+    			label = element("label");
+    			label.textContent = "牌組代碼";
     			input = element("input");
-    			t = space();
+    			t1 = space();
     			main = element("main");
 
     			for (let i = 0; i < each_blocks.length; i += 1) {
     				each_blocks[i].c();
     			}
 
+    			attr_dev(label, "class", "svelte-10djvuk");
+    			add_location(label, file$1, 50, 0, 902);
     			attr_dev(input, "placeholder", "將代碼貼在此");
-    			attr_dev(input, "class", "svelte-13a8f75");
-    			add_location(input, file$1, 35, 0, 657);
-    			attr_dev(main, "class", "svelte-13a8f75");
-    			add_location(main, file$1, 37, 0, 730);
+    			attr_dev(input, "class", "svelte-10djvuk");
+    			add_location(input, file$1, 50, 19, 921);
+    			attr_dev(deckcode_1, "class", "svelte-10djvuk");
+    			add_location(deckcode_1, file$1, 49, 0, 891);
+    			attr_dev(main, "class", "svelte-10djvuk");
+    			add_location(main, file$1, 53, 0, 1006);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
     		},
     		m: function mount(target, anchor, remount) {
-    			insert_dev(target, input, anchor);
+    			insert_dev(target, deckcode_1, anchor);
+    			append_dev(deckcode_1, label);
+    			append_dev(deckcode_1, input);
     			set_input_value(input, /*deckcode*/ ctx[0]);
-    			insert_dev(target, t, anchor);
+    			insert_dev(target, t1, anchor);
     			insert_dev(target, main, anchor);
 
     			for (let i = 0; i < each_blocks.length; i += 1) {
@@ -26342,8 +26353,8 @@ var app = (function () {
     			current = false;
     		},
     		d: function destroy(detaching) {
-    			if (detaching) detach_dev(input);
-    			if (detaching) detach_dev(t);
+    			if (detaching) detach_dev(deckcode_1);
+    			if (detaching) detach_dev(t1);
     			if (detaching) detach_dev(main);
     			destroy_each(each_blocks, detaching);
     			run_all(dispose);
