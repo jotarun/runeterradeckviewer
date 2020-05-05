@@ -26188,7 +26188,7 @@ var app = (function () {
     	return child_ctx;
     }
 
-    // (55:2) {#each deck as card}
+    // (63:2) {#each deck as card}
     function create_each_block(ctx) {
     	let current;
 
@@ -26228,7 +26228,7 @@ var app = (function () {
     		block,
     		id: create_each_block.name,
     		type: "each",
-    		source: "(55:2) {#each deck as card}",
+    		source: "(63:2) {#each deck as card}",
     		ctx
     	});
 
@@ -26269,14 +26269,14 @@ var app = (function () {
     			}
 
     			attr_dev(label, "class", "svelte-10djvuk");
-    			add_location(label, file$1, 50, 0, 902);
+    			add_location(label, file$1, 58, 0, 1104);
     			attr_dev(input, "placeholder", "將代碼貼在此");
     			attr_dev(input, "class", "svelte-10djvuk");
-    			add_location(input, file$1, 50, 19, 921);
+    			add_location(input, file$1, 58, 19, 1123);
     			attr_dev(deckcode_1, "class", "svelte-10djvuk");
-    			add_location(deckcode_1, file$1, 49, 0, 891);
+    			add_location(deckcode_1, file$1, 57, 0, 1093);
     			attr_dev(main, "class", "svelte-10djvuk");
-    			add_location(main, file$1, 53, 0, 1006);
+    			add_location(main, file$1, 61, 0, 1208);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -26372,6 +26372,14 @@ var app = (function () {
     	return block;
     }
 
+    function sortdeck(array) {
+    	return array.sort(function (a, b) {
+    		var x = a.faction.id;
+    		var y = b.faction.id;
+    		return x < y ? -1 : x > y ? 1 : 0;
+    	});
+    }
+
     function instance$1($$self, $$props, $$invalidate) {
     	let deckcode = "CEBQCAQDAQCQCBABCETTINQHAEBQEDAPCQPCKKAAAEAQEAYD";
     	let url = window.location.href;
@@ -26382,6 +26390,7 @@ var app = (function () {
 
     	function decode() {
     		$$invalidate(1, deck = src_1.decode(deckcode));
+    		sortdeck(deck);
     	}
 
     	const writable_props = [];
@@ -26406,7 +26415,8 @@ var app = (function () {
     		url,
     		param,
     		deck,
-    		decode
+    		decode,
+    		sortdeck
     	});
 
     	$$self.$inject_state = $$props => {
