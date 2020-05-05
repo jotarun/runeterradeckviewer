@@ -26019,18 +26019,18 @@ var app = (function () {
     			div2 = element("div");
     			t4 = text("×");
     			t5 = text(/*count*/ ctx[0]);
-    			add_location(span, file, 144, 6, 2849);
+    			add_location(span, file, 145, 6, 2890);
     			attr_dev(div0, "class", "cardcost svelte-dx7gil");
-    			add_location(div0, file, 143, 4, 2820);
+    			add_location(div0, file, 144, 4, 2861);
     			attr_dev(div1, "class", "cardname svelte-dx7gil");
-    			add_location(div1, file, 146, 4, 2884);
+    			add_location(div1, file, 147, 4, 2925);
     			attr_dev(div2, "class", "cardnums svelte-dx7gil");
-    			add_location(div2, file, 147, 4, 2923);
+    			add_location(div2, file, 148, 4, 2964);
     			attr_dev(region_1, "class", region_1_class_value = "" + (null_to_empty(/*region*/ ctx[4]) + " svelte-dx7gil"));
-    			add_location(region_1, file, 142, 2, 2792);
+    			add_location(region_1, file, 143, 2, 2833);
     			set_style(cardblock, "background-image", "url(" + /*src*/ ctx[1] + ")");
     			attr_dev(cardblock, "class", "svelte-dx7gil");
-    			add_location(cardblock, file, 141, 0, 2741);
+    			add_location(cardblock, file, 142, 0, 2782);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -26097,6 +26097,7 @@ var app = (function () {
     		$$invalidate(0, count = card.count);
     		index = cardSets[set].findIndex(obj => obj.cardCode == code);
     		$$invalidate(1, src = cardSets[set][index].assets[0].fullAbsolutePath);
+    		$$invalidate(1, src = "img/cards/" + code + "-full.png");
     		$$invalidate(2, name = cardSets[set][index].name);
     		$$invalidate(3, cost = cardSets[set][index].cost);
     		$$invalidate(4, region = cardSets[set][index].regionRef);
