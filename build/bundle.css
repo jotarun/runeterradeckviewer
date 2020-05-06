@@ -1,34 +1,34 @@
-deckcode.svelte-1nm0b5u{width:90%;margin:1em auto;border:1px solid rgb(73, 52, 31);font:2em;display:flex;vertical-align:middle}label.svelte-1nm0b5u{background:rgb(73, 52, 31);color:white;text-align:center;line-height:200%;font-weight:bold;padding:0 1em}main.svelte-1nm0b5u{margin:0 auto;width:22em}h1.svelte-1nm0b5u{display:block;font-size:1.1em;margin:0 auto;text-align:center;color:#edc;letter-spacing:0.4em}input.svelte-1nm0b5u{margin:0;flex-grow:3;padding:0.5em;background:rgb(199, 184, 169);color:#321}@media only screen and (min-width: 1280px){main.svelte-1nm0b5u{display:flex;width:90%;margin:0 auto}div.svelte-1nm0b5u{margin:1em}}
-cardblock.svelte-er9gas{display:block;width:20em;height:2em;background-size:cover;background-repeat:no-repeat;background-position:center center;border-radius:5px;border:none;margin:0.2em auto;padding:0;box-shadow:rgba(10, 10, 10, 0.3) 0px 2px 2px 2px;overflow:hidden}region.svelte-er9gas{display:flex;height:100%;width:100%;align-items:center;justify-content:center}.Demacia.svelte-er9gas{background-image:linear-gradient(
+deckcode.svelte-sjpsyl{width:90%;margin:1em auto;border:1px solid rgb(73, 52, 31);font:2em;display:flex;vertical-align:middle}label.svelte-sjpsyl{background:rgb(37, 25, 13);color:white;text-align:center;line-height:200%;font-weight:bold;padding:0 1em}main.svelte-sjpsyl{margin:0 auto;width:22em}h1.svelte-sjpsyl{display:block;font-size:1.1em;margin:0 auto;text-align:center;color:#edc}input.svelte-sjpsyl{margin:0;flex-grow:3;padding:0.5em;background:rgb(199, 184, 169);color:#321}@media only screen and (min-width: 1280px){main.svelte-sjpsyl{display:flex;width:90%;margin:0 auto}div.svelte-sjpsyl{margin:1em}count.svelte-sjpsyl{font-family:'Oswald';color:rgb(240, 178, 116)}}
+cardblock.svelte-1zfxan{display:block;width:20em;height:2em;background-size:cover;background-repeat:no-repeat;background-position:center center;border-radius:5px;border:none;margin:0.2em auto;padding:0;box-shadow:rgba(10, 10, 10, 0.3) 0px 2px 2px 2px;overflow:hidden}region.svelte-1zfxan{display:flex;height:100%;width:100%;align-items:center;justify-content:center}.Demacia.svelte-1zfxan{background-image:linear-gradient(
       -90deg,
       rgba(0, 0, 0, 0) 30%,
       rgba(180, 147, 34, 1) 100%
-    )}.Noxus.svelte-er9gas{background-image:linear-gradient(
+    )}.Noxus.svelte-1zfxan{background-image:linear-gradient(
       -90deg,
       rgba(0, 0, 0, 0) 30%,
       rgb(172, 26, 26) 99%
-    )}.Bilgewater.svelte-er9gas{background-image:linear-gradient(
+    )}.Bilgewater.svelte-1zfxan{background-image:linear-gradient(
       -90deg,
       rgba(0, 0, 0, 0) 30%,
       rgb(167, 54, 19) 99%
-    )}.ShadowIsles.svelte-er9gas{background-image:linear-gradient(
+    )}.ShadowIsles.svelte-1zfxan{background-image:linear-gradient(
       -90deg,
       rgba(0, 0, 0, 0) 30%,
       rgb(12, 84, 102) 99%
-    )}.Ionia.svelte-er9gas{background-image:linear-gradient(
+    )}.Ionia.svelte-1zfxan{background-image:linear-gradient(
       -90deg,
       rgba(0, 0, 0, 0) 30%,
       rgb(145, 53, 114) 99%
-    )}.PiltoverZaun.svelte-er9gas{background-image:linear-gradient(
+    )}.PiltoverZaun.svelte-1zfxan{background-image:linear-gradient(
       -90deg,
       rgba(0, 0, 0, 0) 30%,
       rgb(167, 54, 19, 1) 70%,
       rgb(167, 103, 19, 1) 90%
-    )}.Freljord.svelte-er9gas{background-image:linear-gradient(
+    )}.Freljord.svelte-1zfxan{background-image:linear-gradient(
       -90deg,
       rgba(0, 0, 0, 0) 30%,
       rgb(74, 138, 197) 99%
-    )}div.svelte-er9gas{color:white;text-shadow:1px 1px #333}.cardcost.svelte-er9gas{width:1.5em;height:1.5em;line-height:1.5em;border-radius:50%;text-align:center;border:2px solid #666;background:rgba(7, 5, 134, 0.8);box-shadow:rgba(20, 11, 36, 0.8) 0px 0px 6px 0px,
-      black 0px 0px 0px 2px inset, rgb(74, 138, 197, 0.5) 0 0 3px 3px inset;background:radial-gradient(circle at 0.2em 0.2em,#1192e9, #0d1fc2,#370397, rgb(0, 59, 59))}.cardname.svelte-er9gas{flex-grow:7;padding:0.1em}.cardnums.svelte-er9gas{padding:0.1em;background-color:rgb(0,0,0,0.5);width:1.2em;height:100%;line-height:200%}
+    )}div.svelte-1zfxan{color:white;text-shadow:1px 1px #333}.cardcost.svelte-1zfxan{width:1.5em;height:1.5em;line-height:1.5em;border-radius:50%;text-align:center;border:1px solid #EEE;background:rgba(7, 5, 134, 0.8);box-shadow:rgba(20, 11, 36, 0.8) 0px 0px 6px 0px,
+      black 0px 0px 0px 1px inset,  rgb(74, 138, 197, 0.5) 0 0 3px 2px inset;background:radial-gradient(circle at 0.6em 0.1em,#1192e9, #0d1fc2,#370397, rgb(0, 59, 59));font-family:'Jost';font-weight:600}.cardname.svelte-1zfxan{flex-grow:7;padding:0.1em}.cardnums.svelte-1zfxan{padding:0.1em;background-color:rgb(0,0,0,0.8);width:1.2em;height:100%;line-height:200%;font-family:'Oswald';font-weight:300;text-align:center;color:white}
 
 /*# sourceMappingURL=bundle.css.map */
