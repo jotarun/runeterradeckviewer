@@ -26200,7 +26200,7 @@ var app = (function () {
     	return child_ctx;
     }
 
-    // (128:4) {#each heroes as card}
+    // (129:4) {#each heroes as card}
     function create_each_block_2(ctx) {
     	let current;
 
@@ -26240,14 +26240,14 @@ var app = (function () {
     		block,
     		id: create_each_block_2.name,
     		type: "each",
-    		source: "(128:4) {#each heroes as card}",
+    		source: "(129:4) {#each heroes as card}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (138:4) {#each minions as card}
+    // (139:4) {#each minions as card}
     function create_each_block_1(ctx) {
     	let current;
 
@@ -26287,14 +26287,14 @@ var app = (function () {
     		block,
     		id: create_each_block_1.name,
     		type: "each",
-    		source: "(138:4) {#each minions as card}",
+    		source: "(139:4) {#each minions as card}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (147:4) {#each spells as card}
+    // (148:4) {#each spells as card}
     function create_each_block(ctx) {
     	let current;
 
@@ -26334,7 +26334,7 @@ var app = (function () {
     		block,
     		id: create_each_block.name,
     		type: "each",
-    		source: "(147:4) {#each spells as card}",
+    		source: "(148:4) {#each spells as card}",
     		ctx
     	});
 
@@ -26487,59 +26487,59 @@ var app = (function () {
     			t19 = text("GitHub icon");
     			path1 = svg_element("path");
     			t20 = text("\n    原始碼");
-    			attr_dev(label, "class", "svelte-g6xqts");
-    			add_location(label, file$1, 117, 2, 2440);
+    			attr_dev(label, "class", "svelte-dhmvfu");
+    			add_location(label, file$1, 118, 2, 2471);
     			attr_dev(input, "placeholder", "將代碼貼在此");
-    			attr_dev(input, "class", "svelte-g6xqts");
-    			add_location(input, file$1, 118, 2, 2462);
-    			attr_dev(deckcode_1, "class", "svelte-g6xqts");
-    			add_location(deckcode_1, file$1, 116, 0, 2427);
-    			attr_dev(count0, "class", "svelte-g6xqts");
-    			add_location(count0, file$1, 125, 6, 2587);
-    			attr_dev(h10, "class", "svelte-g6xqts");
-    			add_location(h10, file$1, 123, 4, 2566);
-    			attr_dev(div0, "class", "svelte-g6xqts");
-    			add_location(div0, file$1, 122, 2, 2556);
-    			attr_dev(count1, "class", "svelte-g6xqts");
-    			add_location(count1, file$1, 135, 6, 2735);
-    			attr_dev(h11, "class", "svelte-g6xqts");
-    			add_location(h11, file$1, 133, 4, 2714);
-    			attr_dev(div1, "class", "svelte-g6xqts");
-    			add_location(div1, file$1, 131, 2, 2703);
-    			attr_dev(count2, "class", "svelte-g6xqts");
-    			add_location(count2, file$1, 144, 6, 2884);
-    			attr_dev(h12, "class", "svelte-g6xqts");
-    			add_location(h12, file$1, 142, 4, 2863);
-    			attr_dev(div2, "class", "svelte-g6xqts");
-    			add_location(div2, file$1, 141, 2, 2853);
-    			attr_dev(main, "class", "svelte-g6xqts");
-    			add_location(main, file$1, 121, 0, 2547);
-    			attr_dev(hr, "class", "svelte-g6xqts");
-    			add_location(hr, file$1, 152, 0, 3007);
-    			add_location(title0, file$1, 161, 6, 3192);
+    			attr_dev(input, "class", "svelte-dhmvfu");
+    			add_location(input, file$1, 119, 2, 2493);
+    			attr_dev(deckcode_1, "class", "svelte-dhmvfu");
+    			add_location(deckcode_1, file$1, 117, 0, 2458);
+    			attr_dev(count0, "class", "svelte-dhmvfu");
+    			add_location(count0, file$1, 126, 6, 2618);
+    			attr_dev(h10, "class", "svelte-dhmvfu");
+    			add_location(h10, file$1, 124, 4, 2597);
+    			attr_dev(div0, "class", "svelte-dhmvfu");
+    			add_location(div0, file$1, 123, 2, 2587);
+    			attr_dev(count1, "class", "svelte-dhmvfu");
+    			add_location(count1, file$1, 136, 6, 2766);
+    			attr_dev(h11, "class", "svelte-dhmvfu");
+    			add_location(h11, file$1, 134, 4, 2745);
+    			attr_dev(div1, "class", "svelte-dhmvfu");
+    			add_location(div1, file$1, 132, 2, 2734);
+    			attr_dev(count2, "class", "svelte-dhmvfu");
+    			add_location(count2, file$1, 145, 6, 2915);
+    			attr_dev(h12, "class", "svelte-dhmvfu");
+    			add_location(h12, file$1, 143, 4, 2894);
+    			attr_dev(div2, "class", "svelte-dhmvfu");
+    			add_location(div2, file$1, 142, 2, 2884);
+    			attr_dev(main, "class", "svelte-dhmvfu");
+    			add_location(main, file$1, 122, 0, 2578);
+    			attr_dev(hr, "class", "svelte-dhmvfu");
+    			add_location(hr, file$1, 153, 0, 3038);
+    			add_location(title0, file$1, 162, 6, 3223);
     			attr_dev(path0, "d", "M23.9981 11.9991C23.9981 5.37216 18.626 0 11.9991 0C5.37216 0 0\n        5.37216 0 11.9991C0 17.9882 4.38789 22.9522 10.1242\n        23.8524V15.4676H7.07758V11.9991H10.1242V9.35553C10.1242 6.34826 11.9156\n        4.68714 14.6564 4.68714C15.9692 4.68714 17.3424 4.92149 17.3424\n        4.92149V7.87439H15.8294C14.3388 7.87439 13.8739 8.79933 13.8739\n        9.74824V11.9991H17.2018L16.6698 15.4676H13.8739V23.8524C19.6103 22.9522\n        23.9981 17.9882 23.9981 11.9991Z");
-    			add_location(path0, file$1, 162, 6, 3227);
-    			attr_dev(svg0, "class", "social svelte-g6xqts");
+    			add_location(path0, file$1, 163, 6, 3258);
+    			attr_dev(svg0, "class", "social svelte-dhmvfu");
     			attr_dev(svg0, "role", "img");
     			attr_dev(svg0, "viewBox", "0 0 24 24");
     			attr_dev(svg0, "xmlns", "http://www.w3.org/2000/svg");
-    			add_location(svg0, file$1, 156, 4, 3075);
+    			add_location(svg0, file$1, 157, 4, 3106);
     			attr_dev(a0, "href", "https://www.facebook.com/LoRFanTW");
-    			attr_dev(a0, "class", "svelte-g6xqts");
-    			add_location(a0, file$1, 155, 2, 3026);
-    			add_location(title1, file$1, 180, 6, 3931);
+    			attr_dev(a0, "class", "svelte-dhmvfu");
+    			add_location(a0, file$1, 156, 2, 3057);
+    			add_location(title1, file$1, 181, 6, 3962);
     			attr_dev(path1, "d", "M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205\n        11.385.6.113.82-.258.82-.577\n        0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07\n        3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838\n        1.236 1.838 1.236 1.07 1.835 2.809 1.305\n        3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93\n        0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322\n        3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552\n        3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23\n        3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015\n        2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24\n        12.297c0-6.627-5.373-12-12-12");
-    			add_location(path1, file$1, 181, 6, 3964);
-    			attr_dev(svg1, "class", "social svelte-g6xqts");
+    			add_location(path1, file$1, 182, 6, 3995);
+    			attr_dev(svg1, "class", "social svelte-dhmvfu");
     			attr_dev(svg1, "role", "img");
     			attr_dev(svg1, "viewBox", "0 0 24 24");
     			attr_dev(svg1, "xmlns", "http://www.w3.org/2000/svg");
-    			add_location(svg1, file$1, 175, 4, 3814);
+    			add_location(svg1, file$1, 176, 4, 3845);
     			attr_dev(a1, "href", "https://github.com/jotarun/runeterradeckviewer");
-    			attr_dev(a1, "class", "svelte-g6xqts");
-    			add_location(a1, file$1, 174, 2, 3752);
-    			attr_dev(footer, "class", "svelte-g6xqts");
-    			add_location(footer, file$1, 154, 0, 3015);
+    			attr_dev(a1, "class", "svelte-dhmvfu");
+    			add_location(a1, file$1, 175, 2, 3783);
+    			attr_dev(footer, "class", "svelte-dhmvfu");
+    			add_location(footer, file$1, 155, 0, 3046);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
