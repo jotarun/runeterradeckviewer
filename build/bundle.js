@@ -4,6 +4,7 @@ var app = (function () {
     'use strict';
 
     function noop() { }
+    const identity = x => x;
     function add_location(element, file, line, column, char) {
         element.__svelte_meta = {
             loc: { file, line, column, char }
@@ -26,6 +27,41 @@ var app = (function () {
     }
     function null_to_empty(value) {
         return value == null ? '' : value;
+    }
+
+    const is_client = typeof window !== 'undefined';
+    let now = is_client
+        ? () => window.performance.now()
+        : () => Date.now();
+    let raf = is_client ? cb => requestAnimationFrame(cb) : noop;
+
+    const tasks = new Set();
+    function run_tasks(now) {
+        tasks.forEach(task => {
+            if (!task.c(now)) {
+                tasks.delete(task);
+                task.f();
+            }
+        });
+        if (tasks.size !== 0)
+            raf(run_tasks);
+    }
+    /**
+     * Creates a new task that runs on each raf frame
+     * until it returns a falsy value or is aborted
+     */
+    function loop(callback) {
+        let task;
+        if (tasks.size === 0)
+            raf(run_tasks);
+        return {
+            promise: new Promise(fulfill => {
+                tasks.add(task = { c: callback, f: fulfill });
+            }),
+            abort() {
+                tasks.delete(task);
+            }
+        };
     }
 
     function append(target, node) {
@@ -80,6 +116,67 @@ var app = (function () {
         const e = document.createEvent('CustomEvent');
         e.initCustomEvent(type, false, false, detail);
         return e;
+    }
+
+    const active_docs = new Set();
+    let active = 0;
+    // https://github.com/darkskyapp/string-hash/blob/master/index.js
+    function hash(str) {
+        let hash = 5381;
+        let i = str.length;
+        while (i--)
+            hash = ((hash << 5) - hash) ^ str.charCodeAt(i);
+        return hash >>> 0;
+    }
+    function create_rule(node, a, b, duration, delay, ease, fn, uid = 0) {
+        const step = 16.666 / duration;
+        let keyframes = '{\n';
+        for (let p = 0; p <= 1; p += step) {
+            const t = a + (b - a) * ease(p);
+            keyframes += p * 100 + `%{${fn(t, 1 - t)}}\n`;
+        }
+        const rule = keyframes + `100% {${fn(b, 1 - b)}}\n}`;
+        const name = `__svelte_${hash(rule)}_${uid}`;
+        const doc = node.ownerDocument;
+        active_docs.add(doc);
+        const stylesheet = doc.__svelte_stylesheet || (doc.__svelte_stylesheet = doc.head.appendChild(element('style')).sheet);
+        const current_rules = doc.__svelte_rules || (doc.__svelte_rules = {});
+        if (!current_rules[name]) {
+            current_rules[name] = true;
+            stylesheet.insertRule(`@keyframes ${name} ${rule}`, stylesheet.cssRules.length);
+        }
+        const animation = node.style.animation || '';
+        node.style.animation = `${animation ? `${animation}, ` : ``}${name} ${duration}ms linear ${delay}ms 1 both`;
+        active += 1;
+        return name;
+    }
+    function delete_rule(node, name) {
+        const previous = (node.style.animation || '').split(', ');
+        const next = previous.filter(name
+            ? anim => anim.indexOf(name) < 0 // remove specific animation
+            : anim => anim.indexOf('__svelte') === -1 // remove all Svelte animations
+        );
+        const deleted = previous.length - next.length;
+        if (deleted) {
+            node.style.animation = next.join(', ');
+            active -= deleted;
+            if (!active)
+                clear_rules();
+        }
+    }
+    function clear_rules() {
+        raf(() => {
+            if (active)
+                return;
+            active_docs.forEach(doc => {
+                const stylesheet = doc.__svelte_stylesheet;
+                let i = stylesheet.cssRules.length;
+                while (i--)
+                    stylesheet.deleteRule(i);
+                doc.__svelte_rules = {};
+            });
+            active_docs.clear();
+        });
     }
 
     let current_component;
@@ -160,6 +257,20 @@ var app = (function () {
             $$.after_update.forEach(add_render_callback);
         }
     }
+
+    let promise;
+    function wait() {
+        if (!promise) {
+            promise = Promise.resolve();
+            promise.then(() => {
+                promise = null;
+            });
+        }
+        return promise;
+    }
+    function dispatch(node, direction, kind) {
+        node.dispatchEvent(custom_event(`${direction ? 'intro' : 'outro'}${kind}`));
+    }
     const outroing = new Set();
     let outros;
     function group_outros() {
@@ -196,6 +307,112 @@ var app = (function () {
             });
             block.o(local);
         }
+    }
+    const null_transition = { duration: 0 };
+    function create_bidirectional_transition(node, fn, params, intro) {
+        let config = fn(node, params);
+        let t = intro ? 0 : 1;
+        let running_program = null;
+        let pending_program = null;
+        let animation_name = null;
+        function clear_animation() {
+            if (animation_name)
+                delete_rule(node, animation_name);
+        }
+        function init(program, duration) {
+            const d = program.b - t;
+            duration *= Math.abs(d);
+            return {
+                a: t,
+                b: program.b,
+                d,
+                duration,
+                start: program.start,
+                end: program.start + duration,
+                group: program.group
+            };
+        }
+        function go(b) {
+            const { delay = 0, duration = 300, easing = identity, tick = noop, css } = config || null_transition;
+            const program = {
+                start: now() + delay,
+                b
+            };
+            if (!b) {
+                // @ts-ignore todo: improve typings
+                program.group = outros;
+                outros.r += 1;
+            }
+            if (running_program) {
+                pending_program = program;
+            }
+            else {
+                // if this is an intro, and there's a delay, we need to do
+                // an initial tick and/or apply CSS animation immediately
+                if (css) {
+                    clear_animation();
+                    animation_name = create_rule(node, t, b, duration, delay, easing, css);
+                }
+                if (b)
+                    tick(0, 1);
+                running_program = init(program, duration);
+                add_render_callback(() => dispatch(node, b, 'start'));
+                loop(now => {
+                    if (pending_program && now > pending_program.start) {
+                        running_program = init(pending_program, duration);
+                        pending_program = null;
+                        dispatch(node, running_program.b, 'start');
+                        if (css) {
+                            clear_animation();
+                            animation_name = create_rule(node, t, running_program.b, running_program.duration, 0, easing, config.css);
+                        }
+                    }
+                    if (running_program) {
+                        if (now >= running_program.end) {
+                            tick(t = running_program.b, 1 - t);
+                            dispatch(node, running_program.b, 'end');
+                            if (!pending_program) {
+                                // we're done
+                                if (running_program.b) {
+                                    // intro — we can tidy up immediately
+                                    clear_animation();
+                                }
+                                else {
+                                    // outro — needs to be coordinated
+                                    if (!--running_program.group.r)
+                                        run_all(running_program.group.c);
+                                }
+                            }
+                            running_program = null;
+                        }
+                        else if (now >= running_program.start) {
+                            const p = now - running_program.start;
+                            t = running_program.a + running_program.d * easing(p / running_program.duration);
+                            tick(t, 1 - t);
+                        }
+                    }
+                    return !!(running_program || pending_program);
+                });
+            }
+        }
+        return {
+            run(b) {
+                if (is_function(config)) {
+                    wait().then(() => {
+                        // @ts-ignore
+                        config = config();
+                        go(b);
+                    });
+                }
+                else {
+                    go(b);
+                }
+            },
+            end() {
+                clear_animation();
+                running_program = pending_program = null;
+            }
+        };
     }
     function create_component(block) {
         block && block.c();
@@ -25990,10 +26207,91 @@ var app = (function () {
         stringify: stringify_1
     };
 
+    function cubicOut(t) {
+        const f = t - 1.0;
+        return f * f * f + 1.0;
+    }
+
+    function fly(node, { delay = 0, duration = 400, easing = cubicOut, x = 0, y = 0, opacity = 0 }) {
+        const style = getComputedStyle(node);
+        const target_opacity = +style.opacity;
+        const transform = style.transform === 'none' ? '' : style.transform;
+        const od = target_opacity * (1 - opacity);
+        return {
+            delay,
+            duration,
+            easing,
+            css: (t, u) => `
+			transform: ${transform} translate(${(1 - t) * x}px, ${(1 - t) * y}px);
+			opacity: ${target_opacity - (od * u)}`
+        };
+    }
+
     /* src/CardBar.svelte generated by Svelte v3.21.0 */
     const file = "src/CardBar.svelte";
 
+    // (187:2) {#if hovering}
+    function create_if_block(ctx) {
+    	let img;
+    	let img_src_value;
+    	let img_transition;
+    	let current;
+
+    	const block = {
+    		c: function create() {
+    			img = element("img");
+    			if (img.src !== (img_src_value = /*src2*/ ctx[3])) attr_dev(img, "src", img_src_value);
+    			attr_dev(img, "class", "hoverview svelte-igc0jq");
+    			attr_dev(img, "alt", /*name*/ ctx[4]);
+    			add_location(img, file, 187, 4, 3700);
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, img, anchor);
+    			current = true;
+    		},
+    		p: function update(ctx, dirty) {
+    			if (!current || dirty & /*src2*/ 8 && img.src !== (img_src_value = /*src2*/ ctx[3])) {
+    				attr_dev(img, "src", img_src_value);
+    			}
+
+    			if (!current || dirty & /*name*/ 16) {
+    				attr_dev(img, "alt", /*name*/ ctx[4]);
+    			}
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+
+    			add_render_callback(() => {
+    				if (!img_transition) img_transition = create_bidirectional_transition(img, fly, { y: 200, duration: 500 }, true);
+    				img_transition.run(1);
+    			});
+
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			if (!img_transition) img_transition = create_bidirectional_transition(img, fly, { y: 200, duration: 500 }, false);
+    			img_transition.run(0);
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(img);
+    			if (detaching && img_transition) img_transition.end();
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_if_block.name,
+    		type: "if",
+    		source: "(187:2) {#if hovering}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
     function create_fragment(ctx) {
+    	let hover;
     	let cardblock;
     	let region_1;
     	let div0;
@@ -26006,38 +26304,48 @@ var app = (function () {
     	let div2;
     	let t4;
     	let region_1_class_value;
+    	let t5;
+    	let current;
+    	let dispose;
+    	let if_block = /*hovering*/ ctx[0] && create_if_block(ctx);
 
     	const block = {
     		c: function create() {
+    			hover = element("hover");
     			cardblock = element("cardblock");
     			region_1 = element("region");
     			div0 = element("div");
     			span = element("span");
-    			t0 = text(/*cost*/ ctx[3]);
+    			t0 = text(/*cost*/ ctx[5]);
     			t1 = space();
     			div1 = element("div");
-    			t2 = text(/*name*/ ctx[2]);
+    			t2 = text(/*name*/ ctx[4]);
     			t3 = space();
     			div2 = element("div");
-    			t4 = text(/*count*/ ctx[0]);
-    			add_location(span, file, 147, 6, 2997);
-    			attr_dev(div0, "class", "cardcost svelte-1zfxan");
-    			add_location(div0, file, 146, 4, 2968);
-    			attr_dev(div1, "class", "cardname svelte-1zfxan");
-    			add_location(div1, file, 149, 4, 3032);
-    			attr_dev(div2, "class", "cardnums svelte-1zfxan");
-    			add_location(div2, file, 150, 4, 3071);
-    			attr_dev(region_1, "class", region_1_class_value = "" + (null_to_empty(/*region*/ ctx[4]) + " svelte-1zfxan"));
-    			add_location(region_1, file, 145, 2, 2940);
-    			set_style(cardblock, "background-image", "url(" + /*src*/ ctx[1] + ")");
-    			attr_dev(cardblock, "class", "svelte-1zfxan");
-    			add_location(cardblock, file, 144, 0, 2889);
+    			t4 = text(/*count*/ ctx[1]);
+    			t5 = space();
+    			if (if_block) if_block.c();
+    			add_location(span, file, 180, 8, 3534);
+    			attr_dev(div0, "class", "cardcost svelte-igc0jq");
+    			add_location(div0, file, 179, 6, 3503);
+    			attr_dev(div1, "class", "cardname svelte-igc0jq");
+    			add_location(div1, file, 182, 6, 3573);
+    			attr_dev(div2, "class", "cardnums svelte-igc0jq");
+    			add_location(div2, file, 183, 6, 3614);
+    			attr_dev(region_1, "class", region_1_class_value = "" + (null_to_empty(/*region*/ ctx[6]) + " svelte-igc0jq"));
+    			add_location(region_1, file, 178, 4, 3473);
+    			set_style(cardblock, "background-image", "url(" + /*src*/ ctx[2] + ")");
+    			attr_dev(cardblock, "class", "svelte-igc0jq");
+    			add_location(cardblock, file, 177, 2, 3420);
+    			attr_dev(hover, "class", "svelte-igc0jq");
+    			add_location(hover, file, 176, 0, 3366);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
     		},
-    		m: function mount(target, anchor) {
-    			insert_dev(target, cardblock, anchor);
+    		m: function mount(target, anchor, remount) {
+    			insert_dev(target, hover, anchor);
+    			append_dev(hover, cardblock);
     			append_dev(cardblock, region_1);
     			append_dev(region_1, div0);
     			append_dev(div0, span);
@@ -26048,24 +26356,65 @@ var app = (function () {
     			append_dev(region_1, t3);
     			append_dev(region_1, div2);
     			append_dev(div2, t4);
+    			append_dev(hover, t5);
+    			if (if_block) if_block.m(hover, null);
+    			current = true;
+    			if (remount) run_all(dispose);
+
+    			dispose = [
+    				listen_dev(hover, "mouseenter", /*enter*/ ctx[7], false, false, false),
+    				listen_dev(hover, "mouseleave", /*leave*/ ctx[8], false, false, false)
+    			];
     		},
     		p: function update(ctx, [dirty]) {
-    			if (dirty & /*cost*/ 8) set_data_dev(t0, /*cost*/ ctx[3]);
-    			if (dirty & /*name*/ 4) set_data_dev(t2, /*name*/ ctx[2]);
-    			if (dirty & /*count*/ 1) set_data_dev(t4, /*count*/ ctx[0]);
+    			if (!current || dirty & /*cost*/ 32) set_data_dev(t0, /*cost*/ ctx[5]);
+    			if (!current || dirty & /*name*/ 16) set_data_dev(t2, /*name*/ ctx[4]);
+    			if (!current || dirty & /*count*/ 2) set_data_dev(t4, /*count*/ ctx[1]);
 
-    			if (dirty & /*region*/ 16 && region_1_class_value !== (region_1_class_value = "" + (null_to_empty(/*region*/ ctx[4]) + " svelte-1zfxan"))) {
+    			if (!current || dirty & /*region*/ 64 && region_1_class_value !== (region_1_class_value = "" + (null_to_empty(/*region*/ ctx[6]) + " svelte-igc0jq"))) {
     				attr_dev(region_1, "class", region_1_class_value);
     			}
 
-    			if (dirty & /*src*/ 2) {
-    				set_style(cardblock, "background-image", "url(" + /*src*/ ctx[1] + ")");
+    			if (!current || dirty & /*src*/ 4) {
+    				set_style(cardblock, "background-image", "url(" + /*src*/ ctx[2] + ")");
+    			}
+
+    			if (/*hovering*/ ctx[0]) {
+    				if (if_block) {
+    					if_block.p(ctx, dirty);
+
+    					if (dirty & /*hovering*/ 1) {
+    						transition_in(if_block, 1);
+    					}
+    				} else {
+    					if_block = create_if_block(ctx);
+    					if_block.c();
+    					transition_in(if_block, 1);
+    					if_block.m(hover, null);
+    				}
+    			} else if (if_block) {
+    				group_outros();
+
+    				transition_out(if_block, 1, 1, () => {
+    					if_block = null;
+    				});
+
+    				check_outros();
     			}
     		},
-    		i: noop,
-    		o: noop,
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(if_block);
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(if_block);
+    			current = false;
+    		},
     		d: function destroy(detaching) {
-    			if (detaching) detach_dev(cardblock);
+    			if (detaching) detach_dev(hover);
+    			if (if_block) if_block.d();
+    			run_all(dispose);
     		}
     	};
 
@@ -26081,12 +26430,23 @@ var app = (function () {
     }
 
     function instance($$self, $$props, $$invalidate) {
+    	let hovering = false;
+
+    	function enter() {
+    		$$invalidate(0, hovering = true);
+    	}
+
+    	function leave() {
+    		$$invalidate(0, hovering = false);
+    	}
+
     	let { card } = $$props;
     	let set;
     	let code;
     	let count;
     	let index;
     	let src;
+    	let src2;
     	let name;
     	let cost;
     	let region;
@@ -26094,13 +26454,18 @@ var app = (function () {
     	beforeUpdate(() => {
     		set = card.set;
     		code = card.code;
-    		$$invalidate(0, count = card.count);
+    		$$invalidate(1, count = card.count);
     		index = cardSets[set].findIndex(obj => obj.cardCode == code);
-    		$$invalidate(1, src = cardSets[set][index].assets[0].fullAbsolutePath);
-    		$$invalidate(1, src = "img/cards/" + code + "-full.png");
-    		$$invalidate(2, name = cardSets[set][index].name);
-    		$$invalidate(3, cost = cardSets[set][index].cost);
-    		$$invalidate(4, region = cardSets[set][index].regionRef);
+
+    		// src = cardSets[set][index].assets[0].fullAbsolutePath;
+    		$$invalidate(2, src = "img/cards/" + code + "-full.png");
+
+    		// src2 = cardSets[set][index].assets[0].gameAbsolutePath;
+    		$$invalidate(3, src2 = "img/cards/" + code + ".png");
+
+    		$$invalidate(4, name = cardSets[set][index].name);
+    		$$invalidate(5, cost = cardSets[set][index].cost);
+    		$$invalidate(6, region = cardSets[set][index].regionRef);
     	});
 
     	const writable_props = ["card"];
@@ -26113,47 +26478,54 @@ var app = (function () {
     	validate_slots("CardBar", $$slots, []);
 
     	$$self.$set = $$props => {
-    		if ("card" in $$props) $$invalidate(5, card = $$props.card);
+    		if ("card" in $$props) $$invalidate(9, card = $$props.card);
     	};
 
     	$$self.$capture_state = () => ({
     		cardSets,
+    		fly,
     		beforeUpdate,
     		afterUpdate,
+    		hovering,
+    		enter,
+    		leave,
     		card,
     		set,
     		code,
     		count,
     		index,
     		src,
+    		src2,
     		name,
     		cost,
     		region
     	});
 
     	$$self.$inject_state = $$props => {
-    		if ("card" in $$props) $$invalidate(5, card = $$props.card);
+    		if ("hovering" in $$props) $$invalidate(0, hovering = $$props.hovering);
+    		if ("card" in $$props) $$invalidate(9, card = $$props.card);
     		if ("set" in $$props) set = $$props.set;
     		if ("code" in $$props) code = $$props.code;
-    		if ("count" in $$props) $$invalidate(0, count = $$props.count);
+    		if ("count" in $$props) $$invalidate(1, count = $$props.count);
     		if ("index" in $$props) index = $$props.index;
-    		if ("src" in $$props) $$invalidate(1, src = $$props.src);
-    		if ("name" in $$props) $$invalidate(2, name = $$props.name);
-    		if ("cost" in $$props) $$invalidate(3, cost = $$props.cost);
-    		if ("region" in $$props) $$invalidate(4, region = $$props.region);
+    		if ("src" in $$props) $$invalidate(2, src = $$props.src);
+    		if ("src2" in $$props) $$invalidate(3, src2 = $$props.src2);
+    		if ("name" in $$props) $$invalidate(4, name = $$props.name);
+    		if ("cost" in $$props) $$invalidate(5, cost = $$props.cost);
+    		if ("region" in $$props) $$invalidate(6, region = $$props.region);
     	};
 
     	if ($$props && "$$inject" in $$props) {
     		$$self.$inject_state($$props.$$inject);
     	}
 
-    	return [count, src, name, cost, region, card];
+    	return [hovering, count, src, src2, name, cost, region, enter, leave, card];
     }
 
     class CardBar extends SvelteComponentDev {
     	constructor(options) {
     		super(options);
-    		init(this, options, instance, create_fragment, safe_not_equal, { card: 5 });
+    		init(this, options, instance, create_fragment, safe_not_equal, { card: 9 });
 
     		dispatch_dev("SvelteRegisterComponent", {
     			component: this,
@@ -26165,7 +26537,7 @@ var app = (function () {
     		const { ctx } = this.$$;
     		const props = options.props || {};
 
-    		if (/*card*/ ctx[5] === undefined && !("card" in props)) {
+    		if (/*card*/ ctx[9] === undefined && !("card" in props)) {
     			console.warn("<CardBar> was created without expected prop 'card'");
     		}
     	}
