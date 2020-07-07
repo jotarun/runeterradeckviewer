@@ -954,8 +954,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ001-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -963,7 +963,7 @@ var app = (function () {
     		attack: 1,
     		cost: 5,
     		health: 5,
-    		description: "召喚此牌時抽1張牌。\r\n若我方已打出至少10張名稱不重複的其他卡牌，則賦予此牌+4|+0。<style=Variable></style>",
+    		description: "召喚此牌時抽1張牌。\r\n若我方已打出至少10張<br>名稱不重複的其他卡牌，<br>則賦予此牌+4|+0。<style=Variable></style>",
     		descriptionRaw: "召喚此牌時抽1張牌。\r\n若我方已打出至少10張名稱不重複的其他卡牌，則賦予此牌+4|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -995,8 +995,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW040.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW040-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW040.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW040-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1036,8 +1036,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR009-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -1077,8 +1077,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ010-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -1117,8 +1117,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX001-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -1126,7 +1126,7 @@ var app = (function () {
     		attack: 5,
     		cost: 8,
     		health: 8,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：抽出1張<link=card.champ1><style=AssociatedCard>斯溫</style></link>。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：對敵方主堡造成1點傷害3次。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：抽出1張<link=card.champ1><style=AssociatedCard>斯溫</style></link>。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：<br>對敵方主堡造成1點傷害3次。",
     		descriptionRaw: "出牌：抽出1張斯溫。\r\n回合開始：對敵方主堡造成1點傷害3次。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -1158,8 +1158,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW057.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW057-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW057.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW057-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1201,8 +1201,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE003-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -1240,8 +1240,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI005-full.png"
     			}
     		],
     		region: "闇影島",
@@ -1285,8 +1285,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW032.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW032-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW032.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW032-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1296,7 +1296,7 @@ var app = (function () {
     		health: 5,
     		description: "召喚此牌時，召喚1個<link=card.summon><style=AssociatedCard>火藥桶</style></link>。",
     		descriptionRaw: "召喚此牌時，召喚1個火藥桶。",
-    		levelupDescription: "我方對敵方主堡造成傷害累計5回合<style=Variable></style>。",
+    		levelupDescription: "我方對敵方主堡<br>造成傷害累計5回合<style=Variable></style>。",
     		levelupDescriptionRaw: "我方對敵方主堡造成傷害累計5回合。",
     		flavorText: "「不要瞪太久，不然會被他發現；不要說他壞話，比爾吉沃特任何風聲都逃不過他的耳朵。他來了，快低下頭，盯著地上。」——恐懼號水手",
     		artistName: "SIXMOREVODKA",
@@ -1326,8 +1326,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW041.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW041-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW041.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW041-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1370,8 +1370,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW032T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW032T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW032T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW032T2-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1379,7 +1379,7 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "對任1目標造成1點傷害。\r\n若擊殺該單位，則另外對敵方主堡造成1點傷害。\r\n將1張<link=card.level1><style=AssociatedCard>剛普朗克</style></link>洗入我方牌組。",
+    		description: "對任1目標造成1點傷害。\r\n若擊殺該單位，<br>則另外對敵方主堡造成1點傷害。\r\n將1張<link=card.level1><style=AssociatedCard>剛普朗克</style></link>洗入我方牌組。",
     		descriptionRaw: "對任1目標造成1點傷害。\r\n若擊殺該單位，則另外對敵方主堡造成1點傷害。\r\n將1張剛普朗克洗入我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -1411,8 +1411,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ006-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -1420,7 +1420,7 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "抽到此牌時，此牌本回合魔耗值-2。\r\n對1個單位造成3點傷害。",
+    		description: "抽到此牌時，<br>此牌本回合魔耗值-2。\r\n對1個單位造成3點傷害。",
     		descriptionRaw: "抽到此牌時，此牌本回合魔耗值-2。\r\n對1個單位造成3點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -1452,8 +1452,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW013.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW013-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW013.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW013-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1495,8 +1495,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI010-full.png"
     			}
     		],
     		region: "闇影島",
@@ -1536,8 +1536,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW034T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW034T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW034T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW034T1-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1579,8 +1579,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW056T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW056T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW056T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW056T1-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1588,7 +1588,7 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>1個生命值低於此牌的敵軍單位。",
+    		description: "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>1個<br>生命值低於此牌的敵軍單位。",
     		descriptionRaw: "泯滅1個生命值低於此牌的敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -1620,8 +1620,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW061.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW061-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW061.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW061-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1629,7 +1629,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "抽到此牌時，此牌本回合魔耗值-1。\r\n賦予1個友軍單位+2|+1。",
+    		description: "抽到此牌時，<br>此牌本回合魔耗值-1。\r\n賦予1個友軍單位+2|+1。",
     		descriptionRaw: "抽到此牌時，此牌本回合魔耗值-1。\r\n賦予1個友軍單位+2|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -1662,8 +1662,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW060.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW060-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW060.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW060-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1671,7 +1671,7 @@ var app = (function () {
     		attack: 1,
     		cost: 1,
     		health: 1,
-    		description: "友軍攻擊時，對敵方主堡造成1點傷害。",
+    		description: "友軍攻擊時，<br>對敵方主堡造成1點傷害。",
     		descriptionRaw: "友軍攻擊時，對敵方主堡造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -1703,8 +1703,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX007T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX007T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX007T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX007T2-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -1712,8 +1712,8 @@ var app = (function () {
     		attack: 4,
     		cost: 5,
     		health: 7,
-    		description: "對敵方主堡造成非戰鬥傷害時，<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>位於後排的<link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。\r\n<link=vocab.Nexus Strike><style=Vocab>打擊主堡</style></link>：對所有敵軍單位及敵方主堡造成3點傷害。",
-    		descriptionRaw: "對敵方主堡造成非戰鬥傷害時，擊暈位於後排的最強敵軍單位。\r\n打擊主堡：對所有敵軍單位及敵方主堡造成3點傷害。",
+    		description: "對敵方主堡造成非戰鬥傷害時，<br><link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>位於後排的<link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。<br><link=vocab.Nexus Strike><style=Vocab>打擊主堡</style></link>：<br>對所有敵軍單位及敵方主堡造成3點傷害。",
+    		descriptionRaw: "對敵方主堡造成非戰鬥傷害時，擊暈位於後排的最強敵軍單位。打擊主堡：對所有敵軍單位及敵方主堡造成3點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「為了打下諾克薩斯的江山，任何犧牲都在所不惜。」 ",
@@ -1746,8 +1746,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW022T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW022T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW022T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW022T3-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1755,8 +1755,8 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "在敵軍單位與敵方主堡中隨機對3個不同目標造成1點傷害。\r\n將1張<link=card.level1><style=AssociatedCard>好運姐</style></link>洗入我方牌組。",
-    		descriptionRaw: "在敵軍單位與敵方主堡中隨機對3個不同目標造成1點傷害。\r\n將1張好運姐洗入我方牌組。",
+    		description: "在敵軍單位與敵方主堡中<br>隨機對3個不同目標造成1點傷害。<br>將1張<link=card.level1><style=AssociatedCard>好運姐</style></link>洗入我方牌組。",
+    		descriptionRaw: "在敵軍單位與敵方主堡中隨機對3個不同目標造成1點傷害。將1張好運姐洗入我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「火力全開！」——好運姐",
@@ -1788,8 +1788,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW011.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW011-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW011.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW011-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1797,7 +1797,7 @@ var app = (function () {
     		attack: 3,
     		cost: 4,
     		health: 3,
-    		description: "召喚此牌時，在手牌生成1張<link=card.create><style=AssociatedCard>警告射擊</style></link>。\r\n<link=vocab.Allegiance><style=Vocab>效忠</style></link>：<link=keyword.Nab><style=Keyword>奪取</style></link>1張牌。",
+    		description: "召喚此牌時，<br>在手牌生成1張<link=card.create><style=AssociatedCard>警告射擊</style></link>。\r\n<link=vocab.Allegiance><style=Vocab>效忠</style></link>：<link=keyword.Nab><style=Keyword>奪取</style></link>1張牌。",
     		descriptionRaw: "召喚此牌時，在手牌生成1張警告射擊。\r\n效忠：奪取1張牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -1824,15 +1824,15 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"02BW022T1",
     			"02BW022T4",
+    			"02BW022T3",
     			"02BW022T2",
-    			"02BW022T3"
+    			"02BW022T1"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW022.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW022-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW022.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW022-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1840,8 +1840,8 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 3,
-    		description: "友軍單位攻擊時，對戰鬥中敵軍單位與敵方主堡造成1點傷害。",
-    		descriptionRaw: "友軍單位攻擊時，對戰鬥中敵軍單位與敵方主堡造成1點傷害。",
+    		description: "友軍單位攻擊時，<br>對所有戰鬥中敵軍單位與<br>敵方主堡造成1點傷害。",
+    		descriptionRaw: "友軍單位攻擊時，對所有戰鬥中敵軍單位與敵方主堡造成1點傷害。",
     		levelupDescription: "此牌在場上時，我方進行4次攻擊<style=Variable></style>。",
     		levelupDescriptionRaw: "此牌在場上時，我方進行4次攻擊。",
     		flavorText: "「你叫我好運姐？在外頭你得稱我一聲『船長』。」",
@@ -1870,8 +1870,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW030T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW030T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW030T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW030T2-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1912,8 +1912,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR004-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -1921,7 +1921,7 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "本回合給予1個敵軍單位<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>與<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
+    		description: "本回合給予1個敵軍單位<br><link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>與<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
     		descriptionRaw: "本回合給予1個敵軍單位凍傷與弱勢。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -1953,8 +1953,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW019.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW019-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW019.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW019-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1996,8 +1996,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW007-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -2036,8 +2036,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ004-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -2077,8 +2077,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW014-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW014-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -2086,8 +2086,8 @@ var app = (function () {
     		attack: 1,
     		cost: 2,
     		health: 2,
-    		description: "召喚此牌時，生成1張魔耗值1、來自我方牌組區域的法術牌。",
-    		descriptionRaw: "召喚此牌時，生成1張魔耗值1、來自我方牌組區域的法術牌。",
+    		description: "召喚此牌時，<br>生成1張魔耗值1點、<br>來自我方牌組區域的法術。",
+    		descriptionRaw: "召喚此牌時，生成1張魔耗值1點、來自我方牌組區域的法術。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "大多數淺水域充滿了豐富的海洋生物，但與蔚藍航道的珊瑚礁比起來，盡皆相形遜色。蔚藍航道直如魔幻的異世界，處處都是驚奇。",
@@ -2118,8 +2118,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX006-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -2127,7 +2127,7 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 5,
-    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：對敵方主堡造成1點傷害。",
+    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：<br>對敵方主堡造成1點傷害。",
     		descriptionRaw: "回合開始：對敵方主堡造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -2157,8 +2157,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE008-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -2198,8 +2198,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO008T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO008T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO008T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO008T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -2241,8 +2241,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW024.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW024-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW024.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW024-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -2250,8 +2250,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "隨機召喚2個魔耗值1的侍從單位。",
-    		descriptionRaw: "隨機召喚2個魔耗值1的侍從單位。",
+    		description: "隨機召喚2個<br>魔耗值1點的侍從單位。",
+    		descriptionRaw: "隨機召喚2個魔耗值1點的侍從單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「哎呀蓋夫，那不是我們在追的傢伙嗎？看來他多了一個同伴。」\n「巴茲，那……那是鯊魚人嗎？」\n「不管怎樣都是一大筆錢啦，對吧。」——想賺錢的賞金獵人巴茲與蓋夫",
@@ -2282,8 +2282,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW062.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW062-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW062.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW062-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -2291,8 +2291,8 @@ var app = (function () {
     		attack: 2,
     		cost: 4,
     		health: 4,
-    		description: "召喚此牌時，隨機召喚1個魔耗值1的侍從單位，並賦予其<link=keyword.Scout><sprite name=Scout><style=Keyword>先遣</style></link>。",
-    		descriptionRaw: "召喚此牌時，隨機召喚1個魔耗值1的侍從單位，並賦予其先遣。",
+    		description: "召喚此牌時，隨機召喚1個<br>魔耗值1點的侍從單位，<br>並賦予其<link=keyword.Scout><sprite name=Scout><style=Keyword>先遣</style></link>。",
+    		descriptionRaw: "召喚此牌時，隨機召喚1個魔耗值1點的侍從單位，並賦予其先遣。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「海蛇之母恩光普照，\n從海底直到雲霄。\n灰色天空凝視地上，\n平靜海面仿佛反射她的目光。\n她輕輕微笑，心靈安詳。\n」——獻給娜葛卡布爾的禱告",
@@ -2323,8 +2323,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW055.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW055-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW055.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW055-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -2332,7 +2332,7 @@ var app = (function () {
     		attack: 4,
     		cost: 3,
     		health: 3,
-    		description: "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：賦予<link=vocab.Everywhere><style=Vocab>各處</style></link>魔耗值1的友軍單位+1|+0。",
+    		description: "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：<br>賦予<link=vocab.Everywhere><style=Vocab>各處</style></link>魔耗值1的友軍單位+1|+0。",
     		descriptionRaw: "洗劫：賦予各處魔耗值1的友軍單位+1|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -2362,8 +2362,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI008T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI008T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI008T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI008T3-full.png"
     			}
     		],
     		region: "闇影島",
@@ -2406,8 +2406,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO005T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO005T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO005T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO005T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -2445,8 +2445,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE004-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -2493,8 +2493,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW030.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW030-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW030.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW030-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -2502,8 +2502,8 @@ var app = (function () {
     		attack: 7,
     		cost: 7,
     		health: 5,
-    		description: "召喚此牌時, <link=vocab.Toss><style=Vocab>亂擲</style></link>2張牌，並把2張寶藏牌洗入我方牌組。\r\n<style=Variable></style>",
-    		descriptionRaw: "召喚此牌時, 亂擲2張牌，並把2張寶藏牌洗入我方牌組。\r\n",
+    		description: "召喚此牌時，<link=vocab.Toss><style=Vocab>亂擲</style></link>2張牌，<br>並把2張寶藏牌洗入我方牌組。\r\n<style=Variable></style>",
+    		descriptionRaw: "召喚此牌時，亂擲2張牌，並把2張寶藏牌洗入我方牌組。\r\n",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「我跟你擔保，這些日子來水面下的寶藏比水面上還來得多。應該可以手到擒來的，但有她在就困難了。」——鋸斧屠夫",
@@ -2538,8 +2538,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE006T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE006T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE006T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE006T3-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -2579,8 +2579,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI007-full.png"
     			}
     		],
     		region: "闇影島",
@@ -2588,7 +2588,7 @@ var app = (function () {
     		attack: 1,
     		cost: 2,
     		health: 4,
-    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<link=vocab.Toss><style=Vocab>亂擲</style></link>2張牌並治癒我方主堡2點生命。",
+    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<br><link=vocab.Toss><style=Vocab>亂擲</style></link>2張牌<br>並治癒我方主堡2點生命。",
     		descriptionRaw: "遺願：亂擲2張牌並治癒我方主堡2點生命。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -2620,8 +2620,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW003-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -2629,7 +2629,7 @@ var app = (function () {
     		attack: 0,
     		cost: 6,
     		health: 0,
-    		description: "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：將場上的1個侍從單位加入我方手牌。",
+    		description: "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：<br>將場上的1個侍從單位<br>加入我方手牌。",
     		descriptionRaw: "洗劫：將場上的1個侍從單位加入我方手牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -2661,8 +2661,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW017.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW017-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW017.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW017-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -2670,7 +2670,7 @@ var app = (function () {
     		attack: 4,
     		cost: 6,
     		health: 5,
-    		description: "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：治癒所有友軍單位及我方主堡3點生命，然後進行<link=vocab.Rally><style=Vocab>備戰</style></link>。\r\n",
+    		description: "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：治癒所有友軍單位及<br>我方主堡3點生命，<br>然後進行<link=vocab.Rally><style=Vocab>備戰</style></link>。\r\n",
     		descriptionRaw: "洗劫：治癒所有友軍單位及我方主堡3點生命，然後進行備戰。\r\n",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -2700,8 +2700,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI003-full.png"
     			}
     		],
     		region: "闇影島",
@@ -2744,8 +2744,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX007T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX007T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX007T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX007T1-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -2753,7 +2753,7 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "若該單位已負傷或遭到<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>，則對其造成4點傷害。\r\n將1張<link=card.level1><style=AssociatedCard>斯溫</style></link>洗入牌組。",
+    		description: "若該單位已負傷或遭到<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>，<br>則對其造成4點傷害。\r\n將1張<link=card.level1><style=AssociatedCard>斯溫</style></link>洗入牌組。",
     		descriptionRaw: "若該單位已負傷或遭到擊暈，則對其造成4點傷害。\r\n將1張斯溫洗入牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -2788,8 +2788,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW022T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW022T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW022T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW022T2-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -2797,8 +2797,8 @@ var app = (function () {
     		attack: 4,
     		cost: 3,
     		health: 4,
-    		description: "友軍單位攻擊時，對戰鬥中敵軍單位與敵方主堡造成1點傷害3次。",
-    		descriptionRaw: "友軍單位攻擊時，對戰鬥中敵軍單位與敵方主堡造成1點傷害3次。",
+    		description: "友軍單位攻擊時，<br>對所有戰鬥中敵軍單位與<br>敵方主堡造成1點傷害3次。",
+    		descriptionRaw: "友軍單位攻擊時，對所有戰鬥中敵軍單位與敵方主堡造成1點傷害3次。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「普通人很難近距離欣賞這些槍砲上的絕頂工藝，你算幸運的了。」",
@@ -2830,8 +2830,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO002T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO002T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO002T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO002T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -2871,8 +2871,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ007-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -2880,8 +2880,8 @@ var app = (function () {
     		attack: 3,
     		cost: 4,
     		health: 3,
-    		description: "每當我方打出1張魔耗值2的卡牌，抽1張牌，並給予其<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>。",
-    		descriptionRaw: "每當我方打出1張魔耗值2的卡牌，抽1張牌，並給予其飛逝。",
+    		description: "當我方打出1張魔耗值2點的卡牌，<br>抽1張牌，並給予其<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>。",
+    		descriptionRaw: "當我方打出1張魔耗值2點的卡牌，抽1張牌，並給予其飛逝。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「三流的偵探不知不覺，二流的偵探後知後覺，一流的偵探先知先覺。」——警備隊手冊",
@@ -2911,8 +2911,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW056.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW056-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW056.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW056-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -2920,7 +2920,7 @@ var app = (function () {
     		attack: 4,
     		cost: 6,
     		health: 4,
-    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：<link=keyword.Obliterate><style=Keyword>泯滅</style></link>1個生命值低於此牌的敵軍單位。\r\n<style=Variable></style>",
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：<link=keyword.Obliterate><style=Keyword>泯滅</style></link>1個<br>生命值低於此牌的敵軍單位。\r\n<style=Variable></style>",
     		descriptionRaw: "出牌：泯滅1個生命值低於此牌的敵軍單位。\r\n",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -2957,8 +2957,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW046T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW046T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW046T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW046T3-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -2966,8 +2966,8 @@ var app = (function () {
     		attack: 3,
     		cost: 1,
     		health: 2,
-    		description: "施放法術時，給予此牌<link=keyword.Elusive><sprite name=Elusive><style=Keyword>隱密</style></link>，並使以此牌為目標的所有法術和技能無效化。\r\n<link=vocab.Nexus Strike><style=Vocab>打擊主堡</style></link>：在手牌生成1張<link=card.create><style=AssociatedCard>海之霸主</style></link>。",
-    		descriptionRaw: "施放法術時，給予此牌隱密，並使以此牌為目標的所有法術和技能無效化。\r\n打擊主堡：在手牌生成1張海之霸主。",
+    		description: "施放法術時，給予此牌<link=keyword.Elusive><sprite name=Elusive><style=Keyword>隱密</style></link>，<br>並使以此牌為目標的<br>所有法術/技能無效化。\r\n<link=vocab.Nexus Strike><style=Vocab>打擊主堡</style></link>：在手牌生成1張<link=card.create><style=AssociatedCard>海之霸主</style></link>。",
+    		descriptionRaw: "施放法術時，給予此牌隱密，並使以此牌為目標的所有法術/技能無效化。\r\n打擊主堡：在手牌生成1張海之霸主。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "……其他人卻篤定地說這孩子只不過是貪玩，實際上常常護送人們安全回家。",
@@ -2996,8 +2996,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE006T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE006T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE006T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE006T2-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -3040,8 +3040,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW025.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW025-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW025.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW025-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -3049,7 +3049,7 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "賦予1個敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>，然後召喚<link=card.summon><style=AssociatedCard>長牙獸</style></link>。",
+    		description: "賦予1個敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>，<br>然後召喚<link=card.summon><style=AssociatedCard>長牙獸</style></link>。",
     		descriptionRaw: "賦予1個敵軍單位弱勢，然後召喚長牙獸。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -3081,8 +3081,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW022T4.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW022T4-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW022T4.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW022T4-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -3090,8 +3090,8 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "對戰鬥中敵軍單位與敵方主堡連續造成3次1點傷害。",
-    		descriptionRaw: "對戰鬥中敵軍單位與敵方主堡連續造成3次1點傷害。",
+    		description: "對所有戰鬥中敵軍單位與<br>敵方主堡造成1點傷害3次。",
+    		descriptionRaw: "對所有戰鬥中敵軍單位與敵方主堡造成1點傷害3次。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "就算你聽不到她手下船員大聲嚷嚷的汙言穢語，但她的狂笑一定會傳進你的耳朵裡……",
@@ -3123,8 +3123,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE009-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -3169,8 +3169,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO006-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -3178,7 +3178,7 @@ var app = (function () {
     		attack: 3,
     		cost: 6,
     		health: 6,
-    		description: "我方施放法術時，本回合給予此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>；\r\n再次施放法術時，則額外於本回合給予其<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
+    		description: "我方施放法術時，<br>本回合給予此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>；\r\n再次施放法術時，<br>則額外於本回合給予其<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
     		descriptionRaw: "我方施放法術時，本回合給予此牌挑戰者；\r\n再次施放法術時，則額外於本回合給予其光盾。",
     		levelupDescription: "我方施放7次法術<style=Variable></style>。",
     		levelupDescriptionRaw: "我方施放7次法術。",
@@ -3210,8 +3210,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW038.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW038-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW038.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW038-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -3219,7 +3219,7 @@ var app = (function () {
     		attack: 2,
     		cost: 4,
     		health: 2,
-    		description: "召喚此牌時，從我方牌組抽出1張魔耗值3點或以下的法術牌。",
+    		description: "召喚此牌時，從我方牌組抽出1張<br>魔耗值3點或以下的法術牌。",
     		descriptionRaw: "召喚此牌時，從我方牌組抽出1張魔耗值3點或以下的法術牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -3253,8 +3253,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW021.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW021-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW021.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW021-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -3294,8 +3294,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW022T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW022T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW022T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW022T1-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -3303,8 +3303,8 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "對戰鬥中敵軍單位與敵方主堡造成1點傷害。",
-    		descriptionRaw: "對戰鬥中敵軍單位與敵方主堡造成1點傷害。",
+    		description: "對所有戰鬥中敵軍單位與<br>敵方主堡造成1點傷害。",
+    		descriptionRaw: "對所有戰鬥中敵軍單位與敵方主堡造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「當作給你們的紀念吧。」——好運姐",
@@ -3335,8 +3335,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI001-full.png"
     			}
     		],
     		region: "闇影島",
@@ -3344,7 +3344,7 @@ var app = (function () {
     		attack: 2,
     		cost: 5,
     		health: 4,
-    		description: "另1個友軍單位陣亡時，從敵方主堡<link=keyword.Drain><style=Keyword>汲取</style></link>1點生命值。",
+    		description: "另1個友軍單位陣亡時，<br>從敵方主堡<link=keyword.Drain><style=Keyword>汲取</style></link>1點生命值。",
     		descriptionRaw: "另1個友軍單位陣亡時，從敵方主堡汲取1點生命值。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -3374,8 +3374,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW026T5.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW026T5-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW026T5.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW026T5-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -3383,7 +3383,7 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位，並對其造成2點傷害。",
+    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位，<br>並對其造成2點傷害。",
     		descriptionRaw: "擊暈最強敵軍單位，並對其造成2點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -3415,8 +3415,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW030T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW030T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW030T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW030T1-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -3424,8 +3424,8 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "隨機在手牌生成5張魔耗值0的<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>卡牌。\r\n此牌遭到<link=vocab.Toss><style=Vocab>亂擲</style></link>時，反而會被抽出。",
-    		descriptionRaw: "隨機在手牌生成5張魔耗值0的飛逝卡牌。\r\n此牌遭到亂擲時，反而會被抽出。",
+    		description: "隨機在手牌生成5張<br>魔耗值0點的<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>卡牌。\r\n此牌遭到<link=vocab.Toss><style=Vocab>亂擲</style></link>時，反而會被抽出。",
+    		descriptionRaw: "隨機在手牌生成5張魔耗值0點的飛逝卡牌。\r\n此牌遭到亂擲時，反而會被抽出。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "芬恩船長大吼道：「這是你們應得的，兄弟們！就說比爾吉沃特稅只是膽小鬼的玩意！」有人隨聲歡呼，但並非全員。海面似乎靜止了，在蘭科號船身周圍冒出的泡泡越來越明顯。",
@@ -3457,8 +3457,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ002-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -3466,7 +3466,7 @@ var app = (function () {
     		attack: 5,
     		cost: 6,
     		health: 6,
-    		description: "我方抽牌時，給予其<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>，並於手牌生成1張該牌的複製牌。",
+    		description: "我方抽牌時，給予其<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>，<br>並於手牌生成1張該牌的複製牌。",
     		descriptionRaw: "我方抽牌時，給予其飛逝，並於手牌生成1張該牌的複製牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -3497,8 +3497,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW012.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW012-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW012.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW012-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -3535,14 +3535,14 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"02SI008",
+    			"02SI008T3",
     			"02SI008T2",
-    			"02SI008T3"
+    			"02SI008"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI008T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI008T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI008T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI008T1-full.png"
     			}
     		],
     		region: "闇影島",
@@ -3582,8 +3582,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX002-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -3591,7 +3591,7 @@ var app = (function () {
     		attack: 6,
     		cost: 6,
     		health: 6,
-    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>所有負傷敵軍單位。",
+    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：<br><link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>所有負傷敵軍單位。",
     		descriptionRaw: "攻擊：擊暈所有負傷敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -3621,8 +3621,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE005-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -3630,7 +3630,7 @@ var app = (function () {
     		attack: 0,
     		cost: 8,
     		health: 0,
-    		description: "賦予1個友軍單位「傷害及死亡免疫」。",
+    		description: "賦予1個友軍單位<br>「傷害及死亡免疫」。",
     		descriptionRaw: "賦予1個友軍單位「傷害及死亡免疫」。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -3662,8 +3662,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW035.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW035-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW035.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW035-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -3671,7 +3671,7 @@ var app = (function () {
     		attack: 6,
     		cost: 6,
     		health: 5,
-    		description: "召喚此牌時，賦予所有敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
+    		description: "召喚此牌時，<br>賦予所有敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
     		descriptionRaw: "召喚此牌時，賦予所有敵軍單位弱勢。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -3710,8 +3710,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI002-full.png"
     			}
     		],
     		region: "闇影島",
@@ -3719,7 +3719,7 @@ var app = (function () {
     		attack: 4,
     		cost: 7,
     		health: 3,
-    		description: "召喚1個侍從單位時，擊殺它來召喚1個<link=card.summon><style=AssociatedCard>巨型食人蔓藤</style></link>。",
+    		description: "召喚1個侍從單位時，<br>擊殺它來召喚1個<br><link=card.summon><style=AssociatedCard>巨型食人蔓藤</style></link>。",
     		descriptionRaw: "召喚1個侍從單位時，擊殺它來召喚1個巨型食人蔓藤。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -3749,8 +3749,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO004-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -3790,8 +3790,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW058.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW058-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW058.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW058-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -3834,8 +3834,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW026T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW026T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW026T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW026T3-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -3843,7 +3843,7 @@ var app = (function () {
     		attack: 3,
     		cost: 4,
     		health: 3,
-    		description: "我方每打出1張牌，則此牌打出1張「命運」，每回合上限3次。",
+    		description: "我方每打出1張牌，<br>則此牌打出1張「命運」，<br>每回合上限3次。",
     		descriptionRaw: "我方每打出1張牌，則此牌打出1張「命運」，每回合上限3次。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -3875,8 +3875,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW028T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW028T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW028T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW028T1-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -3884,7 +3884,7 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "對1個單位造成2點傷害。\r\n若該單位陣亡或離開場上，則改為對敵方主堡造成1點傷害。",
+    		description: "對1個單位造成2點傷害。\r\n若該單位陣亡或離開場上，<br>則改為對敵方主堡造成1點傷害。",
     		descriptionRaw: "對1個單位造成2點傷害。\r\n若該單位陣亡或離開場上，則改為對敵方主堡造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -3916,8 +3916,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW018.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW018-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW018.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW018-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -3957,8 +3957,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW037.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW037-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW037.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW037-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -4002,8 +4002,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO003T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO003T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO003T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO003T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -4047,8 +4047,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR002-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -4056,9 +4056,9 @@ var app = (function () {
     		attack: 5,
     		cost: 6,
     		health: 6,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：本回合給予1個敵軍單位<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>與<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。 ",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：本回合給予1個敵軍單位<br><link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>與<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。 ",
     		descriptionRaw: "出牌：本回合給予1個敵軍單位凍傷與弱勢。 ",
-    		levelupDescription: "我方對敵方主堡造成傷害累計5回合<style=Variable></style>。",
+    		levelupDescription: "我方對敵方主堡<br>造成傷害累計5回合<style=Variable></style>。",
     		levelupDescriptionRaw: "我方對敵方主堡造成傷害累計5回合。",
     		flavorText: "史瓦妮的冰星錘的確強大，不過她自己才是真正的武器：一把經歷過弗雷爾卓德艱苦寒冷磨練和試煉的武器。",
     		artistName: "SIXMOREVODKA",
@@ -4088,8 +4088,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW048.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW048-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW048.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW048-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -4097,8 +4097,8 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "隨機召喚1個魔耗值1的侍從單位。",
-    		descriptionRaw: "隨機召喚1個魔耗值1的侍從單位。",
+    		description: "隨機召喚1個<br>魔耗值1點的侍從單位。",
+    		descriptionRaw: "隨機召喚1個魔耗值1點的侍從單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「巴茲，你怎麼看？這傢伙看起來不是很強。」\n「你確定嗎，蓋夫？他可是從監牢裡逃出來的耶……」\n「這只能說明他夠狡猾，而不是夠強。我們上吧！」——未成氣候的賞金獵人巴茲和蓋夫",
@@ -4129,8 +4129,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW043.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW043-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW043.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW043-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -4138,7 +4138,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "將1張手牌洗入我方牌組，於下次<link=vocab.RoundStart><style=Vocab>回合開始</style></link>抽3張牌，並給予其<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>。",
+    		description: "將1張手牌洗入我方牌組，<br>於下次<link=vocab.RoundStart><style=Vocab>回合開始</style></link>抽3張牌，<br>並給予其<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>。",
     		descriptionRaw: "將1張手牌洗入我方牌組，於下次回合開始抽3張牌，並給予其飛逝。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -4170,8 +4170,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR001-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -4179,7 +4179,7 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 2,
-    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：對所有目標造成1點傷害。",
+    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：<br>對所有目標造成1點傷害。",
     		descriptionRaw: "回合開始：對所有目標造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -4210,8 +4210,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW008T02.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW008T02-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW008T02.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW008T02-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -4219,8 +4219,8 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 2,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：隨機召喚1個魔耗值1的侍從單位。",
-    		descriptionRaw: "出牌：隨機召喚1個魔耗值1的侍從單位。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<br>隨機召喚1個魔耗值1點的侍從單位。",
+    		descriptionRaw: "出牌：隨機召喚1個魔耗值1點的侍從單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "他後來總算懂了，除了點燃的引線外，很少有東西能逼得打混水手認真幹活。",
@@ -4250,8 +4250,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW008T01.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW008T01-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW008T01.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW008T01-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -4289,8 +4289,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW051.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW051-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW051.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW051-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -4298,7 +4298,7 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "從戰鬥中移除1個攻擊中的友軍單位，然後進行<link=vocab.Rally><style=Vocab>備戰</style></link>。",
+    		description: "從戰鬥中移除1個<br>攻擊中的友軍單位，<br>然後進行<link=vocab.Rally><style=Vocab>備戰</style></link>。",
     		descriptionRaw: "從戰鬥中移除1個攻擊中的友軍單位，然後進行備戰。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -4331,8 +4331,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW054.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW054-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW054.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW054-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -4340,7 +4340,7 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>1個敵軍單位。\r\n若我方場上有<link=card.champCheck><style=AssociatedCard>納帝魯斯</style></link>，則將該單位洗入敵方牌組。",
+    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>1個敵軍單位。\r\n若我方場上有<link=card.champCheck><style=AssociatedCard>納帝魯斯</style></link>，<br>則將該單位洗入敵方牌組。",
     		descriptionRaw: "擊暈1個敵軍單位。\r\n若我方場上有納帝魯斯，則將該單位洗入敵方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -4373,8 +4373,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI004-full.png"
     			}
     		],
     		region: "闇影島",
@@ -4382,7 +4382,7 @@ var app = (function () {
     		attack: 2,
     		cost: 3,
     		health: 1,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：擊殺1個友軍單位來召喚2個<link=card.create><style=AssociatedCard>小樹精</style></link>。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<br>擊殺1個友軍單位<br>來召喚2個<link=card.create><style=AssociatedCard>小樹精</style></link>。",
     		descriptionRaw: "出牌：擊殺1個友軍單位來召喚2個小樹精。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -4415,8 +4415,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO006T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO006T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO006T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO006T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -4424,8 +4424,8 @@ var app = (function () {
     		attack: 4,
     		cost: 6,
     		health: 7,
-    		description: "我方施放法術時，本回合給予此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>；\r\n再次施放法術時，則額外於本回合給予其<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。\r\n此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>敵軍單位時，對其施放<link=card.attackSpell><style=AssociatedCard>神龍擺尾</style></link>。",
-    		descriptionRaw: "我方施放法術時，本回合給予此牌挑戰者；\r\n再次施放法術時，則額外於本回合給予其光盾。\r\n此牌挑戰敵軍單位時，對其施放神龍擺尾。",
+    		description: "我方施放法術時，<br>本回合給予此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>；\r\n再次施放法術時，<br>則額外於本回合給予其<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。<br>此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>敵軍單位時，<br>對其施放<link=card.attackSpell><style=AssociatedCard>神龍擺尾</style></link>。",
+    		descriptionRaw: "我方施放法術時，本回合給予此牌挑戰者；\r\n再次施放法術時，則額外於本回合給予其光盾。此牌挑戰敵軍單位時，對其施放神龍擺尾。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「……對於霸道的人，巨龍則使其烈火焚身。」",
@@ -4458,8 +4458,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW026T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW026T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW026T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW026T1-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -4467,8 +4467,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "將1張手牌洗入我方牌組，於下次<link=vocab.RoundStart><style=Vocab>回合開始</style></link>抽3張牌，並給予其<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>。將1張<link=card.level1><style=AssociatedCard>逆命</style></link>洗入我方牌組。",
-    		descriptionRaw: "將1張手牌洗入我方牌組，於下次回合開始抽3張牌，並給予其飛逝。將1張逆命洗入我方牌組。",
+    		description: "將1張手牌洗入我方牌組，<br>於下次<link=vocab.RoundStart><style=Vocab>回合開始</style></link>抽3張牌，<br>並給予其<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>。\r\n將1張<link=card.level1><style=AssociatedCard>逆命</style></link>洗入我方牌組。",
+    		descriptionRaw: "將1張手牌洗入我方牌組，於下次回合開始抽3張牌，並給予其飛逝。\r\n將1張逆命洗入我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「運氣是自己創造出來的。」——逆命",
@@ -4500,8 +4500,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO003-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -4509,8 +4509,8 @@ var app = (function () {
     		attack: 1,
     		cost: 2,
     		health: 3,
-    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：若上一回合施放2次或以上法術，則召喚1個<link=card.summon><style=AssociatedCard>幼龍</style></link><style=Variable></style>。",
-    		descriptionRaw: "回合開始：若上一回合施放2次或以上法術，則召喚1個幼龍。",
+    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：<br>若上回合施放2次或以上法術，<br>則召喚1個<link=card.summon><style=AssociatedCard>幼龍</style></link><style=Variable></style>。",
+    		descriptionRaw: "回合開始：若上回合施放2次或以上法術，則召喚1個幼龍。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「學徒必須思想清晰，因為巨龍的牽引讓太陽劃過天際，照亮我們的世界。」——龍道所傳教義",
@@ -4539,13 +4539,12 @@ var app = (function () {
     		],
     		associatedCardRefs: [
     			"02BW053",
-    			"02BW053",
     			"02BW053T1"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW053T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW053T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW053T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW053T2-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -4553,8 +4552,8 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>1個敵軍單位。\r\n若我方場上有<link=card.champCheck><style=AssociatedCard>納帝魯斯</style></link>，則可將該單位洗入敵方牌組，\r\n將1張<link=card.level1><style=AssociatedCard>納帝魯斯</style></link>洗入我方牌組。",
-    		descriptionRaw: "擊暈1個敵軍單位。\r\n若我方場上有納帝魯斯，則可將該單位洗入敵方牌組，\r\n將1張納帝魯斯洗入我方牌組。",
+    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>1個敵軍單位。\r\n若我方場上有<link=card.champCheck><style=AssociatedCard>納帝魯斯</style></link>，<br>則將該單位洗入敵方牌組。\r\n將1張<link=card.level1><style=AssociatedCard>納帝魯斯</style></link>洗入我方牌組。",
+    		descriptionRaw: "擊暈1個敵軍單位。\r\n若我方場上有納帝魯斯，則將該單位洗入敵方牌組。\r\n將1張納帝魯斯洗入我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「把他們拖入深淵……」——納帝魯斯",
@@ -4585,8 +4584,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO001-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -4594,7 +4593,7 @@ var app = (function () {
     		attack: 3,
     		cost: 2,
     		health: 2,
-    		description: "本回合打出2次法術牌就能從手牌中召喚此牌。",
+    		description: "本回合打出2次法術牌<br>就能從手牌中召喚此牌。",
     		descriptionRaw: "本回合打出2次法術牌就能從手牌中召喚此牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -4621,14 +4620,14 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"02SI008T2",
     			"02SI008T1",
+    			"02SI008T2",
     			"02SI008T3"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI008-full.png"
     			}
     		],
     		region: "闇影島",
@@ -4636,9 +4635,9 @@ var app = (function () {
     		attack: 1,
     		cost: 4,
     		health: 4,
-    		description: "我方每回合首次打出另1個友軍單位時，<link=vocab.Toss><style=Vocab>亂擲</style></link>2張牌並召喚1個<link=card.summon><style=AssociatedCard>小樹精</style></link>。",
-    		descriptionRaw: "我方每回合首次打出另1個友軍單位時，亂擲2張牌並召喚1個小樹精。",
-    		levelupDescription: "我方單位陣亡或卡牌遭<link=vocab.Toss><style=Vocab>亂擲</style></link>共計25次。<style=Variable></style>",
+    		description: "我方每回合首次打出友軍單位時，<br><link=vocab.Toss><style=Vocab>亂擲</style></link>2張牌並召喚1個<link=card.summon><style=AssociatedCard>小樹精</style></link>。",
+    		descriptionRaw: "我方每回合首次打出友軍單位時，亂擲2張牌並召喚1個小樹精。",
+    		levelupDescription: "我方單位陣亡<br>或卡牌遭<link=vocab.Toss><style=Vocab>亂擲</style></link>共計25次。<style=Variable></style>",
     		levelupDescriptionRaw: "我方單位陣亡或卡牌遭亂擲共計25次。",
     		flavorText: "這片詛咒大地也拿茂凱沒轍，這名樹人的意志太過堅定、憤怒太過熾熱，無人能敵、無物能擋。",
     		artistName: "SIXMOREVODKA",
@@ -4669,8 +4668,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ008-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -4678,9 +4677,9 @@ var app = (function () {
     		attack: 2,
     		cost: 5,
     		health: 4,
-    		description: "無論此牌在場上或在手牌中，我方每打出其他牌，即賦予此牌+1|+0（最多+8|+0）。<style=Variable></style>",
+    		description: "無論此牌在場上或在手牌中，<br>我方每打出其他牌，<br>即賦予此牌+1|+0（最多+8|+0）。<style=Variable></style>",
     		descriptionRaw: "無論此牌在場上或在手牌中，我方每打出其他牌，即賦予此牌+1|+0（最多+8|+0）。",
-    		levelupDescription: "此牌單次<link=vocab.Strike><style=Vocab>打擊</style></link>造成10點或以上傷害。",
+    		levelupDescription: "此牌單次<link=vocab.Strike><style=Vocab>打擊</style></link><br>造成10點或以上傷害。",
     		levelupDescriptionRaw: "此牌單次打擊造成10點或以上傷害。",
     		flavorText: "「菲艾特警，拜託妳稍微為他人著想一下可以嗎？出任務造成那麼多破壞，你知道有多少毀損申報單要填嗎！？」——新銳調查組員",
     		artistName: "SIXMOREVODKA",
@@ -4712,8 +4711,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI006-full.png"
     			}
     		],
     		region: "闇影島",
@@ -4721,7 +4720,7 @@ var app = (function () {
     		attack: 1,
     		cost: 1,
     		health: 1,
-    		description: "友軍單位首次陣亡時，賦予此牌+2|+2。",
+    		description: "友軍單位首次陣亡時，<br>賦予此牌+2|+2。",
     		descriptionRaw: "友軍單位首次陣亡時，賦予此牌+2|+2。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -4751,8 +4750,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW047.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW047-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW047.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW047-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -4790,8 +4789,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX009-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -4799,7 +4798,7 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "若該單位已負傷或遭到<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>，則對其造成4點傷害。",
+    		description: "若該單位已負傷或遭到<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>，<br>則對其造成4點傷害。",
     		descriptionRaw: "若該單位已負傷或遭到擊暈，則對其造成4點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -4832,8 +4831,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW008-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -4841,8 +4840,8 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 2,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：召喚1個<link=card.summon><style=AssociatedCard>火藥桶</style></link>，或隨機召喚1個魔耗值1的侍從單位。",
-    		descriptionRaw: "出牌：召喚1個火藥桶，或隨機召喚1個魔耗值1的侍從單位。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：召喚1個<link=card.summon><style=AssociatedCard>火藥桶</style></link>，<br>或隨機召喚1個<br>魔耗值1點的侍從單位。",
+    		descriptionRaw: "出牌：召喚1個火藥桶，或隨機召喚1個魔耗值1點的侍從單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "他後來總算懂了，除了點燃的引線外，很少有東西能逼得打混水手認真幹活。",
@@ -4873,8 +4872,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX007-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -4882,7 +4881,7 @@ var app = (function () {
     		attack: 3,
     		cost: 5,
     		health: 6,
-    		description: "<link=vocab.Nexus Strike><style=Vocab>打擊主堡</style></link>：對敵方主堡造成<style=Variable>3</style>點傷害。",
+    		description: "<link=vocab.Nexus Strike><style=Vocab>打擊主堡</style></link>：<br>對敵方主堡造成<style=Variable>3</style>點傷害。",
     		descriptionRaw: "打擊主堡：對敵方主堡造成3點傷害。",
     		levelupDescription: "我方造成12點非戰鬥傷害<style=Variable></style>。",
     		levelupDescriptionRaw: "我方造成12點非戰鬥傷害。",
@@ -4916,8 +4915,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW053.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW053-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW053.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW053-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -4925,7 +4924,7 @@ var app = (function () {
     		attack: 0,
     		cost: 7,
     		health: 12,
-    		description: "此牌升級時，複製被<link=vocab.Toss><style=Vocab>亂擲</style></link>且魔耗值4點或以上的友軍單位至我方牌組。",
+    		description: "此牌升級時，<br>複製被<link=vocab.Toss><style=Vocab>亂擲</style></link>且魔耗值4點或以上的<br>友軍單位至我方牌組。",
     		descriptionRaw: "此牌升級時，複製被亂擲且魔耗值4點或以上的友軍單位至我方牌組。",
     		levelupDescription: "我方進入<link=keyword.Deep><sprite name=Deep><style=Keyword>探底</style></link>狀態。<style=Variable></style>",
     		levelupDescriptionRaw: "我方進入探底狀態。",
@@ -4960,8 +4959,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR005T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR005T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR005T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR005T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -4969,7 +4968,7 @@ var app = (function () {
     		attack: 6,
     		cost: 5,
     		health: 6,
-    		description: "使其他力量值5點或以上的友軍單位擁有<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。",
+    		description: "使其他力量值5點或以上的友軍單位<br>擁有<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。",
     		descriptionRaw: "使其他力量值5點或以上的友軍單位擁有勢不可擋。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -4998,15 +4997,15 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"02BW032",
-    			"02BW032T2",
     			"02BW032T1",
-    			"02BW032T4"
+    			"02BW032T4",
+    			"02BW032",
+    			"02BW032T2"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW032T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW032T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW032T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW032T3-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -5014,7 +5013,7 @@ var app = (function () {
     		attack: 6,
     		cost: 5,
     		health: 6,
-    		description: "召喚此牌時及<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：召喚1個<link=card.summon><style=AssociatedCard>火藥桶</style></link>。\r\n<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>攻擊</style></link>：對所有敵軍單位及敵方主堡造成1點傷害。",
+    		description: "召喚此牌時及<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：<br>召喚1個<link=card.summon><style=AssociatedCard>火藥桶</style></link>。\r\n<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>攻擊</style></link>：對所有敵軍單位及敵方主堡<br>造成1點傷害。",
     		descriptionRaw: "召喚此牌時及回合開始：召喚1個火藥桶。\r\n攻擊：對所有敵軍單位及敵方主堡造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -5046,8 +5045,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR010-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -5055,7 +5054,7 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "賦予我方牌組最上方3個單位+1|+1。\r\n<link=vocab.Plunder><style=Vocab>洗劫</style></link>：隨後抽出其中1張。",
+    		description: "賦予我方牌組<br>最上方3個單位+1|+1。\r\n<link=vocab.Plunder><style=Vocab>洗劫</style></link>：隨後抽出其中1張。",
     		descriptionRaw: "賦予我方牌組最上方3個單位+1|+1。\r\n洗劫：隨後抽出其中1張。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -5088,8 +5087,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW004-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -5128,8 +5127,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW002-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -5169,8 +5168,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW032T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW032T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW032T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW032T1-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -5178,8 +5177,8 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 1,
-    		description: "火藥桶疊層。\r\n使我方所有法術與技能額外造成<style=Variable>1</style>點傷害。\r\n一旦使用法術或技能對敵軍單位或敵方主堡造成傷害後，此牌便會遭到銷毀。",
-    		descriptionRaw: "火藥桶疊層。\r\n使我方所有法術與技能額外造成1點傷害。\r\n一旦使用法術或技能對敵軍單位或敵方主堡造成傷害後，此牌便會遭到銷毀。",
+    		description: "火藥桶可疊加。\r\n使我方所有法術/技能傷害增加<style=Variable>1</style>點。\r\n一旦使用法術/技能對敵軍單位<br>或敵方主堡造成傷害後，<br>此牌便會遭到銷毀。",
+    		descriptionRaw: "火藥桶可疊加。\r\n使我方所有法術/技能傷害增加1點。\r\n一旦使用法術/技能對敵軍單位或敵方主堡造成傷害後，此牌便會遭到銷毀。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「有火藥者事竟成。」——比爾吉沃特俗諺",
@@ -5213,8 +5212,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO005-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -5222,7 +5221,7 @@ var app = (function () {
     		attack: 3,
     		cost: 4,
     		health: 2,
-    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>1個敵軍單位來召喚1個<link=card.cardRef><style=AssociatedCard>龍尾武術家</style></link>。",
+    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>1個敵軍單位<br>來召喚1個<link=card.cardRef><style=AssociatedCard>龍尾武術家</style></link>。",
     		descriptionRaw: "擊暈1個敵軍單位來召喚1個龍尾武術家。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -5255,8 +5254,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX004-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -5264,7 +5263,7 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 3,
-    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：對1個友軍單位造成1點傷害，然後對敵方主堡造成2點傷害。",
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：<br>對1個友軍單位造成1點傷害，<br>然後對敵方主堡造成2點傷害。",
     		descriptionRaw: "出牌：對1個友軍單位造成1點傷害，然後對敵方主堡造成2點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -5294,8 +5293,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW016.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW016-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW016-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -5303,7 +5302,7 @@ var app = (function () {
     		attack: 1,
     		cost: 3,
     		health: 4,
-    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：上回合我方每抽1張牌，則賦予此牌+0|+1，然後隨機分配其能力值。\r\n<style=Variable></style>",
+    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：上回合我方每抽1張牌，<br>則賦予此牌+0|+1，<br>然後隨機分配其能力值。\r\n<style=Variable></style>",
     		descriptionRaw: "回合開始：上回合我方每抽1張牌，則賦予此牌+0|+1，然後隨機分配其能力值。\r\n",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -5333,8 +5332,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW030T4.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW030T4-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW030T4.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW030T4-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -5378,8 +5377,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE002-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -5419,8 +5418,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX003-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -5428,7 +5427,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "對1個友軍單位造成3點傷害，然後可對任1目標造成3點傷害。",
+    		description: "對1個友軍單位造成3點傷害，<br>然後可對任1目標造成3點傷害。",
     		descriptionRaw: "對1個友軍單位造成3點傷害，然後可對任1目標造成3點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -5462,8 +5461,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR008-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -5471,7 +5470,7 @@ var app = (function () {
     		attack: 7,
     		cost: 8,
     		health: 7,
-    		description: "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：使我方牌組中單位的力量值和生命值加倍。\r\n<link=vocab.Play><style=Vocab>出牌</style></link>：抽出1張<link=card.champ1><style=AssociatedCard>史瓦妮</style></link>。\r\n",
+    		description: "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：使我方牌組中單位的<br>力量值和生命值加倍。\r\n<link=vocab.Play><style=Vocab>出牌</style></link>：抽出1張<link=card.champ1><style=AssociatedCard>史瓦妮</style></link>。\r\n",
     		descriptionRaw: "洗劫：使我方牌組中單位的力量值和生命值加倍。\r\n出牌：抽出1張史瓦妮。\r\n",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -5503,8 +5502,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR002T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR002T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR002T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR002T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -5544,8 +5543,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO006T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO006T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO006T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO006T3-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -5553,8 +5552,8 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "使1個友軍單位將1個敵軍單位踢向敵方主堡，視為對兩者進行<link=vocab.Strike><style=Vocab>打擊</style></link>。\r\n若敵軍單位存活，則將其<link=keyword.Recall><style=Keyword>召回</style></link>。",
-    		descriptionRaw: "使1個友軍單位將1個敵軍單位踢向敵方主堡，視為對兩者進行打擊。\r\n若敵軍單位存活，則將其召回。",
+    		description: "使1個友軍單位將1個敵軍單位<br>踢向敵方主堡，視為對兩者進行<link=vocab.Strike><style=Vocab>打擊</style></link>。<br>若敵軍單位存活，則將其<link=keyword.Recall><style=Keyword>召回</style></link>。",
+    		descriptionRaw: "使1個友軍單位將1個敵軍單位踢向敵方主堡，視為對兩者進行打擊。若敵軍單位存活，則將其召回。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「必須釋放巨龍，不然牠會從內心吞噬我。」——李星",
@@ -5585,8 +5584,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ009-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -5594,7 +5593,7 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "在手牌生成1張魔耗值2、來自我方牌組區域的卡牌，本回合其魔耗值降為0。",
+    		description: "在手牌生成1張魔耗值2、<br>來自我方牌組區域的卡牌，<br>本回合其魔耗值降為0。",
     		descriptionRaw: "在手牌生成1張魔耗值2、來自我方牌組區域的卡牌，本回合其魔耗值降為0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -5626,8 +5625,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE010-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -5635,7 +5634,7 @@ var app = (function () {
     		attack: 5,
     		cost: 6,
     		health: 5,
-    		description: "召喚此牌時，本回合給予其他友軍單位+1|+1。",
+    		description: "召喚此牌時，<br>本回合給予其他友軍單位+1|+1。",
     		descriptionRaw: "召喚此牌時，本回合給予其他友軍單位+1|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -5670,8 +5669,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO002-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -5679,7 +5678,7 @@ var app = (function () {
     		attack: 4,
     		cost: 3,
     		health: 2,
-    		description: "召喚此牌時，在手牌生成1張<link=card.create><style=AssociatedCard>龍之庇護</style></link>。",
+    		description: "召喚此牌時，<br>在手牌生成1張<link=card.create><style=AssociatedCard>龍之庇護</style></link>。",
     		descriptionRaw: "召喚此牌時，在手牌生成1張龍之庇護。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -5714,8 +5713,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW026.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW026-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW026.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW026-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -5725,7 +5724,7 @@ var app = (function () {
     		health: 2,
     		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：打出1張「命運」卡牌。",
     		descriptionRaw: "出牌：打出1張「命運」卡牌。",
-    		levelupDescription: "此牌在場上時，我方抽出8張或以上卡牌<style=Variable></style>。",
+    		levelupDescription: "此牌在場上時，<br>我方抽出8張或以上卡牌<style=Variable></style>。",
     		levelupDescriptionRaw: "此牌在場上時，我方抽出8張或以上卡牌。",
     		flavorText: "「專心看雙手的動作，計算卡牌數量，眼睛盡量跟上，然後別忘了……」",
     		artistName: "SIXMOREVODKA",
@@ -5756,8 +5755,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW027.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW027-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW027.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW027-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -5765,7 +5764,7 @@ var app = (function () {
     		attack: 7,
     		cost: 5,
     		health: 7,
-    		description: "召喚此牌時，為敵方召喚1個<link=card.summon><style=AssociatedCard>黃金獨角鯨</style></link>。",
+    		description: "召喚此牌時，<br>為敵方召喚1個<link=card.summon><style=AssociatedCard>黃金獨角鯨</style></link>。",
     		descriptionRaw: "召喚此牌時，為敵方召喚1個黃金獨角鯨。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -5797,8 +5796,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR002T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR002T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR002T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR002T3-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -5806,7 +5805,7 @@ var app = (function () {
     		attack: 6,
     		cost: 6,
     		health: 7,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：本回合給予1個敵軍單位<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>與<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。\r\n每回合我方首次對敵方主堡造成傷害時，<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>所有敵軍單位。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：本回合給予1個敵軍單位<br><link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>與<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。\r\n每回合我方首次對敵方主堡<br>造成傷害時，<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>所有敵軍單位。",
     		descriptionRaw: "出牌：本回合給予1個敵軍單位凍傷與弱勢。\r\n每回合我方首次對敵方主堡造成傷害時，凍傷所有敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -5839,8 +5838,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO010-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -5848,7 +5847,7 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "<link=keyword.Recall><style=Keyword>召回</style></link>1個友軍單位以在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.secondSpell><style=AssociatedCard>打道回府</style></link>。",
+    		description: "<link=keyword.Recall><style=Keyword>召回</style></link>1個友軍單位以在手牌生成<br>1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.secondSpell><style=AssociatedCard>打道回府</style></link>。",
     		descriptionRaw: "召回1個友軍單位以在手牌生成1張飛逝打道回府。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -5880,8 +5879,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW042.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW042-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW042.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW042-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -5889,7 +5888,7 @@ var app = (function () {
     		attack: 0,
     		cost: 7,
     		health: 0,
-    		description: "本回合變更所有友軍單位的力量值與生命值，改為我方本牌局中所打出的法術牌數量。<style=Variable></style>",
+    		description: "本回合變更所有<br>友軍單位的力量值與生命值，<br>改為我方本牌局中<br>所打出的法術牌數量。<style=Variable></style>",
     		descriptionRaw: "本回合變更所有友軍單位的力量值與生命值，改為我方本牌局中所打出的法術牌數量。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -5921,8 +5920,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW059.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW059-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW059.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW059-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -5962,8 +5961,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR007-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -6004,8 +6003,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW032T4.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW032T4-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW032T4.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW032T4-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -6013,7 +6012,7 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "對所有敵軍單位與敵方主堡造成1點傷害。",
+    		description: "對所有敵軍單位與敵方主堡<br>造成1點傷害。",
     		descriptionRaw: "對所有敵軍單位與敵方主堡造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -6045,8 +6044,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW050.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW050-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW050.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW050-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -6054,8 +6053,8 @@ var app = (function () {
     		attack: 3,
     		cost: 7,
     		health: 4,
-    		description: "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：手牌與牌組中友軍魔耗值-2。",
-    		descriptionRaw: "洗劫：手牌與牌組中友軍魔耗值-2。",
+    		description: "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：<br>使手牌與牌組中友軍魔耗值-2。",
+    		descriptionRaw: "洗劫：使手牌與牌組中友軍魔耗值-2。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「快跟我們踏上一場音樂之旅！欣賞符文大地各地的美妙旋律！謹記付費入場，還有給些小費……」——表演宣傳人員",
@@ -6089,8 +6088,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE006T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE006T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE006T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE006T1-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -6098,7 +6097,7 @@ var app = (function () {
     		attack: 4,
     		cost: 5,
     		health: 5,
-    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：召喚1個<link=card.create><style=AssociatedCard>威洛</style></link>，該單位出場時即<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。",
+    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：召喚1個<link=card.create><style=AssociatedCard>威洛</style></link>，<br>該單位出場時<br>即<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。",
     		descriptionRaw: "攻擊：召喚1個威洛，該單位出場時即挑戰最強敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -6131,8 +6130,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW028.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW028-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW028.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW028-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -6170,8 +6169,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW023.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW023-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW023.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW023-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -6212,8 +6211,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI009-full.png"
     			}
     		],
     		region: "闇影島",
@@ -6253,8 +6252,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE007-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -6294,8 +6293,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ003-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -6303,7 +6302,7 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "抽到此牌時，此牌本回合魔耗值-2。\r\n將1個友軍單位能力值變成4|4。",
+    		description: "抽到此牌時，<br>此牌本回合魔耗值-2。\r\n將1個友軍單位能力值變成4|4。",
     		descriptionRaw: "抽到此牌時，此牌本回合魔耗值-2。\r\n將1個友軍單位能力值變成4|4。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -6335,8 +6334,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW031.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW031-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW031.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW031-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -6377,8 +6376,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW034.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW034-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW034.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW034-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -6386,7 +6385,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 5,
-    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：對此牌造成2點傷害並召喚1個<link=card.create><style=AssociatedCard>火藥猴群</style></link>。",
+    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：對此牌造成2點傷害<br>並召喚1個<link=card.create><style=AssociatedCard>火藥猴群</style></link>。",
     		descriptionRaw: "回合開始：對此牌造成2點傷害並召喚1個火藥猴群。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -6421,8 +6420,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI008T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02SI008T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI008T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02SI008T2-full.png"
     			}
     		],
     		region: "闇影島",
@@ -6430,7 +6429,7 @@ var app = (function () {
     		attack: 2,
     		cost: 4,
     		health: 5,
-    		description: "此牌升級時，<link=keyword.Obliterate><style=Keyword>泯滅</style></link>敵方牌組，只留下4張非英雄卡牌。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：召喚1個<link=card.summon><style=AssociatedCard>小樹精</style></link>。",
+    		description: "此牌升級時，<link=keyword.Obliterate><style=Keyword>泯滅</style></link>敵方牌組，<br>只留下4張非英雄卡牌。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：召喚1個<link=card.summon><style=AssociatedCard>小樹精</style></link>。",
     		descriptionRaw: "此牌升級時，泯滅敵方牌組，只留下4張非英雄卡牌。\r\n回合開始：召喚1個小樹精。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -6462,8 +6461,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX010-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -6471,7 +6470,7 @@ var app = (function () {
     		attack: 6,
     		cost: 6,
     		health: 5,
-    		description: "只有力量值5點或以上的敵軍單位才能對此牌造成傷害。",
+    		description: "只有力量值5點或以上的敵軍單位<br>才能對此牌造成傷害。",
     		descriptionRaw: "只有力量值5點或以上的敵軍單位才能對此牌造成傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -6503,8 +6502,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE001-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -6512,7 +6511,7 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "選擇1個敵軍單位，使2個友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>該單位。",
+    		description: "選擇1個敵軍單位，<br>使2個友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>該單位。",
     		descriptionRaw: "選擇1個敵軍單位，使2個友軍單位打擊該單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -6544,8 +6543,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO007-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -6553,8 +6552,8 @@ var app = (function () {
     		attack: 0,
     		cost: 7,
     		health: 0,
-    		description: "使1個友軍單位將1個敵軍單位踢向敵方主堡，視為對兩者進行<link=vocab.Strike><style=Vocab>打擊</style></link>。\r\n若敵軍單位存活，則將其<link=keyword.Recall><style=Keyword>召回</style></link>。",
-    		descriptionRaw: "使1個友軍單位將1個敵軍單位踢向敵方主堡，視為對兩者進行打擊。\r\n若敵軍單位存活，則將其召回。",
+    		description: "使1個友軍單位將1個敵軍單位<br>踢向敵方主堡，視為對兩者進行<link=vocab.Strike><style=Vocab>打擊</style></link>。<br>若敵軍單位存活，則將其<link=keyword.Recall><style=Keyword>召回</style></link>。",
+    		descriptionRaw: "使1個友軍單位將1個敵軍單位踢向敵方主堡，視為對兩者進行打擊。若敵軍單位存活，則將其召回。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「必須釋放巨龍，不然牠會從內心吞噬我。」——李星",
@@ -6585,8 +6584,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW029.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW029-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW029.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW029-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -6627,8 +6626,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW015.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW015-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW015.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW015-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -6636,8 +6635,8 @@ var app = (function () {
     		attack: 3,
     		cost: 7,
     		health: 7,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：抽出1張<link=card.champ1><style=AssociatedCard>好運姐</style></link>。\r\n此牌攻擊時，我方所有法術與技能額外造成1點傷害。",
-    		descriptionRaw: "出牌：抽出1張好運姐。\r\n此牌攻擊時，我方所有法術與技能額外造成1點傷害。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：抽出1張<link=card.champ1><style=AssociatedCard>好運姐</style></link>。\r\n此牌攻擊時，我方所有法術/技能<br>額外造成1點傷害。",
+    		descriptionRaw: "出牌：抽出1張好運姐。\r\n此牌攻擊時，我方所有法術/技能額外造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "你不會認錯賽蓮號的，那巨幅的珍珠色船帆，那仔細雕琢的木工，散發華貴而俐落的形象，如同其上掌舵的船長。",
@@ -6668,8 +6667,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW010-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -6708,8 +6707,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW009-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -6717,7 +6716,7 @@ var app = (function () {
     		attack: 1,
     		cost: 1,
     		health: 2,
-    		description: "召喚此牌後，於下次<link=vocab.RoundStart><style=Vocab>回合開始</style></link>抽1張牌，並給予其<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>。",
+    		description: "召喚此牌後，<br>於下次<link=vocab.RoundStart><style=Vocab>回合開始</style></link>抽1張牌，<br>並給予其<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>。",
     		descriptionRaw: "召喚此牌後，於下次回合開始抽1張牌，並給予其飛逝。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -6747,8 +6746,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW005-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -6756,8 +6755,8 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 3,
-    		description: "召喚此牌時，賦予<link=vocab.Strongest><style=Vocab>最強</style></link>敵軍<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
-    		descriptionRaw: "召喚此牌時，賦予最強敵軍弱勢。",
+    		description: "召喚此牌時，賦予<link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
+    		descriptionRaw: "召喚此牌時，賦予最強敵軍單位弱勢。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「你就長這個猴樣？夭壽喔，簡直比懸賞令上的還不堪入目，希望你的人頭值得我浪費時間。」",
@@ -6790,8 +6789,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW046.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW046-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW046.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW046-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -6799,8 +6798,8 @@ var app = (function () {
     		attack: 2,
     		cost: 1,
     		health: 1,
-    		description: "我方施放法術時，使所有以此牌為目標的法術和技能無效化，並於本回合給予此牌<link=keyword.Elusive><sprite name=Elusive><style=Keyword>隱密</style></link>。",
-    		descriptionRaw: "我方施放法術時，使所有以此牌為目標的法術和技能無效化，並於本回合給予此牌隱密。",
+    		description: "我方施放法術時，<br>使所有以此牌為目標的<br>法術/技能無效化，<br>並於本回合給予此牌<link=keyword.Elusive><sprite name=Elusive><style=Keyword>隱密</style></link>。",
+    		descriptionRaw: "我方施放法術時，使所有以此牌為目標的法術/技能無效化，並於本回合給予此牌隱密。",
     		levelupDescription: "我方施放6次法術<style=Variable></style>。",
     		levelupDescriptionRaw: "我方施放6次法術。",
     		flavorText: "比爾吉沃特的傳奇人物當中，飛斯的性格乖戾又難搞。一些水手將附近發生的無數船禍都怪罪於他……",
@@ -6829,14 +6828,14 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW049.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW049-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW049.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW049-full.png"
     			}
     		],
     		region: "比爾吉沃特",
     		regionRef: "Bilgewater",
     		attack: 0,
-    		cost: 2,
+    		cost: 3,
     		health: 0,
     		description: "<link=keyword.Nab><style=Keyword>奪取</style></link>1張牌。\r\n<link=vocab.Plunder><style=Vocab>洗劫</style></link>：再<link=keyword.Nab><style=Keyword>奪取</style></link>1張。",
     		descriptionRaw: "奪取1張牌。\r\n洗劫：再奪取1張。",
@@ -6871,8 +6870,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR005-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -6880,7 +6879,7 @@ var app = (function () {
     		attack: 4,
     		cost: 5,
     		health: 6,
-    		description: "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：此牌幻化為<link=card.transform><style=AssociatedCard>風暴之爪巨熊</style></link>。",
+    		description: "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：<br>此牌幻化為<link=card.transform><style=AssociatedCard>風暴之爪巨熊</style></link>。",
     		descriptionRaw: "洗劫：此牌幻化為風暴之爪巨熊。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -6910,8 +6909,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW039.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW039-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW039.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW039-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -6919,7 +6918,7 @@ var app = (function () {
     		attack: 4,
     		cost: 3,
     		health: 1,
-    		description: "召喚此牌時，在手牌生成1張隨機海怪牌。",
+    		description: "召喚此牌時，<br>在手牌生成1張隨機海怪牌。",
     		descriptionRaw: "召喚此牌時，在手牌生成1張隨機海怪牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -6952,8 +6951,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW030T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW030T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW030T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW030T3-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -6994,8 +6993,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW006-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -7003,8 +7002,8 @@ var app = (function () {
     		attack: 2,
     		cost: 4,
     		health: 2,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：幻化1個友軍單位，隨機變成1個魔耗值5的侍從單位。",
-    		descriptionRaw: "出牌：幻化1個友軍單位，隨機變成1個魔耗值5的侍從單位。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：幻化1個友軍單位，<br>隨機變成魔耗值5點的侍從單位。",
+    		descriptionRaw: "出牌：幻化1個友軍單位，隨機變成魔耗值5點的侍從單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「厲不厲害？我的……我的手上哪了？」\n「看好啦，我要再把它們變出來！搭啦！咳咳……搭啦！」\n「……我天殺的手去哪啦？！」\n「好吧，感謝觀看，你們該滾了！」",
@@ -7033,8 +7032,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW046T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW046T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW046T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW046T2-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -7076,8 +7075,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ008T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ008T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ008T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ008T2-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -7085,7 +7084,7 @@ var app = (function () {
     		attack: 10,
     		cost: 5,
     		health: 5,
-    		description: "此牌在攻擊時，每<link=vocab.Strike><style=Vocab>打擊</style></link>1個單位，就對敵方主堡造成5點傷害。",
+    		description: "此牌在攻擊時，每<link=vocab.Strike><style=Vocab>打擊</style></link>1個單位，<br>就對敵方主堡造成5點傷害。",
     		descriptionRaw: "此牌在攻擊時，每打擊1個單位，就對敵方主堡造成5點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -7119,8 +7118,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW026T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW026T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW026T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW026T2-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -7163,8 +7162,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02DE006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02DE006-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -7204,8 +7203,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW001-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -7213,8 +7212,8 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "本回合給予1個敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>，若該單位於本回合陣亡，我方抽1張牌。",
-    		descriptionRaw: "本回合給予1個敵軍單位弱勢，若該單位於本回合陣亡，我方抽1張牌。",
+    		description: "本回合給予1個敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>，<br>若該單位於本回合陣亡，<br>則我方抽1張牌。",
+    		descriptionRaw: "本回合給予1個敵軍單位弱勢，若該單位於本回合陣亡，則我方抽1張牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「孩子們，抬頭挺胸打起精神！被船長發現你在打混就等著被大卸八塊餵海鷗吧，還不快給我動起來！」——恐懼號水手",
@@ -7247,8 +7246,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO006T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO006T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO006T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO006T2-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -7256,8 +7255,8 @@ var app = (function () {
     		attack: 0,
     		cost: 7,
     		health: 0,
-    		description: "使1個友軍單位將1個敵軍單位踢向敵方主堡，視為對兩者進行<link=vocab.Strike><style=Vocab>打擊</style></link>。\r\n若敵軍單位存活，則將其<link=keyword.Recall><style=Keyword>召回</style></link>。\r\n將1張<link=card.level1><style=AssociatedCard>李星</style></link>洗入我方牌組。",
-    		descriptionRaw: "使1個友軍單位將1個敵軍單位踢向敵方主堡，視為對兩者進行打擊。\r\n若敵軍單位存活，則將其召回。\r\n將1張李星洗入我方牌組。",
+    		description: "使1個友軍單位將1個敵軍單位<br>踢向敵方主堡，視為對兩者進行<link=vocab.Strike><style=Vocab>打擊</style></link>。<br>若敵軍單位存活，則將其<link=keyword.Recall><style=Keyword>召回</style></link>。<br>將1張<link=card.level1><style=AssociatedCard>李星</style></link>洗入我方牌組。",
+    		descriptionRaw: "使1個友軍單位將1個敵軍單位踢向敵方主堡，視為對兩者進行打擊。若敵軍單位存活，則將其召回。將1張李星洗入我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「必須釋放巨龍，不然牠會從內心吞噬我。」——李星",
@@ -7288,8 +7287,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO010T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO010T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO010T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO010T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -7297,7 +7296,7 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "從手牌召喚1個魔耗值3點或以下的友軍單位。",
+    		description: "從手牌召喚1個<br>魔耗值3點或以下的友軍單位。",
     		descriptionRaw: "從手牌召喚1個魔耗值3點或以下的友軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -7331,8 +7330,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW026T4.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW026T4-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW026T4.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW026T4-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -7340,7 +7339,7 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "對所有敵軍單位和敵方主堡造成1點傷害。",
+    		description: "對所有敵軍單位和敵方主堡<br>造成1點傷害。",
     		descriptionRaw: "對所有敵軍單位和敵方主堡造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -7372,8 +7371,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO009-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -7381,7 +7380,7 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "若上回合我方已施放2次或以上法術，則此牌魔耗值-2。\r\n抽2張其他法術牌。\r\n",
+    		description: "若上回合我方已施放<br>2次或以上法術，<br>則此牌魔耗值-2。\r\n抽2張其他法術牌。\r\n",
     		descriptionRaw: "若上回合我方已施放2次或以上法術，則此牌魔耗值-2。\r\n抽2張其他法術牌。\r\n",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -7413,8 +7412,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW063.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW063-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW063.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW063-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -7422,7 +7421,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：從敵方手牌隨機抽1張非英雄牌。",
+    		description: "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：<br>從敵方手牌隨機抽1張非英雄牌。",
     		descriptionRaw: "洗劫：從敵方手牌隨機抽1張非英雄牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -7454,8 +7453,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW036.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW036-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW036.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW036-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -7497,8 +7496,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW045.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW045-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW045.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW045-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -7506,7 +7505,7 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "在敵軍單位與敵方主堡中隨機對3個不同目標造成1點傷害。",
+    		description: "在敵軍單位與敵方主堡中<br>隨機對3個不同目標造成1點傷害。",
     		descriptionRaw: "在敵軍單位與敵方主堡中隨機對3個不同目標造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -7538,8 +7537,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW033.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW033-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW033.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW033-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -7577,8 +7576,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX004T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX004T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX004T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX004T1-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -7586,7 +7585,7 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "對1個友軍單位造成1點傷害，然後對敵方主堡造成2點傷害。",
+    		description: "對1個友軍單位造成1點傷害，<br>然後對敵方主堡造成2點傷害。",
     		descriptionRaw: "對1個友軍單位造成1點傷害，然後對敵方主堡造成2點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -7618,8 +7617,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW060T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW060T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW060T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW060T1-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -7662,8 +7661,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ008T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ008T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ008T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ008T1-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -7703,8 +7702,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW020.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW020-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW020.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW020-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -7744,8 +7743,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX008-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -7753,7 +7752,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "對1個敵軍單位造成2點傷害，並對敵方主堡造成1點傷害。",
+    		description: "對1個敵軍單位造成2點傷害，<br>並對敵方主堡造成1點傷害。",
     		descriptionRaw: "對1個敵軍單位造成2點傷害，並對敵方主堡造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -7785,8 +7784,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02PZ005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02PZ005-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -7794,7 +7793,7 @@ var app = (function () {
     		attack: 4,
     		cost: 3,
     		health: 3,
-    		description: "抽到此牌時，本回合此牌魔耗值-1。",
+    		description: "抽到此牌時，<br>本回合此牌魔耗值-1。",
     		descriptionRaw: "抽到此牌時，本回合此牌魔耗值-1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -7824,8 +7823,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02NX005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02NX005-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -7865,8 +7864,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR006-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -7910,8 +7909,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW046T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW046T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW046T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW046T1-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -7919,7 +7918,7 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "從戰鬥中移除1個攻擊中的友軍單位，然後進行<link=vocab.Rally><style=Vocab>備戰</style></link>。\r\n將1張<link=card.level1><style=AssociatedCard>飛斯</style></link>洗入我方牌組。",
+    		description: "從戰鬥中移除1個<br>攻擊中的友軍單位，<br>然後進行<link=vocab.Rally><style=Vocab>備戰</style></link>。\r\n將1張<link=card.level1><style=AssociatedCard>飛斯</style></link>洗入我方牌組。",
     		descriptionRaw: "從戰鬥中移除1個攻擊中的友軍單位，然後進行備戰。\r\n將1張飛斯洗入我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -7953,8 +7952,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW053T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW053T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW053T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW053T1-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -7996,8 +7995,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW044.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02BW044-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW044.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02BW044-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -8038,8 +8037,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02IO008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02IO008-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -8047,7 +8046,7 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "本回合給予1個友軍單位<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。\r\n在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.secondSpell><style=AssociatedCard>震驚百里</style></link>。",
+    		description: "本回合給予<br>1個友軍單位<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。\r\n在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.secondSpell><style=AssociatedCard>震驚百里</style></link>。",
     		descriptionRaw: "本回合給予1個友軍單位挑戰者。\r\n在手牌生成1張飛逝震驚百里。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -8080,8 +8079,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set2/zh_tw/img/cards/02FR003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set2/zh_tw/img/cards/02FR003-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -8089,7 +8088,7 @@ var app = (function () {
     		attack: 0,
     		cost: 6,
     		health: 0,
-    		description: "在手牌生成2張隨機普羅牌及2張<link=card.snaxRef><style=AssociatedCard>普羅點心</style></link>。",
+    		description: "在手牌生成2張隨機普羅牌<br>及2張<link=card.snaxRef><style=AssociatedCard>普羅點心</style></link>。",
     		descriptionRaw: "在手牌生成2張隨機普羅牌及2張普羅點心。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -8124,8 +8123,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO012T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO012T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO012T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO012T2-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -8162,14 +8161,14 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"01NX020T1",
     			"01NX020T2",
-    			"01NX020"
+    			"01NX020",
+    			"01NX020T1"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX020T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX020T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX020T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX020T3-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -8211,8 +8210,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE031.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE031-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE031.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE031-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -8220,7 +8219,7 @@ var app = (function () {
     		attack: 1,
     		cost: 3,
     		health: 4,
-    		description: "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：若有友軍單位於本回合陣亡，則賦予其他友軍單位+1|+1。",
+    		description: "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：<br>若有友軍單位於本回合陣亡，<br>則賦予其他友軍單位+1|+1。",
     		descriptionRaw: "回合結束：若有友軍單位於本回合陣亡，則賦予其他友軍單位+1|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -8251,8 +8250,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX006T4.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX006T4-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX006T4.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX006T4-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -8260,7 +8259,7 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "除了<link=card.vlad><style=AssociatedCard>弗拉迪米爾</style></link>，對每個攻擊中友軍單位造成1點傷害，且每傷害1個攻擊中友軍單位，便從敵方主堡<link=keyword.Drain><style=Keyword>汲取</style></link>1點生命。",
+    		description: "除了<link=card.vlad><style=AssociatedCard>弗拉迪米爾</style></link>，<br>對每個攻擊中友軍單位造成1點傷害，<br>且每傷害1個攻擊中友軍單位，<br>便從敵方主堡<link=keyword.Drain><style=Keyword>汲取</style></link>1點生命。",
     		descriptionRaw: "除了弗拉迪米爾，對每個攻擊中友軍單位造成1點傷害，且每傷害1個攻擊中友軍單位，便從敵方主堡汲取1點生命。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -8289,13 +8288,13 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"01PZ040",
-    			"01PZ040T1"
+    			"01PZ040T1",
+    			"01PZ040"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ040T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ040T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ040T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ040T3-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -8303,7 +8302,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "棄置1張牌即可出此牌。對任1目標造成3點傷害。\r\n將1張<link=card.level1><style=AssociatedCard>吉茵珂絲</style></link>洗入我方牌組。",
+    		description: "棄置1張牌即可出此牌。<br>對任1目標造成3點傷害。\r\n將1張<link=card.level1><style=AssociatedCard>吉茵珂絲</style></link>洗入我方牌組。",
     		descriptionRaw: "棄置1張牌即可出此牌。對任1目標造成3點傷害。\r\n將1張吉茵珂絲洗入我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -8337,8 +8336,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR024T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR024T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR024T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR024T2-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -8346,7 +8345,7 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "對所有敵軍單位和敵方主堡造成1點傷害。",
+    		description: "對所有敵軍單位和敵方主<br>堡造成1點傷害。",
     		descriptionRaw: "對所有敵軍單位和敵方主堡造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -8381,8 +8380,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ008T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ008T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ008T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ008T2-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -8390,7 +8389,7 @@ var app = (function () {
     		attack: 2,
     		cost: 1,
     		health: 2,
-    		description: "<link=vocab.Nexus Strike><style=Vocab>打擊主堡</style></link>：使敵方牌組的<link=card.shuffle><style=AssociatedCard>劇毒膨菇</style></link>數量加倍。",
+    		description: "<link=vocab.Nexus Strike><style=Vocab>打擊主堡</style></link>：<br>使敵方牌組的<link=card.shuffle><style=AssociatedCard>劇毒膨菇</style></link>數量加倍。",
     		descriptionRaw: "打擊主堡：使敵方牌組的劇毒膨菇數量加倍。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -8425,8 +8424,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE022.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE022-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE022.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE022-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -8436,7 +8435,7 @@ var app = (function () {
     		health: 2,
     		description: "",
     		descriptionRaw: "",
-    		levelupDescription: "此牌在場上時，有4個或以上友軍單位陣亡，或<link=card.senna><style=AssociatedCard>光之哨兵姍娜</style></link>陣亡<style=Variable></style>。",
+    		levelupDescription: "此牌在場上時，<br>有4個或以上友軍單位陣亡，<br>或<link=card.senna><style=AssociatedCard>光之哨兵姍娜</style></link>陣亡<style=Variable></style>。",
     		levelupDescriptionRaw: "此牌在場上時，有4個或以上友軍單位陣亡，或光之哨兵姍娜陣亡。",
     		flavorText: "「姍娜，只要有你在，我就會好好的。」",
     		artistName: "SIXMOREVODKA",
@@ -8468,8 +8467,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO015T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO015T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO015T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO015T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -8477,7 +8476,7 @@ var app = (function () {
     		attack: 5,
     		cost: 4,
     		health: 5,
-    		description: "我方<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>或<link=keyword.Recall><style=Keyword>召回</style></link>1個敵軍單位時，此牌會打擊該牌。",
+    		description: "我方<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>或<link=keyword.Recall><style=Keyword>召回</style></link>1個敵軍單位時，<br>此牌會打擊該牌。",
     		descriptionRaw: "我方擊暈或召回1個敵軍單位時，此牌會打擊該牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -8520,8 +8519,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ056.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ056-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ056.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ056-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -8529,7 +8528,7 @@ var app = (function () {
     		attack: 1,
     		cost: 5,
     		health: 3,
-    		description: "施放法術時，在手牌生成1張相同魔耗值的<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>砲臺。本回合該牌魔耗值為0。",
+    		description: "施放法術時，在手牌生成1張<br>相同魔耗值的<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>砲臺。<br>本回合該牌魔耗值為0。",
     		descriptionRaw: "施放法術時，在手牌生成1張相同魔耗值的飛逝砲臺。本回合該牌魔耗值為0。",
     		levelupDescription: "此牌在場上時我方召喚力量值共計12點或以上的砲臺<style=Variable></style>。",
     		levelupDescriptionRaw: "此牌在場上時我方召喚力量值共計12點或以上的砲臺。",
@@ -8561,8 +8560,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO020.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO020-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO020.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO020-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -8570,7 +8569,7 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 3,
-    		description: "召喚此牌時，本回合給予其他友軍單位+1|+0。",
+    		description: "召喚此牌時，<br>本回合給予其他友軍單位+1|+0。",
     		descriptionRaw: "召喚此牌時，本回合給予其他友軍單位+1|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -8602,8 +8601,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR039T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR039T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR039T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR039T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -8644,8 +8643,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ013.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ013-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ013.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ013-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -8653,7 +8652,7 @@ var app = (function () {
     		attack: 3,
     		cost: 6,
     		health: 3,
-    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：棄置我方所有手牌後抽3張牌，並對1個敵軍單位造成3點傷害。",
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：<br>棄置我方所有手牌後抽3張牌，<br>並對1個敵軍單位造成3點傷害。",
     		descriptionRaw: "出牌：棄置我方所有手牌後抽3張牌，並對1個敵軍單位造成3點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -8683,8 +8682,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE019.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE019-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE019.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE019-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -8692,8 +8691,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "使手牌中友軍單位魔耗值-1。",
-    		descriptionRaw: "使手牌中友軍單位魔耗值-1。",
+    		description: "使手牌中所有友軍單位魔耗值-1。",
+    		descriptionRaw: "使手牌中所有友軍單位魔耗值-1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「只要訓練兩週，農民也能上前線作戰。這是我們對每位體格健壯的蒂瑪西亞子民的期望。」——蓋倫",
@@ -8724,8 +8723,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX004-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -8765,8 +8764,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ007-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -8774,7 +8773,7 @@ var app = (function () {
     		attack: 2,
     		cost: 3,
     		health: 4,
-    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：為此牌支援的友軍單位生成4張複製牌並洗入我方牌組。",
+    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：<br>為此牌支援的友軍單位生成<br>4張複製牌並洗入我方牌組。",
     		descriptionRaw: "支援：為此牌支援的友軍單位生成4張複製牌並洗入我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -8815,8 +8814,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ056T10.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ056T10-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ056T10.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ056T10-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -8824,7 +8823,7 @@ var app = (function () {
     		attack: 2,
     		cost: 5,
     		health: 4,
-    		description: "施放法術時，在手牌生成1張相同魔耗值的<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>砲臺。本回合給予該牌+1|+1且魔耗值為0。",
+    		description: "施放法術時，在手牌生成1張<br>相同魔耗值的<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>砲臺。<br>本回合給予該牌+1|+1<br>且魔耗值為0。",
     		descriptionRaw: "施放法術時，在手牌生成1張相同魔耗值的飛逝砲臺。本回合給予該牌+1|+1且魔耗值為0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -8856,8 +8855,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI038.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI038-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI038.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI038-full.png"
     			}
     		],
     		region: "闇影島",
@@ -8865,7 +8864,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 3,
-    		description: "每有一其他友軍單位陣亡，則對敵方主堡造成1點傷害。",
+    		description: "每有一其他友軍單位陣亡，<br>則對敵方主堡造成1點傷害。",
     		descriptionRaw: "每有一其他友軍單位陣亡，則對敵方主堡造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -8897,8 +8896,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE042T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE042T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE042T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE042T1-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -8938,8 +8937,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ018.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ018-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ018.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ018-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -8979,8 +8978,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO045.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO045-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO045.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO045-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -8988,7 +8987,7 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 2,
-    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：本回合給予此牌支援的友軍單位<link=keyword.Lifesteal><sprite name=Lifesteal><style=Keyword>吸血</style></link>。",
+    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：<br>本回合給予此牌支援的友軍單位<link=keyword.Lifesteal><sprite name=Lifesteal><style=Keyword>吸血</style></link>。",
     		descriptionRaw: "支援：本回合給予此牌支援的友軍單位吸血。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -9018,8 +9017,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO008-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -9027,7 +9026,7 @@ var app = (function () {
     		attack: 1,
     		cost: 2,
     		health: 3,
-    		description: "每當我方<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>或<link=keyword.Recall><style=Keyword>召回</style></link>單位，賦予此牌+2|+0。",
+    		description: "每當我方<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>或<link=keyword.Recall><style=Keyword>召回</style></link>單位，<br>賦予此牌+2|+0。",
     		descriptionRaw: "每當我方擊暈或召回單位，賦予此牌+2|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -9063,8 +9062,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX048.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX048-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX048.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX048-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -9072,7 +9071,7 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 3,
-    		description: "此牌承受傷害且未陣亡時，在手牌隨機生成1張血色單位。",
+    		description: "此牌承受傷害且未陣亡時，<br>在手牌隨機生成1張血色單位。",
     		descriptionRaw: "此牌承受傷害且未陣亡時，在手牌隨機生成1張血色單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -9102,8 +9101,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR006-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -9111,7 +9110,7 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "挑選1個友軍單位，賦予我方<link=vocab.Everywhere><style=Vocab>各處</style></link>與之相同的單位與卡牌+2|+2。",
+    		description: "挑選1個友軍單位，<br>賦予我方<link=vocab.Everywhere><style=Vocab>各處</style></link>與之相同的單位與卡牌<br>+2|+2。",
     		descriptionRaw: "挑選1個友軍單位，賦予我方各處與之相同的單位與卡牌+2|+2。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -9143,49 +9142,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO022.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO022-full.png"
-    			}
-    		],
-    		region: "愛歐尼亞",
-    		regionRef: "Ionia",
-    		attack: 0,
-    		cost: 1,
-    		health: 0,
-    		description: "本回合給予1個友軍單位<link=keyword.Elusive><sprite name=Elusive><style=Keyword>隱密</style></link>。",
-    		descriptionRaw: "本回合給予1個友軍單位隱密。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「即刻出發，保持隱匿……任務完成之前不許回來。」——劫",
-    		artistName: "Kudos Productions",
-    		name: "鬼步",
-    		cardCode: "01IO022",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR022.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR022-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR022.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR022-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -9193,7 +9151,7 @@ var app = (function () {
     		attack: 1,
     		cost: 1,
     		health: 1,
-    		description: "召喚此牌時，賦予牌組最上方2個友軍單位+1|+1。",
+    		description: "召喚此牌時，<br>賦予牌組最上方2個友軍單位+1|+1。",
     		descriptionRaw: "召喚此牌時，賦予牌組最上方2個友軍單位+1|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -9223,8 +9181,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR042.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR042-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR042.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR042-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -9264,8 +9222,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI049.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI049-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI049.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI049-full.png"
     			}
     		],
     		region: "闇影島",
@@ -9273,7 +9231,7 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "擊殺1個友軍單位，然後抽2張牌。",
+    		description: "擊殺1個友軍單位，<br>然後抽2張牌。",
     		descriptionRaw: "擊殺1個友軍單位，然後抽2張牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -9308,8 +9266,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI053T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI053T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI053T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI053T1-full.png"
     			}
     		],
     		region: "闇影島",
@@ -9317,8 +9275,8 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "若本回合有友軍單位陣亡，則可召喚2個<link=card.create><style=AssociatedCard>小蜘蛛</style></link>。\r\n將1張<link=card.level1><style=AssociatedCard>伊莉絲</style></link>洗入我方牌組。",
-    		descriptionRaw: "若本回合有友軍單位陣亡，則可召喚2個小蜘蛛。\r\n將1張伊莉絲洗入我方牌組。",
+    		description: "若本回合有友軍單位陣亡，<br>則可召喚2個<link=card.create><style=AssociatedCard>小蜘蛛</style></link>。<br>將1張<link=card.level1><style=AssociatedCard>伊莉絲</style></link>洗入我方牌組。",
+    		descriptionRaw: "若本回合有友軍單位陣亡，則可召喚2個小蜘蛛。將1張伊莉絲洗入我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "嚇到起雞皮疙瘩很可怕？你還沒嘗過打從心底感到毛骨悚然的滋味。",
@@ -9352,8 +9310,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR009-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -9395,8 +9353,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI057.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI057-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI057.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI057-full.png"
     			}
     		],
     		region: "闇影島",
@@ -9434,8 +9392,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE010-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -9443,7 +9401,7 @@ var app = (function () {
     		attack: 5,
     		cost: 5,
     		health: 4,
-    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：在手牌隨機生成1張菁英牌。",
+    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<br>在手牌隨機生成1張菁英牌。",
     		descriptionRaw: "遺願：在手牌隨機生成1張菁英牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -9477,8 +9435,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI023.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI023-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI023.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI023-full.png"
     			}
     		],
     		region: "闇影島",
@@ -9486,7 +9444,7 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 3,
-    		description: "召喚<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>友軍單位時，賦予其+1|+1。",
+    		description: "召喚<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>友軍單位時，<br>賦予其+1|+1。",
     		descriptionRaw: "召喚閃靈友軍單位時，賦予其+1|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -9516,8 +9474,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ019.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ019-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ019.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ019-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -9557,8 +9515,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX038.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX038-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX038.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX038-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -9568,7 +9526,7 @@ var app = (function () {
     		health: 5,
     		description: "",
     		descriptionRaw: "",
-    		levelupDescription: "此牌在場上時敵方主堡生命值為10點或以下。",
+    		levelupDescription: "此牌在場上時<br>敵方主堡生命值為10點或以下。",
     		levelupDescriptionRaw: "此牌在場上時敵方主堡生命值為10點或以下。",
     		flavorText: "「鋼鐵般的意志，媲美泰坦巨人的力量。特菲利安軍團沒有更優秀的將軍人選了。」——傑利科．斯溫\n",
     		artistName: "SIXMOREVODKA",
@@ -9598,8 +9556,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO040.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO040-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO040.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO040-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -9641,8 +9599,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR018.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR018-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR018.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR018-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -9650,7 +9608,7 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 2,
-    		description: "<link=vocab.Strike><style=Vocab>打擊</style></link>：若此牌打擊力量值0的單位，則視同擊殺之。",
+    		description: "<link=vocab.Strike><style=Vocab>打擊</style></link>：<br>若此牌打擊力量值0的單位，<br>則視同擊殺之。",
     		descriptionRaw: "打擊：若此牌打擊力量值0的單位，則視同擊殺之。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -9682,8 +9640,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE020.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE020-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE020.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE020-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -9724,8 +9682,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE034.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE034-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE034.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE034-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -9733,7 +9691,7 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 2,
-    		description: "召喚菁英單位時，賦予該單位+1|+1。",
+    		description: "召喚菁英單位時，<br>賦予該單位+1|+1。",
     		descriptionRaw: "召喚菁英單位時，賦予該單位+1|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -9763,8 +9721,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE002-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -9804,8 +9762,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX023.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX023-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX023.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX023-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -9813,7 +9771,7 @@ var app = (function () {
     		attack: 5,
     		cost: 5,
     		health: 3,
-    		description: "召喚此牌時，賦予我方其他蜘蛛單位+2|+0。",
+    		description: "召喚此牌時，<br>賦予我方其他蜘蛛單位+2|+0。",
     		descriptionRaw: "召喚此牌時，賦予我方其他蜘蛛單位+2|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -9846,8 +9804,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO041T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO041T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO041T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO041T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -9855,7 +9813,7 @@ var app = (function () {
     		attack: 5,
     		cost: 6,
     		health: 4,
-    		description: "我方打出法術時，可對相同目標再次施放。",
+    		description: "我方打出法術時，<br>可對相同目標再次施放。",
     		descriptionRaw: "我方打出法術時，可對相同目標再次施放。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -9889,8 +9847,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE012T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE012T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE012T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE012T1-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -9931,8 +9889,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE017.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE017-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE017.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE017-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -9940,7 +9898,7 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "若場上僅有1個友軍單位，則賦予其+3|+3。",
+    		description: "若場上僅有1個友軍單位，<br>則賦予其+3|+3。",
     		descriptionRaw: "若場上僅有1個友軍單位，則賦予其+3|+3。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -9975,8 +9933,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ040.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ040-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ040.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ040-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -10016,8 +9974,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX013.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX013-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX013.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX013-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -10025,7 +9983,7 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>1個敵軍單位。本回合給予所有友軍單位+2|+0。",
+    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>1個敵軍單位。<br>本回合給予所有友軍單位+2|+0。",
     		descriptionRaw: "擊暈1個敵軍單位。本回合給予所有友軍單位+2|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -10059,8 +10017,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE045.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE045-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE045.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE045-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -10070,8 +10028,8 @@ var app = (function () {
     		health: 3,
     		description: "",
     		descriptionRaw: "",
-    		levelupDescription: "此牌擊殺2個敵軍<style=Variable></style>。",
-    		levelupDescriptionRaw: "此牌擊殺2個敵軍。",
+    		levelupDescription: "此牌擊殺2個敵軍單位<style=Variable></style>。",
+    		levelupDescriptionRaw: "此牌擊殺2個敵軍單位。",
     		flavorText: "「不論是單場競技或比武大會，私下過招或上陣對敵，我都衷心期盼遇上一位夠格的對手。直到成為最強之前，我絕不停歇。」",
     		artistName: "SIXMOREVODKA",
     		name: "菲歐拉",
@@ -10101,8 +10059,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ025.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ025-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ025.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ025-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -10110,7 +10068,7 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 3,
-    		description: "我方施放法術時，將3張<link=card.shuffle><style=AssociatedCard>劇毒膨菇</style></link>隨機植入敵方牌組。",
+    		description: "我方施放法術時，<br>將3張<link=card.shuffle><style=AssociatedCard>劇毒膨菇</style></link><br>隨機植入敵方牌組。",
     		descriptionRaw: "我方施放法術時，將3張劇毒膨菇隨機植入敵方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -10142,8 +10100,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE052.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE052-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE052.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE052-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -10151,7 +10109,7 @@ var app = (function () {
     		attack: 9,
     		cost: 9,
     		health: 9,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>或<link=vocab.Attack><style=Vocab>攻擊</style></link>：本回合給予所有友軍單位<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>或<link=vocab.Attack><style=Vocab>攻擊</style></link>：<br>本回合給予所有友軍單位<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
     		descriptionRaw: "出牌或攻擊：本回合給予所有友軍單位光盾。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -10182,8 +10140,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ040T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ040T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ040T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ040T2-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -10191,7 +10149,7 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "對敵方主堡造成4點傷害，並對所有敵軍單位造成1點傷害。",
+    		description: "對敵方主堡造成4點傷害，<br>並對所有敵軍單位<br>造成1點傷害。",
     		descriptionRaw: "對敵方主堡造成4點傷害，並對所有敵軍單位造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -10228,8 +10186,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI053.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI053-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI053.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI053-full.png"
     			}
     		],
     		region: "闇影島",
@@ -10270,8 +10228,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE021.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE021-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE021.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE021-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -10311,8 +10269,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ048T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ048T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ048T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ048T1-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -10320,7 +10278,7 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>我方牌組最上方5張牌，其中每張法術可對所有敵軍單位及敵方主堡造成1點傷害。",
+    		description: "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>我方牌組最上方5張牌，<br>其中每張法術可對所有敵軍單位<br>及敵方主堡造成1點傷害。",
     		descriptionRaw: "泯滅我方牌組最上方5張牌，其中每張法術可對所有敵軍單位及敵方主堡造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -10352,8 +10310,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX046T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX046T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX046T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX046T1-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -10393,8 +10351,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX047.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX047-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX047.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX047-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -10402,7 +10360,7 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "對1個友軍單位造成1點傷害後，本回合給予另1個友軍單位+2|+2。",
+    		description: "對1個友軍單位造成1點傷害後，<br>本回合給予另1個友軍單位+2|+2。",
     		descriptionRaw: "對1個友軍單位造成1點傷害後，本回合給予另1個友軍單位+2|+2。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -10435,8 +10393,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI010-full.png"
     			}
     		],
     		region: "闇影島",
@@ -10476,8 +10434,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO011.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO011-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO011.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO011-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -10518,8 +10476,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX040.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX040-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX040.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX040-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -10560,8 +10518,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI042T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI042T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI042T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI042T1-full.png"
     			}
     		],
     		region: "闇影島",
@@ -10601,8 +10559,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ032.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ032-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ032.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ032-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -10643,8 +10601,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO009T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO009T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO009T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO009T2-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -10652,7 +10610,7 @@ var app = (function () {
     		attack: 4,
     		cost: 3,
     		health: 3,
-    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：召喚1個攻擊中的<link=card.summon><style=AssociatedCard>疾風殘影</style></link>，其能力值和特性與此牌相同。",
+    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：<br>召喚1個攻擊中的<link=card.summon><style=AssociatedCard>疾風殘影</style></link>，<br>其能力值和特性與此牌相同。",
     		descriptionRaw: "攻擊：召喚1個攻擊中的疾風殘影，其能力值和特性與此牌相同。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -10684,8 +10642,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI027T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI027T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI027T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI027T1-full.png"
     			}
     		],
     		region: "闇影島",
@@ -10726,8 +10684,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO014-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO014-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -10735,8 +10693,8 @@ var app = (function () {
     		attack: 1,
     		cost: 3,
     		health: 1,
-    		description: "召喚此牌時，賦予手牌中的所有友軍單位+1|+1。",
-    		descriptionRaw: "召喚此牌時，賦予手牌中的所有友軍單位+1|+1。",
+    		description: "召喚此牌時，賦予手牌中所有友軍單位+1|+1。",
+    		descriptionRaw: "召喚此牌時，賦予手牌中所有友軍單位+1|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "愛歐尼亞的知識早已付諸文字，但真正賦予文字新生命的功臣，是愛歐尼亞受人尊崇、負責傳授傳奇與教誨的長老們。",
@@ -10767,8 +10725,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO041T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO041T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO041T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO041T2-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -10810,8 +10768,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX038T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX038T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX038T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX038T2-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -10853,8 +10811,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE022T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE022T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE022T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE022T2-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -10895,8 +10853,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ028.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ028-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ028.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ028-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -10904,7 +10862,7 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "施放或被棄置時，召喚1個<link=card.summon><style=AssociatedCard>廢料河蟹</style></link>。",
+    		description: "施放或被棄置時，<br>召喚1個<link=card.summon><style=AssociatedCard>廢料河蟹</style></link>。",
     		descriptionRaw: "施放或被棄置時，召喚1個廢料河蟹。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -10936,8 +10894,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE025.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE025-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE025.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE025-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -10978,8 +10936,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR036.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR036-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR036.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR036-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -10987,7 +10945,7 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 1,
-    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：對1個敵軍單位造成1點傷害。",
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：<br>對1個敵軍單位造成1點傷害。",
     		descriptionRaw: "出牌：對1個敵軍單位造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -11017,8 +10975,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO005-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -11059,8 +11017,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR045.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR045-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR045.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR045-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -11068,7 +11026,7 @@ var app = (function () {
     		attack: 2,
     		cost: 3,
     		health: 4,
-    		description: "此牌承受傷害且未陣亡時，賦予此牌+3|+0。",
+    		description: "此牌承受傷害且未陣亡時，<br>賦予此牌+3|+0。",
     		descriptionRaw: "此牌承受傷害且未陣亡時，賦予此牌+3|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -11098,8 +11056,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO044.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO044-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO044.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO044-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -11139,8 +11097,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR008T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR008T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR008T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR008T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -11148,7 +11106,7 @@ var app = (function () {
     		attack: 1,
     		cost: 1,
     		health: 1,
-    		description: "召喚此牌時，在手牌隨機生成1張魔耗值1的其他普羅牌。",
+    		description: "召喚此牌時，<br>在手牌隨機生成1張<br>魔耗值1的其他普羅牌。",
     		descriptionRaw: "召喚此牌時，在手牌隨機生成1張魔耗值1的其他普羅牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -11179,8 +11137,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR055.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR055-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR055.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR055-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -11188,7 +11146,7 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "選1個敵軍單位，若其力量值為0點，則對該單位造成4點傷害。若否，則<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>該單位。",
+    		description: "選1個敵軍單位，<br>若其力量值為0點，<br>則對該單位造成4點傷害。<br>若否，則<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>該單位。",
     		descriptionRaw: "選1個敵軍單位，若其力量值為0點，則對該單位造成4點傷害。若否，則凍傷該單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -11220,8 +11178,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR038T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR038T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR038T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR038T3-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -11229,7 +11187,7 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>1個敵軍單位，接著<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>所有其他生命值3點或以下的敵軍單位。抽1張牌。",
+    		description: "<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>1個敵軍單位，<br>接著<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>所有其他生命值3點或以下的<br>敵軍單位。<br>抽1張牌。",
     		descriptionRaw: "凍傷1個敵軍單位，接著凍傷所有其他生命值3點或以下的敵軍單位。抽1張牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -11262,8 +11220,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX046.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX046-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX046.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX046-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -11302,8 +11260,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ050.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ050-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ050.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ050-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -11311,7 +11269,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "本回合給予1個友軍單位+4|+0與<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>。",
+    		description: "本回合給予1個友軍單位+4|+0<br>與<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>。",
     		descriptionRaw: "本回合給予1個友軍單位+4|+0與快速攻擊。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -11343,8 +11301,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ056T6.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ056T6-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ056T6.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ056T6-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -11385,8 +11343,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO023.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO023-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO023.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO023-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -11394,7 +11352,7 @@ var app = (function () {
     		attack: 4,
     		cost: 5,
     		health: 4,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：賦予手牌中1個友軍單位+3|+3。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<br>賦予手牌中1個友軍單位+3|+3。",
     		descriptionRaw: "出牌：賦予手牌中1個友軍單位+3|+3。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -11425,8 +11383,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI048.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI048-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI048.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI048-full.png"
     			}
     		],
     		region: "闇影島",
@@ -11468,8 +11426,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ054T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ054T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ054T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ054T1-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -11509,8 +11467,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ030T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ030T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ030T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ030T1-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -11518,7 +11476,7 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "選1個侍從單位，將此牌幻化為與之相同的複製單位。",
+    		description: "選1個侍從單位，<br>將此牌幻化為<br>與之相同的複製單位。",
     		descriptionRaw: "選1個侍從單位，將此牌幻化為與之相同的複製單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -11550,8 +11508,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX025.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX025-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX025.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX025-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -11592,8 +11550,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX055.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX055-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX055.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX055-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -11632,8 +11590,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE007-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -11641,7 +11599,7 @@ var app = (function () {
     		attack: 0,
     		cost: 8,
     		health: 0,
-    		description: "使1個戰鬥中友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>所有戰鬥中敵軍單位。",
+    		description: "使1個戰鬥中友軍單位<br><link=vocab.Strike><style=Vocab>打擊</style></link>所有戰鬥中敵軍單位。",
     		descriptionRaw: "使1個戰鬥中友軍單位打擊所有戰鬥中敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -11674,8 +11632,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ017.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ017-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ017.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ017-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -11683,7 +11641,7 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 2,
-    		description: "召喚此牌時，召喚2個<link=card.create><style=AssociatedCard>腐蝕藥劑桶</style></link>。",
+    		description: "召喚此牌時，<br>召喚2個<link=card.create><style=AssociatedCard>腐蝕藥劑桶</style></link>。",
     		descriptionRaw: "召喚此牌時，召喚2個腐蝕藥劑桶。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -11713,8 +11671,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ038.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ038-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ038.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ038-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -11752,8 +11710,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ056T7.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ056T7-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ056T7.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ056T7-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -11794,8 +11752,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI018.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI018-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI018.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI018-full.png"
     			}
     		],
     		region: "闇影島",
@@ -11803,7 +11761,7 @@ var app = (function () {
     		attack: 2,
     		cost: 3,
     		health: 3,
-    		description: "召喚此牌時，在手牌生成1張本牌局陣亡友軍單位的複製牌。",
+    		description: "召喚此牌時，在手牌生成1張<br>本牌局陣亡友軍單位的複製牌。",
     		descriptionRaw: "召喚此牌時，在手牌生成1張本牌局陣亡友軍單位的複製牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -11836,8 +11794,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ008T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ008T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ008T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ008T1-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -11879,8 +11837,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI030T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI030T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI030T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI030T2-full.png"
     			}
     		],
     		region: "闇影島",
@@ -11888,8 +11846,8 @@ var app = (function () {
     		attack: 5,
     		cost: 3,
     		health: 4,
-    		description: "每回合此牌第一次攻擊時，復甦1個<link=vocab.Strongest><style=Vocab>最強</style></link>的已陣亡友軍侍從單位，使其處於攻擊中並賦予<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>。該回合此牌與該單位締結關係，此牌所受傷害轉嫁至該單位。",
-    		descriptionRaw: "每回合此牌第一次攻擊時，復甦1個最強的已陣亡友軍侍從單位，使其處於攻擊中並賦予閃靈。該回合此牌與該單位締結關係，此牌所受傷害轉嫁至該單位。",
+    		description: "每回合此牌首次攻擊時，<br>復甦1個<link=vocab.Strongest><style=Vocab>最強</style></link>已陣亡友軍侍從單位，<br>使其處於攻擊中並賦予<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>。<br>該回合此牌與該單位締結關係，<br>此牌所受傷害轉嫁至該單位。",
+    		descriptionRaw: "每回合此牌首次攻擊時，復甦1個最強已陣亡友軍侍從單位，使其處於攻擊中並賦予閃靈。該回合此牌與該單位締結關係，此牌所受傷害轉嫁至該單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「被錯待的人應得報仇雪恨！」",
@@ -11920,8 +11878,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR029.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR029-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR029.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR029-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -11961,8 +11919,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI035T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI035T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI035T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI035T1-full.png"
     			}
     		],
     		region: "闇影島",
@@ -11970,7 +11928,7 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "若本回合有友軍單位陣亡，則擊殺2個<link=keyword.Weakest><style=Keyword>最弱</style></link>敵軍單位。",
+    		description: "若本回合有友軍單位陣亡，<br>則擊殺2個<link=keyword.Weakest><style=Keyword>最弱</style></link>敵軍單位。",
     		descriptionRaw: "若本回合有友軍單位陣亡，則擊殺2個最弱敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -12004,8 +11962,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI030.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI030-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI030.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI030-full.png"
     			}
     		],
     		region: "闇影島",
@@ -12015,7 +11973,7 @@ var app = (function () {
     		health: 3,
     		description: "",
     		descriptionRaw: "",
-    		levelupDescription: "此牌在場上時，有3個或以上友軍單位陣亡<style=Variable></style>。",
+    		levelupDescription: "此牌在場上時，<br>有3個或以上友軍單位陣亡<style=Variable></style>。",
     		levelupDescriptionRaw: "此牌在場上時，有3個或以上友軍單位陣亡。",
     		flavorText: "她生前是一名將軍，守護王國的英雌。但隨著肉身消逝，她心中僅剩報復的熊熊怒火。她成了滿心只想報仇雪恨的不死怨靈。",
     		artistName: "SIXMOREVODKA",
@@ -12045,8 +12003,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO029.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO029-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO029.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO029-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -12089,8 +12047,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ036T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ036T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ036T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ036T1-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -12098,8 +12056,8 @@ var app = (function () {
     		attack: 2,
     		cost: 3,
     		health: 4,
-    		description: "<link=vocab.Nexus Strike><style=Vocab>打擊主堡</style></link>：在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.create><style=AssociatedCard>秘術射擊</style></link>。\r\n施放法術時，對敵方主堡造成2點傷害。",
-    		descriptionRaw: "打擊主堡：在手牌生成1張飛逝秘術射擊。\r\n施放法術時，對敵方主堡造成2點傷害。",
+    		description: "<link=vocab.Nexus Strike><style=Vocab>打擊主堡</style></link>：<br>在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.create><style=AssociatedCard>秘術射擊</style></link>。<br>我方施放法術時，<br>對敵方主堡造成2點傷害。",
+    		descriptionRaw: "打擊主堡：在手牌生成1張飛逝秘術射擊。我方施放法術時，對敵方主堡造成2點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「我的專長就是化不可能為可能！」",
@@ -12132,8 +12090,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR035.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR035-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR035.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR035-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -12141,7 +12099,7 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 3,
-    		description: "此牌承受傷害且未陣亡時，賦予此牌+3|+0。",
+    		description: "此牌承受傷害且未陣亡時，<br>賦予此牌+3|+0。",
     		descriptionRaw: "此牌承受傷害且未陣亡時，賦予此牌+3|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -12171,8 +12129,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO003-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -12180,7 +12138,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "將1個友軍單位的<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>轉移至1個敵軍單位身上。",
+    		description: "將1個友軍單位的<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link><br>轉移至1個敵軍單位身上。",
     		descriptionRaw: "將1個友軍單位的閃靈轉移至1個敵軍單位身上。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -12212,8 +12170,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ035.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ035-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ035.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ035-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -12221,8 +12179,8 @@ var app = (function () {
     		attack: 4,
     		cost: 6,
     		health: 4,
-    		description: "此牌成為法術或技能目標且未陣亡時，抽1張牌。",
-    		descriptionRaw: "此牌成為法術或技能目標且未陣亡時，抽1張牌。",
+    		description: "此牌成為法術/技能目標且未陣亡時，抽1張牌。",
+    		descriptionRaw: "此牌成為法術/技能目標且未陣亡時，抽1張牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "梅德拉達氏族在皮爾托福聲名顯赫，身為法定繼承人的杰卻對家族事業興趣缺缺，成天只想追尋古文物……父親為此苦惱不已。",
@@ -12252,8 +12210,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ030.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ030-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ030.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ030-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -12261,7 +12219,7 @@ var app = (function () {
     		attack: 1,
     		cost: 4,
     		health: 3,
-    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：選1個侍從單位，將此牌幻化為與之相同的複製單位。",
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：選1個侍從單位，<br>將此牌幻化為<br>與之相同的複製單位。",
     		descriptionRaw: "出牌：選1個侍從單位，將此牌幻化為與之相同的複製單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -12291,8 +12249,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO047.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO047-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO047.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO047-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -12333,8 +12291,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ048.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ048-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ048.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ048-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -12342,7 +12300,7 @@ var app = (function () {
     		attack: 6,
     		cost: 9,
     		health: 6,
-    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：<link=keyword.Obliterate><style=Keyword>泯滅</style></link>我方牌組最上方5張牌，其中每張法術可對所有敵軍單位及敵方主堡造成1點傷害。",
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：<link=keyword.Obliterate><style=Keyword>泯滅</style></link>我方牌組最上方5張牌，<br>其中每張法術可對所有敵軍單位<br>及敵方主堡造成1點傷害。",
     		descriptionRaw: "出牌：泯滅我方牌組最上方5張牌，其中每張法術可對所有敵軍單位及敵方主堡造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -12372,49 +12330,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR012.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR012-full.png"
-    			}
-    		],
-    		region: "弗雷爾卓德",
-    		regionRef: "Freljord",
-    		attack: 0,
-    		cost: 5,
-    		health: 0,
-    		description: "獲得1個魔力寶石槽位並治癒主堡3點。",
-    		descriptionRaw: "獲得1個魔力寶石槽位並治癒主堡3點。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "魔方之石是一塊具有神奇恢復能力的超凡寶石，無論紅水晶或藍水晶都無法比擬其散發出的光澤。 ",
-    		artistName: "Kudos Production",
-    		name: "催化魔方",
-    		cardCode: "01FR012",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX030.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX030-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX030.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX030-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -12422,7 +12339,7 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 3,
-    		description: "此牌承受傷害且未陣亡時，對敵方主堡造成2點傷害。",
+    		description: "此牌承受傷害且未陣亡時，<br>對敵方主堡造成2點傷害。",
     		descriptionRaw: "此牌承受傷害且未陣亡時，對敵方主堡造成2點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -12452,8 +12369,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR028.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR028-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR028.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR028-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -12493,8 +12410,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ010-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -12502,7 +12419,7 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "將5張<link=card.shuffle><style=AssociatedCard>劇毒膨菇</style></link>隨機植入敵方牌組。",
+    		description: "將5張<link=card.shuffle><style=AssociatedCard>劇毒膨菇</style></link><br>隨機植入敵方牌組。",
     		descriptionRaw: "將5張劇毒膨菇隨機植入敵方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -12534,8 +12451,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX007-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -12543,7 +12460,7 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 2,
-    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：本回合給予其他戰鬥中友軍單位+1|+0。",
+    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：<br>本回合給予其他戰鬥中友軍單位<br>+1|+0。",
     		descriptionRaw: "攻擊：本回合給予其他戰鬥中友軍單位+1|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -12573,8 +12490,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ045.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ045-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ045.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ045-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -12614,8 +12531,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO026.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO026-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO026.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO026-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -12623,7 +12540,7 @@ var app = (function () {
     		attack: 1,
     		cost: 1,
     		health: 2,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：賦予手牌中1個友軍單位+1|+0。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<br>賦予手牌中1個友軍單位+1|+0。",
     		descriptionRaw: "出牌：賦予手牌中1個友軍單位+1|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -12653,8 +12570,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ013T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ013T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ013T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ013T1-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -12662,7 +12579,7 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "棄置我方所有手牌後抽3張牌，並對1個敵軍單位造成3點傷害。",
+    		description: "棄置我方所有手牌後抽3張牌，<br>並對1個敵軍單位造成3點傷害。",
     		descriptionRaw: "棄置我方所有手牌後抽3張牌，並對1個敵軍單位造成3點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -12694,8 +12611,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ002-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -12733,8 +12650,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI002-full.png"
     			}
     		],
     		region: "闇影島",
@@ -12773,8 +12690,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI005-full.png"
     			}
     		],
     		region: "闇影島",
@@ -12782,7 +12699,7 @@ var app = (function () {
     		attack: 5,
     		cost: 10,
     		health: 5,
-    		description: "本牌局每有1個友軍單位陣亡，則此牌魔耗值-1。",
+    		description: "本牌局每有1個友軍單位陣亡，<br>則此牌魔耗值-1。",
     		descriptionRaw: "本牌局每有1個友軍單位陣亡，則此牌魔耗值-1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -12817,8 +12734,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR038.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR038-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR038.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR038-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -12828,7 +12745,7 @@ var app = (function () {
     		health: 3,
     		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>的敵軍。",
     		descriptionRaw: "攻擊：凍傷最強的敵軍。",
-    		levelupDescription: "我方<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>5個或以上的敵軍單位<style=Variable></style>。此牌升級時，在牌組最上方生成1張<link=card.create><style=AssociatedCard>水晶箭</style></link>。",
+    		levelupDescription: "我方<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>5個或以上的<br>敵軍單位<style=Variable></style>。<br>此牌升級時，在牌組最上方生成1張<link=card.create><style=AssociatedCard>水晶箭</style></link>。",
     		levelupDescriptionRaw: "我方凍傷5個或以上的敵軍單位。此牌升級時，在牌組最上方生成1張水晶箭。",
     		flavorText: "「當我瞭望家園，看到的不僅是現在，也看到可能的未來：一片昌盛的榮景，不只是我的族人得享富足，也包括所有企求和平的人。弗雷爾卓德，萬眾而一心！」",
     		artistName: "SIXMOREVODKA",
@@ -12856,8 +12773,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE055.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE055-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE055.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE055-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -12865,7 +12782,7 @@ var app = (function () {
     		attack: 4,
     		cost: 3,
     		health: 2,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：本回合給予1個友軍單位<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<br>本回合給予1個友軍單位<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。",
     		descriptionRaw: "出牌：本回合給予1個友軍單位挑戰者。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -12895,8 +12812,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ004-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -12936,8 +12853,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE048.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE048-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE048.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE048-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -12945,7 +12862,7 @@ var app = (function () {
     		attack: 4,
     		cost: 4,
     		health: 3,
-    		description: "若我方在本牌局已施放1張魔耗值6點或以上的法術牌，則賦予此牌+2|+2。",
+    		description: "若我方在本牌局已施放1張<br>魔耗值6點或以上的法術牌，<br>則賦予此牌+2|+2。",
     		descriptionRaw: "若我方在本牌局已施放1張魔耗值6點或以上的法術牌，則賦予此牌+2|+2。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -12975,8 +12892,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO024.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO024-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO024.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO024-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -12984,7 +12901,7 @@ var app = (function () {
     		attack: 0,
     		cost: 6,
     		health: 0,
-    		description: "選擇1個友軍單位，召喚2個與之相同的複製單位，其皆為<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>。",
+    		description: "選擇1個友軍單位，<br>召喚2個與之相同的複製單位，<br>其皆為<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>。",
     		descriptionRaw: "選擇1個友軍單位，召喚2個與之相同的複製單位，其皆為閃靈。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -13018,8 +12935,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI053T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI053T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI053T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI053T2-full.png"
     			}
     		],
     		region: "闇影島",
@@ -13027,7 +12944,7 @@ var app = (function () {
     		attack: 4,
     		cost: 2,
     		health: 3,
-    		description: "使我方其他蜘蛛單位擁有<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>和<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>。",
+    		description: "使我方其他蜘蛛單位<br>擁有<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>和<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>。",
     		descriptionRaw: "使我方其他蜘蛛單位擁有挑戰者和威嚇。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -13062,8 +12979,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE001-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -13102,8 +13019,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ020.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ020-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ020.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ020-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -13144,8 +13061,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX021.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX021-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX021.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX021-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -13153,7 +13070,7 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 2,
-    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：賦予我方<link=vocab.Everywhere><style=Vocab>各處</style></link>的軍團流寇+1|+1。",
+    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：<br>賦予我方<link=vocab.Everywhere><style=Vocab>各處</style></link>的軍團流寇+1|+1。",
     		descriptionRaw: "攻擊：賦予我方各處的軍團流寇+1|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -13183,8 +13100,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR020.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR020-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR020.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR020-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -13224,8 +13141,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ046.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ046-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ046.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ046-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -13233,7 +13150,7 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "選1張手牌，生成4張與之相同的複製牌並洗入我方牌組。",
+    		description: "選1張手牌，<br>生成4張與之相同的複製牌<br>並洗入我方牌組。",
     		descriptionRaw: "選1張手牌，生成4張與之相同的複製牌並洗入我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -13265,8 +13182,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO028.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO028-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO028.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO028-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -13305,8 +13222,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR014-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR014-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -13314,7 +13231,7 @@ var app = (function () {
     		attack: 1,
     		cost: 1,
     		health: 2,
-    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：將2張<link=card.create><style=AssociatedCard>暴怒雪怪</style></link>洗入我方牌組。",
+    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<br>將2張<link=card.create><style=AssociatedCard>暴怒雪怪</style></link>洗入我方牌組。",
     		descriptionRaw: "遺願：將2張暴怒雪怪洗入我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -13347,8 +13264,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI037.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI037-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI037.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI037-full.png"
     			}
     		],
     		region: "闇影島",
@@ -13389,8 +13306,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX009-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -13398,7 +13315,7 @@ var app = (function () {
     		attack: 2,
     		cost: 4,
     		health: 1,
-    		description: "召喚此牌時，我方場上每有1個友軍單位，則賦予此牌+1|+1。",
+    		description: "召喚此牌時，<br>我方場上每有1個友軍單位，<br>則賦予此牌+1|+1。",
     		descriptionRaw: "召喚此牌時，我方場上每有1個友軍單位，則賦予此牌+1|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -13430,8 +13347,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO057.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO057-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO057.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO057-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -13471,8 +13388,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO028T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO028T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO028T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO028T2-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -13511,8 +13428,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ054.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ054-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ054.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ054-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -13520,7 +13437,7 @@ var app = (function () {
     		attack: 1,
     		cost: 2,
     		health: 3,
-    		description: "<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>攻擊</style></link>：對敵方主堡造成2點傷害。",
+    		description: "<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>攻擊</style></link>：<br>對敵方主堡造成2點傷害。",
     		descriptionRaw: "攻擊：對敵方主堡造成2點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -13553,8 +13470,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX020.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX020-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX020.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX020-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -13562,10 +13479,10 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 3,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>或<link=vocab.Strike><style=Vocab>打擊</style></link>：在手牌生成1張<link=card.create><style=AssociatedCard>迴旋飛斧</style></link>。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>或<link=vocab.Strike><style=Vocab>打擊</style></link>：<br>在手牌生成1張<link=card.create><style=AssociatedCard>迴旋飛斧</style></link>。",
     		descriptionRaw: "出牌或打擊：在手牌生成1張迴旋飛斧。",
-    		levelupDescription: "此牌總計使用<link=card.create><style=AssociatedCard>迴旋飛斧</style></link><link=vocab.Strike><style=Vocab>打擊</style></link>2次<style=Variable></style>。",
-    		levelupDescriptionRaw: "此牌總計使用迴旋飛斧打擊2次。",
+    		levelupDescription: "此牌使用<link=card.create><style=AssociatedCard>迴旋飛斧</style></link><link=vocab.Strike><style=Vocab>打擊</style></link>2次<style=Variable></style>。",
+    		levelupDescriptionRaw: "此牌使用迴旋飛斧打擊2次。",
     		flavorText: "「想要親筆簽名？去排隊吧，老兄。」",
     		artistName: "SIXMOREVODKA",
     		name: "達瑞文",
@@ -13594,8 +13511,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX011.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX011-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX011.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX011-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -13603,7 +13520,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "使1個戰鬥中友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>1個戰鬥中敵軍單位。",
+    		description: "使1個戰鬥中友軍單位<br><link=vocab.Strike><style=Vocab>打擊</style></link>1個戰鬥中敵軍單位。",
     		descriptionRaw: "使1個戰鬥中友軍單位打擊1個戰鬥中敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -13635,8 +13552,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ052.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ052-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ052.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ052-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -13673,14 +13590,14 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"01FR024",
+    			"01FR024T4",
     			"01FR024T3",
-    			"01FR024T4"
+    			"01FR024"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR024T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR024T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR024T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR024T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -13720,8 +13637,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE043.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE043-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE043.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE043-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -13729,7 +13646,7 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 3,
-    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：本回合給予此牌支援的友軍單位+1|+1。",
+    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：<br>本回合給予此牌支援的友軍單位+1|+1。",
     		descriptionRaw: "支援：本回合給予此牌支援的友軍單位+1|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -13762,8 +13679,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ036.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ036-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ036.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ036-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -13771,10 +13688,10 @@ var app = (function () {
     		attack: 1,
     		cost: 3,
     		health: 3,
-    		description: "<link=vocab.Nexus Strike><style=Vocab>打擊主堡</style></link>：在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.create><style=AssociatedCard>秘術射擊</style></link>。",
+    		description: "<link=vocab.Nexus Strike><style=Vocab>打擊主堡</style></link>：<br>在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.create><style=AssociatedCard>秘術射擊</style></link>。",
     		descriptionRaw: "打擊主堡：在手牌生成1張飛逝秘術射擊。",
-    		levelupDescription: "我方指定8個或以上敵軍單位為法術或技能目標<style=Variable></style>。",
-    		levelupDescriptionRaw: "我方指定8個或以上敵軍單位為法術或技能目標。",
+    		levelupDescription: "我方指定8個或以上敵軍單位<br>為法術/技能目標<style=Variable></style>。",
+    		levelupDescriptionRaw: "我方指定8個或以上敵軍單位為法術/技能目標。",
     		flavorText: "「護目鏡？有了。圍巾？有了。我完全搞得懂運作原理的魔法臂鎧？有了，有了，都有了！」",
     		artistName: "SIXMOREVODKA",
     		name: "伊澤瑞爾",
@@ -13803,8 +13720,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO028T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO028T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO028T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO028T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -13844,8 +13761,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX020T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX020T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX020T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX020T2-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -13853,8 +13770,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "使1個戰鬥中友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>1個戰鬥中敵軍單位。\r\n將1張<link=card.level1><style=AssociatedCard>達瑞文</style></link>洗入我方牌組。",
-    		descriptionRaw: "使1個戰鬥中友軍單位打擊1個戰鬥中敵軍單位。\r\n將1張達瑞文洗入我方牌組。",
+    		description: "使1個戰鬥中友軍單位<br><link=vocab.Strike><style=Vocab>打擊</style></link>1個戰鬥中敵軍單位。<br>將1張<link=card.level1><style=AssociatedCard>達瑞文</style></link>洗入我方牌組。",
+    		descriptionRaw: "使1個戰鬥中友軍單位打擊1個戰鬥中敵軍單位。將1張達瑞文洗入我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「我最愛這份工作了！」——達瑞文",
@@ -13885,8 +13802,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI048T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI048T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI048T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI048T1-full.png"
     			}
     		],
     		region: "闇影島",
@@ -13924,8 +13841,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ015.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ015-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ015.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ015-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -13964,8 +13881,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX053.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX053-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX053.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX053-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -13973,7 +13890,7 @@ var app = (function () {
     		attack: 0,
     		cost: 6,
     		health: 0,
-    		description: "若我方場上有1個力量值5點或以上的友軍單位，則擊殺所有力量值4點或以下的單位。",
+    		description: "若我方場上有1個<br>力量值5點或以上的友軍單位，<br>則擊殺所有力量值4點或以下的單位。",
     		descriptionRaw: "若我方場上有1個力量值5點或以上的友軍單位，則擊殺所有力量值4點或以下的單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -14005,8 +13922,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ005-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -14014,7 +13931,7 @@ var app = (function () {
     		attack: 0,
     		cost: 6,
     		health: 0,
-    		description: "將1個侍從單位幻化為場上另1個侍從單位。",
+    		description: "將1個侍從單位<br>幻化為場上另1個侍從單位。",
     		descriptionRaw: "將1個侍從單位幻化為場上另1個侍從單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -14048,8 +13965,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI052.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI052-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI052.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI052-full.png"
     			}
     		],
     		region: "闇影島",
@@ -14059,7 +13976,7 @@ var app = (function () {
     		health: 6,
     		description: "",
     		descriptionRaw: "",
-    		levelupDescription: "此牌在場上時，有6個或以上單位陣亡<style=Variable></style>。",
+    		levelupDescription: "此牌在場上時，<br>有6個或以上單位陣亡<style=Variable></style>。",
     		levelupDescriptionRaw: "此牌在場上時，有6個或以上單位陣亡。",
     		flavorText: "鎖鏈鏗鏘作響，有人要來把你抓走……\n鎖鏈鏗鏘作響，獄長就在你身後……",
     		artistName: "SIXMOREVODKA",
@@ -14091,8 +14008,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE022T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE022T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE022T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE022T1-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -14132,8 +14049,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE049.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE049-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE049.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE049-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -14176,8 +14093,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE012T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE012T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE012T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE012T2-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -14185,7 +14102,7 @@ var app = (function () {
     		attack: 0,
     		cost: 8,
     		health: 0,
-    		description: "使1個戰鬥中友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>所有戰鬥中敵軍單位。\r\n將1張<link=card.level1><style=AssociatedCard>蓋倫</style></link>洗入我方牌組。",
+    		description: "使1個戰鬥中友軍單位<br><link=vocab.Strike><style=Vocab>打擊</style></link>所有戰鬥中敵軍單位。\r\n將1張<link=card.level1><style=AssociatedCard>蓋倫</style></link>洗入我方牌組。",
     		descriptionRaw: "使1個戰鬥中友軍單位打擊所有戰鬥中敵軍單位。\r\n將1張蓋倫洗入我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -14218,8 +14135,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI033.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI033-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI033.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI033-full.png"
     			}
     		],
     		region: "闇影島",
@@ -14227,8 +14144,8 @@ var app = (function () {
     		attack: 9,
     		cost: 9,
     		health: 6,
-    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：對敵方主堡造成等同其當前一半生命值的傷害，無條件進位。\r\n<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：將此牌收回手牌。",
-    		descriptionRaw: "出牌：對敵方主堡造成等同其當前一半生命值的傷害，無條件進位。\r\n遺願：將此牌收回手牌。",
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：對敵方主堡造成<br>等同其當前一半生命值的傷害，<br>無條件進位。<br><link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：將此牌收回手牌。",
+    		descriptionRaw: "出牌：對敵方主堡造成等同其當前一半生命值的傷害，無條件進位。遺願：將此牌收回手牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "大多靈魂的記憶在年歲中逐漸消失殆盡，遺失了自我。但是萬分痛苦的雷卓思仍緊緊抓住過往不放。有些事情，連時間也無法沖淡。",
@@ -14261,8 +14178,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ021.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ021-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ021.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ021-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -14270,7 +14187,7 @@ var app = (function () {
     		attack: 5,
     		cost: 5,
     		health: 3,
-    		description: "<link=vocab.Nexus Strike><style=Vocab>打擊主堡</style></link>：召喚1個與此牌相同的複製單位。",
+    		description: "<link=vocab.Nexus Strike><style=Vocab>打擊主堡</style></link>：<br>召喚1個與此牌相同的<br>複製單位。",
     		descriptionRaw: "打擊主堡：召喚1個與此牌相同的複製單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -14300,8 +14217,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI003-full.png"
     			}
     		],
     		region: "闇影島",
@@ -14309,7 +14226,7 @@ var app = (function () {
     		attack: 0,
     		cost: 9,
     		health: 0,
-    		description: "復甦本牌局<link=vocab.Strongest><style=Vocab>最強</style></link>的6個陣亡友軍單位，賦予其<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>。",
+    		description: "復甦本牌局<link=vocab.Strongest><style=Vocab>最強</style></link>的<br>6個陣亡友軍單位，<br>賦予其<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>。",
     		descriptionRaw: "復甦本牌局最強的6個陣亡友軍單位，賦予其閃靈。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -14341,8 +14258,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI041.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI041-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI041.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI041-full.png"
     			}
     		],
     		region: "闇影島",
@@ -14384,8 +14301,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX040T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX040T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX040T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX040T1-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -14426,8 +14343,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR049.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR049-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR049.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR049-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -14469,8 +14386,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO032T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO032T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO032T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO032T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -14478,8 +14395,8 @@ var app = (function () {
     		attack: 4,
     		cost: 4,
     		health: 6,
-    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：本回合給予此牌支援的友軍單位<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。\r\n有友軍單位獲得<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>時，本回合給予該單位+3|+0。",
-    		descriptionRaw: "支援：本回合給予此牌支援的友軍單位光盾。\r\n有友軍單位獲得光盾時，本回合給予該單位+3|+0。",
+    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：<br>本回合給予此牌支援的友軍單位<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。<br>\r\n\n有友軍單位獲得<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>時，<br>本回合給予該單位+3|+0。",
+    		descriptionRaw: "支援：本回合給予此牌支援的友軍單位光盾。\r\n\n有友軍單位獲得光盾時，本回合給予該單位+3|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「...雙方的行動和諧存在，在我的看守下，他們互不侵犯。」",
@@ -14508,8 +14425,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE053.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE053-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE053.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE053-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -14517,7 +14434,7 @@ var app = (function () {
     		attack: 3,
     		cost: 4,
     		health: 2,
-    		description: "\r\n\n<link=vocab.Strike><style=Vocab>打擊</style></link>：在手牌隨機生成1張來自我方牌組區域的<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>侍從牌。",
+    		description: "\r\n\n<link=vocab.Strike><style=Vocab>打擊</style></link>：<br>在手牌隨機生成1張<br>來自我方牌組區域的<br><link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>侍從牌。",
     		descriptionRaw: "\r\n\n打擊：在手牌隨機生成1張來自我方牌組區域的挑戰者侍從牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -14549,8 +14466,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI045.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI045-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI045.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI045-full.png"
     			}
     		],
     		region: "闇影島",
@@ -14590,8 +14507,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR037.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR037-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR037.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR037-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -14599,7 +14516,7 @@ var app = (function () {
     		attack: 3,
     		cost: 4,
     		health: 3,
-    		description: "<link=vocab.Allegiance><style=Vocab>效忠</style></link>：賦予牌組最上方的友軍單位+3|+3與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。",
+    		description: "<link=vocab.Allegiance><style=Vocab>效忠</style></link>：<br>賦予牌組最上方的友軍單位+3|+3與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。",
     		descriptionRaw: "效忠：賦予牌組最上方的友軍單位+3|+3與勢不可擋。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -14632,8 +14549,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI036.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI036-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI036.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI036-full.png"
     			}
     		],
     		region: "闇影島",
@@ -14641,7 +14558,7 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "若本回合有友軍單位陣亡，則召喚2個<link=card.create><style=AssociatedCard>小蜘蛛</style></link>。",
+    		description: "若本回合有友軍單位陣亡，<br>則召喚2個<link=card.create><style=AssociatedCard>小蜘蛛</style></link>。",
     		descriptionRaw: "若本回合有友軍單位陣亡，則召喚2個小蜘蛛。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -14676,8 +14593,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR009T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR009T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR009T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR009T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -14685,7 +14602,7 @@ var app = (function () {
     		attack: 2,
     		cost: 4,
     		health: 6,
-    		description: "此牌承受傷害且未陣亡時，召喚1個<link=card.create><style=AssociatedCard>大力普羅</style></link>。",
+    		description: "此牌承受傷害且未陣亡時，<br>召喚1個<link=card.create><style=AssociatedCard>大力普羅</style></link>。",
     		descriptionRaw: "此牌承受傷害且未陣亡時，召喚1個大力普羅。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -14719,8 +14636,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO013.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO013-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO013.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO013-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -14760,8 +14677,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ031.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ031-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ031.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ031-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -14801,8 +14718,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI024.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI024-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI024.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI024-full.png"
     			}
     		],
     		region: "闇影島",
@@ -14842,8 +14759,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI051.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI051-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI051.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI051-full.png"
     			}
     		],
     		region: "闇影島",
@@ -14851,7 +14768,7 @@ var app = (function () {
     		attack: 4,
     		cost: 5,
     		health: 4,
-    		description: "1個友軍單位陣亡時，恢復我方的法術魔力。",
+    		description: "1個友軍單位陣亡時，<br>恢復我方的法術魔力。",
     		descriptionRaw: "1個友軍單位陣亡時，恢復我方的法術魔力。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -14881,8 +14798,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR026.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR026-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR026.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR026-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -14922,8 +14839,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX054.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX054-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX054.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX054-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -14931,7 +14848,7 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>所有力量值4點或以下的敵軍單位。",
+    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>所有<br>力量值4點或以下的敵軍單位。",
     		descriptionRaw: "擊暈所有力量值4點或以下的敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -14964,8 +14881,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX006T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX006T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX006T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX006T2-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -14973,7 +14890,7 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "除了<link=card.vlad><style=AssociatedCard>弗拉迪米爾</style></link>，對每個攻擊中友軍單位造成1點傷害，且每傷害1個攻擊中友軍單位，便對敵方主堡造成1點傷害。",
+    		description: "除了<link=card.vlad><style=AssociatedCard>弗拉迪米爾</style></link>，<br>對每個攻擊中友軍單位造成1點傷害，<br>且每傷害1個攻擊中友軍單位，<br>便對敵方主堡造成1點傷害。",
     		descriptionRaw: "除了弗拉迪米爾，對每個攻擊中友軍單位造成1點傷害，且每傷害1個攻擊中友軍單位，便對敵方主堡造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -15005,8 +14922,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ059.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ059-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ059.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ059-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -15044,8 +14961,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX029.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX029-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX029.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX029-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -15053,7 +14970,7 @@ var app = (function () {
     		attack: 4,
     		cost: 4,
     		health: 5,
-    		description: "每當其他友軍單位承受傷害且未陣亡時，賦予該單位+1|+0。",
+    		description: "每當其他友軍單位<br>承受傷害且未陣亡時，<br>賦予該單位+1|+0。",
     		descriptionRaw: "每當其他友軍單位承受傷害且未陣亡時，賦予該單位+1|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -15083,8 +15000,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR030.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR030-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR030.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR030-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -15092,7 +15009,7 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>1個生命值3點或以下的敵軍單位。",
+    		description: "<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>1個生命值3點或以下的<br>敵軍單位。",
     		descriptionRaw: "凍傷1個生命值3點或以下的敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -15124,8 +15041,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX014-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX014-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -15163,8 +15080,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI012.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI012-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI012.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI012-full.png"
     			}
     		],
     		region: "闇影島",
@@ -15172,7 +15089,7 @@ var app = (function () {
     		attack: 2,
     		cost: 1,
     		health: 1,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：賦予手牌中1個友軍單位<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>，且魔耗值-1。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<br>賦予手牌中1個友軍單位<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>，<br>且魔耗值-1。",
     		descriptionRaw: "出牌：賦予手牌中1個友軍單位閃靈，且魔耗值-1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -15204,8 +15121,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI052T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI052T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI052T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI052T2-full.png"
     			}
     		],
     		region: "闇影島",
@@ -15213,8 +15130,8 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "對本回合召喚的每個敵軍單位造成3點傷害。\r\n將1張<link=card.level1><style=AssociatedCard>瑟雷西</style></link>洗入我方牌組。",
-    		descriptionRaw: "對本回合召喚的每個敵軍單位造成3點傷害。\r\n將1張瑟雷西洗入我方牌組。",
+    		description: "對本回合召喚的所有敵軍單位<br>造成3點傷害。<br>將1張<link=card.level1><style=AssociatedCard>瑟雷西</style></link>洗入我方牌組。",
+    		descriptionRaw: "對本回合召喚的所有敵軍單位造成3點傷害。將1張瑟雷西洗入我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「沒人逃得了。」——瑟雷西",
@@ -15245,8 +15162,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ001-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -15254,8 +15171,8 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "棄置2張牌，接著抽2張牌。\r\n若手牌中除此牌外只剩1張牌，則棄置該牌，接著抽1張牌。",
-    		descriptionRaw: "棄置2張牌，接著抽2張牌。\r\n若手牌中除此牌外只剩1張牌，則棄置該牌，接著抽1張牌。",
+    		description: "棄置2張牌，接著抽2張牌。<br>\r\n\n若手牌中除此牌外只剩1張牌，<br>則棄置該牌，接著抽1張牌。",
+    		descriptionRaw: "棄置2張牌，接著抽2張牌。\r\n\n若手牌中除此牌外只剩1張牌，則棄置該牌，接著抽1張牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「噢～老天，五名特警還有一個石像？等等！我有個法寶！放去哪裡啦……」——吉茵珂絲",
@@ -15288,8 +15205,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX042T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX042T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX042T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX042T2-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -15329,8 +15246,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR013.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR013-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR013.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR013-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -15338,7 +15255,7 @@ var app = (function () {
     		attack: 3,
     		cost: 6,
     		health: 8,
-    		description: "此牌承受傷害且未陣亡時，賦予此牌+3|+0。",
+    		description: "此牌承受傷害且未陣亡時，<br>賦予此牌+3|+0。",
     		descriptionRaw: "此牌承受傷害且未陣亡時，賦予此牌+3|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -15371,8 +15288,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ057.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ057-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ057.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ057-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -15412,8 +15329,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI031.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI031-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI031.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI031-full.png"
     			}
     		],
     		region: "闇影島",
@@ -15421,8 +15338,8 @@ var app = (function () {
     		attack: 2,
     		cost: 3,
     		health: 4,
-    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link> ：場上每有1個<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>友軍單位，則賦予此牌+1|+0。",
-    		descriptionRaw: "攻擊 ：場上每有1個閃靈友軍單位，則賦予此牌+1|+0。",
+    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：<br>場上每有1個<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>友軍單位，<br>則賦予此牌+1|+0。",
+    		descriptionRaw: "攻擊：場上每有1個閃靈友軍單位，則賦予此牌+1|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "不論生前死後，他都站在前線吼出扭曲黑暗的命令。而不論生前死後，赫克林的忠心騎士定會齊聲回應，衝鋒殺敵。",
@@ -15455,8 +15372,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX038T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX038T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX038T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX038T1-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -15496,8 +15413,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI034.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI034-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI034.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI034-full.png"
     			}
     		],
     		region: "闇影島",
@@ -15505,7 +15422,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "若本回合有友軍單位陣亡，則可對1個單位造成3點傷害。",
+    		description: "若本回合有友軍單位陣亡，<br>則可對1個單位造成3點傷害。",
     		descriptionRaw: "若本回合有友軍單位陣亡，則可對1個單位造成3點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -15538,8 +15455,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI043.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI043-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI043.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI043-full.png"
     			}
     		],
     		region: "闇影島",
@@ -15579,8 +15496,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO018.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO018-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO018.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO018-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -15588,7 +15505,7 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "本回合給予1個友軍單位+1|+0與<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>。",
+    		description: "本回合給予1個友軍單位<br>+1|+0與<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>。",
     		descriptionRaw: "本回合給予1個友軍單位+1|+0與快速攻擊。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -15622,8 +15539,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ056T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ056T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ056T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ056T3-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -15663,8 +15580,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR019.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR019-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR019.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR019-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -15672,7 +15589,7 @@ var app = (function () {
     		attack: 0,
     		cost: 7,
     		health: 0,
-    		description: "擊殺所有力量值0的敵軍單位，接著<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>所有敵軍單位。",
+    		description: "擊殺所有力量值0的敵軍單位，<br>接著<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>所有敵軍單位。",
     		descriptionRaw: "擊殺所有力量值0的敵軍單位，接著凍傷所有敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -15704,8 +15621,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE033.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE033-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE033.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE033-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -15713,7 +15630,7 @@ var app = (function () {
     		attack: 0,
     		cost: 6,
     		health: 0,
-    		description: "本回合每有1個友軍單位陣亡，則此牌魔耗值-1。隨機召喚1個魔耗值5的蒂瑪西亞侍從單位。",
+    		description: "本回合每有1個友軍單位陣亡，<br>則此牌魔耗值-1。<br>隨機召喚1個魔耗值5的<br>蒂瑪西亞侍從單位。",
     		descriptionRaw: "本回合每有1個友軍單位陣亡，則此牌魔耗值-1。隨機召喚1個魔耗值5的蒂瑪西亞侍從單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -15745,8 +15662,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI009-full.png"
     			}
     		],
     		region: "闇影島",
@@ -15784,8 +15701,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ027.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ027-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ027.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ027-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -15793,7 +15710,7 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "用盡所有魔力即可出此牌。\r\n<style=Variable>對1個單位造成等同消耗魔力的傷害。</style>",
+    		description: "用盡所有魔力即可出此牌。\r\n<style=Variable>對1個單位造成<br>等同消耗魔力的傷害。</style>",
     		descriptionRaw: "用盡所有魔力即可出此牌。\r\n對1個單位造成等同消耗魔力的傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -15827,8 +15744,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE045T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE045T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE045T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE045T1-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -15836,8 +15753,8 @@ var app = (function () {
     		attack: 4,
     		cost: 3,
     		health: 4,
-    		description: "此牌擊殺4個敵軍並存活，我方即贏下牌局。<style=Variable></style>",
-    		descriptionRaw: "此牌擊殺4個敵軍並存活，我方即贏下牌局。",
+    		description: "此牌擊殺4個敵軍單位並存活，<br>我方即贏下牌局。<style=Variable></style>",
+    		descriptionRaw: "此牌擊殺4個敵軍單位並存活，我方即贏下牌局。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「現在我懂了。」",
@@ -15868,8 +15785,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR041.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR041-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR041.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR041-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -15877,13 +15794,13 @@ var app = (function () {
     		attack: 5,
     		cost: 5,
     		health: 5,
-    		description: "召喚此牌時，賦予牌組中友軍單位+1|+1。",
-    		descriptionRaw: "召喚此牌時，賦予牌組中友軍單位+1|+1。",
+    		description: "召喚此牌時，賦予牌組中所有友軍單位+1|+1。",
+    		descriptionRaw: "召喚此牌時，賦予牌組中所有友軍單位+1|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「眾多部族為了同一面旗幟而戰！或許終有一天，弗雷爾卓德全體能齊心禦敵。」",
     		artistName: "SIXMOREVODKA",
-    		name: "艾伐洛森爐衛",
+    		name: "艾伐洛森爐衛 ",
     		cardCode: "01FR041",
     		keywords: [
     		],
@@ -15908,8 +15825,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX051.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX051-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX051.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX051-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -15917,7 +15834,7 @@ var app = (function () {
     		attack: 8,
     		cost: 8,
     		health: 8,
-    		description: "召喚此牌時，在手牌生成3張<link=card.create><style=AssociatedCard>毀滅風暴</style></link>。",
+    		description: "召喚此牌時，<br>在手牌生成3張<link=card.create><style=AssociatedCard>毀滅風暴</style></link>。",
     		descriptionRaw: "召喚此牌時，在手牌生成3張毀滅風暴。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -15949,8 +15866,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR025.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR025-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR025.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR025-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -15958,7 +15875,7 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 3,
-    		description: "召喚此牌時，若我方場上有普羅單位，則抽1張普羅牌。",
+    		description: "召喚此牌時，<br>若我方場上有普羅單位，<br>則抽1張普羅牌。",
     		descriptionRaw: "召喚此牌時，若我方場上有普羅單位，則抽1張普羅牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -15991,8 +15908,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE042T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE042T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE042T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE042T2-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -16032,8 +15949,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE044.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE044-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE044.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE044-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -16041,7 +15958,7 @@ var app = (function () {
     		attack: 0,
     		cost: 6,
     		health: 0,
-    		description: "完全治癒1個友軍單位，並使其力量值與生命值加倍。",
+    		description: "完全治癒1個友軍單位，<br>並使其力量值與生命值加倍。",
     		descriptionRaw: "完全治癒1個友軍單位，並使其力量值與生命值加倍。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -16073,8 +15990,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX012.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX012-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX012.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX012-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -16114,8 +16031,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE024.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE024-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE024.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE024-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -16123,7 +16040,7 @@ var app = (function () {
     		attack: 1,
     		cost: 1,
     		health: 1,
-    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：在手牌生成1張魔耗值6點或以上法術，必不屬於蒂瑪西亞區域。",
+    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<br>在手牌生成1張魔耗值6點或以上法術，<br>必不屬於蒂瑪西亞區域。",
     		descriptionRaw: "遺願：在手牌生成1張魔耗值6點或以上法術，必不屬於蒂瑪西亞區域。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -16155,8 +16072,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI007T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI007T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI007T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI007T1-full.png"
     			}
     		],
     		region: "闇影島",
@@ -16196,8 +16113,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX043.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX043-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX043.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX043-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -16237,8 +16154,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO056T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO056T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO056T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO056T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16275,13 +16192,13 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"01SI030",
-    			"01SI030T2"
+    			"01SI030T2",
+    			"01SI030"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI030T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI030T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI030T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI030T1-full.png"
     			}
     		],
     		region: "闇影島",
@@ -16289,8 +16206,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "若本回合有友軍單位陣亡，則可對1個單位造成3點傷害。\r\n將1張<link=card.level1><style=AssociatedCard>克黎思妲</style></link>洗入我方牌組。",
-    		descriptionRaw: "若本回合有友軍單位陣亡，則可對1個單位造成3點傷害。\r\n將1張克黎思妲洗入我方牌組。",
+    		description: "若本回合有友軍單位陣亡，<br>則可對1個單位造成3點傷害。<br>將1張<link=card.level1><style=AssociatedCard>克黎思妲</style></link>洗入我方牌組。",
+    		descriptionRaw: "若本回合有友軍單位陣亡，則可對1個單位造成3點傷害。將1張克黎思妲洗入我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「黑矛為墮落的靈魂吟唱。」——克黎思妲",
@@ -16321,8 +16238,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX037.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX037-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX037.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX037-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -16362,8 +16279,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO016.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO016-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO016-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16401,8 +16318,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI056.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI056-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI056.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI056-full.png"
     			}
     		],
     		region: "闇影島",
@@ -16410,8 +16327,8 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 2,
-    		description: "召喚此牌時，本回合給予我方蜘蛛單位+1|+0，並使敵軍單位<nobr>-1|-0</nobr>。",
-    		descriptionRaw: "召喚此牌時，本回合給予我方蜘蛛單位+1|+0，並使敵軍單位-1|-0。",
+    		description: "召喚此牌時，<br>本回合給予我方其他蜘蛛單位+1|+0，<br>並使所有敵軍單位<nobr>-1|-0</nobr>。",
+    		descriptionRaw: "召喚此牌時，本回合給予我方其他蜘蛛單位+1|+0，並使所有敵軍單位-1|-0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「牠們不用一分鐘就能吐絲纏捆一個人……需要示範一下嗎？」——伊莉絲",
@@ -16443,8 +16360,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX010-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -16452,7 +16369,7 @@ var app = (function () {
     		attack: 4,
     		cost: 5,
     		health: 4,
-    		description: "召喚此牌時，本牌局我方每<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>或<link=keyword.Recall><style=Keyword>召回</style></link>1個單位，則賦予此牌+1|+1。<style=Variable></style>",
+    		description: "召喚此牌時，<br>本牌局我方每<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>或<link=keyword.Recall><style=Keyword>召回</style></link>1個單位，<br>則賦予此牌+1|+1。<style=Variable></style>",
     		descriptionRaw: "召喚此牌時，本牌局我方每擊暈或召回1個單位，則賦予此牌+1|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -16484,8 +16401,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX017.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX017-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX017.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX017-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -16493,7 +16410,7 @@ var app = (function () {
     		attack: 3,
     		cost: 2,
     		health: 2,
-    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：本回合給予此牌支援的友軍單位<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>。",
+    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：<br>本回合給予此牌支援的友軍單位<br><link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>。",
     		descriptionRaw: "支援：本回合給予此牌支援的友軍單位快速攻擊。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -16523,8 +16440,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE004-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -16532,7 +16449,7 @@ var app = (function () {
     		attack: 2,
     		cost: 4,
     		health: 1,
-    		description: "召喚此牌時，再召喚1個與此牌相同的複製單位。",
+    		description: "召喚此牌時，<br>再召喚1個與此牌相同的複製單位。",
     		descriptionRaw: "召喚此牌時，再召喚1個與此牌相同的複製單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -16565,8 +16482,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI001-full.png"
     			}
     		],
     		region: "闇影島",
@@ -16606,8 +16523,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE011.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE011-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE011.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE011-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -16647,8 +16564,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO036.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO036-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO036.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO036-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16656,8 +16573,8 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 1,
-    		description: "<link=vocab.Strike><style=Vocab>打擊</style></link>：手牌中魔耗值最高的單位魔耗值-1。",
-    		descriptionRaw: "打擊：手牌中魔耗值最高的單位魔耗值-1。",
+    		description: "<link=vocab.Strike><style=Vocab>打擊</style></link>：<br>使手牌中魔耗值最高的單位魔耗值-1。",
+    		descriptionRaw: "打擊：使手牌中魔耗值最高的單位魔耗值-1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「巡邏兵，有一……不對……兩隻巨型毛茸生物朝著我們過來了！呼叫支——喔，等等，望遠鏡又拿反了……」",
@@ -16686,8 +16603,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ055.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ055-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ055.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ055-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -16695,7 +16612,7 @@ var app = (function () {
     		attack: 1,
     		cost: 1,
     		health: 2,
-    		description: "我方抽牌時，本回合給予此牌+1|+0。",
+    		description: "我方抽牌時，<br>本回合給予此牌+1|+0。",
     		descriptionRaw: "我方抽牌時，本回合給予此牌+1|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -16728,8 +16645,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ008-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -16737,9 +16654,9 @@ var app = (function () {
     		attack: 1,
     		cost: 1,
     		health: 1,
-    		description: "<link=vocab.Nexus Strike><style=Vocab>打擊主堡</style></link>：將5張<link=card.shuffle><style=AssociatedCard>劇毒膨菇</style></link>隨機植入敵方牌組。",
+    		description: "<link=vocab.Nexus Strike><style=Vocab>打擊主堡</style></link>：<br>將5張<link=card.shuffle><style=AssociatedCard>劇毒膨菇</style></link>隨機植入敵方牌組。",
     		descriptionRaw: "打擊主堡：將5張劇毒膨菇隨機植入敵方牌組。",
-    		levelupDescription: "把15張或以上<link=card.shuffle><style=AssociatedCard>劇毒膨菇</style></link>植入敵方牌組<style=Variable></style>。",
+    		levelupDescription: "把15張或以上<link=card.shuffle><style=AssociatedCard>劇毒膨菇</style></link><br>植入敵方牌組<style=Variable></style>。",
     		levelupDescriptionRaw: "把15張或以上劇毒膨菇植入敵方牌組。",
     		flavorText: "「班德爾偵察隊第154條守則：未知不足以為懼！第276條守則：森林居民是我們的朋友！第354條守則：毛茸茸的東西或許可以摸，但絕對不能吃！第417條守則……」",
     		artistName: "SIXMOREVODKA",
@@ -16769,8 +16686,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ056T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ056T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ056T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ056T2-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -16812,8 +16729,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ014-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ014-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -16854,8 +16771,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE047.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE047-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE047.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE047-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -16895,8 +16812,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX003-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -16904,7 +16821,7 @@ var app = (function () {
     		attack: 2,
     		cost: 3,
     		health: 1,
-    		description: "<link=vocab.RoundStart><style=Vocab>回合開始：</style></link>棄置我方手牌魔耗值最低的牌，並抽1張牌。",
+    		description: "<br><link=vocab.RoundStart><style=Vocab>回合開始：<br></style></link>棄置我方手牌魔耗值最低的牌，<br>並抽1張牌。",
     		descriptionRaw: "回合開始：棄置我方手牌魔耗值最低的牌，並抽1張牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -16934,8 +16851,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE046.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE046-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE046.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE046-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -16974,8 +16891,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR054.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR054-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR054.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR054-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -17017,8 +16934,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE050.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE050-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE050.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE050-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -17058,8 +16975,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR021T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR021T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR021T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR021T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -17100,8 +17017,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR043.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR043-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR043.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR043-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -17109,7 +17026,7 @@ var app = (function () {
     		attack: 4,
     		cost: 6,
     		health: 4,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：將所有我方場上的普羅結合成為1個<link=card.transform><style=AssociatedCard>普羅成群</style></link>，它能獲得所有的能力值與特性。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<br>將所有我方場上的普羅<br>結合成為1個<link=card.transform><style=AssociatedCard>普羅成群</style></link>，<br>它能獲得所有的能力值與特性。",
     		descriptionRaw: "出牌：將所有我方場上的普羅結合成為1個普羅成群，它能獲得所有的能力值與特性。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -17140,8 +17057,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR049T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR049T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR049T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR049T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -17179,8 +17096,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR033.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR033-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR033.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR033-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -17188,7 +17105,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 4,
-    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：本回合額外獲得1顆魔力寶石。",
+    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：<br>本回合額外獲得1顆魔力寶石。",
     		descriptionRaw: "回合開始：本回合額外獲得1顆魔力寶石。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -17218,8 +17135,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI019.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI019-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI019.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI019-full.png"
     			}
     		],
     		region: "闇影島",
@@ -17227,8 +17144,8 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "對本回合召喚的每個敵軍單位造成3點傷害。",
-    		descriptionRaw: "對本回合召喚的每個敵軍單位造成3點傷害。",
+    		description: "對本回合召喚的所有敵軍單位<br>造成3點傷害。",
+    		descriptionRaw: "對本回合召喚的所有敵軍單位造成3點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「沒人逃得了。」——瑟雷西",
@@ -17259,8 +17176,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE042T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE042T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE042T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE042T3-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -17305,8 +17222,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO033.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO033-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO033.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO033-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17344,8 +17261,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX039.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX039-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX039.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX039-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -17385,8 +17302,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR011.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR011-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR011.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR011-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -17425,8 +17342,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ034.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ034-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ034.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ034-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -17434,7 +17351,7 @@ var app = (function () {
     		attack: 4,
     		cost: 4,
     		health: 3,
-    		description: "<link=vocab.Allegiance><style=Vocab>效忠</style></link>：在手牌生成1張<link=card.create><style=AssociatedCard>汙水坑地圖</style></link>。本回合該牌的魔耗值為0。",
+    		description: "<link=vocab.Allegiance><style=Vocab>效忠</style></link>：<br>在手牌生成1張<link=card.create><style=AssociatedCard>汙水坑地圖</style></link>。<br>本回合該牌的魔耗值為0。",
     		descriptionRaw: "效忠：在手牌生成1張汙水坑地圖。本回合該牌的魔耗值為0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -17464,8 +17381,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR050.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR050-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR050.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR050-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -17473,7 +17390,7 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 3,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：治癒1個友軍單位或我方主堡3點生命。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<br>治癒1個友軍單位或<br>我方主堡3點生命。",
     		descriptionRaw: "出牌：治癒1個友軍單位或我方主堡3點生命。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -17503,8 +17420,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ014T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ014T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ014T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ014T1-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -17542,8 +17459,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX041.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX041-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX041.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX041-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -17585,8 +17502,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR039T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR039T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR039T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR039T2-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -17631,8 +17548,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR038T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR038T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR038T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR038T2-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -17640,8 +17557,8 @@ var app = (function () {
     		attack: 6,
     		cost: 4,
     		health: 4,
-    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>的敵軍單位。\r\n力量值0的敵軍單位無法進行格檔。",
-    		descriptionRaw: "攻擊：凍傷最強的敵軍單位。\r\n力量值0的敵軍單位無法進行格檔。",
+    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。\r\n力量值0的敵軍單位無法進行格檔。",
+    		descriptionRaw: "攻擊：凍傷最強敵軍單位。\r\n力量值0的敵軍單位無法進行格檔。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「你我不是敵人，無法無天的漫長冬季才是真正的仇敵。我們都是弗雷爾卓德的子民，這片土地歸屬我們全體！」 ",
@@ -17671,8 +17588,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ060.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ060-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ060.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ060-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -17680,7 +17597,7 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "若我方在本牌局打出<style=Variable>15</style>張不同名稱的卡牌，則召喚1個<link=card.summon><style=AssociatedCard>貓劫降臨</style></link>。<style=Variable></style>",
+    		description: "若我方在本牌局打出<br><style=Variable>15</style>張不同名稱的卡牌，<br>則召喚1個<link=card.summon><style=AssociatedCard>貓劫降臨</style></link>。<style=Variable></style>",
     		descriptionRaw: "若我方在本牌局打出15張不同名稱的卡牌，則召喚1個貓劫降臨。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -17714,8 +17631,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO015.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO015-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO015.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO015-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17723,9 +17640,9 @@ var app = (function () {
     		attack: 4,
     		cost: 4,
     		health: 4,
-    		description: "我方<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>或<link=keyword.Recall><style=Keyword>召回</style></link>1個敵軍單位時，此牌對該單位造成2點傷害。",
+    		description: "我方<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>或<link=keyword.Recall><style=Keyword>召回</style></link>1個敵軍單位時，<br>此牌對該單位造成2點傷害。",
     		descriptionRaw: "我方擊暈或召回1個敵軍單位時，此牌對該單位造成2點傷害。",
-    		levelupDescription: "我方<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>或<link=keyword.Recall><style=Keyword>召回</style></link>5個或以上單位<style=Variable></style>。",
+    		levelupDescription: "我方<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>或<link=keyword.Recall><style=Keyword>召回</style></link><br>5個或以上單位<style=Variable></style>。",
     		levelupDescriptionRaw: "我方擊暈或召回5個或以上單位。",
     		flavorText: "「死亡就像風...」",
     		artistName: "SIXMOREVODKA",
@@ -17755,8 +17672,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO001-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17764,7 +17681,7 @@ var app = (function () {
     		attack: 0,
     		cost: 7,
     		health: 0,
-    		description: "治癒1個友軍單位或我方主堡7點生命。抽1張牌。",
+    		description: "治癒1個友軍單位<br>或我方主堡7點生命。<br>抽1張牌。",
     		descriptionRaw: "治癒1個友軍單位或我方主堡7點生命。抽1張牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -17796,8 +17713,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE016.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE016-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE016-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -17836,8 +17753,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO010-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17845,7 +17762,7 @@ var app = (function () {
     		attack: 0,
     		cost: 6,
     		health: 0,
-    		description: "調換2個友軍單位位置，並在本回合給予其<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
+    		description: "調換2個友軍單位位置，<br>並在本回合給予其<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
     		descriptionRaw: "調換2個友軍單位位置，並在本回合給予其光盾。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -17877,8 +17794,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO012.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO012-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO012.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO012-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17886,7 +17803,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "本回合給予1個友軍單位+3|+0或+0|+3。",
+    		description: "本回合給予1個友軍單位<br>+3|+0或+0|+3。",
     		descriptionRaw: "本回合給予1個友軍單位+3|+0或+0|+3。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -17918,8 +17835,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR052T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR052T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR052T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR052T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -17927,7 +17844,7 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>手牌及場上所有力量值4點或以下的侍從單位。",
+    		description: "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>手牌及場上所有<br>力量值4點或以下的侍從單位。",
     		descriptionRaw: "泯滅手牌及場上所有力量值4點或以下的侍從單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -17959,8 +17876,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE040.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE040-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE040.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE040-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -17968,7 +17885,7 @@ var app = (function () {
     		attack: 3,
     		cost: 2,
     		health: 2,
-    		description: "若我方在本牌局已施放1張魔耗值6點或以上的法術牌，則賦予此牌+1|+1與<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。",
+    		description: "若我方在本牌局已施放1張<br>魔耗值6點或以上的法術牌，<br>則賦予此牌+1|+1與<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。",
     		descriptionRaw: "若我方在本牌局已施放1張魔耗值6點或以上的法術牌，則賦予此牌+1|+1與挑戰者。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -17998,8 +17915,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX036.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX036-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX036.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX036-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -18037,8 +17954,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX044.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX044-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX044.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX044-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -18078,8 +17995,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE036.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE036-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE036.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE036-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -18118,8 +18035,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI011.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI011-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI011.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI011-full.png"
     			}
     		],
     		region: "闇影島",
@@ -18160,8 +18077,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO009T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO009T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO009T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO009T3-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18169,8 +18086,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "<link=keyword.Recall><style=Keyword>召回</style></link>1個友軍單位，召喚1個<link=card.create><style=AssociatedCard>疾風殘影</style></link>取而代之。\r\n將1張<link=card.level1><style=AssociatedCard>劫</style></link>洗入我方牌組。",
-    		descriptionRaw: "召回1個友軍單位，召喚1個疾風殘影取而代之。\r\n將1張劫洗入我方牌組。",
+    		description: "<link=keyword.Recall><style=Keyword>召回</style></link>1個友軍單位，<br>召喚1個<link=card.create><style=AssociatedCard>疾風殘影</style></link>取而代之。<br>將1張<link=card.level1><style=AssociatedCard>劫</style></link>洗入我方牌組。",
+    		descriptionRaw: "召回1個友軍單位，召喚1個疾風殘影取而代之。將1張劫洗入我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "你眼前的敵人確實存在嗎？還是說，它只是暗影的障眼法？",
@@ -18204,8 +18121,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI042T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI042T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI042T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI042T2-full.png"
     			}
     		],
     		region: "闇影島",
@@ -18245,8 +18162,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE037.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE037-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE037.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE037-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -18254,7 +18171,7 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "本回合給予1個友軍單位+3|+0與<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
+    		description: "本回合給予1個友軍單位<br>+3|+0與<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
     		descriptionRaw: "本回合給予1個友軍單位+3|+0與光盾。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -18286,8 +18203,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ056T5.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ056T5-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ056T5.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ056T5-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -18329,8 +18246,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI027.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI027-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI027.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI027-full.png"
     			}
     		],
     		region: "闇影島",
@@ -18338,7 +18255,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "若本回合有3個或以上友軍單位陣亡，則召喚<link=card.summon><style=AssociatedCard>威洛魔</style></link>。\r\n<style=Variable></style>",
+    		description: "若本回合有3個或以上<br>友軍單位陣亡，<br>則召喚<link=card.summon><style=AssociatedCard>威洛魔</style></link>。\r\n<style=Variable></style>",
     		descriptionRaw: "若本回合有3個或以上友軍單位陣亡，則召喚威洛魔。\r\n",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -18370,8 +18287,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ003-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -18411,8 +18328,49 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO021.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO021-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO022.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO022-full.png"
+    			}
+    		],
+    		region: "愛歐尼亞",
+    		regionRef: "Ionia",
+    		attack: 0,
+    		cost: 1,
+    		health: 0,
+    		description: "本回合給予1個友軍單位<link=keyword.Elusive><sprite name=Elusive><style=Keyword>隱密</style></link>。",
+    		descriptionRaw: "本回合給予1個友軍單位隱密。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「即刻出發，保持隱匿……任務完成之前不許回來。」——劫",
+    		artistName: "Kudos Productions",
+    		name: "鬼步",
+    		cardCode: "01IO022",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO021.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO021-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18420,7 +18378,7 @@ var app = (function () {
     		attack: 4,
     		cost: 7,
     		health: 2,
-    		description: "召喚此牌時，本回合給予其他友軍單位+2|+2。",
+    		description: "召喚此牌時，<br>本回合給予其他友軍單位+2|+2。",
     		descriptionRaw: "召喚此牌時，本回合給予其他友軍單位+2|+2。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -18452,8 +18410,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR016.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR016-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR016-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -18493,8 +18451,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX005-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -18535,8 +18493,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ040T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ040T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ040T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ040T1-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -18544,8 +18502,8 @@ var app = (function () {
     		attack: 5,
     		cost: 4,
     		health: 4,
-    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：抽1張牌。\r\n每回合我方第一次用盡手牌時，在手牌生成1張<link=card.create><style=AssociatedCard>超威能死亡火箭！</style></link>。",
-    		descriptionRaw: "回合開始：抽1張牌。\r\n每回合我方第一次用盡手牌時，在手牌生成1張超威能死亡火箭！。",
+    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：抽1張牌。<br>每回合我方首次用盡手牌時，<br>在手牌生成1張<link=card.create><style=AssociatedCard>超威能死亡火箭！</style></link>。",
+    		descriptionRaw: "回合開始：抽1張牌。每回合我方首次用盡手牌時，在手牌生成1張超威能死亡火箭！。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「一開始挺輕鬆有趣的，後來突然發生爆炸——表示狂歡時間到啦！」",
@@ -18576,8 +18534,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR005-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -18618,8 +18576,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE014-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE014-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -18627,8 +18585,8 @@ var app = (function () {
     		attack: 0,
     		cost: 8,
     		health: 0,
-    		description: "召喚2個<link=card.summon><style=AssociatedCard>無畏先鋒</style></link>，並賦予菁英友軍單位+1|+1。",
-    		descriptionRaw: "召喚2個無畏先鋒，並賦予菁英友軍單位+1|+1。",
+    		description: "召喚2個<link=card.summon><style=AssociatedCard>無畏先鋒</style></link>，<br>並賦予我方菁英單位+1|+1。",
+    		descriptionRaw: "召喚2個無畏先鋒，並賦予我方菁英單位+1|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「我們的對手深明，凡攻擊我們任何一人，就等於攻擊我們全體。」——無畏先鋒守則\n",
@@ -18659,8 +18617,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO054.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO054-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO054.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO054-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18697,55 +18655,14 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE013.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE013-full.png"
-    			}
-    		],
-    		region: "蒂瑪西亞",
-    		regionRef: "Demacia",
-    		attack: 0,
-    		cost: 1,
-    		health: 0,
-    		description: "賦予1個友軍單位<link=keyword.Tough><sprite name=Tough><style=Keyword>堅忍</style></link>。",
-    		descriptionRaw: "賦予1個友軍單位堅忍。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "蒂瑪西亞之鋼因超凡強度而家喻戶曉。鐵匠需要擁有與其相當的力量和聲望方能鍛造。",
-    		artistName: "Kudos Productions",
-    		name: "鎖子甲",
-    		cardCode: "01DE013",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
     			"01IO009T2",
     			"01IO009T3",
     			"01IO009T1"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO009-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18753,10 +18670,10 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 2,
-    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：召喚1個攻擊中的<link=card.summon><style=AssociatedCard>疾風殘影</style></link>，其能力值與此牌相同。",
+    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：召喚1個攻擊中的<link=card.summon><style=AssociatedCard>疾風殘影</style></link>，<br>其能力值與此牌相同。",
     		descriptionRaw: "攻擊：召喚1個攻擊中的疾風殘影，其能力值與此牌相同。",
-    		levelupDescription: "此牌與其暗影總共<link=vocab.Strike><style=Vocab>打擊</style></link>敵方主堡兩次<style=Variable></style>。",
-    		levelupDescriptionRaw: "此牌與其暗影總共打擊敵方主堡兩次。",
+    		levelupDescription: "此牌與其暗影<br>總共<link=vocab.Strike><style=Vocab>打擊</style></link>敵方主堡2次<style=Variable></style>。",
+    		levelupDescriptionRaw: "此牌與其暗影總共打擊敵方主堡2次。",
     		flavorText: "「只有愚者才追求平衡。暗影向我展現了真實的力量。」",
     		artistName: "SIXMOREVODKA",
     		name: "劫",
@@ -18787,8 +18704,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX042T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX042T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX042T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX042T1-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -18828,8 +18745,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX016.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX016-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX016-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -18837,7 +18754,7 @@ var app = (function () {
     		attack: 3,
     		cost: 2,
     		health: 2,
-    		description: "召喚此牌時，若場上有另1個諾克薩斯友軍單位，則賦予此牌+2|+0。",
+    		description: "召喚此牌時，<br>若場上有另1個諾克薩斯友軍單位，<br>則賦予此牌+2|+0。",
     		descriptionRaw: "召喚此牌時，若場上有另1個諾克薩斯友軍單位，則賦予此牌+2|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -18869,8 +18786,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR009T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR009T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR009T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR009T2-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -18910,8 +18827,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI014-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI014-full.png"
     			}
     		],
     		region: "闇影島",
@@ -18919,7 +18836,7 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 2,
-    		description: "召喚此牌時，賦予我方<link=vocab.Everywhere><style=Vocab>各處</style></link>的霧魅+1|+0。",
+    		description: "召喚此牌時，<br>賦予我方<link=vocab.Everywhere><style=Vocab>各處</style></link>的霧魅+1|+0。",
     		descriptionRaw: "召喚此牌時，賦予我方各處的霧魅+1|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -18951,8 +18868,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX019.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX019-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX019.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX019-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -18960,7 +18877,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "本回合給予1個友軍單位+3|+0與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。",
+    		description: "本回合給予1個友軍單位+3|+0<br>與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。",
     		descriptionRaw: "本回合給予1個友軍單位+3|+0與勢不可擋。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -18992,8 +18909,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO027.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO027-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO027.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO027-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -19001,7 +18918,7 @@ var app = (function () {
     		attack: 3,
     		cost: 2,
     		health: 1,
-    		description: "<link=vocab.Nexus Strike><style=Vocab>打擊主堡</style></link>：在手牌生成1張此牌的複製牌。",
+    		description: "<link=vocab.Nexus Strike><style=Vocab>打擊主堡</style></link>：<br>在手牌生成1張此牌的複製牌。",
     		descriptionRaw: "打擊主堡：在手牌生成1張此牌的複製牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -19036,8 +18953,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI007-full.png"
     			}
     		],
     		region: "闇影島",
@@ -19077,8 +18994,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI022.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI022-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI022.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI022-full.png"
     			}
     		],
     		region: "闇影島",
@@ -19086,7 +19003,7 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "賦予1個友軍單位+2|+2與<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>。",
+    		description: "賦予1個友軍單位<br>+2|+2與<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>。",
     		descriptionRaw: "賦予1個友軍單位+2|+2與閃靈。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -19120,8 +19037,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO032.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO032-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO032.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO032-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -19129,10 +19046,10 @@ var app = (function () {
     		attack: 3,
     		cost: 4,
     		health: 5,
-    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：本回合給予此牌支援的友軍單位<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
+    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：<br>本回合給予此牌支援的友軍單位<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
     		descriptionRaw: "支援：本回合給予此牌支援的友軍單位光盾。",
-    		levelupDescription: "此牌在場上時友軍獲得<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>4次或以上<style=Variable></style>。",
-    		levelupDescriptionRaw: "此牌在場上時友軍獲得光盾4次或以上。",
+    		levelupDescription: "此牌在場上時，<br>友軍單位獲得<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>4次或以上<style=Variable></style>。",
+    		levelupDescriptionRaw: "此牌在場上時，友軍單位獲得光盾4次或以上。",
     		flavorText: "「物質與精神領域相互纏繞，猶如緊扣的雙手...」 ",
     		artistName: "SIXMOREVODKA",
     		name: "慎",
@@ -19159,8 +19076,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX015.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX015-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX015.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX015-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -19202,8 +19119,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ044.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ044-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ044.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ044-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -19211,7 +19128,7 @@ var app = (function () {
     		attack: 5,
     		cost: 5,
     		health: 2,
-    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：對所有敵軍單位造成1點傷害。",
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：<br>對所有敵軍單位造成1點傷害。",
     		descriptionRaw: "出牌：對所有敵軍單位造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -19241,8 +19158,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR008-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -19250,7 +19167,7 @@ var app = (function () {
     		attack: 1,
     		cost: 1,
     		health: 1,
-    		description: "召喚此牌時，在手牌隨機生成1張魔耗值1的其他普羅牌。",
+    		description: "召喚此牌時，<br>在手牌隨機生成1張<br>魔耗值1的其他普羅牌。",
     		descriptionRaw: "召喚此牌時，在手牌隨機生成1張魔耗值1的其他普羅牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -19283,8 +19200,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO041.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO041-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO041.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO041-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -19292,10 +19209,10 @@ var app = (function () {
     		attack: 4,
     		cost: 6,
     		health: 3,
-    		description: "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：在手牌生成1張來自我方牌組區域的法術牌。",
+    		description: "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：<br>在手牌生成1張來自我方牌組區域的法術牌。",
     		descriptionRaw: "回合結束：在手牌生成1張來自我方牌組區域的法術牌。",
-    		levelupDescription: "我方獲得<link=keyword.Enlightened><style=Keyword>開悟</style></link>。",
-    		levelupDescriptionRaw: "我方獲得開悟。",
+    		levelupDescription: "我方進入<link=keyword.Enlightened><style=Keyword>開悟</style></link>狀態。",
+    		levelupDescriptionRaw: "我方進入開悟狀態。",
     		flavorText: "「在自省之中，我們能專注於心，找到繞過阻礙的新路。」",
     		artistName: "SIXMOREVODKA",
     		name: "卡瑪",
@@ -19322,8 +19239,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI006-full.png"
     			}
     		],
     		region: "闇影島",
@@ -19331,7 +19248,7 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "本回合控制1個敵軍侍從單位。（若我方場上已有6個友軍單位，則無法打出此牌）",
+    		description: "本回合控制1個敵軍侍從單位。<br>（若我方場上已有6個友軍單位，<br>則無法打出此牌）",
     		descriptionRaw: "本回合控制1個敵軍侍從單位。（若我方場上已有6個友軍單位，則無法打出此牌）",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -19363,8 +19280,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE015.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE015-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE015.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE015-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -19372,7 +19289,7 @@ var app = (function () {
     		attack: 5,
     		cost: 5,
     		health: 5,
-    		description: "召喚此牌時，若本回合有友軍單位陣亡，則賦予此牌<link=keyword.Lifesteal><sprite name=Lifesteal><style=Keyword>吸血</style></link>與<link=keyword.Tough><sprite name=Tough><style=Keyword>堅忍</style></link>。",
+    		description: "召喚此牌時，<br>若本回合有友軍單位陣亡，<br>則賦予此牌<link=keyword.Lifesteal><sprite name=Lifesteal><style=Keyword>吸血</style></link>與<link=keyword.Tough><sprite name=Tough><style=Keyword>堅忍</style></link>。",
     		descriptionRaw: "召喚此牌時，若本回合有友軍單位陣亡，則賦予此牌吸血與堅忍。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -19402,8 +19319,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ029.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ029-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ029.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ029-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -19411,7 +19328,7 @@ var app = (function () {
     		attack: 3,
     		cost: 4,
     		health: 3,
-    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：在手牌生成1張來自我方牌組區域的史詩牌。",
+    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<br>在手牌生成1張來自我方牌組區域的史詩牌。",
     		descriptionRaw: "遺願：在手牌生成1張來自我方牌組區域的史詩牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -19443,8 +19360,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX050.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX050-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX050.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX050-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -19484,8 +19401,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ056T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ056T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ056T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ056T1-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -19526,8 +19443,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO031.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO031-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO031.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO031-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -19565,8 +19482,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE003-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -19604,8 +19521,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR023.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR023-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR023.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR023-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -19613,7 +19530,7 @@ var app = (function () {
     		attack: 0,
     		cost: 12,
     		health: 0,
-    		description: "現在及每<link=vocab.RoundStart><style=Vocab>回合開始</style></link>時，召喚牌組最上方的友軍單位。",
+    		description: "現在及每<link=vocab.RoundStart><style=Vocab>回合開始</style></link>時，<br>召喚牌組最上方的友軍單位。",
     		descriptionRaw: "現在及每回合開始時，召喚牌組最上方的友軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -19646,8 +19563,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ033.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ033-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ033.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ033-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -19655,7 +19572,7 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "若我方在本牌局打出<style=Variable>20</style>張不同名稱的卡牌，則召喚1個<link=card.summon><style=AssociatedCard>貓劫降臨</style></link>。<style=Variable></style>",
+    		description: "若我方在本牌局打出<br><style=Variable>20</style>張不同名稱的卡牌，<br>則召喚1個<link=card.summon><style=AssociatedCard>貓劫降臨</style></link>。<style=Variable></style>",
     		descriptionRaw: "若我方在本牌局打出20張不同名稱的卡牌，則召喚1個貓劫降臨。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -19688,8 +19605,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI033T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI033T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI033T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI033T1-full.png"
     			}
     		],
     		region: "闇影島",
@@ -19697,7 +19614,7 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "對敵方主堡造成等同其當前一半生命值的傷害，無條件進位。",
+    		description: "對敵方主堡造成<br>等同其當前一半生命值的傷害，<br>無條件進位。",
     		descriptionRaw: "對敵方主堡造成等同其當前一半生命值的傷害，無條件進位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -19729,8 +19646,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ051.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ051-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ051.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ051-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -19738,8 +19655,8 @@ var app = (function () {
     		attack: 2,
     		cost: 5,
     		health: 3,
-    		description: "我方所有法術與<link=keyword.Skill><sprite name=PlaySkillMark><style=Keyword>技能</style></link>額外造成1點傷害。",
-    		descriptionRaw: "我方所有法術與技能額外造成1點傷害。",
+    		description: "使我方所有法術/技能<br>額外造成1點傷害。",
+    		descriptionRaw: "使我方所有法術/技能額外造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「想提高轟炸威力是吧？交給我就對了！」",
@@ -19768,8 +19685,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI028.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI028-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI028.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI028-full.png"
     			}
     		],
     		region: "闇影島",
@@ -19777,7 +19694,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "選擇1個友軍單位，召喚1個與之相同的複製單位，其為<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>且能力值為1|1。",
+    		description: "選擇1個友軍單位，<br>召喚1個與之相同的複製單位，<br>其為<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>且能力值為1|1。",
     		descriptionRaw: "選擇1個友軍單位，召喚1個與之相同的複製單位，其為閃靈且能力值為1|1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -19809,8 +19726,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI025.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI025-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI025.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI025-full.png"
     			}
     		],
     		region: "闇影島",
@@ -19818,7 +19735,7 @@ var app = (function () {
     		attack: 0,
     		cost: 6,
     		health: 0,
-    		description: "擊殺1個友軍單位，並對任1目標造成等同該單位力量值的傷害。",
+    		description: "擊殺1個友軍單位，並對任1目標<br>造成等同該單位力量值的傷害。",
     		descriptionRaw: "擊殺1個友軍單位，並對任1目標造成等同該單位力量值的傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -19852,8 +19769,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO015T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO015T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO015T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO015T2-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -19893,8 +19810,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO009T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO009T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO009T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO009T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -19934,8 +19851,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO002-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -19975,8 +19892,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR047.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR047-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR047.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR047-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -20016,8 +19933,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO033T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO033T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO033T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO033T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -20057,8 +19974,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO017.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO017-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO017.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO017-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -20066,7 +19983,7 @@ var app = (function () {
     		attack: 2,
     		cost: 1,
     		health: 1,
-    		description: "召喚此牌時，本回合給予此牌<link=keyword.Elusive><sprite name=Elusive><style=Keyword>隱密</style></link>。",
+    		description: "召喚此牌時，<br>本回合給予此牌<link=keyword.Elusive><sprite name=Elusive><style=Keyword>隱密</style></link>。",
     		descriptionRaw: "召喚此牌時，本回合給予此牌隱密。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -20096,8 +20013,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR056.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR056-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR056.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR056-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -20105,7 +20022,7 @@ var app = (function () {
     		attack: 5,
     		cost: 7,
     		health: 5,
-    		description: "召喚此牌時，<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>所有生命值3點或以下的敵軍單位。",
+    		description: "召喚此牌時，<br><link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>所有生命值3點或以下的<br>敵軍單位。",
     		descriptionRaw: "召喚此牌時，凍傷所有生命值3點或以下的敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -20136,8 +20053,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX056.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX056-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX056.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX056-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20145,7 +20062,7 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "對1個敵軍單位造成2點傷害，然後進行<link=vocab.Rally><style=Vocab>備戰</style></link>。",
+    		description: "對1個敵軍單位造成2點傷害，<br>然後進行<link=vocab.Rally><style=Vocab>備戰</style></link>。",
     		descriptionRaw: "對1個敵軍單位造成2點傷害，然後進行備戰。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -20178,8 +20095,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ022.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ022-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ022.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ022-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -20219,8 +20136,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ044T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ044T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ044T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ044T2-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -20260,8 +20177,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI046.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI046-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI046.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI046-full.png"
     			}
     		],
     		region: "闇影島",
@@ -20269,7 +20186,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "隨機復甦1個本回合陣亡的友軍單位。",
+    		description: "隨機復甦1個本回合陣亡的<br>友軍單位。",
     		descriptionRaw: "隨機復甦1個本回合陣亡的友軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -20301,8 +20218,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE026.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE026-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE026.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE026-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -20310,7 +20227,7 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "使1個友軍單位與1個敵軍單位互相<link=vocab.Strike><style=Vocab>打擊</style></link>。",
+    		description: "使1個友軍單位與1個敵軍單位<br>互相<link=vocab.Strike><style=Vocab>打擊</style></link>。",
     		descriptionRaw: "使1個友軍單位與1個敵軍單位互相打擊。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -20342,8 +20259,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ033T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ033T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ033T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ033T1-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -20383,8 +20300,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX033.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX033-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX033.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX033-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20392,8 +20309,8 @@ var app = (function () {
     		attack: 4,
     		cost: 4,
     		health: 3,
-    		description: "召喚此牌時，我方場上每有1個力量值5點或以上的友軍，則抽1張牌。",
-    		descriptionRaw: "召喚此牌時，我方場上每有1個力量值5點或以上的友軍，則抽1張牌。",
+    		description: "召喚此牌時，我方場上每有1個<br>力量值5點或以上的友軍單位，<br>則抽1張牌。",
+    		descriptionRaw: "召喚此牌時，我方場上每有1個力量值5點或以上的友軍單位，則抽1張牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「唯有堅決敏銳的眼力才能挑選出夠格加入特菲利安軍團的人才。她呢，她從一哩外就能從羊群中看見一隻狼。」——軍團大將軍",
@@ -20422,8 +20339,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE032.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE032-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE032.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE032-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -20466,8 +20383,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX006T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX006T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX006T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX006T1-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20475,7 +20392,7 @@ var app = (function () {
     		attack: 6,
     		cost: 5,
     		health: 6,
-    		description: "<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>攻擊</style></link>：對自身以外的所有攻擊中友軍單位造成1點傷害，且每傷害1個攻擊中友軍單位，便從敵方主堡<link=keyword.Drain><style=Keyword>汲取</style></link>1點生命。",
+    		description: "<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>攻擊</style></link>：對自身以外的<br>所有攻擊中友軍單位造成1點傷害，<br>且每傷害1個攻擊中友軍單位，<br>便從敵方主堡<link=keyword.Drain><style=Keyword>汲取</style></link>1點生命。",
     		descriptionRaw: "攻擊：對自身以外的所有攻擊中友軍單位造成1點傷害，且每傷害1個攻擊中友軍單位，便從敵方主堡汲取1點生命。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -20507,8 +20424,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ023.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ023-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ023.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ023-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -20516,7 +20433,7 @@ var app = (function () {
     		attack: 2,
     		cost: 4,
     		health: 3,
-    		description: "我方召喚魔耗值1的友軍單位時，賦予其+2|+2。",
+    		description: "我方召喚魔耗值1的友軍單位時，<br>賦予其+2|+2。",
     		descriptionRaw: "我方召喚魔耗值1的友軍單位時，賦予其+2|+2。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -20546,8 +20463,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ056T4.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ056T4-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ056T4.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ056T4-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -20588,8 +20505,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR039.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR039-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR039.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR039-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -20629,8 +20546,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR027.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR027-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR027.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR027-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -20670,8 +20587,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI050.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI050-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI050.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI050-full.png"
     			}
     		],
     		region: "闇影島",
@@ -20679,8 +20596,8 @@ var app = (function () {
     		attack: 0,
     		cost: 6,
     		health: 0,
-    		description: "召喚3個<link=card.summon><style=AssociatedCard>小蜘蛛</style></link>，並賦予蜘蛛友軍單位+1|+0。 ",
-    		descriptionRaw: "召喚3個小蜘蛛，並賦予蜘蛛友軍單位+1|+0。 ",
+    		description: "召喚3個<link=card.summon><style=AssociatedCard>小蜘蛛</style></link>，<br>並賦予我方蜘蛛單位+1|+0。 ",
+    		descriptionRaw: "召喚3個小蜘蛛，並賦予我方蜘蛛單位+1|+0。 ",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "剛孵化的時候胃口最好。",
@@ -20711,8 +20628,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR057.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR057-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR057.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR057-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -20752,8 +20669,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ024.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ024-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ024.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ024-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -20761,7 +20678,7 @@ var app = (function () {
     		attack: 4,
     		cost: 5,
     		health: 4,
-    		description: "若我方在本牌局已施放1張魔耗值6點或以上的法術牌，則賦予此牌+4|+0與<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>。",
+    		description: "若我方在本牌局已施放<br>1張魔耗值6點或以上的法術牌，<br>則賦予此牌+4|+0<br>與<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>。",
     		descriptionRaw: "若我方在本牌局已施放1張魔耗值6點或以上的法術牌，則賦予此牌+4|+0與快速攻擊。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -20792,8 +20709,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI016.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI016-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI016-full.png"
     			}
     		],
     		region: "闇影島",
@@ -20831,8 +20748,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO042.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO042-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO042.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO042-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -20840,7 +20757,7 @@ var app = (function () {
     		attack: 1,
     		cost: 1,
     		health: 1,
-    		description: "召喚1個友軍單位時，本回合給予此牌+1|+1。",
+    		description: "召喚1個友軍單位時，<br>本回合給予此牌+1|+1。",
     		descriptionRaw: "召喚1個友軍單位時，本回合給予此牌+1|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -20867,13 +20784,13 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"01FR038",
-    			"01FR038T2"
+    			"01FR038T2",
+    			"01FR038"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR038T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR038T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR038T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR038T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -20914,8 +20831,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR021.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR021-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR021.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR021-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -20923,7 +20840,7 @@ var app = (function () {
     		attack: 5,
     		cost: 5,
     		health: 8,
-    		description: "<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>攻擊</style></link>：對所有戰鬥中單位造成1點傷害。",
+    		description: "<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>攻擊</style></link>：<br>對所有戰鬥中單位造成1點傷害。",
     		descriptionRaw: "攻擊：對所有戰鬥中單位造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -20953,8 +20870,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR004-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -20994,8 +20911,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO006-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -21003,7 +20920,7 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 1,
-    		description: "每召喚1個友軍單位，本回合給予此牌+1|+0。",
+    		description: "每召喚1個友軍單位，<br>本回合給予此牌+1|+0。",
     		descriptionRaw: "每召喚1個友軍單位，本回合給予此牌+1|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -21035,8 +20952,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX052.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX052-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX052.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX052-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21044,7 +20961,7 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "對1個友軍侍從單位造成1點傷害。若其存活，則在手牌生成1張該單位的複製牌。",
+    		description: "對1個友軍侍從單位造成1點傷害。<br>若其存活，<br>則在手牌生成1張該單位的複製牌。",
     		descriptionRaw: "對1個友軍侍從單位造成1點傷害。若其存活，則在手牌生成1張該單位的複製牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -21076,8 +20993,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO050.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO050-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO050.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO050-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -21085,7 +21002,7 @@ var app = (function () {
     		attack: 2,
     		cost: 4,
     		health: 3,
-    		description: "<link=vocab.Allegiance><style=Vocab>效忠</style></link>：從牌組召喚2個魔耗值1的友軍單位。",
+    		description: "<link=vocab.Allegiance><style=Vocab>效忠</style></link>：<br>從牌組召喚2個魔耗值1的<br>友軍單位。",
     		descriptionRaw: "效忠：從牌組召喚2個魔耗值1的友軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -21118,8 +21035,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX042.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX042-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX042.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX042-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21127,9 +21044,9 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 2,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.create><style=AssociatedCard>利刃刀鋒</style></link>。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<br>在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.create><style=AssociatedCard>利刃刀鋒</style></link>。",
     		descriptionRaw: "出牌：在手牌生成1張飛逝利刃刀鋒。",
-    		levelupDescription: "此牌<link=vocab.Strike><style=Vocab>打擊</style></link>1次。此牌升級時會被<link=keyword.Recall><style=Keyword>召回</style></link>。",
+    		levelupDescription: "此牌<link=vocab.Strike><style=Vocab>打擊</style></link>1次。<br>此牌升級時會被<link=keyword.Recall><style=Keyword>召回</style></link>。",
     		levelupDescriptionRaw: "此牌打擊1次。此牌升級時會被召回。",
     		flavorText: "「要練手感，沒有什麼比蒂瑪西亞活標靶還來得適合...」",
     		artistName: "SIXMOREVODKA",
@@ -21159,8 +21076,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI021.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI021-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI021.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI021-full.png"
     			}
     		],
     		region: "闇影島",
@@ -21168,7 +21085,7 @@ var app = (function () {
     		attack: 3,
     		cost: 2,
     		health: 1,
-    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：下次有<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>友軍單位攻擊時，此牌將復甦並攻擊。",
+    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<br>下次有<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>友軍單位攻擊時，<br>此牌將復甦並攻擊。",
     		descriptionRaw: "遺願：下次有閃靈友軍單位攻擊時，此牌將復甦並攻擊。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -21205,8 +21122,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR048.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR048-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR048.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR048-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -21214,8 +21131,8 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 3,
-    		description: "召喚此牌時，將1張<link=card.create><style=AssociatedCard>暴怒雪怪</style></link>洗入我方牌組的最上方3張牌中。",
-    		descriptionRaw: "召喚此牌時，將1張暴怒雪怪洗入我方牌組的最上方3張牌中。",
+    		description: "召喚此牌時，<br>將1張<link=card.create><style=AssociatedCard>暴怒雪怪</style></link><br>洗入我方牌組最上方3張牌中。",
+    		descriptionRaw: "召喚此牌時，將1張暴怒雪怪洗入我方牌組最上方3張牌中。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「整整一個禮拜都沒抓到半隻！不是牠們看穿我的陷阱，就是有東西把牠們嚇跑了……」",
@@ -21244,8 +21161,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ049.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ049-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ049.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ049-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -21253,7 +21170,7 @@ var app = (function () {
     		attack: 0,
     		cost: 8,
     		health: 0,
-    		description: "抽3張牌，使其魔耗值各-1。",
+    		description: "抽3張牌，<br>使其魔耗值各-1。",
     		descriptionRaw: "抽3張牌，使其魔耗值各-1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -21285,8 +21202,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO048.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO048-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO048.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO048-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -21328,8 +21245,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR017.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR017-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR017.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR017-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -21337,7 +21254,7 @@ var app = (function () {
     		attack: 3,
     		cost: 5,
     		health: 3,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：從我方牌組前6張牌召喚所有厄努克，將其餘卡牌洗入我方牌組。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<br>從我方牌組前6張牌召喚所有厄努克，<br>將其餘卡牌洗入我方牌組。",
     		descriptionRaw: "出牌：從我方牌組前6張牌召喚所有厄努克，將其餘卡牌洗入我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -21368,49 +21285,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO004-full.png"
-    			}
-    		],
-    		region: "愛歐尼亞",
-    		regionRef: "Ionia",
-    		attack: 0,
-    		cost: 1,
-    		health: 0,
-    		description: "治癒1個友軍單位或我方主堡3點生命。",
-    		descriptionRaw: "治癒1個友軍單位或我方主堡3點生命。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "雖然每個世代、區域和家族都有各自的獨家秘方，但有些配方的確效果更為出眾。",
-    		artistName: "Kudos Productions",
-    		name: "生命藥水",
-    		cardCode: "01IO004",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI032.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI032-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI032.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI032-full.png"
     			}
     		],
     		region: "闇影島",
@@ -21418,7 +21294,7 @@ var app = (function () {
     		attack: 3,
     		cost: 4,
     		health: 3,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：擊殺1個友軍單位，再將其復甦。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<br>擊殺1個友軍單位，再將其復甦。",
     		descriptionRaw: "出牌：擊殺1個友軍單位，再將其復甦。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -21448,8 +21324,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ006-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -21457,7 +21333,7 @@ var app = (function () {
     		attack: 6,
     		cost: 10,
     		health: 6,
-    		description: "本牌局我方每施放1張法術，則此牌魔耗值-1。",
+    		description: "本牌局我方每施放1張法術，<br>則此牌魔耗值-1。",
     		descriptionRaw: "本牌局我方每施放1張法術，則此牌魔耗值-1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -21490,8 +21366,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO007-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -21535,8 +21411,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR024T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR024T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR024T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR024T3-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -21544,8 +21420,8 @@ var app = (function () {
     		attack: 3,
     		cost: 6,
     		health: 5,
-    		description: "<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>攻擊</style></link>：對所有敵軍單位與敵方主堡造成2點傷害。\r\n<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：復甦此牌並幻化為<link=card.transform><style=AssociatedCard>蛋妮維亞</style></link>。",
-    		descriptionRaw: "攻擊：對所有敵軍單位與敵方主堡造成2點傷害。\r\n遺願：復甦此牌並幻化為蛋妮維亞。",
+    		description: "<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>攻擊</style></link>：<br>對所有敵軍單位與敵方主堡<br>造成2點傷害。<br><link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<br>復甦此牌並幻化為<link=card.transform><style=AssociatedCard>蛋妮維亞</style></link>。",
+    		descriptionRaw: "攻擊：對所有敵軍單位與敵方主堡造成2點傷害。遺願：復甦此牌並幻化為蛋妮維亞。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「行軍到此為止，調回你的軍隊，冬之眼已經察覺這場征戰，其凜冽的利爪將緊緊攫住你反叛的心。」 ",
@@ -21576,8 +21452,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI058.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI058-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI058.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI058-full.png"
     			}
     		],
     		region: "闇影島",
@@ -21585,8 +21461,8 @@ var app = (function () {
     		attack: 4,
     		cost: 5,
     		health: 3,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：擊殺1個友軍單位，隨機召喚1個魔耗值高出2點的侍從單位。",
-    		descriptionRaw: "出牌：擊殺1個友軍單位，隨機召喚1個魔耗值高出2點的侍從單位。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：擊殺1個友軍單位，<br>並隨機召喚1個<br>魔耗值高出2點的侍從單位。",
+    		descriptionRaw: "出牌：擊殺1個友軍單位，並隨機召喚1個魔耗值高出2點的侍從單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "怨靈們，把聲音借給我！我們將協力召出無盡的黑暗！",
@@ -21617,8 +21493,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ053.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ053-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ053.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ053-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -21626,7 +21502,7 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 2,
-    		description: "召喚此牌時，在手牌生成1張<link=card.create><style=AssociatedCard>蘑菇雲</style></link>。",
+    		description: "召喚此牌時，<br>在手牌生成1張<link=card.create><style=AssociatedCard>蘑菇雲</style></link>。",
     		descriptionRaw: "召喚此牌時，在手牌生成1張蘑菇雲。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -21656,8 +21532,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO053.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO053-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO053.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO053-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -21697,8 +21573,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR046.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR046-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR046.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR046-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -21738,8 +21614,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX045.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX045-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX045.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX045-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21781,8 +21657,49 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE027.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE027-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO004-full.png"
+    			}
+    		],
+    		region: "愛歐尼亞",
+    		regionRef: "Ionia",
+    		attack: 0,
+    		cost: 1,
+    		health: 0,
+    		description: "治癒1個友軍單位<br>或我方主堡3點生命。",
+    		descriptionRaw: "治癒1個友軍單位或我方主堡3點生命。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "雖然每個世代、區域和家族都有各自的獨家秘方，但有些配方的確效果更為出眾。",
+    		artistName: "Kudos Productions",
+    		name: "生命藥水",
+    		cardCode: "01IO004",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE027.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE027-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -21822,8 +21739,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI054.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI054-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI054.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI054-full.png"
     			}
     		],
     		region: "闇影島",
@@ -21863,8 +21780,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI044.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI044-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI044.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI044-full.png"
     			}
     		],
     		region: "闇影島",
@@ -21872,7 +21789,7 @@ var app = (function () {
     		attack: 6,
     		cost: 8,
     		health: 6,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：選擇1個手牌中的友軍單位，召喚1個與之相同的複製單位，其為<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：選擇1個手牌中的友軍單位，<br>召喚1個與之相同的複製單位，<br>其為<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>。",
     		descriptionRaw: "出牌：選擇1個手牌中的友軍單位，召喚1個與之相同的複製單位，其為閃靈。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -21904,8 +21821,49 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR040.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR040-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR012.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR012-full.png"
+    			}
+    		],
+    		region: "弗雷爾卓德",
+    		regionRef: "Freljord",
+    		attack: 0,
+    		cost: 5,
+    		health: 0,
+    		description: "獲得1個魔力寶石槽位，<br>並治癒主堡3點生命。",
+    		descriptionRaw: "獲得1個魔力寶石槽位，並治癒主堡3點生命。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "魔方之石是一塊具有神奇恢復能力的超凡寶石，無論紅水晶或藍水晶都無法比擬其散發出的光澤。 ",
+    		artistName: "Kudos Production",
+    		name: "催化魔方",
+    		cardCode: "01FR012",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR040.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR040-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -21943,8 +21901,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO049.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO049-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO049.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO049-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -21952,7 +21910,7 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "抵銷1個<link=keyword.Fast><sprite name=Fast><style=Keyword>快速</style></link>法術、<link=keyword.Slow><sprite name=Slow><style=Keyword>慢速</style></link>法術或<link=keyword.Skill><sprite name=PlaySkillMark><style=Keyword>技能</style></link>。",
+    		description: "抵銷1個<link=keyword.Fast><sprite name=Fast><style=Keyword>快速</style></link>法術、<br><link=keyword.Slow><sprite name=Slow><style=Keyword>慢速</style></link>法術或<link=keyword.Skill><sprite name=PlaySkillMark><style=Keyword>技能</style></link>。",
     		descriptionRaw: "抵銷1個快速法術、慢速法術或技能。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -21984,8 +21942,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX031.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX031-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX031.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX031-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -22027,8 +21985,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ012.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ012-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ012.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ012-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -22068,8 +22026,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR031.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR031-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR031.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR031-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -22077,8 +22035,8 @@ var app = (function () {
     		attack: 5,
     		cost: 7,
     		health: 5,
-    		description: "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：若此牌在手牌中，則魔耗值-1。",
-    		descriptionRaw: "回合結束：若此牌在手牌中，則魔耗值-1。",
+    		description: "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：此牌魔耗值-1。",
+    		descriptionRaw: "回合結束：此牌魔耗值-1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「那是怎麼回事？聽起來像是打噴嚏。冰川會……打噴嚏嗎？」——漫遊者比亞\n",
@@ -22111,8 +22069,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE006-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -22120,7 +22078,7 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 3,
-    		description: "召喚此牌時，在手牌生成1張<link=card.create><style=AssociatedCard>蒂瑪西亞萬歲！</style></link>。",
+    		description: "召喚此牌時，<br>在手牌生成1張<link=card.create><style=AssociatedCard>蒂瑪西亞萬歲！</style></link>。",
     		descriptionRaw: "召喚此牌時，在手牌生成1張蒂瑪西亞萬歲！。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -22151,8 +22109,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR036T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR036T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR036T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR036T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -22192,8 +22150,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR053.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR053-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR053.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR053-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -22234,8 +22192,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO052T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO052T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO052T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO052T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -22273,8 +22231,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI039.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI039-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI039.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI039-full.png"
     			}
     		],
     		region: "闇影島",
@@ -22315,8 +22273,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ039.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ039-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ039.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ039-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -22356,8 +22314,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ056T9.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ056T9-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ056T9.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ056T9-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -22399,8 +22357,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE038.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE038-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE038.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE038-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -22408,7 +22366,7 @@ var app = (function () {
     		attack: 4,
     		cost: 3,
     		health: 2,
-    		description: "我方<link=card.luc1><style=AssociatedCard>路西恩</style></link>首次陣亡時，賦予此牌+1|+1與<link=keyword.Double Strike><sprite name=DoubleStrike><style=Keyword>雙重攻擊</style></link>。",
+    		description: "我方<link=card.luc1><style=AssociatedCard>路西恩</style></link>首次陣亡時，<br>賦予此牌+1|+1與<link=keyword.Double Strike><sprite name=DoubleStrike><style=Keyword>雙重攻擊</style></link>。",
     		descriptionRaw: "我方路西恩首次陣亡時，賦予此牌+1|+1與雙重攻擊。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -22440,8 +22398,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR010-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -22482,8 +22440,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO052.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO052-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO052.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO052-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -22491,7 +22449,7 @@ var app = (function () {
     		attack: 1,
     		cost: 2,
     		health: 2,
-    		description: "召喚此牌時，召喚1個與此牌能力值相同的<link=card.summon><style=AssociatedCard>那歐竊匪</style></link>。",
+    		description: "召喚此牌時，<br>召喚1個與此牌能力值相同的<br><link=card.summon><style=AssociatedCard>那歐竊匪</style></link>。",
     		descriptionRaw: "召喚此牌時，召喚1個與此牌能力值相同的那歐竊匪。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -22521,8 +22479,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO030.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO030-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO030.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO030-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -22562,8 +22520,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE041.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE041-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE041.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE041-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -22603,8 +22561,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX002-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -22647,8 +22605,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX006-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -22656,8 +22614,8 @@ var app = (function () {
     		attack: 5,
     		cost: 5,
     		health: 5,
-    		description: "<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>攻擊</style></link>：對每個攻擊中友軍單位造成1點傷害，且每傷害1個攻擊中友軍單位，便對敵方主堡造成1點傷害。",
-    		descriptionRaw: "攻擊：對每個攻擊中友軍單位造成1點傷害，且每傷害1個攻擊中友軍單位，便對敵方主堡造成1點傷害。",
+    		description: "<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>攻擊</style></link>：對自身以外的<br>所有攻擊中友軍單位造成1點傷害，<br>且每傷害1個攻擊中友軍單位，<br>便對敵方主堡造成1點傷害。",
+    		descriptionRaw: "攻擊：對自身以外的所有攻擊中友軍單位造成1點傷害，且每傷害1個攻擊中友軍單位，便對敵方主堡造成1點傷害。",
     		levelupDescription: "6個或以上友軍單位承受傷害且未陣亡<style=Variable></style>。",
     		levelupDescriptionRaw: "6個或以上友軍單位承受傷害且未陣亡。",
     		flavorText: "邪惡，冷漠，殘酷，迷人，敏銳，魅力十足。\n令人難以抗拒……",
@@ -22686,8 +22644,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ016.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ016-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ016-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -22695,8 +22653,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "在手牌生成1張魔耗值6點或以上、來自我方牌組區域的法術牌。\r\n恢復我方的法術魔力。",
-    		descriptionRaw: "在手牌生成1張魔耗值6點或以上、來自我方牌組區域的法術牌。\r\n恢復我方的法術魔力。",
+    		description: "在手牌生成1張魔耗值6點或以上、<br>來自我方牌組區域的法術牌。<br>恢復我方的法術魔力。",
+    		descriptionRaw: "在手牌生成1張魔耗值6點或以上、來自我方牌組區域的法術牌。恢復我方的法術魔力。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "只消一次頓悟，便可造就一生傳奇。",
@@ -22729,8 +22687,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ036T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ036T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ036T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ036T2-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -22770,8 +22728,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE035.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE035-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE035.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE035-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -22779,8 +22737,8 @@ var app = (function () {
     		attack: 0,
     		cost: 6,
     		health: 0,
-    		description: "本回合給予友軍單位+3|+3。",
-    		descriptionRaw: "本回合給予友軍單位+3|+3。",
+    		description: "本回合給予所有友軍單位+3|+3。",
+    		descriptionRaw: "本回合給予所有友軍單位+3|+3。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「它代表了我們的家園、家人，還有披甲上陣的同袍。它也是我們的驕傲、榮譽與力量。就在今日，在我們挺身奮戰的存亡之際，讓我們大力呼喊其名：蒂瑪西亞！」",
@@ -22811,8 +22769,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX008-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -22820,7 +22778,7 @@ var app = (function () {
     		attack: 5,
     		cost: 4,
     		health: 3,
-    		description: "<link=vocab.Allegiance><style=Vocab>效忠</style></link>：賦予此牌+1|+1及<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。",
+    		description: "<link=vocab.Allegiance><style=Vocab>效忠</style></link>：<br>賦予此牌+1|+1及<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。",
     		descriptionRaw: "效忠：賦予此牌+1|+1及勢不可擋。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -22850,8 +22808,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO019.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO019-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO019.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO019-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -22859,7 +22817,7 @@ var app = (function () {
     		attack: 1,
     		cost: 1,
     		health: 2,
-    		description: "有友軍單位獲得<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>時，賦予此牌+2|+0。",
+    		description: "有友軍單位獲得<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>時，<br>賦予此牌+2|+0。",
     		descriptionRaw: "有友軍單位獲得光盾時，賦予此牌+2|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -22889,8 +22847,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE018.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE018-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE018.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE018-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -22930,8 +22888,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI020.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI020-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI020.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI020-full.png"
     			}
     		],
     		region: "闇影島",
@@ -22939,7 +22897,7 @@ var app = (function () {
     		attack: 4,
     		cost: 7,
     		health: 4,
-    		description: "召喚此牌時，復甦<link=vocab.Strongest><style=Vocab>最強</style></link>的已陣亡友軍英雄。",
+    		description: "召喚此牌時，<br>復甦<link=vocab.Strongest><style=Vocab>最強</style></link>的已陣亡友軍英雄。",
     		descriptionRaw: "召喚此牌時，復甦最強的已陣亡友軍英雄。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -22969,8 +22927,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR001-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -23012,8 +22970,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ058.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ058-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ058.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ058-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -23021,7 +22979,7 @@ var app = (function () {
     		attack: 4,
     		cost: 4,
     		health: 3,
-    		description: "召喚此牌時，在手牌生成2張<link=card.create><style=AssociatedCard>蘑菇雲</style></link>。",
+    		description: "召喚此牌時，<br>在手牌生成2張<link=card.create><style=AssociatedCard>蘑菇雲</style></link>。",
     		descriptionRaw: "召喚此牌時，在手牌生成2張蘑菇雲。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -23054,8 +23012,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI042.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI042-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI042.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI042-full.png"
     			}
     		],
     		region: "闇影島",
@@ -23095,8 +23053,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE009-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23104,7 +23062,7 @@ var app = (function () {
     		attack: 3,
     		cost: 2,
     		health: 2,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：本回合給予1個友軍單位<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<br>本回合給予1個友軍單位<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
     		descriptionRaw: "出牌：本回合給予1個友軍單位光盾。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -23134,8 +23092,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI029.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI029-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI029.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI029-full.png"
     			}
     		],
     		region: "闇影島",
@@ -23143,7 +23101,7 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "對所有敵軍單位造成1點傷害，並治癒我方主堡3點生命。",
+    		description: "對所有敵軍單位造成1點傷害，<br>並治癒我方主堡3點生命。",
     		descriptionRaw: "對所有敵軍單位造成1點傷害，並治癒我方主堡3點生命。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -23175,8 +23133,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ009-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -23218,8 +23176,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO032T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO032T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO032T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO032T2-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -23227,8 +23185,8 @@ var app = (function () {
     		attack: 0,
     		cost: 6,
     		health: 0,
-    		description: "調換2個友軍單位位置，並在本回合給予其<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。\r\n將1張<link=card.level1><style=AssociatedCard>慎</style></link>洗入我方牌組。",
-    		descriptionRaw: "調換2個友軍單位位置，並在本回合給予其光盾。\r\n將1張慎洗入我方牌組。",
+    		description: "調換2個友軍單位位置，<br>並在本回合給予其<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。<br>將1張<link=card.level1><style=AssociatedCard>慎</style></link>洗入我方牌組。",
+    		descriptionRaw: "調換2個友軍單位位置，並在本回合給予其光盾。將1張慎洗入我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「我會跟隨均衡的步伐前行。」——慎\n",
@@ -23260,8 +23218,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI035.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI035-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI035.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI035-full.png"
     			}
     		],
     		region: "闇影島",
@@ -23269,7 +23227,7 @@ var app = (function () {
     		attack: 7,
     		cost: 8,
     		health: 5,
-    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：若本回合有友軍陣亡，則擊殺2個<link=keyword.Weakest><style=Keyword>最弱</style></link>敵軍單位。",
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：若本回合有友軍陣亡，<br>則擊殺2個<link=keyword.Weakest><style=Keyword>最弱</style></link>敵軍單位。",
     		descriptionRaw: "出牌：若本回合有友軍陣亡，則擊殺2個最弱敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -23305,8 +23263,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR024.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR024-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR024.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR024-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -23314,8 +23272,8 @@ var app = (function () {
     		attack: 2,
     		cost: 6,
     		health: 4,
-    		description: "<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>攻擊</style></link>：對所有敵軍單位與敵方主堡造成1點傷害。\r\n<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：復甦此牌並幻化為<link=card.transform><style=AssociatedCard>蛋妮維亞</style></link>。",
-    		descriptionRaw: "攻擊：對所有敵軍單位與敵方主堡造成1點傷害。\r\n遺願：復甦此牌並幻化為蛋妮維亞。",
+    		description: "<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>攻擊</style></link>：<br>對所有敵軍單位與敵方主堡<br>造成1點傷害。<br><link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<br>復甦此牌並幻化為<link=card.transform><style=AssociatedCard>蛋妮維亞</style></link>。",
+    		descriptionRaw: "攻擊：對所有敵軍單位與敵方主堡造成1點傷害。遺願：復甦此牌並幻化為蛋妮維亞。",
     		levelupDescription: "我方進入<link=keyword.Enlightened><style=Keyword>開悟</style></link>狀態。",
     		levelupDescriptionRaw: "我方進入開悟狀態。",
     		flavorText: "「我在這片貧瘠大地誕生，我有責任守護這塊疆土。時間、戰爭，甚至是死亡都無法逼我放下戒備。」",
@@ -23346,8 +23304,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX034.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX034-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX034.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX034-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -23388,8 +23346,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ042.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ042-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ042.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ042-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -23397,7 +23355,7 @@ var app = (function () {
     		attack: 1,
     		cost: 2,
     		health: 3,
-    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：本回合給予此牌支援的友軍單位<link=keyword.Elusive><sprite name=Elusive><style=Keyword>隱密</style></link>。",
+    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：<br>本回合給予此牌支援的友軍單位<link=keyword.Elusive><sprite name=Elusive><style=Keyword>隱密</style></link>。",
     		descriptionRaw: "支援：本回合給予此牌支援的友軍單位隱密。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -23430,8 +23388,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE042.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE042-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE042.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE042-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23441,8 +23399,8 @@ var app = (function () {
     		health: 5,
     		description: "",
     		descriptionRaw: "",
-    		levelupDescription: "此牌在場上時我方消耗6點或以上魔力施放法術<style=Variable></style>。升級時在手牌生成1張<link=card.warcry><style=AssociatedCard>終極閃光</style></link>。",
-    		levelupDescriptionRaw: "此牌在場上時我方消耗6點或以上魔力施放法術。升級時在手牌生成1張終極閃光。",
+    		levelupDescription: "此牌在場上時，<br>我方消耗6點或以上魔力施放法術<style=Variable></style>。<br>升級時在手牌生成1張<link=card.warcry><style=AssociatedCard>終極閃光</style></link>。",
+    		levelupDescriptionRaw: "此牌在場上時，我方消耗6點或以上魔力施放法術。升級時在手牌生成1張終極閃光。",
     		flavorText: "「我一直都知道自己很特別……體內蘊藏著光芒。我還不了解那究竟是什麼，但我必須搞清楚！」 ",
     		artistName: "SIXMOREVODKA",
     		name: "拉克絲",
@@ -23473,8 +23431,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE045T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE045T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE045T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE045T2-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23482,8 +23440,8 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "本回合給予1個友軍單位+3|+0與<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。\r\n將1張<link=card.level1><style=AssociatedCard>菲歐拉</style></link>洗入我方牌組。",
-    		descriptionRaw: "本回合給予1個友軍單位+3|+0與光盾。\r\n將1張菲歐拉洗入我方牌組。",
+    		description: "本回合給予1個友軍單位<br>+3|+0與<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。<br>將1張<link=card.level1><style=AssociatedCard>菲歐拉</style></link>洗入我方牌組。",
+    		descriptionRaw: "本回合給予1個友軍單位+3|+0與光盾。將1張菲歐拉洗入我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「『你打起架就像一隻普羅』，這形容真是再貼切不過了！」——菲歐拉",
@@ -23515,8 +23473,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX035.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX035-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX035.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX035-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -23524,8 +23482,8 @@ var app = (function () {
     		attack: 2,
     		cost: 1,
     		health: 1,
-    		description: "召喚此牌時，若<link=card.dravenRef><style=AssociatedCard>達瑞文</style></link>不在我方場上或手牌中，則將他移至牌組最上方。",
-    		descriptionRaw: "召喚此牌時，若達瑞文不在我方場上或手牌中，則將他移至牌組最上方。",
+    		description: "召喚此牌時，<br>若<link=card.dravenRef><style=AssociatedCard>達瑞文</style></link>不在我方場上或手牌中，<br>則將其移至牌組最上方。",
+    		descriptionRaw: "召喚此牌時，若達瑞文不在我方場上或手牌中，則將其移至牌組最上方。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「想要親筆簽名？去……去排隊啦，老兄！」",
@@ -23556,8 +23514,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR024T5.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR024T5-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR024T5.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR024T5-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -23565,7 +23523,7 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "對所有敵軍單位和敵方主堡造成2點傷害。",
+    		description: "對所有敵軍單位和敵方主堡<br>造成2點傷害。",
     		descriptionRaw: "對所有敵軍單位和敵方主堡造成2點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -23597,8 +23555,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX026.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX026-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX026.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX026-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -23638,8 +23596,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI004-full.png"
     			}
     		],
     		region: "闇影島",
@@ -23681,8 +23639,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO046.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO046-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO046.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO046-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -23722,8 +23680,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE039.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE039-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE039.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE039-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23762,8 +23720,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE056.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE056-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE056.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE056-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23799,13 +23757,13 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"01NX006",
-    			"01NX006T1"
+    			"01NX006T1",
+    			"01NX006"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX006T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX006T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX006T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX006T3-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -23813,8 +23771,8 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "對1個友軍單位造成1點傷害，本回合給予另1個友軍+2|+2。\r\n將1張<link=card.level1><style=AssociatedCard>弗拉迪米爾</style></link>洗入我方牌組。",
-    		descriptionRaw: "對1個友軍單位造成1點傷害，本回合給予另1個友軍+2|+2。\r\n將1張弗拉迪米爾洗入我方牌組。",
+    		description: "對1個友軍單位造成1點傷害，<br>本回合給予另1個友軍單位+2|+2。\r\n將1張<link=card.level1><style=AssociatedCard>弗拉迪米爾</style></link>洗入我方牌組。",
+    		descriptionRaw: "對1個友軍單位造成1點傷害，本回合給予另1個友軍單位+2|+2。\r\n將1張弗拉迪米爾洗入我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「親愛的，有得就有失。我得，你失。」——弗拉迪米爾",
@@ -23846,8 +23804,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR043T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR043T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR043T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR043T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -23888,8 +23846,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE029.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE029-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE029.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE029-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23897,7 +23855,7 @@ var app = (function () {
     		attack: 2,
     		cost: 1,
     		health: 1,
-    		description: "我方召喚其他友軍單位時，賦予此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。",
+    		description: "我方召喚其他友軍單位時，<br>賦予此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。",
     		descriptionRaw: "我方召喚其他友軍單位時，賦予此牌挑戰者。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -23927,8 +23885,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO037.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO037-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO037.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO037-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -23936,7 +23894,7 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "本回合給予1個友軍單位<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>與<link=keyword.Lifesteal><sprite name=Lifesteal><style=Keyword>吸血</style></link>。",
+    		description: "本回合給予1個友軍單位<br><link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>與<link=keyword.Lifesteal><sprite name=Lifesteal><style=Keyword>吸血</style></link>。",
     		descriptionRaw: "本回合給予1個友軍單位光盾與吸血。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -23968,8 +23926,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX027.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX027-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX027.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX027-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -24009,8 +23967,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ056T8.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ056T8-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ056T8.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ056T8-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -24053,8 +24011,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR024T4.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR024T4-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR024T4.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR024T4-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -24064,7 +24022,7 @@ var app = (function () {
     		health: 2,
     		description: "",
     		descriptionRaw: "",
-    		levelupDescription: "<link=vocab.RoundStart><style=Vocab>回合開始：</style></link>若我方進入<link=keyword.Enlightened><style=Keyword>開悟</style></link>狀態，將此牌幻化為<link=card.level1><style=AssociatedCard>艾妮維亞</style></link>並升級。",
+    		levelupDescription: "<br><link=vocab.RoundStart><style=Vocab>回合開始：<br></style></link>若我方進入<link=keyword.Enlightened><style=Keyword>開悟</style></link>狀態，<br>將此牌幻化為<link=card.level1><style=AssociatedCard>艾妮維亞</style></link>並升級。",
     		levelupDescriptionRaw: "回合開始：若我方進入開悟狀態，將此牌幻化為艾妮維亞並升級。",
     		flavorText: "在刺骨寒氣環繞之下，弗雷爾卓德的守護者等待着她的歸來之時。",
     		artistName: "SIXMOREVODKA",
@@ -24092,8 +24050,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ026.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ026-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ026.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ026-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -24133,8 +24091,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE028.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE028-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE028.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE028-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24175,8 +24133,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO043.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO043-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO043.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO043-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -24214,8 +24172,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ043.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ043-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ043.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ043-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -24223,7 +24181,7 @@ var app = (function () {
     		attack: 3,
     		cost: 2,
     		health: 2,
-    		description: "<link=vocab.Nexus Strike><style=Vocab>打擊主堡</style></link>：在手牌生成1張來自敵方牌組的隨機法術。",
+    		description: "<link=vocab.Nexus Strike><style=Vocab>打擊主堡</style></link>：在手牌生成1張<br>來自敵方牌組的隨機法術。",
     		descriptionRaw: "打擊主堡：在手牌生成1張來自敵方牌組的隨機法術。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -24253,8 +24211,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR032.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR032-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR032.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR032-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -24262,8 +24220,8 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 3,
-    		description: "施放法術時，賦予牌組最上方的友軍單位+1|+1。",
-    		descriptionRaw: "施放法術時，賦予牌組最上方的友軍單位+1|+1。",
+    		description: "每當我方施放法術，<br>便賦予我方牌組最上方的友軍單位<br>+1|+1。",
+    		descriptionRaw: "每當我方施放法術，便賦予我方牌組最上方的友軍單位+1|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「賦予他們敏銳的雙耳聆聽吹來的風、輕盈的腳步跨越即將來臨的風雪、清晰的雙眼看穿冬日的陰霾。」",
@@ -24294,16 +24252,16 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO038.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO038-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO038.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO038-full.png"
     			}
     		],
     		region: "愛歐尼亞",
     		regionRef: "Ionia",
-    		attack: 4,
+    		attack: 3,
     		cost: 3,
     		health: 3,
-    		description: "召喚此牌時，<link=keyword.Recall><style=Keyword>召回</style></link>所有其他友軍單位。",
+    		description: "召喚此牌時，<br><link=keyword.Recall><style=Keyword>召回</style></link>所有其他友軍單位。",
     		descriptionRaw: "召喚此牌時，召回所有其他友軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -24336,8 +24294,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR052.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR052-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR052.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR052-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -24345,7 +24303,7 @@ var app = (function () {
     		attack: 10,
     		cost: 10,
     		health: 10,
-    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：<link=keyword.Obliterate><style=Keyword>泯滅</style></link>手牌及場上所有力量值4點或以下的侍從單位。",
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：<br><link=keyword.Obliterate><style=Keyword>泯滅</style></link>手牌及場上所有<br>力量值4點或以下的侍從單位。",
     		descriptionRaw: "出牌：泯滅手牌及場上所有力量值4點或以下的侍從單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -24378,8 +24336,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR051.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR051-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR051.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR051-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -24387,8 +24345,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "若我方場上有雪怪單位，則召喚1個<link=card.create><style=AssociatedCard>暴怒雪怪</style></link>；若無，則改為生成該牌置於我方牌組最上方。",
-    		descriptionRaw: "若我方場上有雪怪單位，則召喚1個暴怒雪怪；若無，則改為生成該牌置於我方牌組最上方。",
+    		description: "若我方場上有雪怪單位，<br>則召喚1個<link=card.create><style=AssociatedCard>暴怒雪怪</style></link>。<br>若無，<br>則改為生成該牌置於我方牌組最上方。",
+    		descriptionRaw: "若我方場上有雪怪單位，則召喚1個暴怒雪怪。若無，則改為生成該牌置於我方牌組最上方。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「……這傢伙的嘴巴滿是參差不齊的牙齒、雙拳充滿破壞力、眼神憤怒到極致，吼聲還能撼動大樹！比亞叔叔是這麼跟我說的！」——青年英格瓦",
@@ -24420,8 +24378,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX022.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX022-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX022.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX022-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -24429,7 +24387,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "擊殺1個負傷單位，然後在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.me><style=AssociatedCard>諾克薩斯斷頭台</style></link>。",
+    		description: "擊殺1個負傷單位，<br>然後在手牌生成1張<br><link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.me><style=AssociatedCard>諾克薩斯斷頭台</style></link>。",
     		descriptionRaw: "擊殺1個負傷單位，然後在手牌生成1張飛逝諾克薩斯斷頭台。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -24461,8 +24419,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ047.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01PZ047-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ047.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01PZ047-full.png"
     			}
     		],
     		region: "皮爾托福 & 佐恩",
@@ -24470,7 +24428,7 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 1,
-    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：對雙方主堡各造成1點傷害。",
+    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<br>對雙方主堡各造成1點傷害。",
     		descriptionRaw: "遺願：對雙方主堡各造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -24504,8 +24462,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI026.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI026-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI026.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI026-full.png"
     			}
     		],
     		region: "闇影島",
@@ -24513,8 +24471,8 @@ var app = (function () {
     		attack: 1,
     		cost: 1,
     		health: 1,
-    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：在手牌生成另1張具有<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>特性，且魔耗值3點或以下的侍從牌。",
-    		descriptionRaw: "遺願：在手牌生成另1張具有遺願特性，且魔耗值3點或以下的侍從牌。",
+    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：在手牌生成1張<br>魔耗值3點或以下的<br>其他<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>侍從牌。",
+    		descriptionRaw: "遺願：在手牌生成1張魔耗值3點或以下的其他遺願侍從牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "他用盡全力屏住呼吸，祈禱獄長別發現自己。當時的他還不曉得，這場躲貓貓只不過是瑟雷西一連串恐怖折磨的開頭罷了……",
@@ -24545,8 +24503,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO012T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO012T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO012T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO012T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -24583,12 +24541,53 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE013.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE013-full.png"
+    			}
+    		],
+    		region: "蒂瑪西亞",
+    		regionRef: "Demacia",
+    		attack: 0,
+    		cost: 1,
+    		health: 0,
+    		description: "賦予1個友軍單位<link=keyword.Tough><sprite name=Tough><style=Keyword>堅忍</style></link>。",
+    		descriptionRaw: "賦予1個友軍單位堅忍。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "蒂瑪西亞之鋼因超凡強度而家喻戶曉。鐵匠需要擁有與其相當的力量和聲望方能鍛造。",
+    		artistName: "Kudos Productions",
+    		name: "鎖子甲",
+    		cardCode: "01DE013",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
     			"01IO009T1"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO039.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO039-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO039.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO039-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -24596,7 +24595,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "<link=keyword.Recall><style=Keyword>召回</style></link>1個友軍單位，召喚1個<link=card.create><style=AssociatedCard>疾風殘影</style></link>取而代之。",
+    		description: "<link=keyword.Recall><style=Keyword>召回</style></link>1個友軍單位，<br>召喚1個<link=card.create><style=AssociatedCard>疾風殘影</style></link>取而代之。",
     		descriptionRaw: "召回1個友軍單位，召喚1個疾風殘影取而代之。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -24628,8 +24627,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX032.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX032-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX032.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX032-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -24637,7 +24636,7 @@ var app = (function () {
     		attack: 5,
     		cost: 4,
     		health: 5,
-    		description: "召喚此牌時，對其他友軍單位造成1點傷害。",
+    		description: "召喚此牌時，<br>對其他友軍單位造成1點傷害。",
     		descriptionRaw: "召喚此牌時，對其他友軍單位造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -24668,8 +24667,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE023.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE023-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE023.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE023-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24677,7 +24676,7 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 3,
-    		description: "若我方在本牌局已施放1張魔耗值6點或以上的法術牌，則在手牌生成1張<link=card.create><style=AssociatedCard>束縛</style></link>。",
+    		description: "若我方在本牌局已施放1張<br>魔耗值6點或以上的法術牌，<br>則在手牌生成1張<link=card.create><style=AssociatedCard>束縛</style></link>。",
     		descriptionRaw: "若我方在本牌局已施放1張魔耗值6點或以上的法術牌，則在手牌生成1張束縛。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -24707,8 +24706,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX024.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX024-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX024.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX024-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -24716,7 +24715,7 @@ var app = (function () {
     		attack: 5,
     		cost: 5,
     		health: 4,
-    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：本回合給予此牌支援的友軍單位+3|+0與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。",
+    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：<br>本回合給予此牌支援的友軍單位<br>+3|+0與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。",
     		descriptionRaw: "支援：本回合給予此牌支援的友軍單位+3|+0與勢不可擋。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -24747,8 +24746,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI040.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI040-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI040.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI040-full.png"
     			}
     		],
     		region: "闇影島",
@@ -24756,7 +24755,7 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "從1個單位<link=keyword.Drain><style=Keyword>汲取</style></link>1點生命值，召喚1個<link=card.create><style=AssociatedCard>小蜘蛛</style></link>。",
+    		description: "從1個單位<link=keyword.Drain><style=Keyword>汲取</style></link>1點生命值，<br>召喚1個<link=card.create><style=AssociatedCard>小蜘蛛</style></link>。",
     		descriptionRaw: "從1個單位汲取1點生命值，召喚1個小蜘蛛。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -24788,8 +24787,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR034.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR034-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR034.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR034-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -24797,7 +24796,7 @@ var app = (function () {
     		attack: 1,
     		cost: 7,
     		health: 1,
-    		description: "召喚此牌時，每有1個友軍單位陣亡，則賦予此牌+1|+1。",
+    		description: "召喚此牌時，<br>每有1個友軍單位陣亡，<br>則賦予此牌+1|+1。",
     		descriptionRaw: "召喚此牌時，每有1個友軍單位陣亡，則賦予此牌+1|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -24829,8 +24828,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE051.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE051-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE051.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE051-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24838,7 +24837,7 @@ var app = (function () {
     		attack: 6,
     		cost: 6,
     		health: 6,
-    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：本回合給予其他戰鬥中友軍單位+1|+1與<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>。",
+    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：<br>本回合給予其他戰鬥中友軍單位<br>+1|+1與<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>。",
     		descriptionRaw: "攻擊：本回合給予其他戰鬥中友軍單位+1|+1與威嚇。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -24870,8 +24869,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO056.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO056-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO056.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO056-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -24909,8 +24908,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO055.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01IO055-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO055.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01IO055-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -24950,8 +24949,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI015.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI015-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI015.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI015-full.png"
     			}
     		],
     		region: "闇影島",
@@ -24993,8 +24992,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI052T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI052T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI052T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI052T1-full.png"
     			}
     		],
     		region: "闇影島",
@@ -25002,8 +25001,8 @@ var app = (function () {
     		attack: 4,
     		cost: 5,
     		health: 7,
-    		description: "此牌在本牌局初次攻擊時，從牌組或手牌召喚另1個攻擊中的英雄。",
-    		descriptionRaw: "此牌在本牌局初次攻擊時，從牌組或手牌召喚另1個攻擊中的英雄。",
+    		description: "此牌在本牌局首次攻擊時，<br>從我方牌組或手牌召喚1個<br>攻擊中的其他英雄。",
+    		descriptionRaw: "此牌在本牌局首次攻擊時，從我方牌組或手牌召喚1個攻擊中的其他英雄。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「你是我的了，永世不得超生。」鎖鏈鏗鏘，獄長就在你後方...",
@@ -25034,8 +25033,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX049.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX049-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX049.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX049-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -25075,8 +25074,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR007-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -25084,7 +25083,7 @@ var app = (function () {
     		attack: 3,
     		cost: 4,
     		health: 3,
-    		description: "召喚此牌時，抽1張力量值5點或以上的單位牌。",
+    		description: "召喚此牌時，<br>抽1張力量值5點或以上的單位牌。",
     		descriptionRaw: "召喚此牌時，抽1張力量值5點或以上的單位牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -25114,8 +25113,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE054.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE054-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE054.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE054-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -25123,7 +25122,7 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 3,
-    		description: "召喚此牌時，若本回合有友軍單位陣亡，則抽1張單位牌。",
+    		description: "召喚此牌時，<br>若本回合有友軍單位陣亡，<br>則抽1張單位牌。",
     		descriptionRaw: "召喚此牌時，若本回合有友軍單位陣亡，則抽1張單位牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -25156,8 +25155,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE012.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE012-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE012.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE012-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -25199,8 +25198,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX020T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01NX020T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX020T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01NX020T1-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -25240,8 +25239,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01FR003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01FR003-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -25281,8 +25280,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI055.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI055-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI055.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI055-full.png"
     			}
     		],
     		region: "闇影島",
@@ -25322,8 +25321,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI047.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01SI047-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI047.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01SI047-full.png"
     			}
     		],
     		region: "闇影島",
@@ -25331,7 +25330,7 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "選1個侍從單位。在手牌生成1張與之相同的<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>複製牌。",
+    		description: "選1個侍從單位。<br>在手牌生成1張<br>與之相同的<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>複製牌。",
     		descriptionRaw: "選1個侍從單位。在手牌生成1張與之相同的閃靈複製牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -25363,8 +25362,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE030.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_4_0/set1/zh_tw/img/cards/01DE030-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE030.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_5_0/set1/zh_tw/img/cards/01DE030-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
