@@ -94,6 +94,9 @@ var app = (function () {
     function space() {
         return text(' ');
     }
+    function empty() {
+        return text('');
+    }
     function listen(node, event, handler, options) {
         node.addEventListener(event, handler, options);
         return () => node.removeEventListener(event, handler, options);
@@ -35189,29 +35192,35 @@ var app = (function () {
 
     function get_each_context(ctx, list, i) {
     	const child_ctx = ctx.slice();
-    	child_ctx[9] = list[i];
+    	child_ctx[10] = list[i];
     	return child_ctx;
     }
 
     function get_each_context_1(ctx, list, i) {
     	const child_ctx = ctx.slice();
-    	child_ctx[9] = list[i];
+    	child_ctx[10] = list[i];
     	return child_ctx;
     }
 
     function get_each_context_2(ctx, list, i) {
     	const child_ctx = ctx.slice();
-    	child_ctx[9] = list[i];
+    	child_ctx[10] = list[i];
     	return child_ctx;
     }
 
-    // (131:4) {#each heroes as card}
-    function create_each_block_2(ctx) {
+    function get_each_context_3(ctx, list, i) {
+    	const child_ctx = ctx.slice();
+    	child_ctx[10] = list[i];
+    	return child_ctx;
+    }
+
+    // (134:4) {#each heroes as card}
+    function create_each_block_3(ctx) {
     	let cardbar;
     	let current;
 
     	cardbar = new CardBar({
-    			props: { card: /*card*/ ctx[9] },
+    			props: { card: /*card*/ ctx[10] },
     			$$inline: true
     		});
 
@@ -35225,7 +35234,177 @@ var app = (function () {
     		},
     		p: function update(ctx, dirty) {
     			const cardbar_changes = {};
-    			if (dirty & /*heroes*/ 2) cardbar_changes.card = /*card*/ ctx[9];
+    			if (dirty & /*heroes*/ 2) cardbar_changes.card = /*card*/ ctx[10];
+    			cardbar.$set(cardbar_changes);
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(cardbar.$$.fragment, local);
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(cardbar.$$.fragment, local);
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			destroy_component(cardbar, detaching);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_each_block_3.name,
+    		type: "each",
+    		source: "(134:4) {#each heroes as card}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (137:4) {#if landmarks.length>0}
+    function create_if_block$1(ctx) {
+    	let h1;
+    	let t0;
+    	let count;
+    	let t1_value = /*landmarks*/ ctx[4].length + "";
+    	let t1;
+    	let t2;
+    	let each_1_anchor;
+    	let current;
+    	let each_value_2 = /*landmarks*/ ctx[4];
+    	validate_each_argument(each_value_2);
+    	let each_blocks = [];
+
+    	for (let i = 0; i < each_value_2.length; i += 1) {
+    		each_blocks[i] = create_each_block_2(get_each_context_2(ctx, each_value_2, i));
+    	}
+
+    	const out = i => transition_out(each_blocks[i], 1, 1, () => {
+    		each_blocks[i] = null;
+    	});
+
+    	const block = {
+    		c: function create() {
+    			h1 = element("h1");
+    			t0 = text("地標:\n      ");
+    			count = element("count");
+    			t1 = text(t1_value);
+    			t2 = space();
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				each_blocks[i].c();
+    			}
+
+    			each_1_anchor = empty();
+    			attr_dev(count, "class", "svelte-dhmvfu");
+    			add_location(count, file$1, 139, 6, 2907);
+    			attr_dev(h1, "class", "svelte-dhmvfu");
+    			add_location(h1, file$1, 137, 6, 2886);
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, h1, anchor);
+    			append_dev(h1, t0);
+    			append_dev(h1, count);
+    			append_dev(count, t1);
+    			insert_dev(target, t2, anchor);
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				each_blocks[i].m(target, anchor);
+    			}
+
+    			insert_dev(target, each_1_anchor, anchor);
+    			current = true;
+    		},
+    		p: function update(ctx, dirty) {
+    			if ((!current || dirty & /*landmarks*/ 16) && t1_value !== (t1_value = /*landmarks*/ ctx[4].length + "")) set_data_dev(t1, t1_value);
+
+    			if (dirty & /*landmarks*/ 16) {
+    				each_value_2 = /*landmarks*/ ctx[4];
+    				validate_each_argument(each_value_2);
+    				let i;
+
+    				for (i = 0; i < each_value_2.length; i += 1) {
+    					const child_ctx = get_each_context_2(ctx, each_value_2, i);
+
+    					if (each_blocks[i]) {
+    						each_blocks[i].p(child_ctx, dirty);
+    						transition_in(each_blocks[i], 1);
+    					} else {
+    						each_blocks[i] = create_each_block_2(child_ctx);
+    						each_blocks[i].c();
+    						transition_in(each_blocks[i], 1);
+    						each_blocks[i].m(each_1_anchor.parentNode, each_1_anchor);
+    					}
+    				}
+
+    				group_outros();
+
+    				for (i = each_value_2.length; i < each_blocks.length; i += 1) {
+    					out(i);
+    				}
+
+    				check_outros();
+    			}
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+
+    			for (let i = 0; i < each_value_2.length; i += 1) {
+    				transition_in(each_blocks[i]);
+    			}
+
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			each_blocks = each_blocks.filter(Boolean);
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				transition_out(each_blocks[i]);
+    			}
+
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(h1);
+    			if (detaching) detach_dev(t2);
+    			destroy_each(each_blocks, detaching);
+    			if (detaching) detach_dev(each_1_anchor);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_if_block$1.name,
+    		type: "if",
+    		source: "(137:4) {#if landmarks.length>0}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (142:4) {#each landmarks as card}
+    function create_each_block_2(ctx) {
+    	let cardbar;
+    	let current;
+
+    	cardbar = new CardBar({
+    			props: { card: /*card*/ ctx[10] },
+    			$$inline: true
+    		});
+
+    	const block = {
+    		c: function create() {
+    			create_component(cardbar.$$.fragment);
+    		},
+    		m: function mount(target, anchor) {
+    			mount_component(cardbar, target, anchor);
+    			current = true;
+    		},
+    		p: function update(ctx, dirty) {
+    			const cardbar_changes = {};
+    			if (dirty & /*landmarks*/ 16) cardbar_changes.card = /*card*/ ctx[10];
     			cardbar.$set(cardbar_changes);
     		},
     		i: function intro(local) {
@@ -35246,20 +35425,20 @@ var app = (function () {
     		block,
     		id: create_each_block_2.name,
     		type: "each",
-    		source: "(131:4) {#each heroes as card}",
+    		source: "(142:4) {#each landmarks as card}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (141:4) {#each minions as card}
+    // (153:4) {#each minions as card}
     function create_each_block_1(ctx) {
     	let cardbar;
     	let current;
 
     	cardbar = new CardBar({
-    			props: { card: /*card*/ ctx[9] },
+    			props: { card: /*card*/ ctx[10] },
     			$$inline: true
     		});
 
@@ -35273,7 +35452,7 @@ var app = (function () {
     		},
     		p: function update(ctx, dirty) {
     			const cardbar_changes = {};
-    			if (dirty & /*minions*/ 4) cardbar_changes.card = /*card*/ ctx[9];
+    			if (dirty & /*minions*/ 4) cardbar_changes.card = /*card*/ ctx[10];
     			cardbar.$set(cardbar_changes);
     		},
     		i: function intro(local) {
@@ -35294,20 +35473,20 @@ var app = (function () {
     		block,
     		id: create_each_block_1.name,
     		type: "each",
-    		source: "(141:4) {#each minions as card}",
+    		source: "(153:4) {#each minions as card}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (150:4) {#each spells as card}
+    // (162:4) {#each spells as card}
     function create_each_block(ctx) {
     	let cardbar;
     	let current;
 
     	cardbar = new CardBar({
-    			props: { card: /*card*/ ctx[9] },
+    			props: { card: /*card*/ ctx[10] },
     			$$inline: true
     		});
 
@@ -35321,7 +35500,7 @@ var app = (function () {
     		},
     		p: function update(ctx, dirty) {
     			const cardbar_changes = {};
-    			if (dirty & /*spells*/ 8) cardbar_changes.card = /*card*/ ctx[9];
+    			if (dirty & /*spells*/ 8) cardbar_changes.card = /*card*/ ctx[10];
     			cardbar.$set(cardbar_changes);
     		},
     		i: function intro(local) {
@@ -35342,7 +35521,7 @@ var app = (function () {
     		block,
     		id: create_each_block.name,
     		type: "each",
-    		source: "(150:4) {#each spells as card}",
+    		source: "(162:4) {#each spells as card}",
     		ctx
     	});
 
@@ -35364,53 +35543,55 @@ var app = (function () {
     	let t4;
     	let t5;
     	let t6;
+    	let t7;
     	let div1;
     	let h11;
-    	let t7;
-    	let count1;
-    	let t8_value = /*minions*/ ctx[2].length + "";
     	let t8;
+    	let count1;
+    	let t9_value = /*minions*/ ctx[2].length + "";
     	let t9;
     	let t10;
+    	let t11;
     	let div2;
     	let h12;
-    	let t11;
-    	let count2;
-    	let t12_value = /*spells*/ ctx[3].length + "";
     	let t12;
+    	let count2;
+    	let t13_value = /*spells*/ ctx[3].length + "";
     	let t13;
     	let t14;
-    	let hr;
     	let t15;
+    	let hr;
+    	let t16;
     	let footer;
     	let a0;
     	let svg0;
     	let title0;
-    	let t16;
-    	let path0;
     	let t17;
+    	let path0;
     	let t18;
+    	let t19;
     	let a1;
     	let svg1;
     	let title1;
-    	let t19;
-    	let path1;
     	let t20;
+    	let path1;
+    	let t21;
     	let current;
     	let mounted;
     	let dispose;
-    	let each_value_2 = /*heroes*/ ctx[1];
-    	validate_each_argument(each_value_2);
+    	let each_value_3 = /*heroes*/ ctx[1];
+    	validate_each_argument(each_value_3);
     	let each_blocks_2 = [];
 
-    	for (let i = 0; i < each_value_2.length; i += 1) {
-    		each_blocks_2[i] = create_each_block_2(get_each_context_2(ctx, each_value_2, i));
+    	for (let i = 0; i < each_value_3.length; i += 1) {
+    		each_blocks_2[i] = create_each_block_3(get_each_context_3(ctx, each_value_3, i));
     	}
 
     	const out = i => transition_out(each_blocks_2[i], 1, 1, () => {
     		each_blocks_2[i] = null;
     	});
 
+    	let if_block = /*landmarks*/ ctx[4].length > 0 && create_if_block$1(ctx);
     	let each_value_1 = /*minions*/ ctx[2];
     	validate_each_argument(each_value_1);
     	let each_blocks_1 = [];
@@ -35456,99 +35637,101 @@ var app = (function () {
     			}
 
     			t6 = space();
+    			if (if_block) if_block.c();
+    			t7 = space();
     			div1 = element("div");
     			h11 = element("h1");
-    			t7 = text("侍從/地標:\n      ");
+    			t8 = text("侍從:\n      ");
     			count1 = element("count");
-    			t8 = text(t8_value);
-    			t9 = space();
+    			t9 = text(t9_value);
+    			t10 = space();
 
     			for (let i = 0; i < each_blocks_1.length; i += 1) {
     				each_blocks_1[i].c();
     			}
 
-    			t10 = space();
+    			t11 = space();
     			div2 = element("div");
     			h12 = element("h1");
-    			t11 = text("法術:\n      ");
+    			t12 = text("法術:\n      ");
     			count2 = element("count");
-    			t12 = text(t12_value);
-    			t13 = space();
+    			t13 = text(t13_value);
+    			t14 = space();
 
     			for (let i = 0; i < each_blocks.length; i += 1) {
     				each_blocks[i].c();
     			}
 
-    			t14 = space();
-    			hr = element("hr");
     			t15 = space();
+    			hr = element("hr");
+    			t16 = space();
     			footer = element("footer");
     			a0 = element("a");
     			svg0 = svg_element("svg");
     			title0 = svg_element("title");
-    			t16 = text("Facebook icon");
+    			t17 = text("Facebook icon");
     			path0 = svg_element("path");
-    			t17 = text("\n    符文大地情報站");
-    			t18 = space();
+    			t18 = text("\n    符文大地情報站");
+    			t19 = space();
     			a1 = element("a");
     			svg1 = svg_element("svg");
     			title1 = svg_element("title");
-    			t19 = text("GitHub icon");
+    			t20 = text("GitHub icon");
     			path1 = svg_element("path");
-    			t20 = text("\n    原始碼");
+    			t21 = text("\n    原始碼");
     			attr_dev(label, "class", "svelte-dhmvfu");
-    			add_location(label, file$1, 120, 2, 2517);
+    			add_location(label, file$1, 123, 2, 2599);
     			attr_dev(input, "placeholder", "將代碼貼在此");
     			attr_dev(input, "class", "svelte-dhmvfu");
-    			add_location(input, file$1, 121, 2, 2539);
+    			add_location(input, file$1, 124, 2, 2621);
     			attr_dev(deckcode_1, "class", "svelte-dhmvfu");
-    			add_location(deckcode_1, file$1, 119, 0, 2504);
+    			add_location(deckcode_1, file$1, 122, 0, 2586);
     			attr_dev(count0, "class", "svelte-dhmvfu");
-    			add_location(count0, file$1, 128, 6, 2664);
+    			add_location(count0, file$1, 131, 6, 2746);
     			attr_dev(h10, "class", "svelte-dhmvfu");
-    			add_location(h10, file$1, 126, 4, 2643);
+    			add_location(h10, file$1, 129, 4, 2725);
     			attr_dev(div0, "class", "svelte-dhmvfu");
-    			add_location(div0, file$1, 125, 2, 2633);
+    			add_location(div0, file$1, 128, 2, 2715);
     			attr_dev(count1, "class", "svelte-dhmvfu");
-    			add_location(count1, file$1, 138, 6, 2815);
+    			add_location(count1, file$1, 150, 6, 3071);
     			attr_dev(h11, "class", "svelte-dhmvfu");
-    			add_location(h11, file$1, 136, 4, 2791);
+    			add_location(h11, file$1, 148, 4, 3050);
     			attr_dev(div1, "class", "svelte-dhmvfu");
-    			add_location(div1, file$1, 134, 2, 2780);
+    			add_location(div1, file$1, 146, 2, 3039);
     			attr_dev(count2, "class", "svelte-dhmvfu");
-    			add_location(count2, file$1, 147, 6, 2964);
+    			add_location(count2, file$1, 159, 6, 3220);
     			attr_dev(h12, "class", "svelte-dhmvfu");
-    			add_location(h12, file$1, 145, 4, 2943);
+    			add_location(h12, file$1, 157, 4, 3199);
     			attr_dev(div2, "class", "svelte-dhmvfu");
-    			add_location(div2, file$1, 144, 2, 2933);
+    			add_location(div2, file$1, 156, 2, 3189);
     			attr_dev(main, "class", "svelte-dhmvfu");
-    			add_location(main, file$1, 124, 0, 2624);
+    			add_location(main, file$1, 127, 0, 2706);
     			attr_dev(hr, "class", "svelte-dhmvfu");
-    			add_location(hr, file$1, 155, 0, 3087);
-    			add_location(title0, file$1, 164, 6, 3272);
+    			add_location(hr, file$1, 167, 0, 3343);
+    			add_location(title0, file$1, 176, 6, 3528);
     			attr_dev(path0, "d", "M23.9981 11.9991C23.9981 5.37216 18.626 0 11.9991 0C5.37216 0 0\n        5.37216 0 11.9991C0 17.9882 4.38789 22.9522 10.1242\n        23.8524V15.4676H7.07758V11.9991H10.1242V9.35553C10.1242 6.34826 11.9156\n        4.68714 14.6564 4.68714C15.9692 4.68714 17.3424 4.92149 17.3424\n        4.92149V7.87439H15.8294C14.3388 7.87439 13.8739 8.79933 13.8739\n        9.74824V11.9991H17.2018L16.6698 15.4676H13.8739V23.8524C19.6103 22.9522\n        23.9981 17.9882 23.9981 11.9991Z");
-    			add_location(path0, file$1, 165, 6, 3307);
+    			add_location(path0, file$1, 177, 6, 3563);
     			attr_dev(svg0, "class", "social svelte-dhmvfu");
     			attr_dev(svg0, "role", "img");
     			attr_dev(svg0, "viewBox", "0 0 24 24");
     			attr_dev(svg0, "xmlns", "http://www.w3.org/2000/svg");
-    			add_location(svg0, file$1, 159, 4, 3155);
+    			add_location(svg0, file$1, 171, 4, 3411);
     			attr_dev(a0, "href", "https://www.facebook.com/LoRFanTW");
     			attr_dev(a0, "class", "svelte-dhmvfu");
-    			add_location(a0, file$1, 158, 2, 3106);
-    			add_location(title1, file$1, 183, 6, 4011);
+    			add_location(a0, file$1, 170, 2, 3362);
+    			add_location(title1, file$1, 195, 6, 4267);
     			attr_dev(path1, "d", "M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205\n        11.385.6.113.82-.258.82-.577\n        0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07\n        3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838\n        1.236 1.838 1.236 1.07 1.835 2.809 1.305\n        3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93\n        0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322\n        3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552\n        3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23\n        3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015\n        2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24\n        12.297c0-6.627-5.373-12-12-12");
-    			add_location(path1, file$1, 184, 6, 4044);
+    			add_location(path1, file$1, 196, 6, 4300);
     			attr_dev(svg1, "class", "social svelte-dhmvfu");
     			attr_dev(svg1, "role", "img");
     			attr_dev(svg1, "viewBox", "0 0 24 24");
     			attr_dev(svg1, "xmlns", "http://www.w3.org/2000/svg");
-    			add_location(svg1, file$1, 178, 4, 3894);
+    			add_location(svg1, file$1, 190, 4, 4150);
     			attr_dev(a1, "href", "https://github.com/jotarun/runeterradeckviewer");
     			attr_dev(a1, "class", "svelte-dhmvfu");
-    			add_location(a1, file$1, 177, 2, 3832);
+    			add_location(a1, file$1, 189, 2, 4088);
     			attr_dev(footer, "class", "svelte-dhmvfu");
-    			add_location(footer, file$1, 157, 0, 3095);
+    			add_location(footer, file$1, 169, 0, 3351);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -35572,53 +35755,55 @@ var app = (function () {
     				each_blocks_2[i].m(div0, null);
     			}
 
-    			append_dev(main, t6);
+    			append_dev(div0, t6);
+    			if (if_block) if_block.m(div0, null);
+    			append_dev(main, t7);
     			append_dev(main, div1);
     			append_dev(div1, h11);
-    			append_dev(h11, t7);
+    			append_dev(h11, t8);
     			append_dev(h11, count1);
-    			append_dev(count1, t8);
-    			append_dev(div1, t9);
+    			append_dev(count1, t9);
+    			append_dev(div1, t10);
 
     			for (let i = 0; i < each_blocks_1.length; i += 1) {
     				each_blocks_1[i].m(div1, null);
     			}
 
-    			append_dev(main, t10);
+    			append_dev(main, t11);
     			append_dev(main, div2);
     			append_dev(div2, h12);
-    			append_dev(h12, t11);
+    			append_dev(h12, t12);
     			append_dev(h12, count2);
-    			append_dev(count2, t12);
-    			append_dev(div2, t13);
+    			append_dev(count2, t13);
+    			append_dev(div2, t14);
 
     			for (let i = 0; i < each_blocks.length; i += 1) {
     				each_blocks[i].m(div2, null);
     			}
 
-    			insert_dev(target, t14, anchor);
-    			insert_dev(target, hr, anchor);
     			insert_dev(target, t15, anchor);
+    			insert_dev(target, hr, anchor);
+    			insert_dev(target, t16, anchor);
     			insert_dev(target, footer, anchor);
     			append_dev(footer, a0);
     			append_dev(a0, svg0);
     			append_dev(svg0, title0);
-    			append_dev(title0, t16);
+    			append_dev(title0, t17);
     			append_dev(svg0, path0);
-    			append_dev(a0, t17);
-    			append_dev(footer, t18);
+    			append_dev(a0, t18);
+    			append_dev(footer, t19);
     			append_dev(footer, a1);
     			append_dev(a1, svg1);
     			append_dev(svg1, title1);
-    			append_dev(title1, t19);
+    			append_dev(title1, t20);
     			append_dev(svg1, path1);
-    			append_dev(a1, t20);
+    			append_dev(a1, t21);
     			current = true;
 
     			if (!mounted) {
     				dispose = [
-    					listen_dev(input, "change", /*decode*/ ctx[4], false, false, false),
-    					listen_dev(input, "input", /*input_input_handler*/ ctx[5])
+    					listen_dev(input, "change", /*decode*/ ctx[5], false, false, false),
+    					listen_dev(input, "input", /*input_input_handler*/ ctx[6])
     				];
 
     				mounted = true;
@@ -35632,34 +35817,57 @@ var app = (function () {
     			if ((!current || dirty & /*heroes*/ 2) && t4_value !== (t4_value = /*heroes*/ ctx[1].length + "")) set_data_dev(t4, t4_value);
 
     			if (dirty & /*heroes*/ 2) {
-    				each_value_2 = /*heroes*/ ctx[1];
-    				validate_each_argument(each_value_2);
+    				each_value_3 = /*heroes*/ ctx[1];
+    				validate_each_argument(each_value_3);
     				let i;
 
-    				for (i = 0; i < each_value_2.length; i += 1) {
-    					const child_ctx = get_each_context_2(ctx, each_value_2, i);
+    				for (i = 0; i < each_value_3.length; i += 1) {
+    					const child_ctx = get_each_context_3(ctx, each_value_3, i);
 
     					if (each_blocks_2[i]) {
     						each_blocks_2[i].p(child_ctx, dirty);
     						transition_in(each_blocks_2[i], 1);
     					} else {
-    						each_blocks_2[i] = create_each_block_2(child_ctx);
+    						each_blocks_2[i] = create_each_block_3(child_ctx);
     						each_blocks_2[i].c();
     						transition_in(each_blocks_2[i], 1);
-    						each_blocks_2[i].m(div0, null);
+    						each_blocks_2[i].m(div0, t6);
     					}
     				}
 
     				group_outros();
 
-    				for (i = each_value_2.length; i < each_blocks_2.length; i += 1) {
+    				for (i = each_value_3.length; i < each_blocks_2.length; i += 1) {
     					out(i);
     				}
 
     				check_outros();
     			}
 
-    			if ((!current || dirty & /*minions*/ 4) && t8_value !== (t8_value = /*minions*/ ctx[2].length + "")) set_data_dev(t8, t8_value);
+    			if (/*landmarks*/ ctx[4].length > 0) {
+    				if (if_block) {
+    					if_block.p(ctx, dirty);
+
+    					if (dirty & /*landmarks*/ 16) {
+    						transition_in(if_block, 1);
+    					}
+    				} else {
+    					if_block = create_if_block$1(ctx);
+    					if_block.c();
+    					transition_in(if_block, 1);
+    					if_block.m(div0, null);
+    				}
+    			} else if (if_block) {
+    				group_outros();
+
+    				transition_out(if_block, 1, 1, () => {
+    					if_block = null;
+    				});
+
+    				check_outros();
+    			}
+
+    			if ((!current || dirty & /*minions*/ 4) && t9_value !== (t9_value = /*minions*/ ctx[2].length + "")) set_data_dev(t9, t9_value);
 
     			if (dirty & /*minions*/ 4) {
     				each_value_1 = /*minions*/ ctx[2];
@@ -35689,7 +35897,7 @@ var app = (function () {
     				check_outros();
     			}
 
-    			if ((!current || dirty & /*spells*/ 8) && t12_value !== (t12_value = /*spells*/ ctx[3].length + "")) set_data_dev(t12, t12_value);
+    			if ((!current || dirty & /*spells*/ 8) && t13_value !== (t13_value = /*spells*/ ctx[3].length + "")) set_data_dev(t13, t13_value);
 
     			if (dirty & /*spells*/ 8) {
     				each_value = /*spells*/ ctx[3];
@@ -35722,9 +35930,11 @@ var app = (function () {
     		i: function intro(local) {
     			if (current) return;
 
-    			for (let i = 0; i < each_value_2.length; i += 1) {
+    			for (let i = 0; i < each_value_3.length; i += 1) {
     				transition_in(each_blocks_2[i]);
     			}
+
+    			transition_in(if_block);
 
     			for (let i = 0; i < each_value_1.length; i += 1) {
     				transition_in(each_blocks_1[i]);
@@ -35743,6 +35953,7 @@ var app = (function () {
     				transition_out(each_blocks_2[i]);
     			}
 
+    			transition_out(if_block);
     			each_blocks_1 = each_blocks_1.filter(Boolean);
 
     			for (let i = 0; i < each_blocks_1.length; i += 1) {
@@ -35762,11 +35973,12 @@ var app = (function () {
     			if (detaching) detach_dev(t2);
     			if (detaching) detach_dev(main);
     			destroy_each(each_blocks_2, detaching);
+    			if (if_block) if_block.d();
     			destroy_each(each_blocks_1, detaching);
     			destroy_each(each_blocks, detaching);
-    			if (detaching) detach_dev(t14);
-    			if (detaching) detach_dev(hr);
     			if (detaching) detach_dev(t15);
+    			if (detaching) detach_dev(hr);
+    			if (detaching) detach_dev(t16);
     			if (detaching) detach_dev(footer);
     			mounted = false;
     			run_all(dispose);
@@ -35801,6 +36013,7 @@ var app = (function () {
     	let heroes = {};
     	let minions = {};
     	let spells = {};
+    	let landmarks = {};
     	decode();
 
     	function decode() {
@@ -35816,9 +36029,11 @@ var app = (function () {
     		});
 
     		$$invalidate(1, heroes = deck.filter(card => card.supertype == "英雄"));
-    		$$invalidate(2, minions = deck.filter(card => card.type == "單位" || card.type == "地標" && card.supertype == ""));
+    		$$invalidate(4, landmarks = deck.filter(card => card.type == "地標"));
+    		$$invalidate(2, minions = deck.filter(card => card.type == "單位" && card.supertype == ""));
     		$$invalidate(3, spells = deck.filter(card => card.type == "法術"));
     		sortdeck(heroes);
+    		sortdeck(landmarks);
     		sortdeck(minions);
     		sortdeck(spells);
     	}
@@ -35849,6 +36064,7 @@ var app = (function () {
     		heroes,
     		minions,
     		spells,
+    		landmarks,
     		decode,
     		sortdeck
     	});
@@ -35861,13 +36077,14 @@ var app = (function () {
     		if ("heroes" in $$props) $$invalidate(1, heroes = $$props.heroes);
     		if ("minions" in $$props) $$invalidate(2, minions = $$props.minions);
     		if ("spells" in $$props) $$invalidate(3, spells = $$props.spells);
+    		if ("landmarks" in $$props) $$invalidate(4, landmarks = $$props.landmarks);
     	};
 
     	if ($$props && "$$inject" in $$props) {
     		$$self.$inject_state($$props.$$inject);
     	}
 
-    	return [deckcode, heroes, minions, spells, decode, input_input_handler];
+    	return [deckcode, heroes, minions, spells, landmarks, decode, input_input_handler];
     }
 
     class App extends SvelteComponentDev {
