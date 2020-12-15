@@ -986,12 +986,843 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX019.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX019-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "使敵方棄置手牌中<link=keyword.Weakest><style=Keyword>最弱</style></link>的<br>侍從牌。",
+    		descriptionRaw: "使敵方棄置手牌中最弱的侍從牌。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「弱者根本不該存在這世界上。對他們來說，每天都是新的折磨，彷彿被掐住喉嚨，日漸窒息。我殺人不是為了取樂，而是出於憐憫。」——獵捕手艾瑞兒",
+    		artistName: "Kudos Productions",
+    		name: "弱肉強食",
+    		cardCode: "03NX019",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03NX007T1",
+    			"03NX012",
+    			"03NX007T3",
+    			"03NX008",
+    			"03NX010",
+    			"03NX011"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX007-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 3,
+    		cost: 3,
+    		health: 4,
+    		description: "我方獲得攻擊主動權時，進行<link=vocab.Reforge><style=Vocab>重鑄</style></link>。",
+    		descriptionRaw: "我方獲得攻擊主動權時，進行重鑄。",
+    		levelupDescription: "此牌在場上時，手牌中有<br><link=card.blade><style=AssociatedCard>放逐之刃</style></link>。",
+    		levelupDescriptionRaw: "此牌在場上時，手牌中有放逐之刃。",
+    		flavorText: "「我不會逃避過去的自己，因為我已承諾要修復當初所破壞的事物……」",
+    		artistName: "SIXMOREVODKA",
+    		name: "雷玟",
+    		cardCode: "03NX007",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "英雄",
+    		rarityRef: "Champion",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03NX010",
+    			"03NX011",
+    			"03NX012"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX008-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 0,
+    		cost: 1,
+    		health: 0,
+    		description: "本回合給予1個友軍單位<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。\r\n無法在戰鬥中施放，<br>或用來對應其他法術。\r\n<style=Variable></style>",
+    		descriptionRaw: "本回合給予1個友軍單位勢不可擋。\r\n無法在戰鬥中施放，或用來對應其他法術。\r\n",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「一名戰士必須知道自己的武器有多沉重，承載著多少罪惡。」——雷玟",
+    		artistName: "Kudos Productions",
+    		name: "重刃碎片",
+    		cardCode: "03NX008",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03NX007",
+    			"03NX007T1",
+    			"03NX012",
+    			"03NX008",
+    			"03NX010",
+    			"03NX011"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX007T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX007T3-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "本回合給予1個友軍單位+2|+0。進行<link=vocab.Reforge><style=Vocab>重鑄</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>雷玟</style></link>。",
+    		descriptionRaw: "本回合給予1個友軍單位+2|+0。進行重鑄。\r\n在我方牌組生成1張雷玟。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「要了解你的敵人，首先要了解他的武器。它會告訴你對方如何移動、思考以及攻擊時機。武器就是主人最純粹的表達方式。」——獵捕手艾瑞兒",
+    		artistName: "Kudos Productions",
+    		name: "雷玟 破刃殘柄",
+    		cardCode: "03NX007T3",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX011.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX011-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 0,
+    		cost: 3,
+    		health: 0,
+    		description: "賦予1個友軍單位+2|+0、<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>與<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>。",
+    		descriptionRaw: "賦予1個友軍單位+2|+0、勢不可擋與快速攻擊。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「戰士擁有的不僅是武器。他們還擁有力量，但也必須承擔後果、了解寬恕與救贖。」——雷玟",
+    		artistName: "Kudos Productions",
+    		name: "放逐之刃",
+    		cardCode: "03NX011",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03NX011",
+    			"03NX012",
+    			"03NX008"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX010-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 0,
+    		cost: 1,
+    		health: 0,
+    		description: "本回合給予1個友軍單位<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>。\r\n無法在戰鬥中施放，<br>或用來對應其他法術。\r\n<style=Variable></style>",
+    		descriptionRaw: "本回合給予1個友軍單位快速攻擊。\r\n無法在戰鬥中施放，或用來對應其他法術。\r\n",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「一名戰士必須知道自己的刀刃有多鋒利，而且不分敵我，一律斬殺。」——雷玟",
+    		artistName: "Kudos Productions",
+    		name: "利刃碎片",
+    		cardCode: "03NX010",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03NX007",
+    			"03NX007T3",
+    			"03NX012",
+    			"03NX008",
+    			"03NX010",
+    			"03NX011"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX007T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX007T1-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 4,
+    		cost: 3,
+    		health: 5,
+    		description: "我方獲得攻擊主動權時，進行<link=vocab.Reforge><style=Vocab>重鑄</style></link>。\r\n每回合此牌的力量值首次增加時，將增加的數值變為兩倍。",
+    		descriptionRaw: "我方獲得攻擊主動權時，進行重鑄。\r\n每回合此牌的力量值首次增加時，將增加的數值變為兩倍。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「……對於想傷害我的人，我絕不逃避。」",
+    		artistName: "SIXMOREVODKA",
+    		name: "雷玟",
+    		cardCode: "03NX007T1",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03NX010",
+    			"03NX011",
+    			"03NX008"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX012.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX012-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 0,
+    		cost: 1,
+    		health: 0,
+    		description: "本回合給予1個友軍單位+2|+0。\r\n無法在戰鬥中施放，<br>或用來對應其他法術。\r\n<style=Variable></style>",
+    		descriptionRaw: "本回合給予1個友軍單位+2|+0。\r\n無法在戰鬥中施放，或用來對應其他法術。\r\n",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「戰士必須知道自己武器的過去……以及濺在刀刃上的每一滴血。」——雷玟",
+    		artistName: "Kudos Productions",
+    		name: "閃刃碎片",
+    		cardCode: "03NX012",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03NX012",
+    			"03NX008",
+    			"03NX010",
+    			"03NX011"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX006-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "本回合給予1個友軍單位+2|+0。進行<link=vocab.Reforge><style=Vocab>重鑄</style></link>。",
+    		descriptionRaw: "本回合給予1個友軍單位+2|+0。進行重鑄。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「要了解你的敵人，首先要了解他的武器。它會告訴你對方如何移動、思考以及攻擊時機。武器就是主人最純粹的表達方式。」——獵捕手艾瑞兒",
+    		artistName: "Kudos Productions",
+    		name: "破刃殘柄",
+    		cardCode: "03NX006",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX002-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 2,
+    		cost: 6,
+    		health: 5,
+    		description: "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：若我方本回合曾對此牌施放法術，則此牌<link=vocab.Strike><style=Vocab>打擊</style></link><link=keyword.Weakest><style=Keyword>最弱</style></link>的敵軍<br>單位。",
+    		descriptionRaw: "回合結束：若我方本回合曾對此牌施放法術，則此牌打擊最弱的敵軍單位。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「儘管躲啊，我們會找到你。\n就連呼吸，我們都聽得到。\n盡量跑吧，我們會殺了你。」",
+    		artistName: "SIXMOREVODKA",
+    		name: "獵捕手艾瑞兒",
+    		cardCode: "03NX002",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"01NX038"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX018.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX018-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>1個敵軍單位。\r\n若我方場上有<link=card.champ1><style=AssociatedCard>達瑞斯</style></link>，<br>則進行<link=vocab.Rally><style=Vocab>備戰</style></link>。",
+    		descriptionRaw: "擊暈1個敵軍單位。\r\n若我方場上有達瑞斯，則進行備戰。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「我自己來就行了。」——達瑞斯",
+    		artistName: "Kudos Productions",
+    		name: "壓制",
+    		cardCode: "03NX018",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX009-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 7,
+    		cost: 5,
+    		health: 3,
+    		description: "",
+    		descriptionRaw: "",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「沒有什麼比獵殺其他士兵更棒的了。要追蹤他們，就要同理他們的思考與感受。要抓住他們，就必須畏懼他們，就像他們畏懼你一樣。大部分的人可能不明白，但我最珍惜的就是這樣的羈絆。」",
+    		artistName: "SIXMOREVODKA",
+    		name: "狂怒騎士",
+    		cardCode: "03NX009",
+    		keywords: [
+    			"挑戰者"
+    		],
+    		keywordRefs: [
+    			"Challenger"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03NX016"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX017.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX017-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 7,
+    		cost: 7,
+    		health: 4,
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：對1個友軍單位與1個敵軍單位造成1點傷害4次。",
+    		descriptionRaw: "出牌：對1個友軍單位與1個敵軍單位造成1點傷害4次。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "戰鬥前幾天，巨異蜥馴獸師不會讓牠們吃活的獵物。等到那些猛獸被釋放時，牠們會變得不分敵友，並且所向無敵。",
+    		artistName: "Kudos Productions",
+    		name: "巨異蜥血魔",
+    		cardCode: "03NX017",
+    		keywords: [
+    			"勢不可擋"
+    		],
+    		keywordRefs: [
+    			"Overwhelm"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX016-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "對1個友軍單位與1個敵軍單位造成1點傷害4次。",
+    		descriptionRaw: "對1個友軍單位與1個敵軍單位造成1點傷害4次。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「你要小心的不是猛獸的利爪，而是牠們永遠無法滿足的胃口。」——巨異蜥馴獸師",
+    		artistName: "Kudos Productions",
+    		name: "利爪擊",
+    		cardCode: "03NX016",
+    		keywords: [
+    			"技能"
+    		],
+    		keywordRefs: [
+    			"Skill"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "技能",
+    		collectible: false,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX015.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX015-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 0,
+    		cost: 5,
+    		health: 0,
+    		description: "本回合友軍單位的生命值不會低於1。\r\n棄置此牌時，本回合<link=vocab.Strongest><style=Vocab>最強</style></link>友軍單位的生命值不會低於1。",
+    		descriptionRaw: "本回合友軍單位的生命值不會低於1。\r\n棄置此牌時，本回合最強友軍單位的生命值不會低於1。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「龍犬聞到味道了，牠們會找到她，然後做個了結，除此之外別無他法。」——獵捕手艾瑞兒",
+    		artistName: "Kudos Productions",
+    		name: "生存技巧",
+    		cardCode: "03NX015",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX014-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 0,
+    		cost: 3,
+    		health: 0,
+    		description: "本回合給予1個友軍單位+3|+2。",
+    		descriptionRaw: "本回合給予1個友軍單位+3|+2。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「當然，我會修理你們的武器、照顧坐騎，再煮飯給你們吃。不然我還有什麼用處呢？」<br>——護刃隨從埃拉特",
+    		artistName: "Kudos Productions",
+    		name: "打磨心志",
+    		cardCode: "03NX014",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03NX012",
+    			"03NX008",
+    			"03NX010",
+    			"03NX011"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX003-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 1,
+    		cost: 1,
+    		health: 2,
+    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：進行<link=vocab.Reforge><style=Vocab>重鑄</style></link>。",
+    		descriptionRaw: "遺願：進行重鑄。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「正如女獵手所說，一百個日與夜，永不停歇；腳上長了一百個水泡，早餐裡有一百隻蟲子，聽過一百次『手刃』、『復仇』云云，耳朵都快長繭了。至於被那三人言語霸凌，就遠遠不止一百次了……」 ",
+    		artistName: "SIXMOREVODKA",
+    		name: "護刃隨從",
+    		cardCode: "03NX003",
+    		keywords: [
+    			"遺願"
+    		],
+    		keywordRefs: [
+    			"LastBreath"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03NX012",
+    			"03NX008",
+    			"03NX010",
+    			"03NX011"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX001-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 3,
+    		cost: 2,
+    		health: 1,
+    		description: "召喚此牌時，進行<link=vocab.Reforge><style=Vocab>重鑄</style></link>。",
+    		descriptionRaw: "召喚此牌時，進行重鑄。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「大部分的武器都是粗糙的工具，不會比徒手戰鬥好到哪去。但注入符文魔法的武器就不僅僅是一塊廢鐵了。」",
+    		artistName: "SIXMOREVODKA",
+    		name: "符文編鑄者",
+    		cardCode: "03NX001",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX005-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 3,
+    		cost: 4,
+    		health: 3,
+    		description: "召喚此牌時，本回合給予此牌<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>。",
+    		descriptionRaw: "召喚此牌時，本回合給予此牌快速攻擊。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「原來你在這啊。我們就知道不來硬的，你絕對不會俯首稱臣！至少我們是這麼希望的。」",
+    		artistName: "SIXMOREVODKA",
+    		name: "殘酷獵手",
+    		cardCode: "03NX005",
+    		keywords: [
+    			"挑戰者"
+    		],
+    		keywordRefs: [
+    			"Challenger"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
     			"03BW006T1"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW006-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1030,8 +1861,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW010-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1072,8 +1903,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW005-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1117,8 +1948,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW004-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1159,8 +1990,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW004T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW004T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW004T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW004T2-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1206,8 +2037,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW004T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW004T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW004T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW004T3-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1248,8 +2079,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW004T4.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW004T4-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW004T4.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW004T4-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1257,8 +2088,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "使1個友軍單位<link=keyword.Capture><sprite name=Capture><style=Keyword>俘虜</style></link>另1個友軍單位，並獲得被俘單位的能力值。\r\n將1張<link=card.level1><style=AssociatedCard>貪啃奇</style></link>洗入牌組。",
-    		descriptionRaw: "使1個友軍單位俘虜另1個友軍單位，並獲得被俘單位的能力值。\r\n將1張貪啃奇洗入牌組。",
+    		description: "使1個友軍單位<link=keyword.Capture><sprite name=Capture><style=Keyword>俘虜</style></link>另1個友軍單位，並獲得被俘單位的能力值。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>貪啃奇</style></link>。",
+    		descriptionRaw: "使1個友軍單位俘虜另1個友軍單位，並獲得被俘單位的能力值。\r\n在我方牌組生成1張貪啃奇。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「進來吧，朋友，那麼你想要的東西將永遠屬於你。」——貪啃奇",
@@ -1290,8 +2121,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW002-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1333,8 +2164,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW014-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW014-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1375,8 +2206,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW007-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1417,8 +2248,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW006T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW006T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW006T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW006T1-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1458,11 +2289,54 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
+    			"02BW032T1"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW016-full.png"
+    			}
+    		],
+    		region: "比爾吉沃特",
+    		regionRef: "Bilgewater",
+    		attack: 0,
+    		cost: 3,
+    		health: 0,
+    		description: "對1個單位造成1點傷害，\r\n然後召喚與造成傷害量相同數量的<link=card.summon><style=AssociatedCard>火藥桶</style></link>。",
+    		descriptionRaw: "對1個單位造成1點傷害，\r\n然後召喚與造成傷害量相同數量的火藥桶。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「年輕的吉朗特才剛發出警報，第一發攻擊就來了。船體劇烈搖晃，船首三角帆也起火了，但熱鴉號還撐得住。我以為這樣就結束了，但當我隨著吉朗特的視線望向大海，才看到還有四艘划艇正駛向我們，全都載滿了火藥。」——熱鴉號倖存者",
+    		artistName: "Kudos Productions",
+    		name: "轟隆戰艦",
+    		cardCode: "03BW016",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW001-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1503,8 +2377,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW015.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW015-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW015.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW015-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1543,8 +2417,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW003-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1587,8 +2461,50 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW017.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW017-full.png"
+    			}
+    		],
+    		region: "比爾吉沃特",
+    		regionRef: "Bilgewater",
+    		attack: 3,
+    		cost: 6,
+    		health: 1,
+    		description: "本牌局我方每施放1張法術，<br>則此牌魔耗值-1。\r\n召喚此牌時，在手牌生成1張魔耗值1點、來自我方牌組區域的法術。",
+    		descriptionRaw: "本牌局我方每施放1張法術，則此牌魔耗值-1。\r\n召喚此牌時，在手牌生成1張魔耗值1點、來自我方牌組區域的法術。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「哩正，猜鳥！你的楞務是潛路敵軍陣線，儘量骯裝泡泡，郎後回報你縮抗到的一切！一、切！東瞭嗎？！」——貝殼電擊者，海軍上將雪利",
+    		artistName: "",
+    		name: "搖擺泡泡魚",
+    		cardCode: "03BW017",
+    		keywords: [
+    			"隱密"
+    		],
+    		keywordRefs: [
+    			"Elusive"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW008-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1627,8 +2543,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03BW009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03BW009-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -1669,505 +2585,38 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03PZ019.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03PZ019-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE010-full.png"
     			}
     		],
-    		region: "皮爾托福&佐恩",
-    		regionRef: "PiltoverZaun",
-    		attack: 2,
-    		cost: 2,
-    		health: 3,
-    		description: "在手牌中時，此牌會擁有1個隨機特性（每回合會改變）。召喚此牌時，賦予此牌該特性。",
-    		descriptionRaw: "在手牌中時，此牌會擁有1個隨機特性（每回合會改變）。召喚此牌時，賦予此牌該特性。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "雖然不像真的那樣蓬軟好抱，但就像真的一樣可愛。",
-    		artistName: "Dao Le",
-    		name: "拼裝普羅機器人",
-    		cardCode: "03PZ019",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    			"普羅"
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03PZ022.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03PZ022-full.png"
-    			}
-    		],
-    		region: "皮爾托福&佐恩",
-    		regionRef: "PiltoverZaun",
-    		attack: 0,
-    		cost: 8,
-    		health: 0,
-    		description: "將所有友軍單位的力量和生命值，提升成友軍單位中力量或生命值最高的數值。\r\n賦予所有友軍單位其他友軍單位的特性。",
-    		descriptionRaw: "將所有友軍單位的力量和生命值，提升成友軍單位中力量或生命值最高的數值。\r\n賦予所有友軍單位其他友軍單位的特性。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "\"I know I know\nYou want some more\nIf you ready let's go\nGiving it all\"\n「我懂我懂\n你想要更多\n準備好就一起走\n拼上全力不放手」\n——瑟菈紛〈MORE〉",
-    		artistName: "Kudos Productions",
-    		name: "全力以赴",
-    		cardCode: "03PZ022",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03PZ017.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03PZ017-full.png"
-    			}
-    		],
-    		region: "皮爾托福&佐恩",
-    		regionRef: "PiltoverZaun",
-    		attack: 0,
-    		cost: 4,
-    		health: 0,
-    		description: "對1個單位造成1點傷害。隨機召喚1個魔耗值<style=Variable>1</style>的侍從單位。此牌在手中時，每當我方打出1張魔耗值3點的卡牌，則造成的傷害值與召喚單位魔耗值皆增加1點。",
-    		descriptionRaw: "對1個單位造成1點傷害。隨機召喚1個魔耗值1的侍從單位。此牌在手中時，每當我方打出1張魔耗值3點的卡牌，則造成的傷害值與召喚單位魔耗值皆增加1點。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「……一、二、三！！！噢。噢，我的天啊……又是無法預料的結果？！」——漢默丁格",
-    		artistName: "Kudos Productions",
-    		name: "三雷射爆破炮",
-    		cardCode: "03PZ017",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"01PZ020"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03PZ018.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03PZ018-full.png"
-    			}
-    		],
-    		region: "皮爾托福&佐恩",
-    		regionRef: "PiltoverZaun",
-    		attack: 0,
-    		cost: 0,
-    		health: 0,
-    		description: "棄置1張牌即可出此牌。\r\n在手牌生成2張<link=card.create><style=AssociatedCard>大膽普羅</style></link>。",
-    		descriptionRaw: "棄置1張牌即可出此牌。\r\n在手牌生成2張大膽普羅。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "兩個毛茸茸的身影從熱情的群眾頭上劃過天際，在身後留下一團絨毛和淡淡的烘焙香",
-    		artistName: "Kudos Productions",
-    		name: "普羅大砲",
-    		cardCode: "03PZ018",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI004-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 0,
-    		cost: 2,
-    		health: 0,
-    		description: "從我方牌組最上方4張牌選1個侍從單位。\r\n抽出該牌、在手牌生成1張與該牌完全相同的<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>複製牌，並將其餘卡牌洗回我方牌組。",
-    		descriptionRaw: "從我方牌組最上方4張牌選1個侍從單位。\r\n抽出該牌、在手牌生成1張與該牌完全相同的閃靈複製牌，並將其餘卡牌洗回我方牌組。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「去……包圍他們……」——夜曲",
-    		artistName: "Kudos Productions",
-    		name: "如影隨形",
-    		cardCode: "03SI004",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI012.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI012-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
+    		region: "蒂瑪西亞",
+    		regionRef: "Demacia",
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>本回合所有被召喚但並非打出的單位。",
-    		descriptionRaw: "泯滅本回合所有被召喚但並非打出的單位。",
+    		description: "召喚友軍單位時，本回合給予其+1|+1與<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。",
+    		descriptionRaw: "召喚友軍單位時，本回合給予其+1|+1與挑戰者。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「當然，死亡也存在於蒂瑪西亞。我們看著它帶走所愛之人，也知道總有一天會輪到我們。但在這些島嶼上……我幾乎能嘗到死亡的味道。死亡的氣息充滿我的肺臟，我甚至能聽到它的耳語。這不是什麼抽象的概念，它此時此刻就坐在我身旁，沒有任何人逃得出它的魔掌。」\n——歷史學家延斯．托曼的筆記",
-    		artistName: "Kudos Productions",
-    		name: "暗路難行",
-    		cardCode: "03SI012",
-    		keywords: [
-    			"快速"
-    		],
-    		keywordRefs: [
-    			"Fast"
-    		],
-    		spellSpeed: "快速",
-    		spellSpeedRef: "Fast",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI014-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 0,
-    		cost: 4,
-    		health: 0,
-    		description: "賦予牌組與手牌中的所有友軍單位+2|+2與<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>。",
-    		descriptionRaw: "賦予牌組與手牌中的所有友軍單位+2|+2與閃靈。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「我擔心闇影島的夢魘遲早會讓所有人的身心靈崩潰，只剩下無止盡的瘋狂。」\n——歷史學家延斯．托曼的筆記",
-    		artistName: "Kudos Productions",
-    		name: "幽侵狂影",
-    		cardCode: "03SI014",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"03SI016T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI016.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI016-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 0,
-    		cost: 1,
-    		health: 0,
-    		description: "從1個單位<link=keyword.Drain><style=Keyword>汲取</style></link>1點生命值，<br>並將2張此牌的複製卡牌洗入我方牌組。<br>施放此牌<style=Variable>3</style>次後，<br>將<link=vocab.Everywhere><style=Vocab>各處</style></link>此牌的相同卡牌幻化為<link=card.transform><style=AssociatedCard>做好準備</style></link>。<style=Variable></style>",
-    		descriptionRaw: "從1個單位汲取1點生命值，並將2張此牌的複製卡牌洗入我方牌組。施放此牌3次後，將各處此牌的相同卡牌幻化為做好準備。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "\"We go hard, 'til we get it, get it\nWe go hard, we so in it, in it\nWe Pop Stars (Pop Stars), only winning, winning now\nAin't nobody bringing us down, down, down, down\"\n「使盡全力直至夢想到手\n使盡全力直到渾然忘我\n我們是Pop Stars 眼中只有勝利\n無人能敵」\n——伊芙琳〈POP/STARS〉",
-    		artistName: "Kudos Productions",
-    		name: "使盡全力",
-    		cardCode: "03SI016",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"03SI016"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI016T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI016T1-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 0,
-    		cost: 1,
-    		health: 0,
-    		description: "對所有敵軍單位和敵方主堡造成5點傷害。將<link=vocab.Everywhere><style=Vocab>各處</style></link>此牌的相同卡牌幻化為<link=card.transform><style=AssociatedCard>使盡全力</style></link>。",
-    		descriptionRaw: "對所有敵軍單位和敵方主堡造成5點傷害。將各處此牌的相同卡牌幻化為使盡全力。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "\"Sorry for the bad news sorry I'm so bad\nOnly took a minute for me to get all you had\nSorry for the bad news know it makes you sad\nI'll be here for a minute baby you should pack your bags\"\n「非常抱歉我這人非常糟\n瞬間就奪走你一切轉眼就跑\n非常抱歉你今天心情必定很糟\n寶貝快做好準備因為我馬上就到」\n——伊芙琳〈THE BADDEST〉",
-    		artistName: "Kudos Productions",
-    		name: "做好準備",
-    		cardCode: "03SI016T1",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI007-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 0,
-    		cost: 1,
-    		health: 0,
-    		description: "我方下次於本回合召喚1個友軍單位時，本回合給予該單位+1|+0與<link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>法盾</style></link>。",
-    		descriptionRaw: "我方下次於本回合召喚1個友軍單位時，本回合給予該單位+1|+0與法盾。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「你一踏出去，就會感覺到他們，好像指尖拂過頸背，輕如雨水。就算作勢攻擊他們，那些怪物也不會退縮。他們既不怕刀，也不怕火，天不怕地不怕，實在是太恐怖了。」——鯨牙酒吧掠奪者",
-    		artistName: "Kudos Productions",
-    		name: "夜幕庇護",
-    		cardCode: "03SI007",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"01SI014"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI013.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI013-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 0,
-    		cost: 4,
-    		health: 0,
-    		description: "召喚1個<link=card.summon><style=AssociatedCard>霧魅</style></link>。",
-    		descriptionRaw: "召喚1個霧魅。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "霧魅在凡人看不見的空間中移動，毫無預警地出現，並折磨眼前所見的一切。",
-    		artistName: "Kudos Productions",
-    		name: "鬼魅夜襲",
-    		cardCode: "03SI013",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"03SI005T3",
-    			"03SI005T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI005-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 5,
-    		cost: 4,
-    		health: 3,
-    		description: "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：賦予1個敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>，且本回合給予所有敵軍單位<nobr>-1|-0</nobr>。",
-    		descriptionRaw: "夜臨：賦予1個敵軍單位弱勢，且本回合給予所有敵軍單位-1|-0。",
-    		levelupDescription: "我方以5個或以上<br><link=keyword.Nightfall><style=Keyword>夜臨</style></link>友軍單位攻擊<style=Variable></style>。",
-    		levelupDescriptionRaw: "我方以5個或以上夜臨友軍單位攻擊。",
-    		flavorText: "「看來，一旦驚動太多靈魂，牠就會入侵我們的世界。只有希望才能把怪物送回原本的世界……但希望早已隨著皇后的最後一口氣，以及國王無盡的痛苦哀號，永遠消逝了。」\n——歷史學家延斯．托曼的筆記",
+    		flavorText: "塔蒂雅娜瞭望人群，打量著集合的部隊。廣場上只聽得到微風吹動她的旗幟的聲音。她滿意地點了一下頭，然後舉起旗幟大聲呼喝：「誰準備好為蒂瑪西亞而戰？」集合的部隊齊聲高喊，連群山都為之震撼。 ",
     		artistName: "SIXMOREVODKA",
-    		name: "夜曲",
-    		cardCode: "03SI005",
+    		name: "偉大廣場",
+    		cardCode: "03DE010",
     		keywords: [
-    			"威嚇"
+    			"地標"
     		],
     		keywordRefs: [
-    			"Fearsome"
+    			"LandmarkVisualOnly"
     		],
     		spellSpeed: "",
     		spellSpeedRef: "",
-    		rarity: "英雄",
-    		rarityRef: "Champion",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
     		subtype: "",
     		subtypes: [
     		],
-    		supertype: "英雄",
-    		type: "單位",
+    		supertype: "",
+    		type: "地標",
     		collectible: true,
     		set: "Set3"
     	},
@@ -2175,28 +2624,26 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"03SI005",
-    			"03SI005T1"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI005T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI005T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT005-full.png"
     			}
     		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
+    		region: "巨石峰",
+    		regionRef: "Targon",
     		attack: 0,
-    		cost: 2,
+    		cost: 3,
     		health: 0,
-    		description: "從任1目標汲取1點生命值。\r\n將1張<link=card.level1><style=AssociatedCard>夜曲</style></link>洗入我方牌組。\r\n<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：在手牌隨機生成1張\r\n英雄牌以外的<link=keyword.Nightfall><style=Keyword>夜臨</style></link>牌。",
-    		descriptionRaw: "從任1目標汲取1點生命值。\r\n將1張夜曲洗入我方牌組。\r\n夜臨：在手牌隨機生成1張\r\n英雄牌以外的夜臨牌。",
+    		description: "抽1張地標牌或摧毀1個地標。",
+    		descriptionRaw: "抽1張地標牌或摧毀1個地標。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「隨著時間過去，我的精神，以及當初驅使我找到這裡的幹勁都逐漸被消磨殆盡。鯨牙酒吧的人個個形容枯槁，似乎已放棄做任何努力，我怕我在這裡待越久，就會變得越來越像他們。」\n——歷史學家延斯．托曼的筆記",
+    		flavorText: "巨石峰瞬息萬變，堅硬之處會破碎，崩落之地卻能<br>復原。",
     		artistName: "Kudos Productions",
-    		name: "夜曲 深宵斷魂",
-    		cardCode: "03SI005T3",
+    		name: "分歧之路",
+    		cardCode: "03MT005",
     		keywords: [
     			"快速"
     		],
@@ -2205,12 +2652,225 @@ var app = (function () {
     		],
     		spellSpeed: "快速",
     		spellSpeedRef: "Fast",
-    		rarity: "無",
-    		rarityRef: "None",
+    		rarity: "普通",
+    		rarityRef: "Common",
     		subtype: "",
     		subtypes: [
     		],
-    		supertype: "英雄",
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR009-full.png"
+    			}
+    		],
+    		region: "弗雷爾卓德",
+    		regionRef: "Freljord",
+    		attack: 0,
+    		cost: 7,
+    		health: 0,
+    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：在手牌隨機生成1張不存在於我方手牌、牌組或場上的升級後英雄。",
+    		descriptionRaw: "回合開始：在手牌隨機生成1張不存在於我方手牌、牌組或場上的升級後英雄。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "受到未知的呼喚，英雄們來到這座橋上，面對刺骨寒風和搖搖欲墜的橋面，他們無一絲畏懼，只想知道未來的命運——不論是勝利或死亡。",
+    		artistName: "SIXMOREVODKA",
+    		name: "咆嘯深淵",
+    		cardCode: "03FR009",
+    		keywords: [
+    			"地標"
+    		],
+    		keywordRefs: [
+    			"LandmarkVisualOnly"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "地標",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI009-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 0,
+    		cost: 5,
+    		health: 0,
+    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：擊殺魔耗值最高的友軍單位，並從我方牌組召喚1個魔耗值高出1點的友軍單位（若無則不發動效果）。",
+    		descriptionRaw: "回合開始：擊殺魔耗值最高的友軍單位，並從我方牌組召喚1個魔耗值高出1點的友軍單位（若無則不發動效果）。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "要引誘靈魂到這個鬼地方，有什麼能比承諾給予永生和無盡的財富來得有用呢？",
+    		artistName: "SIXMOREVODKA",
+    		name: "希利亞寶庫",
+    		cardCode: "03SI009",
+    		keywords: [
+    			"地標"
+    		],
+    		keywordRefs: [
+    			"LandmarkVisualOnly"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "地標",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT052.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT052-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：治癒所有負傷友軍單位1點生命。此牌在場上時，若我方治癒友軍單位22點或以上生命，即贏下牌局。<style=Variable></style>",
+    		descriptionRaw: "回合結束：治癒所有負傷友軍單位1點生命。此牌在場上時，若我方治癒友軍單位22點或以上生命，即贏下牌局。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「聖流之上，\n水池深處，治癒之泉\n閃耀之光，微明之水，\n聆聽河流之歌，\n水晶山脈之巔。」\n——〈獺人詩篇〉",
+    		artistName: "SIXMOREVODKA",
+    		name: "星泉",
+    		cardCode: "03MT052",
+    		keywords: [
+    			"地標"
+    		],
+    		keywordRefs: [
+    			"LandmarkVisualOnly"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "地標",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03IO016"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO006-full.png"
+    			}
+    		],
+    		region: "愛歐尼亞",
+    		regionRef: "Ionia",
+    		attack: 0,
+    		cost: 3,
+    		health: 0,
+    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：在手牌生成1張<br><link=card.create><style=AssociatedCard>庇護所</style></link>。",
+    		descriptionRaw: "回合開始：在手牌生成1張庇護所。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "隱身於愛歐尼亞深山中的幾座修道院，是想聚精會神、潛心修練之人的庇護所。",
+    		artistName: "SIXMOREVODKA",
+    		name: "希安那修道院",
+    		cardCode: "03IO006",
+    		keywords: [
+    			"地標"
+    		],
+    		keywordRefs: [
+    			"LandmarkVisualOnly"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "地標",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO016-full.png"
+    			}
+    		],
+    		region: "愛歐尼亞",
+    		regionRef: "Ionia",
+    		attack: 0,
+    		cost: 1,
+    		health: 0,
+    		description: "<link=keyword.Recall><style=Keyword>召回</style></link>1個友軍單位。\r\n無法在戰鬥中施放，也無法對應其他法術。",
+    		descriptionRaw: "召回1個友軍單位。\r\n無法在戰鬥中施放，也無法對應其他法術。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「修道院歡迎所有尋求庇護的人。」——索瑪長老",
+    		artistName: "Wild Blue Studio",
+    		name: "庇護所",
+    		cardCode: "03IO016",
+    		keywords: [
+    			"疾速",
+    			"飛逝"
+    		],
+    		keywordRefs: [
+    			"Burst",
+    			"Fleeting"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
     		type: "法術",
     		collectible: false,
     		set: "Set3"
@@ -2219,81 +2879,208 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"03SI005T3",
-    			"03SI005"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI005T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI005T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX013.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX013-full.png"
     			}
     		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 0,
+    		cost: 3,
+    		health: 0,
+    		description: "擊殺1個負傷單位或摧毀<br>1個地標。",
+    		descriptionRaw: "擊殺1個負傷單位或摧毀1個地標。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「龍犬聞到味道了，牠們會找到她，然後做個了結，除此之外別無他法。」——獵捕手亞瑞爾",
+    		artistName: "Kudos Productions",
+    		name: "焦土作戰",
+    		cardCode: "03NX013",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03NX004-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 0,
+    		cost: 5,
+    		health: 0,
+    		description: "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：使1個<link=vocab.Strongest><style=Vocab>最強</style></link>友軍單位與1個<link=keyword.Weakest><style=Keyword>最弱</style></link>敵軍單位互相<link=vocab.Strike><style=Vocab>打擊</style></link>。",
+    		descriptionRaw: "回合結束：使1個最強友軍單位與1個最弱敵軍單位互相打擊。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「哈囉，各位角鬥競技迷，你們準備好迎接烈火之環最火燙刺激的夜晚了嗎？哇，看來小崔克今天抽到了籤王，他要對決強大的戰士葛納——克大王！醫護人士請到場邊待命，這場很快就會結束！」——競技場主持人",
+    		artistName: "SIXMOREVODKA",
+    		name: "諾薩克拉亞競技場",
+    		cardCode: "03NX004",
+    		keywords: [
+    			"地標"
+    		],
+    		keywordRefs: [
+    			"LandmarkVisualOnly"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "地標",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT005T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT005T2-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 0,
+    		cost: 3,
+    		health: 0,
+    		description: "摧毀1個地標。",
+    		descriptionRaw: "摧毀1個地標。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "每座山峰都在他們面前崩落，讓他們的腳步更穩定，意志更堅決。他們一定會登上巨石峰。",
+    		artistName: "Kudos Productions",
+    		name: "毀滅之路",
+    		cardCode: "03MT005T2",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT005T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT005T1-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 0,
+    		cost: 3,
+    		health: 0,
+    		description: "抽1張地標。",
+    		descriptionRaw: "抽1張地標。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "山峰連綿不絕，不過他們有前進不懈的精神。他們一定會成功翻越巨石峰的。",
+    		artistName: "Kudos Productions",
+    		name: "探索之路",
+    		cardCode: "03MT005T1",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03DE004T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE004-full.png"
+    			}
+    		],
+    		region: "蒂瑪西亞",
+    		regionRef: "Demacia",
     		attack: 6,
-    		cost: 4,
-    		health: 4,
-    		description: "使所有其他友軍單位擁有<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>。\r\n我方每打出1個單位，本回合即給予所有敵軍單位<nobr>-1|-0</nobr>。",
-    		descriptionRaw: "使所有其他友軍單位擁有威嚇。\r\n我方每打出1個單位，本回合即給予所有敵軍單位-1|-0。",
+    		cost: 8,
+    		health: 6,
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：<link=keyword.Capture><sprite name=Capture><style=Keyword>俘虜</style></link>1個單位或地標。",
+    		descriptionRaw: "出牌：俘虜1個單位或地標。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「我的夢境每晚都會變得更加鮮明。我看見一個怪物在黑暗中扭動，步步逼近，簡直是純粹邪惡的化身。雖然我原本應該再多待一週，但我已經買了傍晚去弗斯巴洛的票。說白了，我就是受不了這地方。」\n——歷史學家延斯．托曼的筆記",
+    		flavorText: "艾莉卡小時候親眼目睹諾克薩斯軍隊摧殘她的家園。入伍時，她發誓絕不再讓諾克薩斯的旗幟插在蒂瑪西亞的土地上，也不會讓任何孩子淪為孤兒。",
     		artistName: "SIXMOREVODKA",
-    		name: "夜曲",
-    		cardCode: "03SI005T1",
+    		name: "艾莉卡上尉",
+    		cardCode: "03DE004",
     		keywords: [
-    			"威嚇"
+    			"法盾"
     		],
     		keywordRefs: [
-    			"Fearsome"
+    			"SpellShield"
     		],
     		spellSpeed: "",
     		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "菁英",
     		subtypes: [
-    		],
-    		supertype: "英雄",
-    		type: "單位",
-    		collectible: false,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"03SI006T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI006-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 3,
-    		cost: 3,
-    		health: 2,
-    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword></style></link><link=keyword.Nightfall><style=Keyword>夜臨</style></link>：<br>從敵方主堡汲取2點生命值。",
-    		descriptionRaw: "夜臨：從敵方主堡汲取2點生命值。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "每晚，旅人只感到更加疲憊。他們在睡夢中不得安寧，惡夢與現實的分界變得模糊。睡眠不再是一種休息，反而像是在一點一點吸取他們的生命。",
-    		artistName: "SIXMOREVODKA",
-    		name: "末日豹",
-    		cardCode: "03SI006",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
+    			"菁英"
     		],
     		supertype: "",
     		type: "單位",
@@ -2307,23 +3094,23 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI006T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI006T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE004T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE004T1-full.png"
     			}
     		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
+    		region: "蒂瑪西亞",
+    		regionRef: "Demacia",
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "從敵方主堡汲取2點生命值。",
-    		descriptionRaw: "從敵方主堡汲取2點生命值。",
+    		description: "<link=keyword.Capture><sprite name=Capture><style=Keyword>俘虜</style></link>1個單位或地標。",
+    		descriptionRaw: "俘虜1個單位或地標。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "誰比你更了解自己呢？最能折磨人心的，莫過於自己的夢魘。",
-    		artistName: "Kudos Productions",
-    		name: "殘酷折磨",
-    		cardCode: "03SI006T1",
+    		flavorText: "「把我們的東西搶回來！」——艾莉卡上尉",
+    		artistName: "Kudos Production",
+    		name: "物歸原主",
+    		cardCode: "03DE004T1",
     		keywords: [
     			"技能"
     		],
@@ -2349,63 +3136,23 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO005-full.png"
     			}
     		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 2,
-    		cost: 1,
-    		health: 1,
-    		description: "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：本回合給予此牌+2|+0與<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>。",
-    		descriptionRaw: "夜臨：本回合給予此牌+2|+0與威嚇。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "當太陽沒入地平線，此地的駭人之物便會甦醒，開始虎視眈眈，等待獵物上鉤。",
-    		artistName: "SIXMOREVODKA",
-    		name: "冥鬼梟",
-    		cardCode: "03SI003",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI002-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
+    		region: "愛歐尼亞",
+    		regionRef: "Ionia",
     		attack: 0,
-    		cost: 2,
+    		cost: 5,
     		health: 0,
-    		description: "從任1目標汲取1點生命值。\r\n<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：在手牌隨機生成1張\r\n英雄牌以外的<link=keyword.Nightfall><style=Keyword>夜臨</style></link>牌。",
-    		descriptionRaw: "從任1目標汲取1點生命值。\r\n夜臨：在手牌隨機生成1張\r\n英雄牌以外的夜臨牌。",
+    		description: "<link=keyword.Recall><style=Keyword>召回</style></link>1個友軍單位或地標，以<link=keyword.Recall><style=Keyword>召回</style></link>1個敵軍單位或地標。",
+    		descriptionRaw: "召回1個友軍單位或地標，以召回1個敵軍單位或地標。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「隨著時間過去，我的精神，以及當初驅使我找到這裡的幹勁都逐漸被消磨殆盡。鯨牙酒吧的人個個形容枯槁，似乎已放棄做任何努力，我怕我在這裡待越久，就會變得越來越像他們。」\n——歷史學家延斯．托曼的筆記",
+    		flavorText: "「崔弗，回來啊啊啊……」——崔弗的樹屋",
     		artistName: "Kudos Productions",
-    		name: "深宵斷魂",
-    		cardCode: "03SI002",
+    		name: "歸途",
+    		cardCode: "03IO005",
     		keywords: [
     			"快速"
     		],
@@ -2431,28 +3178,154 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI008-full.png"
     			}
     		],
     		region: "闇影島",
     		regionRef: "ShadowIsles",
-    		attack: 2,
+    		attack: 0,
     		cost: 5,
-    		health: 5,
-    		description: "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：本牌局我方每發動1次<link=keyword.Nightfall><style=Keyword>夜臨</style></link>，則賦予此牌+1|+0。<style=Variable></style>",
-    		descriptionRaw: "夜臨：本牌局我方每發動1次夜臨，則賦予此牌+1|+0。",
+    		health: 0,
+    		description: "擊殺1個友軍單位，以擊殺1個單位或摧毀1個地標。",
+    		descriptionRaw: "擊殺1個友軍單位，以擊殺1個單位或摧毀1個地標。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "每當夕陽西下，夜晚就會張開漆黑的翅膀，抹去白天最後一絲希望。",
-    		artistName: "SIXMOREVODKA",
-    		name: "夢魘馬",
-    		cardCode: "03SI010",
+    		flavorText: "這些鬼島上沒有永恆之物，一切都將終結。",
+    		artistName: "Kudos Productions",
+    		name: "同命",
+    		cardCode: "03SI008",
     		keywords: [
-    			"威嚇"
+    			"慢速"
     		],
     		keywordRefs: [
-    			"Fearsome"
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT064.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT064-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 0,
+    		cost: 5,
+    		health: 0,
+    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：本回合使雙方玩家手牌中1張隨機卡牌的魔耗值降至0。",
+    		descriptionRaw: "回合開始：本回合使雙方玩家手牌中1張隨機卡牌的魔耗值降至0。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "巨石峰的守護者以晶體雕刻而成，看守著通往天界的大門。在他面前，希望、懷疑、恐懼……一切都將不復存在。他的試煉會剔除一切世間煩惱，登峰者的靈魂將展露無遺。守護者將審判他們的靈魂，因為他就是偉大的凜峰仲裁者。 ",
+    		artistName: "SIXMOREVODKA",
+    		name: "巨石峰之巔",
+    		cardCode: "03MT064",
+    		keywords: [
+    			"地標"
+    		],
+    		keywordRefs: [
+    			"LandmarkVisualOnly"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "地標",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ001-full.png"
+    			}
+    		],
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 0,
+    		cost: 5,
+    		health: 0,
+    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：棄置我方手牌，接著在手牌隨機生成3張牌，並賦予其<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>。",
+    		descriptionRaw: "回合開始：棄置我方手牌，接著在手牌隨機生成3張牌，並賦予其飛逝。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "賽爾·畢·漢默丁格教授的發明讓他出了名，但卻是他生動的講課風格，以及難以預測的可怕教學示範，讓皮爾托福的聰明人士心中留下了難以磨滅的印象。",
+    		artistName: "SIXMOREVODKA",
+    		name: "皮爾托福大學",
+    		cardCode: "03PZ001",
+    		keywords: [
+    			"地標"
+    		],
+    		keywordRefs: [
+    			"LandmarkVisualOnly"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "地標",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03FR003T3",
+    			"03FR003T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR003-full.png"
+    			}
+    		],
+    		region: "弗雷爾卓德",
+    		regionRef: "Freljord",
+    		attack: 8,
+    		cost: 8,
+    		health: 8,
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：<link=keyword.Obliterate><style=Keyword>泯滅</style></link>所有地標或對所有其他單位造成2點傷害。",
+    		descriptionRaw: "出牌：泯滅所有地標或對所有其他單位造成2點傷害。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「根本沒時間帶上家當或警告其他人。我們只能狂奔向森林，眼睜睜看著牠夷平我們的家園。」<br>——艾伐洛森爐衛",
+    		artistName: "Grafit Studio",
+    		name: "虛厄凝獸",
+    		cardCode: "03FR003",
+    		keywords: [
+    		],
+    		keywordRefs: [
     		],
     		spellSpeed: "",
     		spellSpeedRef: "",
@@ -2473,8 +3346,132 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT015.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT015-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR003T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR003T3-full.png"
+    			}
+    		],
+    		region: "弗雷爾卓德",
+    		regionRef: "Freljord",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "對所有其他單位造成2點傷害。",
+    		descriptionRaw: "對所有其他單位造成2點傷害。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "人們將消亡殆盡。",
+    		artistName: "Kudos Productions",
+    		name: "滅絕射線",
+    		cardCode: "03FR003T3",
+    		keywords: [
+    			"技能"
+    		],
+    		keywordRefs: [
+    			"Skill"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "技能",
+    		collectible: false,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR003T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR003T1-full.png"
+    			}
+    		],
+    		region: "弗雷爾卓德",
+    		regionRef: "Freljord",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>所有地標。",
+    		descriptionRaw: "泯滅所有地標。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "天將崩，地將裂。",
+    		artistName: "Kudos Productions",
+    		name: "破壞射線",
+    		cardCode: "03FR003T1",
+    		keywords: [
+    			"技能"
+    		],
+    		keywordRefs: [
+    			"Skill"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "技能",
+    		collectible: false,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT079.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT079-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 2,
+    		cost: 2,
+    		health: 2,
+    		description: "若我方<link=vocab.Behold><style=Vocab>掌控</style></link>天界牌，<br>則此牌魔耗值-2。",
+    		descriptionRaw: "若我方掌控天界牌，則此牌魔耗值-2。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「大人好遜！這裡唯一的酷小孩是柔依和她的夥伴。我從他們身上學到了很多，不像那個老是愛說教的蠢蛋女祭司。呃，真受不了她。」",
+    		artistName: "Dao Le",
+    		name: "調皮星孩",
+    		cardCode: "03MT079",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT015.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT015-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -2482,7 +3479,7 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "<link=keyword.Invoke><sprite name=Invoke><style=Keyword>祈願</style></link>。",
+    		description: "<link=keyword.Invoke><style=Keyword>祈願</style></link>。",
     		descriptionRaw: "祈願。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -2515,8 +3512,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT018.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT018-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT018.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT018-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -2556,8 +3553,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT034.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT034-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT034.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT034-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -2599,8 +3596,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT083.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT083-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT083.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT083-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -2617,12 +3614,10 @@ var app = (function () {
     		name: "不死鳥座",
     		cardCode: "03MT083",
     		keywords: [
-    			"隱密",
-    			"遺願"
+    			"隱密"
     		],
     		keywordRefs: [
-    			"Elusive",
-    			"LastBreath"
+    			"Elusive"
     		],
     		spellSpeed: "",
     		spellSpeedRef: "",
@@ -2644,8 +3639,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT004-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -2687,8 +3682,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT037.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT037-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT037.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT037-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -2731,8 +3726,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT059.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT059-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT059.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT059-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -2774,8 +3769,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT053.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT053-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT053.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT053-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -2817,8 +3812,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT032.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT032-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT032.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT032-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -2860,8 +3855,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT024.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT024-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT024.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT024-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -2903,8 +3898,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT066.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT066-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT066.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT066-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -2946,8 +3941,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT077.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT077-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT077.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT077-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -2989,8 +3984,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT010-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -3034,8 +4029,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT070.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT070-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT070.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT070-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -3043,7 +4038,7 @@ var app = (function () {
     		attack: 3,
     		cost: 4,
     		health: 4,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=keyword.Invoke><sprite name=Invoke><style=Keyword>祈願</style></link>。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=keyword.Invoke><style=Keyword>祈願</style></link>。",
     		descriptionRaw: "出牌：祈願。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -3075,8 +4070,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT049.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT049-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT049.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT049-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -3118,8 +4113,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT043.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT043-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT043.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT043-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -3161,8 +4156,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT022.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT022-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT022.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT022-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -3209,8 +4204,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT078.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT078-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT078.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT078-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -3252,8 +4247,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT065.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT065-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT065.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT065-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -3295,8 +4290,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT050.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT050-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT050.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT050-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -3338,8 +4333,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT011.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT011-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT011.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT011-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -3381,8 +4376,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT095.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT095-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT095.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT095-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -3425,8 +4420,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT059T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT059T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT059T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT059T1-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -3468,8 +4463,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT090.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT090-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT090.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT090-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -3512,8 +4507,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT073.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT073-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT073.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT073-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -3552,8 +4547,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT073T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT073T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT073T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT073T1-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -3595,8 +4590,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT001-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -3637,8 +4632,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT060.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT060-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT060.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT060-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -3677,8 +4672,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT033.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT033-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT033.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT033-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -3721,8 +4716,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT021.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT021-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT021.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT021-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -3766,8 +4761,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT056.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT056-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT056.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT056-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -3810,8 +4805,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT056T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT056T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT056T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT056T1-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -3855,8 +4850,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT056T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT056T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT056T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT056T2-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -3864,8 +4859,8 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "本回合給予1個友軍單位+2|+1。\r\n<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：抽1張牌。\r\n將1張<link=card.level1><style=AssociatedCard>黛安娜</style></link>洗入我方牌組。",
-    		descriptionRaw: "本回合給予1個友軍單位+2|+1。\r\n夜臨：抽1張牌。\r\n將1張黛安娜洗入我方牌組。",
+    		description: "本回合給予1個友軍單位+2|+1。\r\n<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：抽1張牌。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>黛安娜</style></link>。",
+    		descriptionRaw: "本回合給予1個友軍單位+2|+1。\r\n夜臨：抽1張牌。\r\n在我方牌組生成1張黛安娜。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「在夜色掩護下，被蒼白的月亮守護著。」<br>——黛安娜",
@@ -3897,8 +4892,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT067.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT067-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT067.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT067-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -3938,8 +4933,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT092.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT092-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT092.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT092-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -3980,8 +4975,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT055.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT055-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT055.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT055-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4022,8 +5017,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT055T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT055T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT055T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT055T1-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4064,8 +5059,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT055T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT055T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT055T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT055T2-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4073,8 +5068,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "完全治癒所有負傷友軍單位。\r\n將1張<link=card.level1><style=AssociatedCard>索拉卡</style></link>洗入我方牌組。",
-    		descriptionRaw: "完全治癒所有負傷友軍單位。\r\n將1張索拉卡洗入我方牌組。",
+    		description: "完全治癒所有負傷友軍單位。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>索拉卡</style></link>。",
+    		descriptionRaw: "完全治癒所有負傷友軍單位。\r\n在我方牌組生成1張索拉卡。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「以生之名！」——索拉卡",
@@ -4107,8 +5102,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT048.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT048-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT048.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT048-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4147,8 +5142,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT063.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT063-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT063.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT063-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4156,7 +5151,7 @@ var app = (function () {
     		attack: 3,
     		cost: 5,
     		health: 5,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=keyword.Invoke><sprite name=Invoke><style=Keyword>祈願</style></link>。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=keyword.Invoke><style=Keyword>祈願</style></link>。",
     		descriptionRaw: "出牌：祈願。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -4187,8 +5182,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT006-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4233,8 +5228,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT054.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT054-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT054.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT054-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4275,8 +5270,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT054T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT054T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT054T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT054T2-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4284,8 +5279,8 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "本回合給予所有友軍單位+2|+2。將1張<link=card.level1><style=AssociatedCard>雷歐娜</style></link>洗入我方牌組。\r\n<link=keyword.Daybreak><style=Keyword>破曉</style></link>：一次發動所有友軍單位的<link=keyword.Daybreak><style=Keyword>破曉</style></link><br>效果。",
-    		descriptionRaw: "本回合給予所有友軍單位+2|+2。將1張雷歐娜洗入我方牌組。\r\n破曉：一次發動所有友軍單位的破曉效果。",
+    		description: "本回合給予所有友軍單位+2|+2。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>雷歐娜</style></link>。\r\n<link=keyword.Daybreak><style=Keyword>破曉</style></link>：一次發動所有友軍單位的<link=keyword.Daybreak><style=Keyword>破曉</style></link><br>效果。",
+    		descriptionRaw: "本回合給予所有友軍單位+2|+2。\r\n在我方牌組生成1張雷歐娜。\r\n破曉：一次發動所有友軍單位的破曉效果。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「對我們來說，她是天空中堅定不移的領袖、正午時閃耀的刀光，也是心中永不熄滅的火焰。」\n——日輪女祭司",
@@ -4317,8 +5312,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT054T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT054T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT054T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT054T3-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4362,8 +5357,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT054T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT054T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT054T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT054T1-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4402,8 +5397,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT014-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT014-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4444,8 +5439,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT058.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT058-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT058.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT058-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4484,8 +5479,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT098.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT098-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT098.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT098-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4526,8 +5521,52 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT085.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT085-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT040.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT040-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 1,
+    		cost: 2,
+    		health: 2,
+    		description: "",
+    		descriptionRaw: "",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「希望之為物，翩翩高飛而脆弱，永遠不該被抓住。」——月環女祭司",
+    		artistName: "Polar Engine Studio",
+    		name: "星晶蝶",
+    		cardCode: "03MT040",
+    		keywords: [
+    			"隱密",
+    			"吸血"
+    		],
+    		keywordRefs: [
+    			"Elusive",
+    			"Lifesteal"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT085.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT085-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4568,8 +5607,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT001T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT001T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT001T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT001T1-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4610,8 +5649,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT075.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT075-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT075.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT075-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4619,7 +5658,7 @@ var app = (function () {
     		attack: 2,
     		cost: 3,
     		health: 1,
-    		description: "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：<link=keyword.Invoke><sprite name=Invoke><style=Keyword>祈願</style></link>。",
+    		description: "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：<link=keyword.Invoke><style=Keyword>祈願</style></link>。",
     		descriptionRaw: "夜臨：祈願。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -4650,8 +5689,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT020.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT020-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT020.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT020-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4690,8 +5729,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT071.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT071-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT071.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT071-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4730,8 +5769,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT002-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4769,11 +5808,16 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
+    			"03MT009T1",
+    			"03MT009T2",
+    			"03MT093",
+    			"03MT091",
+    			"03MT015"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT086.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT086-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT009-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4781,7 +5825,142 @@ var app = (function () {
     		attack: 1,
     		cost: 1,
     		health: 1,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：棄置1張牌，即可<link=keyword.Invoke><sprite name=Invoke><style=Keyword>祈願</style></link>1張魔耗值3點或以下的天界牌。",
+    		description: "<link=vocab.NexusStrike><style=Vocab>打擊主堡</style></link>：在手牌生成1張<link=card.create><style=AssociatedCard>酷炫星圖</style></link>。若手牌已有該牌，<br>則改為使其魔耗值-1。",
+    		descriptionRaw: "打擊主堡：在手牌生成1張酷炫星圖。若手牌已有該牌，則改為使其魔耗值-1。",
+    		levelupDescription: "此牌在場上時，我方打出10張名稱不重複的卡牌<style=Variable></style>。",
+    		levelupDescriptionRaw: "此牌在場上時，我方打出10張名稱不重複的卡牌。",
+    		flavorText: "「嘿，哈囉哈囉！在幹嘛呀？你們在玩牌嗎？我可以加入嗎？什麼？！我是你的牌？哈！這個維度太搞笑了……」",
+    		artistName: "SIXMOREVODKA",
+    		name: "柔依",
+    		cardCode: "03MT009",
+    		keywords: [
+    			"隱密"
+    		],
+    		keywordRefs: [
+    			"Elusive"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "英雄",
+    		rarityRef: "Champion",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03MT093",
+    			"03MT009",
+    			"03MT009T1",
+    			"03MT091",
+    			"03MT015"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT009T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT009T2-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>1個敵軍單位。在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.create><style=AssociatedCard>星迴百轉</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>柔依</style></link>。",
+    		descriptionRaw: "擊暈1個敵軍單位。在手牌生成1張飛逝星迴百轉。\r\n在我方牌組生成1張柔依。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「睡覺覺時間到囉！一隻星晶蝶、兩隻星晶蝶，三……嘿，那是什麼東西？！」——柔依",
+    		artistName: "Kudos Productions",
+    		name: "柔依 沉睡夢域",
+    		cardCode: "03MT009T2",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03MT015",
+    			"03MT093",
+    			"03MT009",
+    			"03MT009T2"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT009T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT009T1-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 2,
+    		cost: 1,
+    		health: 2,
+    		description: "在此牌局中，接下來每當召喚友軍單位時，將其特性賦予所有友軍單位。\r\n<link=vocab.NexusStrike><style=Vocab>打擊主堡</style></link>：在手牌生成1張魔耗值0點的<link=card.create><style=AssociatedCard>望穿無垠</style></link>。",
+    		descriptionRaw: "在此牌局中，接下來每當召喚友軍單位時，將其特性賦予所有友軍單位。\r\n打擊主堡：在手牌生成1張魔耗值0點的望穿無垠。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「啊，無垠的太空和無數的現實，在我們眼前延展、壓縮和綻放！哇，說不定還能看到我最喜歡的龍龍呢！」",
+    		artistName: "SIXMOREVODKA",
+    		name: "柔依",
+    		cardCode: "03MT009T1",
+    		keywords: [
+    			"隱密"
+    		],
+    		keywordRefs: [
+    			"Elusive"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT086.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT086-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 1,
+    		cost: 1,
+    		health: 1,
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：棄置1張牌，即可<link=keyword.Invoke><style=Keyword>祈願</style></link>1張魔耗值3點或以下的天界牌。",
     		descriptionRaw: "出牌：棄置1張牌，即可祈願1張魔耗值3點或以下的天界牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -4814,8 +5993,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT087.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT087-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT087.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT087-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4823,7 +6002,7 @@ var app = (function () {
     		attack: 10,
     		cost: 10,
     		health: 10,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=keyword.Invoke><sprite name=Invoke><style=Keyword>祈願</style></link>1張魔耗值7點或以上的天界牌。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：在手牌隨機生成1張<br>天界牌。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<br><link=keyword.Invoke><style=Keyword>祈願</style></link>1張魔耗值7點或以上的天界牌。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：<br>在手牌隨機生成1張天界牌。",
     		descriptionRaw: "出牌：祈願1張魔耗值7點或以上的天界牌。\r\n回合開始：在手牌隨機生成1張天界牌。",
     		levelupDescription: "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：我方場上友軍單位力量值總和達25點或以上<style=Variable></style>。",
     		levelupDescriptionRaw: "回合結束：我方場上友軍單位力量值總和達25點或以上。",
@@ -4861,8 +6040,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT087T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT087T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT087T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT087T1-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4870,7 +6049,7 @@ var app = (function () {
     		attack: 11,
     		cost: 10,
     		health: 11,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=keyword.Invoke><sprite name=Invoke><style=Keyword>祈願</style></link>1張魔耗值7點或以上的天界牌。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：在手牌隨機生成1張<br>天界牌。\r\n我方的天界牌魔耗值為0。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<br><link=keyword.Invoke><style=Keyword>祈願</style></link>1張魔耗值7點或以上的天界牌。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：<br>在手牌隨機生成1張天界牌。\r\n我方的天界牌魔耗值為0。",
     		descriptionRaw: "出牌：祈願1張魔耗值7點或以上的天界牌。\r\n回合開始：在手牌隨機生成1張天界牌。\r\n我方的天界牌魔耗值為0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -4908,8 +6087,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT087T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT087T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT087T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT087T2-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4917,8 +6096,8 @@ var app = (function () {
     		attack: 0,
     		cost: 15,
     		health: 0,
-    		description: "對所有敵軍單位造成15點傷害。\r\n每有1個龍族或天界友軍單位，<br>則此牌魔耗值-2。\r\n將1張<link=card.level1><style=AssociatedCard>翱銳龍獸</style></link>洗入我方牌組。",
-    		descriptionRaw: "對所有敵軍單位造成15點傷害。\r\n每有1個龍族或天界友軍單位，則此牌魔耗值-2。\r\n將1張翱銳龍獸洗入我方牌組。",
+    		description: "對所有敵軍單位造成15點傷害。\r\n每有1個龍族或天界友軍單位，<br>則此牌魔耗值-2。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>翱銳龍獸</style></link>。",
+    		descriptionRaw: "對所有敵軍單位造成15點傷害。\r\n每有1個龍族或天界友軍單位，則此牌魔耗值-2。\r\n在我方牌組生成1張翱銳龍獸。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「等時機成熟，也許我會拿符文大地來殺雞儆猴。或許我可以拖著這個被焚為灰燼、了無生機的空殼，作為他人永世的警惕。就像一個毫無用處的玩具一樣。再看看吧，目前還沒考慮太多。」——翱銳龍獸",
@@ -4950,8 +6129,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT019.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT019-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT019.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT019-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -4992,8 +6171,50 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT013.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT013-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 0,
+    		cost: 5,
+    		health: 0,
+    		description: "本回合<link=vocab.Silence><style=Vocab>沉默</style></link>2個敵軍單位。\r\n<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：被此牌沉默的敵軍單位，本回合無法進行格檔。",
+    		descriptionRaw: "本回合沉默2個敵軍單位。\r\n夜臨：被此牌沉默的敵軍單位，本回合無法進行格檔。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「不習慣月光的人必須學會讓它照亮眼前事物，否則他們什麼都看不清。」——黛安娜",
+    		artistName: "Kudos Productions",
+    		name: "刺眼月光",
+    		cardCode: "03MT013",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT008-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5034,8 +6255,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT023.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT023-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT023.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT023-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5076,8 +6297,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT096.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT096-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT096.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT096-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5085,7 +6306,7 @@ var app = (function () {
     		attack: 1,
     		cost: 3,
     		health: 2,
-    		description: "<link=keyword.Daybreak><style=Keyword>破曉</style></link>：<link=keyword.Invoke><sprite name=Invoke><style=Keyword>祈願</style></link>1張魔耗值4點、5點或6點的天界牌。\r\n",
+    		description: "<link=keyword.Daybreak><style=Keyword>破曉</style></link>：<link=keyword.Invoke><style=Keyword>祈願</style></link>1張魔耗值4點、5點或6點的天界牌。\r\n",
     		descriptionRaw: "破曉：祈願1張魔耗值4點、5點或6點的天界牌。\r\n",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -5116,8 +6337,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT045.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT045-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT045.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT045-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5159,8 +6380,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT080.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT080-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT080.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT080-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5199,8 +6420,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT080T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT080T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT080T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT080T1-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5241,8 +6462,132 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT044.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT044-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT042.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT042-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 0,
+    		cost: 1,
+    		health: 0,
+    		description: "從本牌局敵方打出的3張法術牌中擇1，在手牌生成1張該牌的<br>複製牌。",
+    		descriptionRaw: "從本牌局敵方打出的3張法術牌中擇1，在手牌生成1張該牌的複製牌。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「噢，那張牌打得好！但由我來一定更棒吧！那我就不客氣地收下囉！」——柔依",
+    		artistName: "Kudos Productions",
+    		name: "法術竊盜",
+    		cardCode: "03MT042",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT057.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT057-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 5,
+    		cost: 4,
+    		health: 4,
+    		description: "<link=keyword.Daybreak><style=Keyword>破曉</style></link>：本回合給予此牌<link=keyword.Lifesteal><sprite name=Lifesteal><style=Keyword>吸血</style></link>。",
+    		descriptionRaw: "破曉：本回合給予此牌吸血。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "陽光灑入房間時，日輪鍛造師高舉神器，將陽光聚焦在他的武器上，將太陽的燦爛光芒化為強大附魔。",
+    		artistName: "Grafit Studio",
+    		name: "日輪陽鍛師",
+    		cardCode: "03MT057",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT091.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT091-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "<link=keyword.Invoke><style=Keyword>祈願</style></link>1張魔耗值3點或以下的<br>天界牌。",
+    		descriptionRaw: "祈願1張魔耗值3點或以下的天界牌。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「這三顆特別亮的星星，我叫它們……『天界跳跳繩』！還是這更像倒過來的笑臉呢？」——柔依",
+    		artistName: "Max Grecke",
+    		name: "酷炫星圖",
+    		cardCode: "03MT091",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT044.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT044-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5284,8 +6629,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT041.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT041-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT041.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT041-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5326,8 +6671,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT028.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT028-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT028.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT028-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5366,8 +6711,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT072.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT072-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT072.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT072-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5412,8 +6757,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT025.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT025-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT025.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT025-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5455,8 +6800,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT017.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT017-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT017.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT017-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5464,11 +6809,11 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "將5張<link=card.shuffle><style=AssociatedCard>靈犬座</style></link>洗入我方牌組。",
-    		descriptionRaw: "將5張靈犬座洗入我方牌組。",
+    		description: "在我方牌組生成5張<link=card.shuffle><style=AssociatedCard>靈犬座</style></link>。",
+    		descriptionRaw: "在我方牌組生成5張靈犬座。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「時光流逝，星移斗轉，靈犬座取代了巨蛇座的位置，豐收的季節即將到來……」——月環教女祭司",
+    		flavorText: "「時光流逝，星移斗轉，靈犬座取代了巨蛇座的位置，豐收的季節即將到來……」——月環女祭司",
     		artistName: "Max Grecke",
     		name: "靈犬座刻碑",
     		cardCode: "03MT017",
@@ -5497,8 +6842,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT051.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT051-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT051.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT051-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5539,8 +6884,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT012.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT012-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT012.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT012-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5581,8 +6926,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT094.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT094-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT094.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT094-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5621,8 +6966,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT076.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT076-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT076.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT076-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5630,7 +6975,7 @@ var app = (function () {
     		attack: 2,
     		cost: 4,
     		health: 3,
-    		description: "我方的天界牌魔耗值-1。\r\n<link=vocab.Allegiance><style=Vocab>效忠</style></link>：<link=keyword.Invoke><sprite name=Invoke><style=Keyword>祈願</style></link>。",
+    		description: "我方的天界牌魔耗值-1。\r\n<link=vocab.Allegiance><style=Vocab>效忠</style></link>：<link=keyword.Invoke><style=Keyword>祈願</style></link>。",
     		descriptionRaw: "我方的天界牌魔耗值-1。\r\n效忠：祈願。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -5661,8 +7006,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT100.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT100-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT100.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT100-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5706,8 +7051,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT058T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT058T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT058T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT058T1-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5748,8 +7093,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT058T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT058T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT058T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT058T2-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5757,8 +7102,8 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "賦予1個友軍單位+3|+3。\r\n將1張<link=card.level1><style=AssociatedCard>塔里克</style></link>洗入我方牌組。",
-    		descriptionRaw: "賦予1個友軍單位+3|+3。\r\n將1張塔里克洗入我方牌組。",
+    		description: "賦予1個友軍單位+3|+3。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>塔里克</style></link>。",
+    		descriptionRaw: "賦予1個友軍單位+3|+3。\r\n在我方牌組生成1張塔里克。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「來自巨石峰的一點小心意。」——塔里克",
@@ -5790,8 +7135,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT029.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT029-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT029.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT029-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5830,8 +7175,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT092T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT092T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT092T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT092T1-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5872,8 +7217,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT062.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT062-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT062.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT062-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5885,7 +7230,7 @@ var app = (function () {
     		descriptionRaw: "出牌：若我方掌控天界牌，則賦予1個友軍單位+1|+1與法盾。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「……然後呢，火花蟲就像掉到地上的星塵一樣，然後呢，又飛起來，超棒的，然後呢，我昨晚看到一隻，超漂亮的，然後呢，我肚子餓了，然後呢，它飛上天空，變成了星星，然後呢……」",
+    		flavorText: "「……然後呢，星晶蝶就像掉到地上的星塵一樣，然後呢，又飛起來，超棒的，然後呢，我昨晚看到一隻，超漂亮的，然後呢，我肚子餓了，然後呢，它飛上天空，變成了星星，然後呢……」",
     		artistName: "Dao Le",
     		name: "亮晶晶研究家",
     		cardCode: "03MT062",
@@ -5912,8 +7257,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT082.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT082-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT082.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT082-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5954,8 +7299,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT047.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT047-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT047.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT047-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -5994,8 +7339,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT038.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT038-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT038.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT038-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -6037,8 +7382,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT081.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT081-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT081.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT081-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -6077,8 +7422,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT007-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -6121,8 +7466,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT026.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT026-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT026.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT026-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -6161,8 +7506,50 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT110.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT110-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT093.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT093-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 0,
+    		cost: 3,
+    		health: 0,
+    		description: "對1個遭到<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>或本回合攻擊過的敵軍單位造成4點傷害。",
+    		descriptionRaw: "對1個遭到擊暈或本回合攻擊過的敵軍單位造成4點傷害。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「砰！」——柔依",
+    		artistName: "Kudos Productions",
+    		name: "星迴百轉",
+    		cardCode: "03MT093",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT110.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT110-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -6174,7 +7561,7 @@ var app = (function () {
     		descriptionRaw: "使友軍單位獲得的增益一直持續到牌局結束（光盾除外）。抽1張牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "\"You know I mean everything that I say\nWhen you see me coming get out of the way\nI came to slay I came to slay\nBack and I'm better and ready to stay.\"\n「我這人說話句句認真\n識相就快快滾出大門\n現在我來大開殺戒\n塵埃落定我就征服世界」\n——凱莎〈THE BADDEST〉",
+    		flavorText: "\"You know I mean everything that I say<br>When you see me coming get out of the way<br>I came to slay I came to slay<br>Back and I’m better and ready to stay.\"<br>「我這人說話句句認真<br>識相就快快滾出大門<br>現在我來大開殺戒<br>塵埃落定我就征服世界」——凱莎〈THE BADDEST〉",
     		artistName: "Kudos Productions",
     		name: "別擋路",
     		cardCode: "03MT110",
@@ -6203,8 +7590,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT003-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -6245,8 +7632,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT030.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT030-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT030.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT030-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -6285,8 +7672,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT088.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT088-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT088.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT088-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -6325,8 +7712,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT089.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT089-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT089.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT089-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -6367,8 +7754,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT027.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT027-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT027.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT027-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -6409,8 +7796,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT084.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT084-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT084.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT084-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -6418,7 +7805,7 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "<link=keyword.Invoke><sprite name=Invoke><style=Keyword>祈願</style></link>1張魔耗值7點或以上的天界牌，並治癒1個友軍單位或我方主堡5點生命。",
+    		description: "<link=keyword.Invoke><style=Keyword>祈願</style></link>1張魔耗值7點或以上的天界牌，並治癒1個友軍單位或我方主堡5點生命。",
     		descriptionRaw: "祈願1張魔耗值7點或以上的天界牌，並治癒1個友軍單位或我方主堡5點生命。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -6451,8 +7838,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT016.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT016-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT016-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -6490,11 +7877,54 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
+    			"03MT093"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT035.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT035-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT074.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT074-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>1個敵軍單位。在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.create><style=AssociatedCard>星迴百轉</style></link>。",
+    		descriptionRaw: "擊暈1個敵軍單位。在手牌生成1張飛逝星迴百轉。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「睡覺覺時間到囉！一隻星晶蝶、兩隻星晶蝶，三……嘿，那是什麼東西？！」——柔依",
+    		artistName: "Kudos Productions",
+    		name: "沉睡夢域",
+    		cardCode: "03MT074",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT035.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT035-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -6535,8 +7965,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT003T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT003T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT003T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT003T1-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -6577,8 +8007,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT003T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT003T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT003T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT003T2-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -6619,8 +8049,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT036.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT036-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT036.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT036-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -6661,8 +8091,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT039.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT039-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT039.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03MT039-full.png"
     			}
     		],
     		region: "巨石峰",
@@ -6704,8 +8134,1604 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ019.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ019-full.png"
+    			}
+    		],
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 2,
+    		cost: 2,
+    		health: 3,
+    		description: "在手牌中時，此牌會擁有1個隨機特性（每回合會改變）。召喚此牌時，賦予此牌該特性。",
+    		descriptionRaw: "在手牌中時，此牌會擁有1個隨機特性（每回合會改變）。召喚此牌時，賦予此牌該特性。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "雖然不像真的那樣蓬軟好抱，但就像真的一樣可愛。",
+    		artistName: "Dao Le",
+    		name: "拼裝普羅機器人",
+    		cardCode: "03PZ019",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    			"普羅"
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03PZ016"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ005-full.png"
+    			}
+    		],
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 1,
+    		cost: 2,
+    		health: 3,
+    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：在手牌生成1張<link=card.create><style=AssociatedCard>爆燃</style></link>。",
+    		descriptionRaw: "回合開始：在手牌生成1張爆燃。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "受試者請我們確保他的大腦完好無損，他說：「因為我所有的怨恨都積聚在那裡。」\n——替身機器人日誌，條目1011",
+    		artistName: "SIXMOREVODKA",
+    		name: "彈道機器人",
+    		cardCode: "03PZ005",
+    		keywords: [
+    			"擴增"
+    		],
+    		keywordRefs: [
+    			"Augment"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03PZ004T1",
+    			"03PZ004T2"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ004-full.png"
+    			}
+    		],
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 0,
+    		cost: 1,
+    		health: 0,
+    		description: "對1個單位造成1點傷害。在我方牌組最上方3張牌中生成1張<link=card.upgrade><style=AssociatedCard>死亡射線：2型</style></link>。",
+    		descriptionRaw: "對1個單位造成1點傷害。在我方牌組最上方3張牌中生成1張死亡射線：2型。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「今天，我成功證明了輻射能量可以集中成一束強大的射線！只要進行適當的調整，射線的精準度將無可匹敵，但要做的事還多著呢。」\n——維克特的設計稿註腳",
+    		artistName: "Max Grecke",
+    		name: "死亡射線：1型",
+    		cardCode: "03PZ004",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ004T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ004T2-full.png"
+    			}
+    		],
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 0,
+    		cost: 3,
+    		health: 0,
+    		description: "對1個單位造成3點傷害。",
+    		descriptionRaw: "對1個單位造成3點傷害。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「光束熔化皮肉和金屬的速度簡直太驚人了！我當然馬上就套用到我的機械身體上。如此清晰地看見、感受和剖析世界……這就是人類智慧擺脫肉體束縛後的巨大潛力！這就是真正的榮光進化！」\n——維克特的設計稿註腳",
+    		artistName: "Max Grecke",
+    		name: "死亡射線：3型",
+    		cardCode: "03PZ004T2",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03PZ004T2"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ004T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ004T1-full.png"
+    			}
+    		],
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "對1個單位造成2點傷害。在我方牌組最上方3張牌中生成1張<link=card.upgrade><style=AssociatedCard>死亡射線：3型</style></link>。",
+    		descriptionRaw: "對1個單位造成2點傷害。在我方牌組最上方3張牌中生成1張死亡射線：3型。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「改變了光束傳輸介質，調整了鏡頭以達到最佳焦距，也進行了內鏡的拋光與定位。強度增加了十倍，但還是不夠，我必須進步！」\n——維克特的設計稿註腳",
+    		artistName: "Max Grecke",
+    		name: "死亡射線：2型",
+    		cardCode: "03PZ004T1",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03PZ003T1",
+    			"03PZ003T15",
+    			"03PZ004T1",
+    			"03PZ004T2",
+    			"03PZ003T11"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ003-full.png"
+    			}
+    		],
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 2,
+    		cost: 4,
+    		health: 4,
+    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：在手牌生成1張<link=card.upgrade><style=AssociatedCard>海克斯核心升級</style></link>。",
+    		descriptionRaw: "回合開始：在手牌生成1張海克斯核心升級。",
+    		levelupDescription: "我方打出8張或以上生成的卡牌<style=Variable></style>。",
+    		levelupDescriptionRaw: "我方打出8張或以上生成的卡牌。",
+    		flavorText: "「佐恩，你見過的苦難已經夠多了，是時候迎來改變了，而所有偉大的進步都要從內部開始。」",
+    		artistName: "SIXMOREVODKA",
+    		name: "維克特",
+    		cardCode: "03PZ003",
+    		keywords: [
+    			"擴增"
+    		],
+    		keywordRefs: [
+    			"Augment"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "英雄",
+    		rarityRef: "Champion",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03PZ003",
+    			"03PZ003T15",
+    			"03PZ004T1",
+    			"03PZ004T2",
+    			"03PZ003T11"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ003T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ003T1-full.png"
+    			}
+    		],
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 3,
+    		cost: 4,
+    		health: 5,
+    		description: "我方生成的卡牌魔耗值-1。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：在手牌生成1張<link=card.upgrade><style=AssociatedCard>海克斯核心升級</style></link>。",
+    		descriptionRaw: "我方生成的卡牌魔耗值-1。\r\n回合開始：在手牌生成1張海克斯核心升級。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「啊，皮爾托福。小時候，我總是景仰著閃閃發光的『進步之城』。但長大後，我才看到它的腐敗根基，建立在我的家園佐恩的苦難之上。今天，佐恩的發明創新將迎來新時代——而你們將成為第一個見識我們崛起的人！」",
+    		artistName: "SIXMOREVODKA",
+    		name: "維克特",
+    		cardCode: "03PZ003T1",
+    		keywords: [
+    			"擴增"
+    		],
+    		keywordRefs: [
+    			"Augment"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03PZ004T1",
+    			"03PZ004T2",
+    			"03PZ003T1",
+    			"03PZ003"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ003T15.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ003T15-full.png"
+    			}
+    		],
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 0,
+    		cost: 1,
+    		health: 0,
+    		description: "對1個單位造成1點傷害。在我方牌組最上方3張牌中生成1張<link=card.upgrade><style=AssociatedCard>死亡射線：2型</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>維克特</style></link>。",
+    		descriptionRaw: "對1個單位造成1點傷害。在我方牌組最上方3張牌中生成1張死亡射線：2型。\r\n在我方牌組生成1張維克特。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「今天，我成功證明了輻射能量可以集中成一束強大的射線！只要進行適當的調整，射線的精準度將無可匹敵，但要做的事還多著呢。」\n——維克特的設計稿註腳",
+    		artistName: "Max Grecke",
+    		name: "維克特 死亡射線：1型",
+    		cardCode: "03PZ003T15",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03PZ003"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ003T11.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ003T11-full.png"
+    			}
+    		],
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 0,
+    		cost: 1,
+    		health: 0,
+    		description: "賦予<link=card.parentRef><style=AssociatedCard>維克特</style></link>1個隨機特性。",
+    		descriptionRaw: "賦予維克特1個隨機特性。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「人類注定要擺脫肉體的束縛。我們不只如此，我們必須變強，我們必須進化！」——維克特",
+    		artistName: "Kudos Productions",
+    		name: "海克斯核心升級",
+    		cardCode: "03PZ003T11",
+    		keywords: [
+    			"慢速",
+    			"飛逝"
+    		],
+    		keywordRefs: [
+    			"Slow",
+    			"Fleeting"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ010-full.png"
+    			}
+    		],
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 3,
+    		cost: 5,
+    		health: 4,
+    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：賦予此牌所有友軍單位身上的特性。",
+    		descriptionRaw: "攻擊：賦予此牌所有友軍單位身上的特性。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「我跟你差不多，只是我更強。」",
+    		artistName: "SIXMOREVODKA",
+    		name: "擬態機兵",
+    		cardCode: "03PZ010",
+    		keywords: [
+    			"擴增"
+    		],
+    		keywordRefs: [
+    			"Augment"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ022.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ022-full.png"
+    			}
+    		],
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 0,
+    		cost: 8,
+    		health: 0,
+    		description: "將所有友軍單位的力量和生命值，提升成友軍單位中力量或生命值最高的數值。\r\n賦予所有友軍單位其他友軍單位的特性。",
+    		descriptionRaw: "將所有友軍單位的力量和生命值，提升成友軍單位中力量或生命值最高的數值。\r\n賦予所有友軍單位其他友軍單位的特性。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "\"I know I know\nYou want some more\nIf you ready let's go\nGiving it all\"\n「我懂我懂\n你想要更多\n準備好就一起走\n拼上全力不放手」\n——瑟菈紛〈MORE〉",
+    		artistName: "Kudos Productions",
+    		name: "全力以赴",
+    		cardCode: "03PZ022",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03PZ012",
+    			"03PZ005",
+    			"03PZ002"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ014-full.png"
+    			}
+    		],
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "在手牌生成1張<link=card.create1><style=AssociatedCard>巨臂改裝迷</style></link>、<link=card.create2><style=AssociatedCard>彈道機器人</style></link>或<link=card.create3><style=AssociatedCard>生化喵</style></link>。",
+    		descriptionRaw: "在手牌生成1張巨臂改裝迷、彈道機器人或生化喵。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「人之所以不會屈服於動物本能，是因為我們有理性去選擇。」——維克特",
+    		artistName: "Kudos Productions",
+    		name: "精密傑作",
+    		cardCode: "03PZ014",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ013.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ013-full.png"
+    			}
+    		],
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "選1個侍從單位。在手牌生成1張該牌的複製牌，並賦予其+1|+1。",
+    		descriptionRaw: "選1個侍從單位。在手牌生成1張該牌的複製牌，並賦予其+1|+1。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「自我提升是一場遊戲，你是其中的英雄，同時也是壞蛋。你們會纏鬥不休，或許你還會以為自己贏了。但到頭來，擋在前方的還是你自己。」——擬態機兵",
+    		artistName: "Kudos Productions",
+    		name: "反覆改良",
+    		cardCode: "03PZ013",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ012.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ012-full.png"
+    			}
+    		],
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 1,
+    		cost: 1,
+    		health: 1,
+    		description: "",
+    		descriptionRaw: "",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「好耶！新手臂！我老早就想要了。接下來要改造什麼？把腳換成重力輪？電動皮帶？鋼鐵牙？臉還是算了，我滿喜歡我的長相的。」",
+    		artistName: "SIXMOREVODKA",
+    		name: "巨臂改裝迷",
+    		cardCode: "03PZ012",
+    		keywords: [
+    			"擴增",
+    			"快速攻擊"
+    		],
+    		keywordRefs: [
+    			"Augment",
+    			"QuickStrike"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ020.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ020-full.png"
+    			}
+    		],
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 0,
+    		cost: 3,
+    		health: 0,
+    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：雙方玩家<br>各抽1張牌。",
+    		descriptionRaw: "回合開始：雙方玩家各抽1張牌。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「我才不在乎他們怎麼批評我的方法，他們不能否認進步這件事——我的知識之光就像一座燈塔，在無知的黑暗中閃耀！」——維克特",
+    		artistName: "SIXMOREVODKA",
+    		name: "海克斯核心鑄造廠",
+    		cardCode: "03PZ020",
+    		keywords: [
+    			"地標"
+    		],
+    		keywordRefs: [
+    			"LandmarkVisualOnly"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "地標",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ016-full.png"
+    			}
+    		],
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 0,
+    		cost: 1,
+    		health: 0,
+    		description: "對敵方主堡造成1點傷害。",
+    		descriptionRaw: "對敵方主堡造成1點傷害。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「如果他們不想用鋼鐵改造自己的身體，那就讓我直接把鋼鐵打進去吧。我是在開玩笑啦，哈。」\n——彈道機器人",
+    		artistName: "Kudos Productions",
+    		name: "爆燃",
+    		cardCode: "03PZ016",
+    		keywords: [
+    			"慢速",
+    			"飛逝"
+    		],
+    		keywordRefs: [
+    			"Slow",
+    			"Fleeting"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ002-full.png"
+    			}
+    		],
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 1,
+    		cost: 3,
+    		health: 3,
+    		description: "",
+    		descriptionRaw: "",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「我花了好幾年，在皮爾托福學術界苦苦掙扎，不斷往上爬，他們卻說我的技術『太危險』，還嫌我『太可愛』！佐恩我來了喵，我知道那裡至少會有個天才發明家能和我一起實現抱負……」",
+    		artistName: "SIXMOREVODKA",
+    		name: "生化喵",
+    		cardCode: "03PZ002",
+    		keywords: [
+    			"擴增",
+    			"隱密"
+    		],
+    		keywordRefs: [
+    			"Augment",
+    			"Elusive"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ011.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ011-full.png"
+    			}
+    		],
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 0,
+    		cost: 4,
+    		health: 0,
+    		description: "對任1目標造成3點傷害或摧毀1個地標。",
+    		descriptionRaw: "對任1目標造成3點傷害或摧毀1個地標。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「這道光將引領我們往皮爾托福邁進，沒有任何事物能阻礙我們的榮光進化！」——維克特",
+    		artistName: "Kudos Productions",
+    		name: "射線餘波",
+    		cardCode: "03PZ011",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ017.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ017-full.png"
+    			}
+    		],
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 0,
+    		cost: 4,
+    		health: 0,
+    		description: "對1個單位造成1點傷害。隨機召喚1個魔耗值<style=Variable>1</style>的侍從單位。此牌在手中時，每當我方打出1張魔耗值3點的卡牌，則造成的傷害值與召喚單位魔耗值皆增加1點。",
+    		descriptionRaw: "對1個單位造成1點傷害。隨機召喚1個魔耗值1的侍從單位。此牌在手中時，每當我方打出1張魔耗值3點的卡牌，則造成的傷害值與召喚單位魔耗值皆增加1點。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「……一、二、三！！！噢。噢，我的天啊……又是無法預料的結果？！」——漢默丁格",
+    		artistName: "Kudos Productions",
+    		name: "三雷射爆破炮",
+    		cardCode: "03PZ017",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"01PZ020"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ018.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03PZ018-full.png"
+    			}
+    		],
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "棄置1張牌即可出此牌。\r\n在手牌生成2張<link=card.create><style=AssociatedCard>大膽普羅</style></link>。",
+    		descriptionRaw: "棄置1張牌即可出此牌。\r\n在手牌生成2張大膽普羅。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "兩個毛茸茸的身影從熱情的群眾頭上劃過天際，在身後留下一團絨毛和淡淡的烘焙香",
+    		artistName: "Kudos Productions",
+    		name: "普羅大砲",
+    		cardCode: "03PZ018",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI004-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "從我方牌組最上方4張牌選1個侍從單位。\r\n抽出該牌、在手牌生成1張與之相同的<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>複製單位，並將其餘卡牌洗回我方牌組。",
+    		descriptionRaw: "從我方牌組最上方4張牌選1個侍從單位。\r\n抽出該牌、在手牌生成1張與之相同的閃靈複製單位，並將其餘卡牌洗回我方牌組。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「去……包圍他們……」——夜曲",
+    		artistName: "Kudos Productions",
+    		name: "如影隨形",
+    		cardCode: "03SI004",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI001-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 2,
+    		cost: 2,
+    		health: 2,
+    		description: "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：在手牌生成1張此牌的<br>複製牌。",
+    		descriptionRaw: "夜臨：在手牌生成1張此牌的複製牌。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「一開始只有一雙眼睛，還有一個聲音在黑暗中窸窣出聲。但我每次回頭，就會看到更多眼睛。聲音越來越大，越來越憤怒，我一看到鯨牙酒吧，就馬上往那裡狂奔。」——鯨牙酒吧掠奪者",
+    		artistName: "SIXMOREVODKA",
+    		name: "重影潛蝠",
+    		cardCode: "03SI001",
+    		keywords: [
+    			"閃靈",
+    			"威嚇",
+    			"無法進行格檔"
+    		],
+    		keywordRefs: [
+    			"Ephemeral",
+    			"Fearsome",
+    			"CantBlock"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI012.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI012-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 0,
+    		cost: 3,
+    		health: 0,
+    		description: "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>本回合所有被召喚但並非打出的單位。",
+    		descriptionRaw: "泯滅本回合所有被召喚但並非打出的單位。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「當然，死亡也存在於蒂瑪西亞。我們看著它帶走所愛之人，也知道總有一天會輪到我們。但在這些島嶼上……我幾乎能嘗到死亡的味道。死亡的氣息充滿我的肺臟，我甚至能聽到它的耳語。這不是什麼抽象的概念，它此時此刻就坐在我身旁，沒有任何人逃得出它的魔掌。」\n——歷史學家延斯．托曼的筆記",
+    		artistName: "Kudos Productions",
+    		name: "暗路難行",
+    		cardCode: "03SI012",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI014-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 0,
+    		cost: 4,
+    		health: 0,
+    		description: "賦予牌組與手牌中的所有友軍單位+2|+2與<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>。",
+    		descriptionRaw: "賦予牌組與手牌中的所有友軍單位+2|+2與閃靈。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「我擔心闇影島的夢魘遲早會讓所有人的身心靈崩潰，只剩下無止盡的瘋狂。」\n——歷史學家延斯．托曼的筆記",
+    		artistName: "Kudos Productions",
+    		name: "幽侵狂影",
+    		cardCode: "03SI014",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03SI016T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI016-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 0,
+    		cost: 1,
+    		health: 0,
+    		description: "從1個單位<link=keyword.Drain><style=Keyword>汲取</style></link>1點生命值，並在我方牌組生成2張此牌的複製牌。施放此牌<style=Variable>3</style>次後，將<link=vocab.Everywhere><style=Vocab>各處</style></link>此牌的相同卡牌幻化為<link=card.transform><style=AssociatedCard>做好準備</style></link>。<style=Variable></style>",
+    		descriptionRaw: "從1個單位汲取1點生命值，並在我方牌組生成2張此牌的複製牌。施放此牌3次後，將各處此牌的相同卡牌幻化為做好準備。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "\"We go hard, 'til we get it, get it\nWe go hard, we so in it, in it\nWe Pop Stars (Pop Stars), only winning, winning now\nAin't nobody bringing us down, down, down, down\"\n「使盡全力直至夢想到手\n使盡全力直到渾然忘我\n我們是Pop Stars 眼中只有勝利\n無人能敵」\n——伊芙琳〈POP/STARS〉",
+    		artistName: "Kudos Productions",
+    		name: "使盡全力",
+    		cardCode: "03SI016",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03SI016"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI016T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI016T1-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 0,
+    		cost: 1,
+    		health: 0,
+    		description: "對所有敵軍單位和敵方主堡造成5點傷害。將<link=vocab.Everywhere><style=Vocab>各處</style></link>此牌的相同卡牌幻化為<link=card.transform><style=AssociatedCard>使盡全力</style></link>。",
+    		descriptionRaw: "對所有敵軍單位和敵方主堡造成5點傷害。將各處此牌的相同卡牌幻化為使盡全力。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "\"Sorry for the bad news sorry I'm so bad\nOnly took a minute for me to get all you had\nSorry for the bad news know it makes you sad\nI'll be here for a minute baby you should pack your bags\"\n「非常抱歉我這人非常糟\n瞬間就奪走你一切轉眼就跑\n非常抱歉你今天心情必定很糟\n寶貝快做好準備因為我馬上就到」\n——伊芙琳〈THE BADDEST〉",
+    		artistName: "Kudos Productions",
+    		name: "做好準備",
+    		cardCode: "03SI016T1",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI007-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 0,
+    		cost: 1,
+    		health: 0,
+    		description: "我方下次於本回合召喚1個友軍單位時，本回合給予該單位+1|+0與<link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>法盾</style></link>。",
+    		descriptionRaw: "我方下次於本回合召喚1個友軍單位時，本回合給予該單位+1|+0與法盾。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「你一踏出去，就會感覺到他們，好像指尖拂過頸背，輕如雨水。就算作勢攻擊他們，那些怪物也不會退縮。他們既不怕刀，也不怕火，天不怕地不怕，實在是太恐怖了。」——鯨牙酒吧掠奪者",
+    		artistName: "Kudos Productions",
+    		name: "夜幕庇護",
+    		cardCode: "03SI007",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"01SI014"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI013.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI013-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 0,
+    		cost: 4,
+    		health: 0,
+    		description: "召喚1個<link=card.summon><style=AssociatedCard>霧魅</style></link>。",
+    		descriptionRaw: "召喚1個霧魅。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "霧魅在凡人看不見的空間中移動，毫無預警地出現，並折磨眼前所見的一切。",
+    		artistName: "Kudos Productions",
+    		name: "鬼魅夜襲",
+    		cardCode: "03SI013",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03SI005T3",
+    			"03SI005T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI005-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 5,
+    		cost: 4,
+    		health: 3,
+    		description: "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：賦予1個敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>，且本回合給予所有敵軍單位<nobr>-1|-0</nobr>。",
+    		descriptionRaw: "夜臨：賦予1個敵軍單位弱勢，且本回合給予所有敵軍單位-1|-0。",
+    		levelupDescription: "我方以5個或以上<br><link=keyword.Nightfall><style=Keyword>夜臨</style></link>友軍單位攻擊<style=Variable></style>。",
+    		levelupDescriptionRaw: "我方以5個或以上夜臨友軍單位攻擊。",
+    		flavorText: "「看來，一旦驚動太多靈魂，牠就會入侵我們的世界。只有希望才能把怪物送回原本的世界……但希望早已隨著皇后的最後一口氣，以及國王無盡的痛苦哀號，永遠消逝了。」\n——歷史學家延斯．托曼的筆記",
+    		artistName: "SIXMOREVODKA",
+    		name: "夜曲",
+    		cardCode: "03SI005",
+    		keywords: [
+    			"威嚇"
+    		],
+    		keywordRefs: [
+    			"Fearsome"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "英雄",
+    		rarityRef: "Champion",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03SI005",
+    			"03SI005T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI005T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI005T3-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "從任1目標汲取1點生命值。在我方牌組生成1張<link=card.level1><style=AssociatedCard>夜曲</style></link>。\r\n<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：在手牌隨機生成1張英雄牌以外的<link=keyword.Nightfall><style=Keyword>夜臨</style></link>牌。",
+    		descriptionRaw: "從任1目標汲取1點生命值。在我方牌組生成1張夜曲。\r\n夜臨：在手牌隨機生成1張英雄牌以外的夜臨牌。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「隨著時間過去，我的精神，以及當初驅使我找到這裡的幹勁都逐漸被消磨殆盡。鯨牙酒吧的人個個形容枯槁，似乎已放棄做任何努力，我怕我在這裡待越久，就會變得越來越像他們。」\n——歷史學家延斯．托曼的筆記",
+    		artistName: "Kudos Productions",
+    		name: "夜曲 深宵斷魂",
+    		cardCode: "03SI005T3",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03SI005T3",
+    			"03SI005"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI005T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI005T1-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 6,
+    		cost: 4,
+    		health: 4,
+    		description: "使所有其他友軍單位擁有<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>。\r\n我方每打出1個單位，本回合即給予所有敵軍單位<nobr>-1|-0</nobr>。",
+    		descriptionRaw: "使所有其他友軍單位擁有威嚇。\r\n我方每打出1個單位，本回合即給予所有敵軍單位-1|-0。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「我的夢境每晚都會變得更加鮮明。我看見一個怪物在黑暗中扭動，步步逼近，簡直是純粹邪惡的化身。雖然我原本應該再多待一週，但我已經買了傍晚去弗斯巴洛的票。說白了，我就是受不了這地方。」\n——歷史學家延斯．托曼的筆記",
+    		artistName: "SIXMOREVODKA",
+    		name: "夜曲",
+    		cardCode: "03SI005T1",
+    		keywords: [
+    			"威嚇"
+    		],
+    		keywordRefs: [
+    			"Fearsome"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"03SI006T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI006-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 3,
+    		cost: 3,
+    		health: 2,
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword></style></link><link=keyword.Nightfall><style=Keyword>夜臨</style></link>：<br>從敵方主堡汲取2點生命值。",
+    		descriptionRaw: "夜臨：從敵方主堡汲取2點生命值。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "每晚，旅人只感到更加疲憊。他們在睡夢中不得安寧，惡夢與現實的分界變得模糊。睡眠不再是一種休息，反而像是在一點一點吸取他們的生命。",
+    		artistName: "SIXMOREVODKA",
+    		name: "末日豹",
+    		cardCode: "03SI006",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI015.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI015-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 1,
+    		cost: 0,
+    		health: 1,
+    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：在敵方牌組生成2張此牌的複製牌。",
+    		descriptionRaw: "遺願：在敵方牌組生成2張此牌的複製牌。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "闇影島大部分的鬼魂都是極為恐怖和病態的怪物。有一小部分則是……這個嘛……非常非常煩人。",
+    		artistName: "SIXMOREVODKA",
+    		name: "煩人幽靈",
+    		cardCode: "03SI015",
+    		keywords: [
+    			"閃靈",
+    			"遺願"
+    		],
+    		keywordRefs: [
+    			"Ephemeral",
+    			"LastBreath"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI006T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI006T1-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "從敵方主堡汲取2點生命值。",
+    		descriptionRaw: "從敵方主堡汲取2點生命值。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "誰比你更了解自己呢？最能折磨人心的，莫過於自己的夢魘。",
+    		artistName: "Kudos Productions",
+    		name: "殘酷折磨",
+    		cardCode: "03SI006T1",
+    		keywords: [
+    			"技能"
+    		],
+    		keywordRefs: [
+    			"Skill"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "技能",
+    		collectible: false,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI003-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 2,
+    		cost: 1,
+    		health: 1,
+    		description: "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：本回合給予此牌+2|+0與<br><link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>。",
+    		descriptionRaw: "夜臨：本回合給予此牌+2|+0與威嚇。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "當太陽沒入地平線，此地的駭人之物便會甦醒，開始虎視眈眈，等待獵物上鉤。",
+    		artistName: "SIXMOREVODKA",
+    		name: "冥鬼梟",
+    		cardCode: "03SI003",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI002-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "從任1目標汲取1點生命值。\r\n<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：在手牌隨機生成1張\r\n英雄牌以外的<link=keyword.Nightfall><style=Keyword>夜臨</style></link>牌。",
+    		descriptionRaw: "從任1目標汲取1點生命值。\r\n夜臨：在手牌隨機生成1張\r\n英雄牌以外的夜臨牌。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「隨著時間過去，我的精神，以及當初驅使我找到這裡的幹勁都逐漸被消磨殆盡。鯨牙酒吧的人個個形容枯槁，似乎已放棄做任何努力，我怕我在這裡待越久，就會變得越來越像他們。」\n——歷史學家延斯．托曼的筆記",
+    		artistName: "Kudos Productions",
+    		name: "深宵斷魂",
+    		cardCode: "03SI002",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03SI010-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 2,
+    		cost: 5,
+    		health: 5,
+    		description: "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：本牌局我方每發動1次<link=keyword.Nightfall><style=Keyword>夜臨</style></link>，則賦予此牌+1|+0。<style=Variable></style>",
+    		descriptionRaw: "夜臨：本牌局我方每發動1次夜臨，則賦予此牌+1|+0。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "每當夕陽西下，夜晚就會張開漆黑的翅膀，抹去白天最後一絲希望。",
+    		artistName: "SIXMOREVODKA",
+    		name: "夢魘馬",
+    		cardCode: "03SI010",
+    		keywords: [
+    			"威嚇"
+    		],
+    		keywordRefs: [
+    			"Fearsome"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set3"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE008-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -6744,8 +9770,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE001-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -6786,8 +9812,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE015.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE015-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE015.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE015-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -6826,8 +9852,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE006-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -6871,8 +9897,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE002-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -6916,8 +9942,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE011.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE011-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE011.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE011-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -6960,8 +9986,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE011T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE011T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE011T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE011T1-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -7005,8 +10031,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE011T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE011T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE011T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE011T2-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -7014,8 +10040,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "賦予1個友軍單位<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。\r\n將1張<link=card.level1><style=AssociatedCard>希瓦娜</style></link>洗入我方牌組。",
-    		descriptionRaw: "賦予1個友軍單位挑戰者。\r\n將1張希瓦娜洗入我方牌組。",
+    		description: "賦予1個友軍單位<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>希瓦娜</style></link>。",
+    		descriptionRaw: "賦予1個友軍單位挑戰者。\r\n在我方牌組生成1張希瓦娜。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「沒人能逃出我們手掌心！」——希瓦娜",
@@ -7047,8 +10073,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE003-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -7087,8 +10113,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE013.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE013-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE013.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE013-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -7132,8 +10158,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE005-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -7172,8 +10198,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE007-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -7216,8 +10242,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE012.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE012-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE012.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE012-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -7258,8 +10284,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03DE014-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03DE014-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -7300,8 +10326,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO017.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO017-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO017.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO017-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -7341,8 +10367,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO008-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -7383,8 +10409,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO008T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO008T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO008T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO008T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -7423,8 +10449,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO001-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -7463,8 +10489,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO019.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO019-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO019.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO019-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -7509,8 +10535,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO002-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -7549,8 +10575,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO002T4.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO002T4-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO002T4.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO002T4-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -7596,8 +10622,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO002T5.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO002T5-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO002T5.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO002T5-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -7605,8 +10631,8 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "本回合將1個侍從單位幻化為1|1<link=card.summon><style=AssociatedCard>小松鼠</style></link>並<link=vocab.Silence><style=Vocab>沉默</style></link>該單位。將1張<link=card.level1><style=AssociatedCard>露璐</style></link>洗入我方牌組。",
-    		descriptionRaw: "本回合將1個侍從單位幻化為1|1小松鼠並沉默該單位。將1張露璐洗入我方牌組。",
+    		description: "本回合將1個侍從單位幻化為1|1<link=card.summon><style=AssociatedCard>小松鼠</style></link>並<link=vocab.Silence><style=Vocab>沉默</style></link>該單位。在我方牌組生成1張<link=card.level1><style=AssociatedCard>露璐</style></link>。",
+    		descriptionRaw: "本回合將1個侍從單位幻化為1|1小松鼠並沉默該單位。在我方牌組生成1張露璐。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「變可愛！」——露璐",
@@ -7642,8 +10668,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO002T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO002T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO002T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO002T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -7682,8 +10708,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO011.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO011-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO011.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO011-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -7722,8 +10748,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO009-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -7764,8 +10790,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO003-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -7805,8 +10831,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO007-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -7814,7 +10840,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 3,
-    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：生成1個攻擊中的<link=card.summon><style=AssociatedCard>夢中小鬼</style></link>，其能力值與受到此牌支援的友軍單位相同。",
+    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：<br>生成1個攻擊中的<link=card.summon><style=AssociatedCard>夢中小鬼</style></link>，其能力值與受到此牌支援的友軍單位相同。",
     		descriptionRaw: "支援：生成1個攻擊中的夢中小鬼，其能力值與受到此牌支援的友軍單位相同。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -7845,8 +10871,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO007T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO007T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO007T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO007T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -7889,8 +10915,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO010-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -7931,8 +10957,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO020.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO020-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO020.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO020-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -7973,8 +10999,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO022.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO022-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO022.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO022-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -8015,8 +11041,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO018.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03IO018-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO018.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03IO018-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -8055,233 +11081,23 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT005-full.png"
-    			}
-    		],
-    		region: "巨石峰",
-    		regionRef: "Targon",
-    		attack: 0,
-    		cost: 3,
-    		health: 0,
-    		description: "抽1張地標牌或摧毀1個地標。",
-    		descriptionRaw: "抽1張地標牌或摧毀1個地標。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "巨石峰瞬息萬變，堅硬之處會破碎，崩落之地卻能<br>復原。",
-    		artistName: "Kudos Productions",
-    		name: "分歧之路",
-    		cardCode: "03MT005",
-    		keywords: [
-    			"快速"
-    		],
-    		keywordRefs: [
-    			"Fast"
-    		],
-    		spellSpeed: "快速",
-    		spellSpeedRef: "Fast",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR020.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR020-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
     		regionRef: "Freljord",
     		attack: 0,
-    		cost: 7,
-    		health: 0,
-    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：在手牌隨機生成1張不存在於我方手牌、牌組或場上的升級後英雄。",
-    		descriptionRaw: "回合開始：在手牌隨機生成1張不存在於我方手牌、牌組或場上的升級後英雄。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "受到未知的呼喚，英雄們來到這座橋上，面對刺骨寒風和搖搖欲墜的橋面，他們無一絲畏懼，只想知道未來的命運——不論是勝利或死亡。",
-    		artistName: "SIXMOREVODKA",
-    		name: "咆嘯深淵",
-    		cardCode: "03FR009",
-    		keywords: [
-    			"地標"
-    		],
-    		keywordRefs: [
-    			"LandmarkVisualOnly"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "地標",
-    		collectible: true,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI009-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 0,
-    		cost: 5,
-    		health: 0,
-    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：擊殺魔耗值最高的友軍單位，並從我方牌組召喚1個魔耗值高出1點的友軍單位。",
-    		descriptionRaw: "回合開始：擊殺魔耗值最高的友軍單位，並從我方牌組召喚1個魔耗值高出1點的友軍單位。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "要引誘靈魂到這個鬼地方，有什麼能比承諾給予永生和無盡的財富來得有用呢？",
-    		artistName: "SIXMOREVODKA",
-    		name: "希利亞寶庫",
-    		cardCode: "03SI009",
-    		keywords: [
-    			"地標"
-    		],
-    		keywordRefs: [
-    			"LandmarkVisualOnly"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "地標",
-    		collectible: true,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT052.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT052-full.png"
-    			}
-    		],
-    		region: "巨石峰",
-    		regionRef: "Targon",
-    		attack: 0,
-    		cost: 2,
-    		health: 0,
-    		description: "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：治癒所有負傷友軍單位1點生命。此牌在場上時，若我方治癒友軍單位22點或以上生命，即贏下牌局。<style=Variable></style>",
-    		descriptionRaw: "回合結束：治癒所有負傷友軍單位1點生命。此牌在場上時，若我方治癒友軍單位22點或以上生命，即贏下牌局。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「聖流之上，\n水池深處，治癒之泉\n閃耀之光，微明之水，\n聆聽河流之歌，\n水晶山脈之巔。」\n——〈獺人詩篇〉",
-    		artistName: "SIXMOREVODKA",
-    		name: "星泉",
-    		cardCode: "03MT052",
-    		keywords: [
-    			"地標"
-    		],
-    		keywordRefs: [
-    			"LandmarkVisualOnly"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "地標",
-    		collectible: true,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03NX013.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03NX013-full.png"
-    			}
-    		],
-    		region: "諾克薩斯",
-    		regionRef: "Noxus",
-    		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "擊殺1個負傷單位或摧毀<br>1個地標。",
-    		descriptionRaw: "擊殺1個負傷單位或摧毀1個地標。",
+    		description: "當友軍單位承受傷害且未陣亡時，賦予其+1|+0與<link=keyword.Tough><sprite name=Tough><style=Keyword>堅忍</style></link>。",
+    		descriptionRaw: "當友軍單位承受傷害且未陣亡時，賦予其+1|+0與堅忍。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「龍犬聞到味道了，牠們會找到她，然後做個了結，除此之外別無他法。」——獵捕手亞瑞爾",
-    		artistName: "Kudos Productions",
-    		name: "焦土作戰",
-    		cardCode: "03NX013",
-    		keywords: [
-    			"快速"
-    		],
-    		keywordRefs: [
-    			"Fast"
-    		],
-    		spellSpeed: "快速",
-    		spellSpeedRef: "Fast",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03NX004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03NX004-full.png"
-    			}
-    		],
-    		region: "諾克薩斯",
-    		regionRef: "Noxus",
-    		attack: 0,
-    		cost: 5,
-    		health: 0,
-    		description: "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：使1個<link=vocab.Strongest><style=Vocab>最強</style></link>友軍單位與1個<link=keyword.Weakest><style=Keyword>最弱</style></link>敵軍單位互相<link=vocab.Strike><style=Vocab>打擊</style></link>。",
-    		descriptionRaw: "回合結束：使1個最強友軍單位與1個最弱敵軍單位互相打擊。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「哈囉，各位角鬥競技迷，你們準備好迎接烈火之環最火燙刺激的夜晚了嗎？哇，看來小崔克今天抽到了籤王，他要對決強大的戰士葛納——克大王！醫護人士請到場邊待命，這場很快就會結束！」——競技場主持人",
+    		flavorText: "冬之爪有很多榮譽之地，但其中最偉大的地方就是戰痕之地。在突擊中受損的船艦被改建為戰士及其親屬聚會的廳堂。這些戰艦正體現了建造者的韌性與<br>適應力。",
     		artistName: "SIXMOREVODKA",
-    		name: "諾薩克拉亞競技場",
-    		cardCode: "03NX004",
+    		name: "戰痕之地",
+    		cardCode: "03FR020",
     		keywords: [
     			"地標"
     		],
@@ -8307,176 +11123,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT005T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT005T2-full.png"
-    			}
-    		],
-    		region: "巨石峰",
-    		regionRef: "Targon",
-    		attack: 0,
-    		cost: 3,
-    		health: 0,
-    		description: "摧毀1個地標。",
-    		descriptionRaw: "摧毀1個地標。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "每座山峰都在他們面前崩落，讓他們的腳步更穩定，意志更堅決。他們一定會登上巨石峰。",
-    		artistName: "Kudos Productions",
-    		name: "毀滅之路",
-    		cardCode: "03MT005T2",
-    		keywords: [
-    			"快速"
-    		],
-    		keywordRefs: [
-    			"Fast"
-    		],
-    		spellSpeed: "快速",
-    		spellSpeedRef: "Fast",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT005T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03MT005T1-full.png"
-    			}
-    		],
-    		region: "巨石峰",
-    		regionRef: "Targon",
-    		attack: 0,
-    		cost: 3,
-    		health: 0,
-    		description: "抽1張地標。",
-    		descriptionRaw: "抽1張地標。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "山峰連綿不絕，不過他們有前進不懈的精神。他們一定會成功翻越巨石峰的。",
-    		artistName: "Kudos Productions",
-    		name: "探索之路",
-    		cardCode: "03MT005T1",
-    		keywords: [
-    			"快速"
-    		],
-    		keywordRefs: [
-    			"Fast"
-    		],
-    		spellSpeed: "快速",
-    		spellSpeedRef: "Fast",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03SI008-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 0,
-    		cost: 5,
-    		health: 0,
-    		description: "擊殺1個友軍單位，以擊殺1個單位或摧毀1個地標。",
-    		descriptionRaw: "擊殺1個友軍單位，以擊殺1個單位或摧毀1個地標。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "這些鬼島上沒有永恆之物，一切都將終結。",
-    		artistName: "Kudos Productions",
-    		name: "同命",
-    		cardCode: "03SI008",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03PZ001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03PZ001-full.png"
-    			}
-    		],
-    		region: "皮爾托福&佐恩",
-    		regionRef: "PiltoverZaun",
-    		attack: 0,
-    		cost: 5,
-    		health: 0,
-    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：棄置我方手牌，接著在手牌隨機生成3張牌，並賦予其<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>。",
-    		descriptionRaw: "回合開始：棄置我方手牌，接著在手牌隨機生成3張牌，並賦予其飛逝。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "賽爾·畢·漢默丁格教授的發明讓他出了名，但卻是他生動的講課風格，以及難以預測的可怕教學示範，讓皮爾托福的聰明人士心中留下了難以磨滅的印象。",
-    		artistName: "SIXMOREVODKA",
-    		name: "皮爾托福大學",
-    		cardCode: "03PZ001",
-    		keywords: [
-    			"地標"
-    		],
-    		keywordRefs: [
-    			"LandmarkVisualOnly"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "地標",
-    		collectible: true,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR007-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -8515,8 +11163,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR004-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -8557,8 +11205,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR017.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR017-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR017.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR017-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -8604,8 +11252,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR006-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -8649,8 +11297,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR006T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR006T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR006T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR006T2-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -8696,8 +11344,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR006T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR006T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR006T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR006T3-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -8705,8 +11353,8 @@ var app = (function () {
     		attack: 0,
     		cost: 8,
     		health: 0,
-    		description: "本回合給予所有單位-3|-0，並對所有單位造成3點傷害。\r\n將1張<link=card.level1><style=AssociatedCard>特朗德</style></link>洗入我方牌組。",
-    		descriptionRaw: "本回合給予所有單位-3|-0，並對所有單位造成3點傷害。\r\n將1張特朗德洗入我方牌組。",
+    		description: "本回合給予所有單位-3|-0，並對所有單位造成3點傷害。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>特朗德</style></link>。",
+    		descriptionRaw: "本回合給予所有單位-3|-0，並對所有單位造成3點傷害。\r\n在我方牌組生成1張特朗德。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「把他們統統活埋！」——特朗德",
@@ -8738,8 +11386,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR006T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR006T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR006T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR006T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -8780,8 +11428,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR008-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -8822,8 +11470,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR002-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -8831,7 +11479,7 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "本回合給予1個友軍單位+0|+2，並給予1個敵軍單位<br>-2|-0。",
+    		description: "本回合給予1個友軍單位+0|+2，<br>並給予1個敵軍單位<br>-2|-0。",
     		descriptionRaw: "本回合給予1個友軍單位+0|+2，並給予1個敵軍單位-2|-0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -8864,8 +11512,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR011.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR011-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR011.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR011-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -8908,8 +11556,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR005-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -8917,7 +11565,7 @@ var app = (function () {
     		attack: 3,
     		cost: 4,
     		health: 5,
-    		description: "召喚此牌時，若我方<link=vocab.Behold><style=Vocab>掌控</style></link>魔耗值8點或以上的卡牌，則賦予此牌<br><link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>再生</style></link>。",
+    		description: "召喚此牌時，若我方<link=vocab.Behold><style=Vocab>掌控</style></link>魔耗值8點或以上的卡牌，則賦予此牌<link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>再生</style></link>。",
     		descriptionRaw: "召喚此牌時，若我方掌控魔耗值8點或以上的卡牌，則賦予此牌再生。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -8948,8 +11596,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR018.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR018-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR018.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR018-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -8957,8 +11605,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "從我方牌組最上方4張牌中，抽出每張雪怪、普羅與厄努克，然後將其餘卡牌洗回我方牌組。",
-    		descriptionRaw: "從我方牌組最上方4張牌中，抽出每張雪怪、普羅與厄努克，然後將其餘卡牌洗回我方牌組。",
+    		description: "從我方牌組最上方4張牌中，抽出所有雪怪、普羅與厄努克，然後將其餘卡牌洗回我方牌組。",
+    		descriptionRaw: "從我方牌組最上方4張牌中，抽出所有雪怪、普羅與厄努克，然後將其餘卡牌洗回我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「然後一隻超~巨大的厄努克從樹後衝出來，上面騎著一隻超~小的普羅，然後還有一隻友善的雪怪，他們想跟朋友一起玩，所以就大喊『哇啊啊啊啊』，一起跑下山，然後……」——青年英格瓦",
@@ -8990,8 +11638,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR010-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -9030,8 +11678,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR019.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR019-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR019.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR019-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -9072,8 +11720,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR022.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03FR022-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR022.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set3/zh_tw/img/cards/03FR022-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -9106,134 +11754,6 @@ var app = (function () {
     		type: "法術",
     		collectible: true,
     		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"01NX038"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03NX018.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03NX018-full.png"
-    			}
-    		],
-    		region: "諾克薩斯",
-    		regionRef: "Noxus",
-    		attack: 0,
-    		cost: 2,
-    		health: 0,
-    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>1個敵軍單位。\r\n若我方場上有<link=card.champ1><style=AssociatedCard>達瑞斯</style></link>，<br>則進行<link=vocab.Rally><style=Vocab>備戰</style></link>。",
-    		descriptionRaw: "擊暈1個敵軍單位。\r\n若我方場上有達瑞斯，則進行備戰。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「我自己來就行了。」——達瑞斯",
-    		artistName: "Kudos Productions",
-    		name: "壓制",
-    		cardCode: "03NX018",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"03NX016"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03NX017.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03NX017-full.png"
-    			}
-    		],
-    		region: "諾克薩斯",
-    		regionRef: "Noxus",
-    		attack: 7,
-    		cost: 7,
-    		health: 4,
-    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：對1個友軍單位與1個敵軍單位造成1點傷害4次。",
-    		descriptionRaw: "出牌：對1個友軍單位與1個敵軍單位造成1點傷害4次。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "戰鬥前幾天，巨異蜥馴獸師不會讓牠們吃活的獵物。等到那些猛獸被釋放時，牠們會變得不分敵友，並且所向無敵。",
-    		artistName: "Kudos Productions",
-    		name: "巨異蜥血魔",
-    		cardCode: "03NX017",
-    		keywords: [
-    			"勢不可擋"
-    		],
-    		keywordRefs: [
-    			"Overwhelm"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set3"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03NX016.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set3/zh_tw/img/cards/03NX016-full.png"
-    			}
-    		],
-    		region: "諾克薩斯",
-    		regionRef: "Noxus",
-    		attack: 0,
-    		cost: 0,
-    		health: 0,
-    		description: "對1個友軍單位與1個敵軍單位造成1點傷害4次。",
-    		descriptionRaw: "對1個友軍單位與1個敵軍單位造成1點傷害4次。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「你要小心的不是猛獸的利爪，而是牠們永遠無法滿足的胃口。」——巨異蜥馴獸師",
-    		artistName: "Kudos Productions",
-    		name: "利爪擊",
-    		cardCode: "03NX016",
-    		keywords: [
-    			"技能"
-    		],
-    		keywordRefs: [
-    			"Skill"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "技能",
-    		collectible: false,
-    		set: "Set3"
     	}
     ];
 
@@ -9245,8 +11765,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ001-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -9287,8 +11807,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ010-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -9327,8 +11847,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ006-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -9369,8 +11889,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ004-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -9411,8 +11931,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ007-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -9451,8 +11971,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ002-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -9493,8 +12013,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ008-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -9537,8 +12057,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ009-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -9579,8 +12099,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ003-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -9623,8 +12143,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ008T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ008T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ008T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ008T2-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -9669,8 +12189,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ008T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ008T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ008T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ008T1-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -9678,8 +12198,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "本回合給予1個友軍單位+2|+0。\r\n在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.selfRef><style=AssociatedCard>蓄能衝擊</style></link>。\r\n將1張<link=card.level1><style=AssociatedCard>菲艾</style></link>洗入我方牌組。",
-    		descriptionRaw: "本回合給予1個友軍單位+2|+0。\r\n在手牌生成1張飛逝蓄能衝擊。\r\n將1張菲艾洗入我方牌組。",
+    		description: "本回合給予1個友軍單位+2|+0。\r\n在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.selfRef><style=AssociatedCard>蓄能衝擊</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>菲艾</style></link>。",
+    		descriptionRaw: "本回合給予1個友軍單位+2|+0。\r\n在手牌生成1張飛逝蓄能衝擊。\r\n在我方牌組生成1張菲艾。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「我的雙臂代我說話。」——菲艾",
@@ -9711,8 +12231,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02PZ005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02PZ005-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -9751,8 +12271,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW040.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW040-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW040.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW040-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -9793,8 +12313,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW057.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW057-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW057.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW057-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -9837,8 +12357,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW041.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW041-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW041.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW041-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -9880,8 +12400,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW013.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW013-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW013.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW013-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -9925,8 +12445,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW034.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW034-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW034.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW034-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -9967,8 +12487,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW034T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW034T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW034T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW034T1-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10012,8 +12532,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW056.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW056-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW056.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW056-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10055,8 +12575,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW056T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW056T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW056T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW056T1-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10098,8 +12618,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW060.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW060-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW060.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW060-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10139,8 +12659,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW011.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW011-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW011.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW011-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10183,8 +12703,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW030.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW030-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW030.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW030-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10192,11 +12712,11 @@ var app = (function () {
     		attack: 7,
     		cost: 7,
     		health: 5,
-    		description: "召喚此牌時，<link=vocab.Toss><style=Vocab>亂擲</style></link>2張牌，<br>並把2張寶藏牌洗入我方牌組。\r\n<style=Variable></style>",
-    		descriptionRaw: "召喚此牌時，亂擲2張牌，並把2張寶藏牌洗入我方牌組。\r\n",
+    		description: "召喚此牌時，<link=vocab.Toss><style=Vocab>亂擲</style></link>2張牌，並在我方牌組生成2張寶藏牌。\r\n<style=Variable></style>",
+    		descriptionRaw: "召喚此牌時，亂擲2張牌，並在我方牌組生成2張寶藏牌。\r\n",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「我跟你擔保，這些日子來水面下的寶藏比水面上還來得多。應該可以手到擒來的，但有她在就困難了。」——鋸斧屠夫",
+    		flavorText: "「我跟你擔保，這些日子來水面下的寶藏比水面上還來得多。應該可以手到擒來的，但有她在就困難了。」<br>——鋸斧屠夫",
     		artistName: "Kudos Productions",
     		name: "沉船囤積者",
     		cardCode: "02BW030",
@@ -10226,8 +12746,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW030T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW030T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW030T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW030T2-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10269,8 +12789,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW030T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW030T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW030T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW030T1-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10312,8 +12832,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW030T4.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW030T4-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW030T4.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW030T4-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10358,8 +12878,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW030T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW030T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW030T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW030T3-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10401,8 +12921,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW019.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW019-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW019.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW019-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10445,8 +12965,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW007-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10485,8 +13005,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW014-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW014-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10527,8 +13047,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW055.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW055-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW055.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW055-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10567,8 +13087,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW017.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW017-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW017.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW017-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10607,8 +13127,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW038.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW038-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW038.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW038-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10651,8 +13171,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW021.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW021-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW021.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW021-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10664,7 +13184,7 @@ var app = (function () {
     		descriptionRaw: "出牌：賦予1個敵軍單位弱勢。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「聽說他會游上幾公里只為尋找獵物，一旦發現目標就絕不失手。很難說他是人還是魚，但可以肯定的是，他對這片水域瞭若指掌，熟悉程度超過了我們所有人。」——鋸斧屠夫",
+    		flavorText: "「聽說他會游上幾公里只為尋找獵物，一旦發現目標就絕不失手。很難說他是人還是魚，但可以肯定的是，他對這片水域瞭若指掌，熟悉程度超過了我們所有人。」<br>——鋸斧屠夫",
     		artistName: "Alex Heath",
     		name: "銳鱗獵人",
     		cardCode: "02BW021",
@@ -10693,8 +13213,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW035.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW035-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW035.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW035-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10733,8 +13253,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW058.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW058-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW058.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW058-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10774,8 +13294,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW028.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW028-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW028.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW028-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10783,7 +13303,7 @@ var app = (function () {
     		attack: 6,
     		cost: 8,
     		health: 4,
-    		description: "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：對敵軍單位隨機施放6次<link=card.cast><style=AssociatedCard>加農炮幕</style></link>。",
+    		description: "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：對敵軍單位隨機施放6次<br><link=card.cast><style=AssociatedCard>加農炮幕</style></link>。",
     		descriptionRaw: "洗劫：對敵軍單位隨機施放6次加農炮幕。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -10814,8 +13334,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW028T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW028T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW028T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW028T1-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10856,8 +13376,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW037.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW037-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW037.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW037-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10902,8 +13422,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW008-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10943,8 +13463,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW008T02.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW008T02-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW008T02.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW008T02-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -10984,8 +13504,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW008T01.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW008T01-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW008T01.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW008T01-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11024,8 +13544,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW047.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW047-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW047.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW047-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11065,8 +13585,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW004-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11106,8 +13626,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW002-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11148,8 +13668,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW016.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW016-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW016-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11189,8 +13709,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW027.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW027-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW027.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW027-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11229,8 +13749,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW050.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW050-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW050.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW050-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11272,8 +13792,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW015.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW015-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW015.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW015-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11314,8 +13834,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW010-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11327,7 +13847,7 @@ var app = (function () {
     		descriptionRaw: "洗劫：隨機賦予此牌2種特性。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「那個貪心又殘忍的魔頭已經在懸賞令上好長一段時間了，礙事的人都被他不眨眼的處理掉囉。你問我最糟糕的是啥？就是他……長得還怪可愛的，可惡！」——剛普朗克",
+    		flavorText: "「那個貪心又殘忍的魔頭已經在懸賞令上好長一段時間了，礙事的人都被他不眨眼的處理掉囉。你問我最糟糕的是啥？就是他……長得還怪可愛的，可惡！」<br>——剛普朗克",
     		artistName: "SIXMOREVODKA",
     		name: "大盜普羅",
     		cardCode: "02BW010",
@@ -11355,8 +13875,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW009-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11395,8 +13915,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW005-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11404,7 +13924,7 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 3,
-    		description: "召喚此牌時，賦予<link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
+    		description: "召喚此牌時，賦予<link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位<br><link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
     		descriptionRaw: "召喚此牌時，賦予最強敵軍單位弱勢。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -11435,8 +13955,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW039.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW039-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW039.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW039-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11477,8 +13997,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW006-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11517,8 +14037,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW036.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW036-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW036.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW036-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11561,8 +14081,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW033.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW033-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW033.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW033-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11601,8 +14121,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW060T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW060T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW060T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW060T1-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11647,8 +14167,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW032.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW032-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW032.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW032-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11691,8 +14211,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW032T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW032T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW032T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW032T2-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11700,8 +14220,8 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "對任1目標造成1點傷害。\r\n若擊殺該單位，<br>則另外對敵方主堡造成1點傷害。\r\n將1張<link=card.level1><style=AssociatedCard>剛普朗克</style></link>洗入我方牌組。",
-    		descriptionRaw: "對任1目標造成1點傷害。\r\n若擊殺該單位，則另外對敵方主堡造成1點傷害。\r\n將1張剛普朗克洗入我方牌組。",
+    		description: "對任1目標造成1點傷害。\r\n若擊殺該單位，<br>則另外對敵方主堡造成1點傷害。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>剛普朗克</style></link>。",
+    		descriptionRaw: "對任1目標造成1點傷害。\r\n若擊殺該單位，則另外對敵方主堡造成1點傷害。\r\n在我方牌組生成1張剛普朗克。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "剛普朗克的談判過程通常都很短，不過必定見血。",
@@ -11737,8 +14257,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW032T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW032T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW032T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW032T3-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11779,8 +14299,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW032T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW032T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW032T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW032T1-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11824,8 +14344,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW032T4.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW032T4-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW032T4.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW032T4-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11870,8 +14390,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW022.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW022-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW022.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW022-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11912,8 +14432,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW022T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW022T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW022T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW022T3-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11921,8 +14441,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "在敵軍單位與敵方主堡中<br>隨機對3個不同目標造成1點傷害。<br>將1張<link=card.level1><style=AssociatedCard>好運姐</style></link>洗入我方牌組。",
-    		descriptionRaw: "在敵軍單位與敵方主堡中隨機對3個不同目標造成1點傷害。將1張好運姐洗入我方牌組。",
+    		description: "在敵軍單位與敵方主堡中隨機對3個不同目標造成1點傷害。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>好運姐</style></link>。",
+    		descriptionRaw: "在敵軍單位與敵方主堡中隨機對3個不同目標造成1點傷害。\r\n在我方牌組生成1張好運姐。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「火力全開！」——好運姐",
@@ -11957,8 +14477,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW022T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW022T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW022T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW022T2-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -11999,8 +14519,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW022T4.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW022T4-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW022T4.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW022T4-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -12041,8 +14561,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW022T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW022T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW022T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW022T1-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -12087,8 +14607,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW046.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW046-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW046.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW046-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -12098,8 +14618,8 @@ var app = (function () {
     		health: 1,
     		description: "我方施放法術時，<br>使所有以此牌為目標的<br>法術/技能無效化，<br>並於本回合給予此牌<link=keyword.Elusive><sprite name=Elusive><style=Keyword>隱密</style></link>。",
     		descriptionRaw: "我方施放法術時，使所有以此牌為目標的法術/技能無效化，並於本回合給予此牌隱密。",
-    		levelupDescription: "我方施放6次法術<style=Variable></style>。",
-    		levelupDescriptionRaw: "我方施放6次法術。",
+    		levelupDescription: "我方施放6次或以上法術<style=Variable></style>。",
+    		levelupDescriptionRaw: "我方施放6次或以上法術。",
     		flavorText: "比爾吉沃特的傳奇人物當中，飛斯的性格乖戾又難搞。一些水手將附近發生的無數船禍都怪罪於他……",
     		artistName: "SIXMOREVODKA",
     		name: "飛斯",
@@ -12133,8 +14653,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW046T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW046T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW046T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW046T3-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -12175,8 +14695,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW046T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW046T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW046T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW046T2-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -12219,8 +14739,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW046T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW046T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW046T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW046T1-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -12228,8 +14748,8 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "從戰鬥中移除1個<br>攻擊中的友軍單位，<br>然後進行<link=vocab.Rally><style=Vocab>備戰</style></link>。\r\n將1張<link=card.level1><style=AssociatedCard>飛斯</style></link>洗入我方牌組。",
-    		descriptionRaw: "從戰鬥中移除1個攻擊中的友軍單位，然後進行備戰。\r\n將1張飛斯洗入我方牌組。",
+    		description: "從戰鬥中移除1個攻擊中的友軍單位，然後進行<link=vocab.Rally><style=Vocab>備戰</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>飛斯</style></link>。",
+    		descriptionRaw: "從戰鬥中移除1個攻擊中的友軍單位，然後進行備戰。\r\n在我方牌組生成1張飛斯。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「快你一步！」——飛斯",
@@ -12266,8 +14786,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW026.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW026-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW026.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW026-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -12308,8 +14828,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW026T5.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW026T5-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW026T5.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW026T5-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -12355,8 +14875,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW026T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW026T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW026T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW026T3-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -12399,8 +14919,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW026T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW026T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW026T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW026T1-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -12408,8 +14928,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "將1張手牌洗入我方牌組，<br>於下次<link=vocab.RoundStart><style=Vocab>回合開始</style></link>抽3張牌，<br>並給予其<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>。\r\n將1張<link=card.level1><style=AssociatedCard>逆命</style></link>洗入我方牌組。",
-    		descriptionRaw: "將1張手牌洗入我方牌組，於下次回合開始抽3張牌，並給予其飛逝。\r\n將1張逆命洗入我方牌組。",
+    		description: "將1張手牌洗入我方牌組，於下次<link=vocab.RoundStart><style=Vocab>回合開始</style></link>抽3張牌，並給予其<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>逆命</style></link>。",
+    		descriptionRaw: "將1張手牌洗入我方牌組，於下次回合開始抽3張牌，並給予其飛逝。\r\n在我方牌組生成1張逆命。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「運氣是自己創造出來的。」——逆命",
@@ -12441,8 +14961,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW026T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW026T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW026T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW026T2-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -12483,8 +15003,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW026T4.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW026T4-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW026T4.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW026T4-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -12527,8 +15047,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW053.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW053-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW053.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW053-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -12540,7 +15060,7 @@ var app = (function () {
     		descriptionRaw: "此牌升級時，複製被亂擲且魔耗值4點或以上的友軍單位至我方牌組。",
     		levelupDescription: "我方進入<link=keyword.Deep><sprite name=Deep><style=Keyword>探底</style></link>狀態。<style=Variable></style>",
     		levelupDescriptionRaw: "我方進入探底狀態。",
-    		flavorText: "「錨被拔起帆被扯下，蘭科號轉眼變得七零八落。活下來的只剩我們幾個，而夜晚將至，寒冷也將追隨而來。抱歉了媽媽，妳說的對，泰坦巨獸是真實存在的。」—殘破筆記拼湊出的內容",
+    		flavorText: "「錨被拔起帆被扯下，蘭科號轉眼變得七零八落。活下來的只剩我們幾個，而夜晚將至，寒冷也將追隨而來。抱歉了媽媽，妳說的對，泰坦巨獸是真實存在的。」<br>——殘破筆記拼湊出的內容",
     		artistName: "SIXMOREVODKA",
     		name: "納帝魯斯",
     		cardCode: "02BW053",
@@ -12573,8 +15093,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW053T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW053T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW053T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW053T2-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -12582,8 +15102,8 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>1個敵軍單位。\r\n若我方場上有<link=card.champCheck><style=AssociatedCard>納帝魯斯</style></link>，<br>則將該單位洗入敵方牌組。\r\n將1張<link=card.level1><style=AssociatedCard>納帝魯斯</style></link>洗入我方牌組。",
-    		descriptionRaw: "擊暈1個敵軍單位。\r\n若我方場上有納帝魯斯，則將該單位洗入敵方牌組。\r\n將1張納帝魯斯洗入我方牌組。",
+    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>1個敵軍單位。\r\n若我方場上有<link=card.champCheck><style=AssociatedCard>納帝魯斯</style></link>，<br>則將該單位洗入敵方牌組。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>納帝魯斯</style></link>。",
+    		descriptionRaw: "擊暈1個敵軍單位。\r\n若我方場上有納帝魯斯，則將該單位洗入敵方牌組。\r\n在我方牌組生成1張納帝魯斯。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「把他們拖入深淵……」——納帝魯斯",
@@ -12617,8 +15137,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW053T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW053T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW053T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW053T1-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -12661,8 +15181,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW061.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW061-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW061.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW061-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -12703,8 +15223,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW024.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW024-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW024.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW024-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -12745,8 +15265,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW003-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -12788,8 +15308,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW025.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW025-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW025.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW025-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -12831,8 +15351,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW012.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW012-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW012.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW012-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -12873,8 +15393,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW018.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW018-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW018.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW018-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -12915,8 +15435,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW048.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW048-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW048.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW048-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -12957,8 +15477,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW043.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW043-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW043.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW043-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -12966,7 +15486,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "將1張手牌洗入我方牌組，<br>於下次<link=vocab.RoundStart><style=Vocab>回合開始</style></link>抽3張牌，<br>並給予其<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>。",
+    		description: "將1張手牌洗入我方牌組，於下次<link=vocab.RoundStart><style=Vocab>回合開始</style></link>抽3張牌，並給予其<br><link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>。",
     		descriptionRaw: "將1張手牌洗入我方牌組，於下次回合開始抽3張牌，並給予其飛逝。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -12999,8 +15519,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW051.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW051-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW051.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW051-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -13042,8 +15562,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW054.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW054-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW054.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW054-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -13051,7 +15571,7 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>1個敵軍單位。\r\n若我方場上有<link=card.champCheck><style=AssociatedCard>納帝魯斯</style></link>，<br>則將該單位洗入敵方牌組。",
+    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>1個敵軍單位。\r\n若我方場上有<link=card.champCheck><style=AssociatedCard>納帝魯斯</style></link>，則將該單位洗入敵方牌組。",
     		descriptionRaw: "擊暈1個敵軍單位。\r\n若我方場上有納帝魯斯，則將該單位洗入敵方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -13084,8 +15604,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW042.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW042-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW042.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW042-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -13126,8 +15646,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW059.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW059-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW059.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW059-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -13168,8 +15688,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW023.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW023-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW023.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW023-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -13210,8 +15730,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW031.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW031-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW031.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW031-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -13252,8 +15772,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW029.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW029-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW029.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW029-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -13294,8 +15814,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW049.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW049-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW049.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW049-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -13336,8 +15856,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW001-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -13349,7 +15869,7 @@ var app = (function () {
     		descriptionRaw: "本回合給予1個敵軍單位弱勢，若該單位於本回合陣亡，則我方抽1張牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「孩子們，抬頭挺胸打起精神！被船長發現你在打混就等著被大卸八塊餵海鷗吧，還不快給我動起來！」——恐懼號水手",
+    		flavorText: "「孩子們，抬頭挺胸打起精神！被船長發現你在打混就等著被大卸八塊餵海鷗吧，還不快給我動起來！」<br>——恐懼號水手",
     		artistName: "Greg Faillace",
     		name: "警告過你囉",
     		cardCode: "02BW001",
@@ -13378,8 +15898,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW063.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW063-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW063.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW063-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -13420,8 +15940,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW045.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW045-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW045.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW045-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -13462,8 +15982,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW020.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW020-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW020.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW020-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -13504,8 +16024,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW044.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW044-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW044.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW044-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -13546,8 +16066,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW062.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02BW062-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW062.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02BW062-full.png"
     			}
     		],
     		region: "比爾吉沃特",
@@ -13588,8 +16108,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR009-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -13630,8 +16150,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR004-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -13674,8 +16194,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR002-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -13716,8 +16236,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR001-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -13757,8 +16277,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR005-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -13798,8 +16318,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR005T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR005T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR005T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR005T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -13840,8 +16360,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR010-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -13884,8 +16404,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR008-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -13926,8 +16446,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR002T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR002T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR002T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR002T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -13935,8 +16455,8 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "本回合給予1個友軍單位+3|+4。\r\n將1張<link=card.level1><style=AssociatedCard>史瓦妮</style></link>洗入我方牌組。",
-    		descriptionRaw: "本回合給予1個友軍單位+3|+4。\r\n將1張史瓦妮洗入我方牌組。",
+    		description: "本回合給予1個友軍單位+3|+4。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>史瓦妮</style></link>。",
+    		descriptionRaw: "本回合給予1個友軍單位+3|+4。\r\n在我方牌組生成1張史瓦妮。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「擁抱心中的野性吧！」 ——史瓦妮",
@@ -13970,8 +16490,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR002T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR002T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR002T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR002T3-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -14012,8 +16532,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR007-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -14054,8 +16574,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR006-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -14099,8 +16619,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02FR003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02FR003-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -14142,8 +16662,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX001-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -14186,8 +16706,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX007-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -14230,8 +16750,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX007T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX007T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX007T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX007T2-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -14239,7 +16759,7 @@ var app = (function () {
     		attack: 4,
     		cost: 5,
     		health: 7,
-    		description: "對敵方主堡造成非戰鬥傷害時，<br><link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>位於後排的<link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。<br><link=vocab.NexusStrike><style=Vocab>打擊主堡</style></link>：<br>對所有敵軍單位及敵方主堡造成3點傷害。",
+    		description: "對敵方主堡造成非戰鬥傷害時，<br><link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>位於後排的<link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。<br><link=vocab.NexusStrike><style=Vocab>打擊主堡</style></link>：<br>對所有敵軍單位及敵方主堡造成<br>3點傷害。",
     		descriptionRaw: "對敵方主堡造成非戰鬥傷害時，擊暈位於後排的最強敵軍單位。打擊主堡：對所有敵軍單位及敵方主堡造成3點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -14274,8 +16794,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX007T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX007T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX007T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX007T1-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -14283,8 +16803,8 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "若該單位已負傷或遭到<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>，<br>則對其造成4點傷害。\r\n將1張<link=card.level1><style=AssociatedCard>斯溫</style></link>洗入牌組。",
-    		descriptionRaw: "若該單位已負傷或遭到擊暈，則對其造成4點傷害。\r\n將1張斯溫洗入牌組。",
+    		description: "若該單位已負傷或遭到<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>，則對其造成4點傷害。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>斯溫</style></link>。",
+    		descriptionRaw: "若該單位已負傷或遭到擊暈，則對其造成4點傷害。\r\n在我方牌組生成1張斯溫。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "快聽，你聽見了嗎？那如雷貫耳的是上千雙羽翼的拍擊聲。",
@@ -14316,8 +16836,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX006-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -14356,8 +16876,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX002-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -14396,8 +16916,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX009-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -14439,8 +16959,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX004-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -14479,8 +16999,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX003-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -14521,8 +17041,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX010-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -14563,8 +17083,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX004T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX004T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX004T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX004T1-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -14605,8 +17125,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX008-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -14647,8 +17167,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02NX005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02NX005-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -14689,8 +17209,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE003-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -14729,8 +17249,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE008-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -14771,8 +17291,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE004-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -14819,8 +17339,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE006-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -14864,8 +17384,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE006T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE006T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE006T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE006T3-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -14873,8 +17393,8 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "召喚<link=card.summon><style=AssociatedCard>威洛</style></link>。\r\n將1張<link=card.level1><style=AssociatedCard>葵恩</style></link>洗入我方牌組。",
-    		descriptionRaw: "召喚威洛。\r\n將1張葵恩洗入我方牌組。",
+    		description: "召喚<link=card.summon><style=AssociatedCard>威洛</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>葵恩</style></link>。",
+    		descriptionRaw: "召喚威洛。\r\n在我方牌組生成1張葵恩。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「飛到我頭髮裡了，我的頭髮！」——軍團流寇",
@@ -14906,8 +17426,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE006T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE006T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE006T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE006T2-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -14953,8 +17473,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE006T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE006T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE006T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE006T1-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -14996,8 +17516,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE009-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -15040,8 +17560,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE005-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -15083,8 +17603,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE002-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -15125,8 +17645,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE010-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -15169,8 +17689,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE007-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -15211,8 +17731,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02DE001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02DE001-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -15253,8 +17773,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI005-full.png"
     			}
     		],
     		region: "闇影島",
@@ -15295,8 +17815,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI010-full.png"
     			}
     		],
     		region: "闇影島",
@@ -15340,8 +17860,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI008-full.png"
     			}
     		],
     		region: "闇影島",
@@ -15380,8 +17900,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI008T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI008T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI008T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI008T3-full.png"
     			}
     		],
     		region: "闇影島",
@@ -15427,8 +17947,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI008T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI008T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI008T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI008T1-full.png"
     			}
     		],
     		region: "闇影島",
@@ -15436,8 +17956,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "<link=vocab.Toss><style=Vocab>亂擲</style></link>3張牌。\r\n治癒所有友軍單位3點生命。\r\n將1張<link=card.level1><style=AssociatedCard>茂凱</style></link>洗入我方牌組。",
-    		descriptionRaw: "亂擲3張牌。\r\n治癒所有友軍單位3點生命。\r\n將1張茂凱洗入我方牌組。",
+    		description: "<link=vocab.Toss><style=Vocab>亂擲</style></link>3張牌。\r\n治癒所有友軍單位3點生命。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>茂凱</style></link>。",
+    		descriptionRaw: "亂擲3張牌。\r\n治癒所有友軍單位3點生命。\r\n在我方牌組生成1張茂凱。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「島嶼將被淨化。」——茂凱",
@@ -15472,8 +17992,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI008T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI008T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI008T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI008T2-full.png"
     			}
     		],
     		region: "闇影島",
@@ -15514,8 +18034,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI007-full.png"
     			}
     		],
     		region: "闇影島",
@@ -15528,7 +18048,7 @@ var app = (function () {
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「……非常出色的品種……這就是我小時候遇到過的那隻生物……一點都沒有變老！真想知道……下一個城鎮。說不定這些傢伙長生不老！」——拼湊起來的無名日記",
-    		artistName: "MAR Studio",
+    		artistName: "Wild Blue Studios",
     		name: "尖刺蛤蟆",
     		cardCode: "02SI007",
     		keywords: [
@@ -15556,8 +18076,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI003-full.png"
     			}
     		],
     		region: "闇影島",
@@ -15565,7 +18085,7 @@ var app = (function () {
     		attack: 6,
     		cost: 8,
     		health: 5,
-    		description: "使我方海怪單位擁有<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>。\r\n<link=vocab.Attack><style=Vocab>攻擊</style></link>：本回合給予場上所有敵軍單位-2|-0。\r\n<style=Variable></style>",
+    		description: "使我方海怪單位擁有<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>。\r\n<link=vocab.Attack><style=Vocab>攻擊</style></link>：本回合給予場上所有敵軍單位<br>-2|-0。\r\n<style=Variable></style>",
     		descriptionRaw: "使我方海怪單位擁有威嚇。\r\n攻擊：本回合給予場上所有敵軍單位-2|-0。\r\n",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -15599,8 +18119,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI001-full.png"
     			}
     		],
     		region: "闇影島",
@@ -15648,8 +18168,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI002-full.png"
     			}
     		],
     		region: "闇影島",
@@ -15689,8 +18209,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI004-full.png"
     			}
     		],
     		region: "闇影島",
@@ -15729,8 +18249,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI006-full.png"
     			}
     		],
     		region: "闇影島",
@@ -15770,8 +18290,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02SI009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02SI009-full.png"
     			}
     		],
     		region: "闇影島",
@@ -15813,8 +18333,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO008-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -15855,8 +18375,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO008T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO008T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO008T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO008T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -15900,8 +18420,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO005T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO005T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO005T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO005T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -15941,8 +18461,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO002-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -15982,8 +18502,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO002T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO002T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO002T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO002T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16028,8 +18548,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO006-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16073,8 +18593,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO011.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO011-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO011.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO011-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16082,8 +18602,8 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "本回合給予\r\n1個友軍<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。\r\n在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.secondSpell><style=AssociatedCard>震驚百里</style></link>。\r\n將1張<link=card.level1><style=AssociatedCard>李星</style></link>洗入我方牌組。",
-    		descriptionRaw: "本回合給予\r\n1個友軍挑戰者。\r\n在手牌生成1張飛逝震驚百里。\r\n將1張李星洗入我方牌組。",
+    		description: "本回合給予1個友軍單位<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。\r\n在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.secondSpell><style=AssociatedCard>震驚百里</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>李星</style></link>。",
+    		descriptionRaw: "本回合給予1個友軍單位挑戰者。\r\n在手牌生成1張飛逝震驚百里。\r\n在我方牌組生成1張李星。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「克己復禮……」——李星",
@@ -16119,8 +18639,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO006T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO006T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO006T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO006T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16161,8 +18681,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO006T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO006T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO006T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO006T3-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16203,8 +18723,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO004-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16246,8 +18766,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO003-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16288,8 +18808,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO001-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16328,8 +18848,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO003T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO003T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO003T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO003T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16374,8 +18894,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO005-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16417,8 +18937,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO010-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16459,8 +18979,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO007-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16501,8 +19021,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO010T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO010T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO010T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO010T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16545,8 +19065,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set2/zh_tw/img/cards/02IO009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set2/zh_tw/img/cards/02IO009-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16590,8 +19110,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO012.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO012-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO012.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO012-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16632,8 +19152,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO012T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO012T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO012T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO012T2-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16674,8 +19194,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO012T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO012T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO012T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO012T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16718,8 +19238,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO015.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO015-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO015.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO015-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16762,8 +19282,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO015T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO015T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO015T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO015T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16806,8 +19326,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO015T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO015T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO015T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO015T2-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16848,8 +19368,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO020.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO020-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO020.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO020-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16888,8 +19408,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO045.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO045-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO045.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO045-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16928,8 +19448,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO008-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -16970,8 +19490,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO040.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO040-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO040.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO040-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17016,8 +19536,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO041.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO041-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO041.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO041-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17058,8 +19578,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO041T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO041T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO041T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO041T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17102,8 +19622,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO041T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO041T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO041T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO041T2-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17111,8 +19631,8 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "在手牌生成1張<br>來自我方牌組區域的法術牌。\r\n<link=keyword.Enlightened><style=Keyword>開悟</style></link>：改為生成2張。\r\n將1張<link=card.level1><style=AssociatedCard>卡瑪</style></link>洗入我方牌組。",
-    		descriptionRaw: "在手牌生成1張來自我方牌組區域的法術牌。\r\n開悟：改為生成2張。\r\n將1張卡瑪洗入我方牌組。",
+    		description: "在手牌生成1張來自我方牌組區域的<br>法術牌。\r\n<link=keyword.Enlightened><style=Keyword>開悟</style></link>：改為生成2張。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>卡瑪</style></link>。",
+    		descriptionRaw: "在手牌生成1張來自我方牌組區域的法術牌。\r\n開悟：改為生成2張。\r\n在我方牌組生成1張卡瑪。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「希望渺茫時，記得你不是孤身一人。過往一直與我們同在，無數個明天將帶來希望。」——卡瑪",
@@ -17144,8 +19664,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO011.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO011-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO011.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO011-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17189,8 +19709,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO009-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17200,8 +19720,8 @@ var app = (function () {
     		health: 2,
     		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：召喚1個攻擊中的<link=card.summon><style=AssociatedCard>疾風殘影</style></link>，<br>其能力值與此牌相同。",
     		descriptionRaw: "攻擊：召喚1個攻擊中的疾風殘影，其能力值與此牌相同。",
-    		levelupDescription: "此牌與其暗影總共<link=vocab.Strike><style=Vocab>打擊</style></link>敵方主堡兩次<style=Variable></style>。",
-    		levelupDescriptionRaw: "此牌與其暗影總共打擊敵方主堡兩次。",
+    		levelupDescription: "此牌與其暗影總共<link=vocab.Strike><style=Vocab>打擊</style></link>敵方主堡<br>2次<style=Variable></style>。",
+    		levelupDescriptionRaw: "此牌與其暗影總共打擊敵方主堡2次。",
     		flavorText: "「只有愚者才追求平衡。暗影向我展現了真實的力量。」",
     		artistName: "SIXMOREVODKA",
     		name: "劫",
@@ -17234,8 +19754,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO009T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO009T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO009T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO009T2-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17279,8 +19799,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO009T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO009T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO009T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO009T3-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17288,8 +19808,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "<link=keyword.Recall><style=Keyword>召回</style></link>1個友軍單位，<br>召喚1個<link=card.create><style=AssociatedCard>疾風殘影</style></link>取而代之。<br>將1張<link=card.level1><style=AssociatedCard>劫</style></link>洗入我方牌組。",
-    		descriptionRaw: "召回1個友軍單位，召喚1個疾風殘影取而代之。將1張劫洗入我方牌組。",
+    		description: "<link=keyword.Recall><style=Keyword>召回</style></link>1個友軍單位，並在原處召喚1個<link=card.create><style=AssociatedCard>疾風殘影</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>劫</style></link>。",
+    		descriptionRaw: "召回1個友軍單位，並在原處召喚1個疾風殘影。\r\n在我方牌組生成1張劫。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "你眼前的敵人確實存在嗎？還是說，它只是暗影的障眼法？",
@@ -17321,8 +19841,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO009T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO009T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO009T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO009T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17363,8 +19883,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO014-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO014-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17403,8 +19923,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO005-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17446,8 +19966,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO044.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO044-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO044.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO044-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17488,8 +20008,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO023.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO023-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO023.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO023-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17528,8 +20048,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO029.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO029-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO029.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO029-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17570,8 +20090,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO003-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17612,8 +20132,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO047.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO047-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO047.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO047-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17654,8 +20174,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO026.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO026-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO026.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO026-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17694,8 +20214,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO024.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO024-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO024.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO024-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17736,8 +20256,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO028.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO028-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO028.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO028-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17776,8 +20296,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO057.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO057-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO057.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO057-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17818,8 +20338,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO028T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO028T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO028T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO028T2-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17858,8 +20378,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO028T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO028T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO028T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO028T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17900,8 +20420,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO032.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO032-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO032.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO032-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17942,8 +20462,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO032T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO032T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO032T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO032T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17951,7 +20471,7 @@ var app = (function () {
     		attack: 4,
     		cost: 4,
     		health: 6,
-    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：<br>本回合給予受此牌支援的友軍單位<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。<br>\r\n有友軍單位獲得<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>時，<br>本回合給予該單位+3|+0。",
+    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：<br>本回合給予受此牌支援的友軍單位<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。\r\n有友軍單位獲得<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>時，<br>本回合給予該單位+3|+0。",
     		descriptionRaw: "支援：本回合給予受此牌支援的友軍單位光盾。\r\n有友軍單位獲得光盾時，本回合給予該單位+3|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -17984,8 +20504,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO032T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO032T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO032T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO032T2-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -17993,8 +20513,8 @@ var app = (function () {
     		attack: 0,
     		cost: 6,
     		health: 0,
-    		description: "調換2個友軍單位位置，<br>並在本回合給予其<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。<br>將1張<link=card.level1><style=AssociatedCard>慎</style></link>洗入我方牌組。",
-    		descriptionRaw: "調換2個友軍單位位置，並在本回合給予其光盾。將1張慎洗入我方牌組。",
+    		description: "調換2個友軍單位位置，並在本回合給予其<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>慎</style></link>。",
+    		descriptionRaw: "調換2個友軍單位位置，並在本回合給予其光盾。\r\n在我方牌組生成1張慎。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「我會跟隨均衡的步伐前行。」——慎\n",
@@ -18026,8 +20546,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO013.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO013-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO013.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO013-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18068,8 +20588,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO018.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO018-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO018.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO018-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18111,8 +20631,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO056.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO056-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO056.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO056-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18151,8 +20671,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO056T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO056T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO056T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO056T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18193,8 +20713,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO016.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO016-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO016-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18233,8 +20753,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO036.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO036-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO036.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO036-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18274,8 +20794,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO033.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO033-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO033.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO033-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18316,8 +20836,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO001-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18358,8 +20878,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO010-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18400,8 +20920,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO022.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO022-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO022.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO022-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18442,8 +20962,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO021.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO021-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO021.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO021-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18484,8 +21004,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO054.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO054-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO054.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO054-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18526,8 +21046,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO027.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO027-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO027.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO027-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18570,8 +21090,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO031.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO031-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO031.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO031-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18610,8 +21130,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO002-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18652,8 +21172,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO033T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO033T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO033T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO033T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18694,8 +21214,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO017.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO017-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO017.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO017-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18734,8 +21254,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO042.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO042-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO042.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO042-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18774,8 +21294,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO006-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18816,8 +21336,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO050.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO050-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO050.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO050-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18856,8 +21376,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO048.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO048-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO048.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO048-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18901,8 +21421,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO007-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18943,8 +21463,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO053.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO053-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO053.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO053-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -18985,8 +21505,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO004-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -19027,8 +21547,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO049.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO049-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO049.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO049-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -19070,8 +21590,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO052.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO052-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO052.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO052-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -19110,8 +21630,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO052T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO052T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO052T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO052T1-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -19150,8 +21670,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO030.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO030-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO030.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO030-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -19193,8 +21713,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO019.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO019-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO019.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO019-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -19233,8 +21753,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO046.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO046-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO046.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO046-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -19275,8 +21795,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO037.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO037-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO037.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO037-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -19317,8 +21837,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO043.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO043-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO043.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO043-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -19357,8 +21877,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO038.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO038-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO038.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO038-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -19400,8 +21920,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO039.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO039-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO039.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO039-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -19409,8 +21929,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "<link=keyword.Recall><style=Keyword>召回</style></link>1個友軍單位，<br>召喚1個<link=card.create><style=AssociatedCard>疾風殘影</style></link>取而代之。",
-    		descriptionRaw: "召回1個友軍單位，召喚1個疾風殘影取而代之。",
+    		description: "<link=keyword.Recall><style=Keyword>召回</style></link>1個友軍單位，<br>並在原處召喚1個<link=card.create><style=AssociatedCard>疾風殘影</style></link>。",
+    		descriptionRaw: "召回1個友軍單位，並在原處召喚1個疾風殘影。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "你眼前的敵人確實存在嗎？還是說，它只是暗影的障眼法？",
@@ -19442,8 +21962,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO055.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01IO055-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO055.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01IO055-full.png"
     			}
     		],
     		region: "愛歐尼亞",
@@ -19487,8 +22007,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX020.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX020-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX020.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX020-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -19532,8 +22052,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX020T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX020T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX020T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX020T3-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -19578,8 +22098,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX020T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX020T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX020T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX020T2-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -19587,8 +22107,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "使1個戰鬥中友軍單位<br><link=vocab.Strike><style=Vocab>打擊</style></link>1個戰鬥中敵軍單位。<br>將1張<link=card.level1><style=AssociatedCard>達瑞文</style></link>洗入我方牌組。",
-    		descriptionRaw: "使1個戰鬥中友軍單位打擊1個戰鬥中敵軍單位。將1張達瑞文洗入我方牌組。",
+    		description: "使1個戰鬥中友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>1個戰鬥中敵軍單位。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>達瑞文</style></link>。",
+    		descriptionRaw: "使1個戰鬥中友軍單位打擊1個戰鬥中敵軍單位。\r\n在我方牌組生成1張達瑞文。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「我最愛這份工作了！」——達瑞文",
@@ -19621,8 +22141,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX020T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX020T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX020T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX020T1-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -19666,8 +22186,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX006-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -19707,8 +22227,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX006T4.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX006T4-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX006T4.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX006T4-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -19750,8 +22270,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX006T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX006T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX006T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX006T2-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -19795,8 +22315,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX006T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX006T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX006T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX006T1-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -19839,8 +22359,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX006T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX006T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX006T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX006T3-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -19848,8 +22368,8 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "對1個友軍單位造成1點傷害，<br>本回合給予另1個友軍單位+2|+2。\r\n將1張<link=card.level1><style=AssociatedCard>弗拉迪米爾</style></link>洗入我方牌組。",
-    		descriptionRaw: "對1個友軍單位造成1點傷害，本回合給予另1個友軍單位+2|+2。\r\n將1張弗拉迪米爾洗入我方牌組。",
+    		description: "對1個友軍單位造成1點傷害，本回合給予另1個友軍單位+2|+2。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>弗拉迪米爾</style></link>。",
+    		descriptionRaw: "對1個友軍單位造成1點傷害，本回合給予另1個友軍單位+2|+2。\r\n在我方牌組生成1張弗拉迪米爾。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「親愛的，有得就有失。我得，你失。」——弗拉迪米爾",
@@ -19881,8 +22401,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX004-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -19927,8 +22447,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX048.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX048-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX048.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX048-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -19969,8 +22489,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX038.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX038-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX038.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX038-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20011,8 +22531,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX023.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX023-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX023.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX023-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20052,8 +22572,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX013.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX013-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX013.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX013-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20095,8 +22615,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX046.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX046-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX046.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX046-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20136,8 +22656,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX046T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX046T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX046T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX046T1-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20178,8 +22698,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX047.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX047-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX047.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX047-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20221,8 +22741,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX040.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX040-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX040.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX040-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20263,8 +22783,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX038T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX038T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX038T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX038T2-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20307,8 +22827,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX038T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX038T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX038T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX038T1-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20316,8 +22836,8 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "對敵方主堡造成4點傷害。\r\n將1張<link=card.level1><style=AssociatedCard>達瑞斯</style></link>洗入我方牌組。",
-    		descriptionRaw: "對敵方主堡造成4點傷害。\r\n將1張達瑞斯洗入我方牌組。",
+    		description: "對敵方主堡造成4點傷害。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>達瑞斯</style></link>。",
+    		descriptionRaw: "對敵方主堡造成4點傷害。\r\n在我方牌組生成1張達瑞斯。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「攻城這檔事，有時候必須仰賴天才軍師，有時候只要更猛烈攻擊就行了。」——達瑞斯",
@@ -20349,8 +22869,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX025.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX025-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX025.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX025-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20392,8 +22912,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX055.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX055-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX055.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX055-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20433,8 +22953,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX030.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX030-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX030.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX030-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20473,8 +22993,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX007-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20482,8 +23002,8 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 2,
-    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：<br>本回合給予其他戰鬥中友軍單位<br>+1|+0。",
-    		descriptionRaw: "攻擊：本回合給予其他戰鬥中友軍單位+1|+0。",
+    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：<br>本回合給予其他攻擊中友軍單位<br>+1|+0。",
+    		descriptionRaw: "攻擊：本回合給予其他攻擊中友軍單位+1|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "他歡欣高吼。在那瞬間，整座競技場的心跳與他的脈搏合為一體，觀眾的激動興奮之情全緊握在他勝利的手中。",
@@ -20513,8 +23033,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX021.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX021-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX021.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX021-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20553,8 +23073,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX009-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20595,8 +23115,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX011.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX011-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX011.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX011-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20637,8 +23157,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX053.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX053-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX053.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX053-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20679,8 +23199,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX040T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX040T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX040T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX040T1-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20721,8 +23241,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX054.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX054-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX054.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX054-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20763,8 +23283,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX029.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX029-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX029.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX029-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20803,8 +23323,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX014-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX014-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20846,8 +23366,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX042.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX042-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX042.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX042-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20890,8 +23410,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX042T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX042T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX042T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX042T2-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20934,8 +23454,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX042T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX042T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX042T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX042T1-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -20943,8 +23463,8 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "對所有戰鬥中單位造成1點傷害。\r\n將1張<link=card.level1><style=AssociatedCard>卡特蓮娜</style></link>洗入我方牌組。",
-    		descriptionRaw: "對所有戰鬥中單位造成1點傷害。\r\n將1張卡特蓮娜洗入我方牌組。",
+    		description: "對所有戰鬥中單位造成1點傷害。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>卡特蓮娜</style></link>。",
+    		descriptionRaw: "對所有戰鬥中單位造成1點傷害。\r\n在我方牌組生成1張卡特蓮娜。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「跟我一起跳舞吧。」——卡特蓮娜",
@@ -20977,8 +23497,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX051.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX051-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX051.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX051-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21019,8 +23539,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX012.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX012-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX012.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX012-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21061,8 +23581,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX043.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX043-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX043.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX043-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21103,8 +23623,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX037.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX037-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX037.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX037-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21145,8 +23665,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX010-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21187,8 +23707,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX017.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX017-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX017.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX017-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21227,8 +23747,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX003-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21267,8 +23787,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX039.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX039-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX039.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX039-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21309,8 +23829,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX041.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX041-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX041.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX041-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21351,8 +23871,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX036.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX036-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX036.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX036-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21391,8 +23911,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX044.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX044-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX044.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX044-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21433,8 +23953,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX005-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21473,8 +23993,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX016.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX016-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX016-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21513,8 +24033,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX019.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX019-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX019.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX019-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21555,8 +24075,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX015.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX015-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX015.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX015-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21598,8 +24118,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX050.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX050-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX050.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX050-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21640,8 +24160,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX056.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX056-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX056.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX056-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21682,8 +24202,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX033.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX033-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX033.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX033-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21722,8 +24242,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX052.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX052-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX052.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX052-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21764,8 +24284,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX045.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX045-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX045.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX045-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21808,8 +24328,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX031.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX031-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX031.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX031-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21852,8 +24372,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX002-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21894,8 +24414,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX008-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21934,8 +24454,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX034.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX034-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX034.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX034-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -21978,8 +24498,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX035.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX035-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX035.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX035-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -22018,8 +24538,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX026.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX026-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX026.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX026-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -22060,8 +24580,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX027.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX027-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX027.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX027-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -22102,8 +24622,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX022.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX022-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX022.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX022-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -22144,8 +24664,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX032.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX032-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX032.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX032-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -22184,8 +24704,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX024.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX024-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX024.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX024-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -22224,8 +24744,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX049.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01NX049-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX049.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01NX049-full.png"
     			}
     		],
     		region: "諾克薩斯",
@@ -22266,8 +24786,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE031.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE031-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE031.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE031-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -22309,8 +24829,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE022.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE022-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE022.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE022-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -22351,8 +24871,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE019.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE019-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE019.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE019-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -22396,8 +24916,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE042.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE042-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE042.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE042-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -22440,8 +24960,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE042T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE042T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE042T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE042T1-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -22449,8 +24969,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "本回合給予1個<br>友軍單位<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。\r\n將1張<link=card.level1><style=AssociatedCard>拉克絲</style></link>洗入我方牌組。",
-    		descriptionRaw: "本回合給予1個友軍單位光盾。\r\n將1張拉克絲洗入我方牌組。",
+    		description: "本回合給予1個友軍單位<br><link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>拉克絲</style></link>。",
+    		descriptionRaw: "本回合給予1個友軍單位光盾。\r\n在我方牌組生成1張拉克絲。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「當你與眾不同，全世界都會跟你作對。有人說，你的不同之處會成為弱點，其實你只會更加堅強且富有同情心。再黑暗的時刻，都有我保護你！」<br>——拉克絲",
@@ -22485,8 +25005,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE042T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE042T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE042T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE042T2-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -22527,8 +25047,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE042T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE042T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE042T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE042T3-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -22573,8 +25093,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE010-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -22617,8 +25137,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE020.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE020-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE020.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE020-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -22660,8 +25180,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE034.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE034-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE034.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE034-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -22700,8 +25220,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE002-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -22744,8 +25264,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE012.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE012-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE012.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE012-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -22789,8 +25309,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE012T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE012T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE012T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE012T1-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -22834,8 +25354,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE012T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE012T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE012T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE012T2-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -22843,8 +25363,8 @@ var app = (function () {
     		attack: 0,
     		cost: 8,
     		health: 0,
-    		description: "使1個戰鬥中友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>所有戰鬥中敵軍單位。\r\n將1張<link=card.level1><style=AssociatedCard>蓋倫</style></link>洗入我方牌組。",
-    		descriptionRaw: "使1個戰鬥中友軍單位打擊所有戰鬥中敵軍單位。\r\n將1張蓋倫洗入我方牌組。",
+    		description: "使1個戰鬥中友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>所有戰鬥中敵軍單位。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>蓋倫</style></link>。",
+    		descriptionRaw: "使1個戰鬥中友軍單位打擊所有戰鬥中敵軍單位。\r\n在我方牌組生成1張蓋倫。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "正義總會繞一圈回到原點。",
@@ -22876,8 +25396,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE017.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE017-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE017.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE017-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -22920,8 +25440,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE045.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE045-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE045.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE045-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -22962,8 +25482,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE052.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE052-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE052.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE052-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23002,8 +25522,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE021.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE021-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE021.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE021-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23046,8 +25566,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE022T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE022T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE022T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE022T2-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23055,8 +25575,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "進行<link=vocab.Rally><style=Vocab>備戰</style></link>。\r\n將1張<link=card.level1><style=AssociatedCard>路西恩</style></link>洗入我方牌組。",
-    		descriptionRaw: "進行備戰。\r\n將1張路西恩洗入我方牌組。",
+    		description: "進行<link=vocab.Rally><style=Vocab>備戰</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>路西恩</style></link>。",
+    		descriptionRaw: "進行備戰。\r\n在我方牌組生成1張路西恩。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: " 「每個人終要面對內心最深層的恐懼。算你幸運，因為我來了。」——路西恩",
@@ -23090,8 +25610,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE022T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE022T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE022T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE022T1-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23132,8 +25652,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE025.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE025-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE025.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE025-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23174,8 +25694,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE007-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23216,8 +25736,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE055.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE055-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE055.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE055-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23256,8 +25776,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE048.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE048-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE048.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE048-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23296,8 +25816,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE001-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23337,8 +25857,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE043.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE043-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE043.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE043-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23377,8 +25897,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE049.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE049-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE049.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE049-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23420,8 +25940,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE053.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE053-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE053.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE053-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23462,8 +25982,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE033.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE033-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE033.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE033-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23506,8 +26026,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE045T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE045T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE045T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE045T1-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23550,8 +26070,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE045T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE045T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE045T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE045T2-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23559,8 +26079,8 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "本回合給予1個友軍單位<br>+3|+0與<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。<br>將1張<link=card.level1><style=AssociatedCard>菲歐拉</style></link>洗入我方牌組。",
-    		descriptionRaw: "本回合給予1個友軍單位+3|+0與光盾。將1張菲歐拉洗入我方牌組。",
+    		description: "本回合給予1個友軍單位+3|+0與<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>菲歐拉</style></link>。",
+    		descriptionRaw: "本回合給予1個友軍單位+3|+0與光盾。\r\n在我方牌組生成1張菲歐拉。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「『你打起架就像一隻普羅』，這形容真是再貼切不過了！」——菲歐拉",
@@ -23592,8 +26112,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE044.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE044-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE044.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE044-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23634,8 +26154,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE024.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE024-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE024.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE024-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23676,8 +26196,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE004-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23719,8 +26239,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE011.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE011-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE011.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE011-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23762,8 +26282,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE047.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE047-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE047.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE047-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23804,8 +26324,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE046.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE046-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE046.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE046-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23845,8 +26365,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE050.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE050-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE050.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE050-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23887,8 +26407,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE016.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE016-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE016-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23928,8 +26448,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE040.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE040-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE040.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE040-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -23968,8 +26488,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE036.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE036-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE036.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE036-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24009,8 +26529,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE037.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE037-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE037.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE037-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24052,8 +26572,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE014-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE014-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24094,8 +26614,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE015.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE015-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE015.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE015-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24134,8 +26654,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE003-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24174,8 +26694,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE026.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE026-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE026.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE026-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24216,8 +26736,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE032.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE032-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE032.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE032-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24258,8 +26778,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE027.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE027-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE027.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE027-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24301,8 +26821,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE006-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24343,8 +26863,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE038.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE038-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE038.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE038-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24385,8 +26905,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE041.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE041-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE041.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE041-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24427,8 +26947,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE035.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE035-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE035.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE035-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24469,8 +26989,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE018.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE018-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE018.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE018-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24511,8 +27031,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE009-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24551,8 +27071,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE039.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE039-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE039.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE039-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24592,8 +27112,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE056.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE056-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE056.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE056-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24633,8 +27153,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE029.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE029-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE029.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE029-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24673,8 +27193,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE028.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE028-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE028.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE028-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24716,8 +27236,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE013.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE013-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE013.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE013-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24759,8 +27279,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE023.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE023-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE023.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE023-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24799,8 +27319,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE051.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE051-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE051.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE051-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24808,8 +27328,8 @@ var app = (function () {
     		attack: 6,
     		cost: 6,
     		health: 6,
-    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：<br>本回合給予其他戰鬥中友軍單位<br>+1|+1與<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>。",
-    		descriptionRaw: "攻擊：本回合給予其他戰鬥中友軍單位+1|+1與威嚇。",
+    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：本回合給予其他攻擊中友軍單位+1|+1與<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>。",
+    		descriptionRaw: "攻擊：本回合給予其他攻擊中友軍單位+1|+1與威嚇。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「對我而言，傳說和軼事不只是虛構情節，這些偉大的冒險好像在呼喚著我。我離開克勞菲爾德，探尋屬於自己的旅程，才發現這不過是起點，未來還有更多冒險等著我去體驗。」\n",
@@ -24840,8 +27360,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE054.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE054-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE054.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE054-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24881,8 +27401,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE030.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01DE030-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE030.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01DE030-full.png"
     			}
     		],
     		region: "蒂瑪西亞",
@@ -24928,8 +27448,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ040.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ040-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ040.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ040-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -24972,8 +27492,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ040T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ040T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ040T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ040T3-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -24981,8 +27501,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "棄置1張牌即可出此牌。<br>對任1目標造成3點傷害。\r\n將1張<link=card.level1><style=AssociatedCard>吉茵珂絲</style></link>洗入我方牌組。",
-    		descriptionRaw: "棄置1張牌即可出此牌。對任1目標造成3點傷害。\r\n將1張吉茵珂絲洗入我方牌組。",
+    		description: "棄置1張牌即可出此牌。對任1目標造成3點傷害。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>吉茵珂絲</style></link>。",
+    		descriptionRaw: "棄置1張牌即可出此牌。對任1目標造成3點傷害。\r\n在我方牌組生成1張吉茵珂絲。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「大火力登場！」——吉茵珂絲",
@@ -25015,8 +27535,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ040T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ040T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ040T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ040T2-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -25062,8 +27582,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ040T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ040T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ040T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ040T1-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -25107,8 +27627,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ008-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -25152,8 +27672,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ008T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ008T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ008T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ008T2-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -25197,8 +27717,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ008T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ008T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ008T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ008T1-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -25206,8 +27726,8 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "將5張<link=card.shuffle><style=AssociatedCard>劇毒膨菇</style></link><br>隨機植入敵方牌組。\r\n將1張<link=card.level1><style=AssociatedCard>提摩</style></link>洗入我方牌組。",
-    		descriptionRaw: "將5張劇毒膨菇隨機植入敵方牌組。\r\n將1張提摩洗入我方牌組。",
+    		description: "將5張<link=card.shuffle><style=AssociatedCard>劇毒膨菇</style></link><br>隨機植入敵方牌組。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>提摩</style></link>。",
+    		descriptionRaw: "將5張劇毒膨菇隨機植入敵方牌組。\r\n在我方牌組生成1張提摩。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "首先，你聽到膨菇爆開的輕輕一聲「砰」。接著，一股劇烈疼痛逐漸削弱你的力量。最後，只剩下遠處傳來的咯咯笑聲……",
@@ -25250,8 +27770,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ056.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ056-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ056.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ056-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -25293,8 +27813,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ013.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ013-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ013.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ013-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -25333,8 +27853,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ007-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -25342,8 +27862,8 @@ var app = (function () {
     		attack: 2,
     		cost: 3,
     		health: 4,
-    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：<br>為受此牌支援的友軍單位生成<br>4張複製牌並洗入我方牌組。",
-    		descriptionRaw: "支援：為受此牌支援的友軍單位生成4張複製牌並洗入我方牌組。",
+    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：在我方牌組生成4張受此牌支援的友軍單位的複製牌。",
+    		descriptionRaw: "支援：在我方牌組生成4張受此牌支援的友軍單位的複製牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "人群被大砲轟炸聲引來廣場，熱切想觀賞表演。他們八成要花好幾週才能把纏在髮間的彩紙洗掉。",
@@ -25384,8 +27904,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ056T10.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ056T10-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ056T10.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ056T10-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -25426,8 +27946,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ056T7.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ056T7-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ056T7.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ056T7-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -25469,8 +27989,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ056T9.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ056T9-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ056T9.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ056T9-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -25514,8 +28034,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ056T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ056T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ056T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ056T3-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -25523,8 +28043,8 @@ var app = (function () {
     		attack: 0,
     		cost: 8,
     		health: 0,
-    		description: "抽3張牌，使其魔耗值各-1。\r\n將1張<link=card.level1><style=AssociatedCard>漢默丁格</style></link>洗入我方牌組。",
-    		descriptionRaw: "抽3張牌，使其魔耗值各-1。\r\n將1張漢默丁格洗入我方牌組。",
+    		description: "抽3張牌，使其魔耗值各-1。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>漢默丁格</style></link>。",
+    		descriptionRaw: "抽3張牌，使其魔耗值各-1。\r\n在我方牌組生成1張漢默丁格。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "進步日！\n一起來太陽門廣場！\n見證海克斯科技奇蹟！\n令人大開眼界的大膽普羅！\n聆聽洞悉明日之人暢談今日局面\n免費入場！\n歡迎皮爾托福的孩子共襄盛舉！",
@@ -25556,8 +28076,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ056T8.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ056T8-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ056T8.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ056T8-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -25599,8 +28119,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ056T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ056T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ056T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ056T2-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -25642,8 +28162,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ056T5.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ056T5-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ056T5.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ056T5-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -25685,8 +28205,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ056T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ056T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ056T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ056T1-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -25728,8 +28248,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ056T4.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ056T4-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ056T4.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ056T4-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -25769,8 +28289,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ056T6.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ056T6-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ056T6.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ056T6-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -25812,8 +28332,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ018.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ018-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ018.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ018-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -25854,8 +28374,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ019.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ019-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ019.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ019-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -25895,8 +28415,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ025.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ025-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ025.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ025-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -25938,8 +28458,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ048.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ048-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ048.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ048-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -25978,8 +28498,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ048T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ048T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ048T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ048T1-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26020,8 +28540,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ032.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ032-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ032.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ032-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26060,8 +28580,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ015.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ015-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ015.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ015-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26102,8 +28622,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ022.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ022-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ022.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ022-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26145,8 +28665,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ028.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ028-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ028.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ028-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26187,8 +28707,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ050.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ050-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ050.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ050-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26230,8 +28750,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ054.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ054-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ054.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ054-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26270,8 +28790,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ054T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ054T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ054T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ054T1-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26313,8 +28833,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ030.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ030-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ030.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ030-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26353,8 +28873,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ030T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ030T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ030T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ030T1-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26396,8 +28916,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ017.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ017-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ017.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ017-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26436,8 +28956,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ038.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ038-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ038.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ038-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26479,8 +28999,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ036.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ036-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ036.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ036-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26524,8 +29044,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ036T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ036T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ036T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ036T1-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26570,8 +29090,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ036T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ036T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ036T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ036T2-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26579,8 +29099,8 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "對任1目標造成2點傷害。\r\n將1張<link=card.level1><style=AssociatedCard>伊澤瑞爾</style></link>洗入我方牌組。",
-    		descriptionRaw: "對任1目標造成2點傷害。\r\n將1張伊澤瑞爾洗入我方牌組。",
+    		description: "對任1目標造成2點傷害。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>伊澤瑞爾</style></link>。",
+    		descriptionRaw: "對任1目標造成2點傷害。\r\n在我方牌組生成1張伊澤瑞爾。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「我從不失手。但大家都知道我會先射兩發，以示警戒……」——伊澤瑞爾",
@@ -26612,8 +29132,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ035.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ035-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ035.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ035-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26653,8 +29173,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ010-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26695,8 +29215,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ045.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ045-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ045.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ045-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26735,8 +29255,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ013T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ013T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ013T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ013T1-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26777,8 +29297,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ002-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26817,8 +29337,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ004-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26826,7 +29346,7 @@ var app = (function () {
     		attack: 0,
     		cost: 7,
     		health: 0,
-    		description: "從敵軍單位與主堡中任選3個目標，依序造成3點、2點、1點傷害。",
+    		description: "從敵軍單位與主堡中任選3個目標，依序造成3點、2點、1點<br>傷害。",
     		descriptionRaw: "從敵軍單位與主堡中任選3個目標，依序造成3點、2點、1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -26859,8 +29379,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ020.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ020-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ020.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ020-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26902,8 +29422,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ046.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ046-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ046.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ046-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26911,8 +29431,8 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "選1張手牌，<br>生成4張與之相同的複製牌<br>並洗入我方牌組。",
-    		descriptionRaw: "選1張手牌，生成4張與之相同的複製牌並洗入我方牌組。",
+    		description: "選1張手牌，在我方牌組生成4張與之相同的複製牌。",
+    		descriptionRaw: "選1張手牌，在我方牌組生成4張與之相同的複製牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "最真摯的盜竊叫作模仿。",
@@ -26944,8 +29464,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ052.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ052-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ052.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ052-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -26987,8 +29507,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ033.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ033-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ033.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ033-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27029,8 +29549,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ033T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ033T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ033T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ033T1-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27071,8 +29591,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ005-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27113,8 +29633,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ021.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ021-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ021.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ021-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27153,8 +29673,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ031.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ031-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ031.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ031-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27195,8 +29715,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ059.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ059-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ059.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ059-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27235,8 +29755,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ001-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27278,8 +29798,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ057.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ057-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ057.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ057-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27320,8 +29840,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ027.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ027-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ027.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ027-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27362,8 +29882,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ055.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ055-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ055.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ055-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27403,8 +29923,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ014-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ014-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27446,8 +29966,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ034.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ034-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ034.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ034-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27486,8 +30006,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ014T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ014T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ014T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ014T1-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27527,8 +30047,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ060.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ060-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ060.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ060-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27569,8 +30089,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ003-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27612,8 +30132,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ044.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ044-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ044.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ044-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27652,8 +30172,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ029.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ029-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ029.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ029-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27694,8 +30214,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ051.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ051-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ051.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ051-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27734,8 +30254,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ044T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ044T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ044T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ044T2-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27776,8 +30296,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ023.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ023-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ023.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ023-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27816,8 +30336,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ024.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ024-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ024.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ024-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27856,8 +30376,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ049.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ049-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ049.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ049-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27898,8 +30418,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ006-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27942,8 +30462,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ053.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ053-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ053.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ053-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -27982,8 +30502,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ012.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ012-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ012.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ012-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -28024,8 +30544,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ039.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ039-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ039.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ039-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -28066,8 +30586,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ016.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ016-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ016-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -28110,8 +30630,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ058.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ058-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ058.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ058-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -28150,8 +30670,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ009-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -28192,8 +30712,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ042.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ042-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ042.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ042-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -28232,8 +30752,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ026.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ026-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ026.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ026-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -28274,8 +30794,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ043.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ043-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ043.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ043-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -28314,8 +30834,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ047.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01PZ047-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ047.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01PZ047-full.png"
     			}
     		],
     		region: "皮爾托福&佐恩",
@@ -28362,8 +30882,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR024.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR024-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR024.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR024-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -28406,8 +30926,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR024T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR024T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR024T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR024T2-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -28451,8 +30971,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR024T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR024T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR024T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR024T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -28460,8 +30980,8 @@ var app = (function () {
     		attack: 0,
     		cost: 6,
     		health: 0,
-    		description: "<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>2個敵軍單位。\r\n將1張<link=card.level1><style=AssociatedCard>艾妮維亞</style></link>洗入我方牌組。",
-    		descriptionRaw: "凍傷2個敵軍單位。\r\n將1張艾妮維亞洗入我方牌組。",
+    		description: "<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>2個敵軍單位。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>艾妮維亞</style></link>。",
+    		descriptionRaw: "凍傷2個敵軍單位。\r\n在我方牌組生成1張艾妮維亞。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「你竟敢在我的地盤挑戰我？小子，你根本是來送死。」——艾妮維亞",
@@ -28497,8 +31017,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR024T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR024T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR024T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR024T3-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -28541,8 +31061,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR024T5.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR024T5-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR024T5.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR024T5-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -28585,8 +31105,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR024T4.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR024T4-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR024T4.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR024T4-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -28627,8 +31147,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR039.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR039-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR039.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR039-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -28671,8 +31191,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR039T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR039T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR039T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR039T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -28680,8 +31200,8 @@ var app = (function () {
     		attack: 0,
     		cost: 8,
     		health: 0,
-    		description: "賦予1個友軍單位+8|+4。\r\n將1張<link=card.level1><style=AssociatedCard>泰達米爾</style></link>洗入牌組。",
-    		descriptionRaw: "賦予1個友軍單位+8|+4。\r\n將1張泰達米爾洗入牌組。",
+    		description: "賦予1個友軍單位+8|+4。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>泰達米爾</style></link>。",
+    		descriptionRaw: "賦予1個友軍單位+8|+4。\r\n在我方牌組生成1張泰達米爾。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「他們說，我這個人……性情剛烈。」——泰達米爾",
@@ -28715,8 +31235,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR039T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR039T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR039T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR039T2-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -28759,8 +31279,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR006-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -28801,8 +31321,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR022.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR022-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR022.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR022-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -28841,8 +31361,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR042.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR042-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR042.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR042-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -28886,8 +31406,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR009-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -28930,8 +31450,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR018.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR018-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR018.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR018-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -28973,8 +31493,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR036.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR036-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR036.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR036-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29013,8 +31533,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR045.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR045-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR045.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR045-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29053,8 +31573,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR008-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29094,8 +31614,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR008T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR008T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR008T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR008T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29135,8 +31655,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR055.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR055-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR055.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR055-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29180,8 +31700,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR038.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR038-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR038.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR038-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29220,8 +31740,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR038T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR038T3-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR038T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR038T3-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29265,8 +31785,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR038T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR038T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR038T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR038T2-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29307,8 +31827,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR038T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR038T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR038T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR038T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29316,8 +31836,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>1個敵軍單位。\r\n將1張<link=card.level1><style=AssociatedCard>艾希</style></link>洗入我方牌組。",
-    		descriptionRaw: "凍傷1個敵軍單位。\r\n將1張艾希洗入我方牌組。",
+    		description: "<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>1個敵軍單位。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>艾希</style></link>。",
+    		descriptionRaw: "凍傷1個敵軍單位。\r\n在我方牌組生成1張艾希。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "寒冷無預警襲擊，即使再強的戰士都感到無助。",
@@ -29349,8 +31869,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR029.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR029-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR029.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR029-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29391,8 +31911,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR035.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR035-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR035.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR035-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29431,8 +31951,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR028.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR028-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR028.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR028-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29472,8 +31992,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR020.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR020-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR020.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR020-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29515,8 +32035,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR014-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR014-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29524,8 +32044,8 @@ var app = (function () {
     		attack: 1,
     		cost: 1,
     		health: 2,
-    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<br>將2張<link=card.create><style=AssociatedCard>暴怒雪怪</style></link>洗入我方牌組。",
-    		descriptionRaw: "遺願：將2張暴怒雪怪洗入我方牌組。",
+    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<br>在我方牌組生成2張<link=card.create><style=AssociatedCard>暴怒雪怪</style></link>。",
+    		descriptionRaw: "遺願：在我方牌組生成2張暴怒雪怪。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「它小小一隻又那麼與世無爭！真難相信長大後就變成……呃……一隻大雪怪。」——艾伐洛森捕獸人",
@@ -29559,8 +32079,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR049.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR049-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR049.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR049-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29601,8 +32121,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR037.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR037-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR037.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR037-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29646,8 +32166,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR009T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR009T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR009T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR009T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29692,8 +32212,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR009T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR009T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR009T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR009T2-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29701,8 +32221,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "賦予1個負傷友軍單位+3|+3。\r\n將1張<link=card.level1><style=AssociatedCard>布郎姆</style></link>洗入我方牌組。",
-    		descriptionRaw: "賦予1個負傷友軍單位+3|+3。\r\n將1張布郎姆洗入我方牌組。",
+    		description: "賦予1個負傷友軍單位+3|+3。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>布郎姆</style></link>。",
+    		descriptionRaw: "賦予1個負傷友軍單位+3|+3。\r\n在我方牌組生成1張布郎姆。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「……布郎姆的傷勢頗為嚴重，他卻仰天大笑。因為他知道最艱困危急的時刻，正是英雄誕生之際！」\n——《布郎姆傳說》",
@@ -29734,8 +32254,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR026.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR026-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR026.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR026-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29776,8 +32296,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR030.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR030-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR030.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR030-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29818,8 +32338,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR013.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR013-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR013.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR013-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29860,8 +32380,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR019.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR019-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR019.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR019-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29902,8 +32422,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR041.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR041-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR041.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR041-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29942,8 +32462,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR025.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR025-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR025.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR025-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -29982,8 +32502,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR054.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR054-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR054.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR054-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30027,8 +32547,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR021.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR021-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR021.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR021-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30067,8 +32587,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR021T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR021T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR021T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR021T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30110,8 +32630,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR043.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR043-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR043.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR043-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30151,8 +32671,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR049T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR049T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR049T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR049T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30191,8 +32711,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR033.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR033-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR033.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR033-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30231,8 +32751,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR011.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR011-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR011.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR011-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30271,8 +32791,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR050.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR050-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR050.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR050-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30312,8 +32832,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR052.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR052-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR052.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR052-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30354,8 +32874,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR052T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR052T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR052T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR052T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30396,8 +32916,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR016.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR016-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR016-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30438,8 +32958,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR005-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30480,8 +33000,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR023.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR023-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR023.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR023-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30522,8 +33042,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR047.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR047-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR047.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR047-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30564,8 +33084,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR056.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR056-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR056.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR056-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30605,8 +33125,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR027.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR027-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR027.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR027-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30646,8 +33166,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR057.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR057-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR057.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR057-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30688,8 +33208,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR004-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30731,8 +33251,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR048.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR048-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR048.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR048-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30740,8 +33260,8 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 3,
-    		description: "召喚此牌時，<br>將1張<link=card.create><style=AssociatedCard>暴怒雪怪</style></link><br>洗入我方牌組最上方3張牌中。",
-    		descriptionRaw: "召喚此牌時，將1張暴怒雪怪洗入我方牌組最上方3張牌中。",
+    		description: "召喚此牌時，在我方牌組最上方3張牌中生成1張<link=card.create><style=AssociatedCard>暴怒雪怪</style></link>。",
+    		descriptionRaw: "召喚此牌時，在我方牌組最上方3張牌中生成1張暴怒雪怪。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「整整一個禮拜都沒抓到半隻！不是牠們看穿我的陷阱，就是有東西把牠們嚇跑了……」",
@@ -30771,8 +33291,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR017.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR017-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR017.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR017-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30812,8 +33332,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR046.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR046-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR046.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR046-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30854,8 +33374,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR012.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR012-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR012.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR012-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30896,8 +33416,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR040.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR040-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR040.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR040-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30936,8 +33456,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR031.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR031-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR031.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR031-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -30979,8 +33499,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR036T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR036T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR036T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR036T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -31021,8 +33541,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR053.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR053-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR053.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR053-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -31034,7 +33554,7 @@ var app = (function () {
     		descriptionRaw: "",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「這位長角力士為了保護普羅王，不顧一切擊退一隻發瘋的狂爪狼，結果失去了一隻眼睛！這告訴我們，戰槌再無堅不摧，也需要強大的心靈才能奮力揮舞。」——普羅牧人\n",
+    		flavorText: "「這位長角力士為了保護普羅王，不顧一切擊退一隻發瘋的狂爪狼，結果失去了一隻眼睛！這告訴我們，戰槌再無堅不摧，也需要強大的心靈才能奮力揮舞。」<br>——普羅牧人\n",
     		artistName: "SIXMOREVODKA",
     		name: "大力普羅",
     		cardCode: "01FR053",
@@ -31064,8 +33584,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR010-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -31106,8 +33626,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR001-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -31149,8 +33669,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR043T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR043T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR043T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR043T1-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -31192,8 +33712,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR032.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR032-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR032.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR032-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -31235,8 +33755,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR051.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR051-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR051.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR051-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -31277,8 +33797,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR034.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR034-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR034.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR034-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -31319,8 +33839,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR007-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -31359,8 +33879,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01FR003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01FR003-full.png"
     			}
     		],
     		region: "弗雷爾卓德",
@@ -31401,8 +33921,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI038.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI038-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI038.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI038-full.png"
     			}
     		],
     		region: "闇影島",
@@ -31441,8 +33961,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI049.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI049-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI049.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI049-full.png"
     			}
     		],
     		region: "闇影島",
@@ -31486,8 +34006,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI053.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI053-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI053.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI053-full.png"
     			}
     		],
     		region: "闇影島",
@@ -31532,8 +34052,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI053T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI053T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI053T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI053T1-full.png"
     			}
     		],
     		region: "闇影島",
@@ -31541,8 +34061,8 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "若本回合有友軍單位陣亡，<br>則可召喚2個<link=card.create><style=AssociatedCard>小蜘蛛</style></link>。<br>將1張<link=card.level1><style=AssociatedCard>伊莉絲</style></link>洗入我方牌組。",
-    		descriptionRaw: "若本回合有友軍單位陣亡，則可召喚2個小蜘蛛。將1張伊莉絲洗入我方牌組。",
+    		description: "若本回合有友軍單位陣亡，則召喚2個<link=card.create><style=AssociatedCard>小蜘蛛</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>伊莉絲</style></link>。",
+    		descriptionRaw: "若本回合有友軍單位陣亡，則召喚2個小蜘蛛。\r\n在我方牌組生成1張伊莉絲。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "嚇到起雞皮疙瘩很可怕？你還沒嘗過打從心底感到毛骨悚然的滋味。",
@@ -31576,8 +34096,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI053T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI053T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI053T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI053T2-full.png"
     			}
     		],
     		region: "闇影島",
@@ -31621,8 +34141,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI057.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI057-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI057.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI057-full.png"
     			}
     		],
     		region: "闇影島",
@@ -31661,8 +34181,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI023.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI023-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI023.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI023-full.png"
     			}
     		],
     		region: "闇影島",
@@ -31702,8 +34222,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI010-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI010-full.png"
     			}
     		],
     		region: "闇影島",
@@ -31747,8 +34267,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI042.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI042-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI042.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI042-full.png"
     			}
     		],
     		region: "闇影島",
@@ -31792,8 +34312,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI042T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI042T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI042T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI042T1-full.png"
     			}
     		],
     		region: "闇影島",
@@ -31837,8 +34357,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI042T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI042T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI042T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI042T2-full.png"
     			}
     		],
     		region: "闇影島",
@@ -31846,8 +34366,8 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "召喚2個<link=card.summon><style=AssociatedCard>幽魂騎士</style></link>。\r\n將1張<link=card.level1><style=AssociatedCard>赫克林</style></link>洗入我方牌組。",
-    		descriptionRaw: "召喚2個幽魂騎士。\r\n將1張赫克林洗入我方牌組。",
+    		description: "召喚2個<link=card.summon><style=AssociatedCard>幽魂騎士</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>赫克林</style></link>。",
+    		descriptionRaw: "召喚2個幽魂騎士。\r\n在我方牌組生成1張赫克林。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "彼時殂落此時生，牠們始終忠心如一。",
@@ -31880,8 +34400,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI027.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI027-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI027.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI027-full.png"
     			}
     		],
     		region: "闇影島",
@@ -31922,8 +34442,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI027T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI027T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI027T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI027T1-full.png"
     			}
     		],
     		region: "闇影島",
@@ -31966,8 +34486,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI048.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI048-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI048.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI048-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32010,8 +34530,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI018.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI018-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI018.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI018-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32052,8 +34572,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI030.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI030-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI030.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI030-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32096,8 +34616,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI030T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI030T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI030T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI030T2-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32140,8 +34660,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI030T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI030T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI030T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI030T1-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32149,8 +34669,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "若本回合有友軍單位陣亡，則可對1個單位造成4點傷害。\r\n將1張<link=card.level1><style=AssociatedCard>克黎思妲</style></link>洗入我方牌組。",
-    		descriptionRaw: "若本回合有友軍單位陣亡，則可對1個單位造成4點傷害。\r\n將1張克黎思妲洗入我方牌組。",
+    		description: "若本回合有友軍單位陣亡，則可對1個單位造成4點傷害。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>克黎思妲</style></link>。",
+    		descriptionRaw: "若本回合有友軍單位陣亡，則可對1個單位造成4點傷害。\r\n在我方牌組生成1張克黎思妲。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「黑矛為墮落的靈魂吟唱。」——克黎思妲",
@@ -32183,8 +34703,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI035.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI035-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI035.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI035-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32225,8 +34745,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI035T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI035T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI035T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI035T1-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32267,8 +34787,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI002-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32308,8 +34828,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI024.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI024-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI024.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI024-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32350,8 +34870,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI005-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI005-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32392,8 +34912,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI037.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI037-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI037.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI037-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32435,8 +34955,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI048T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI048T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI048T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI048T1-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32477,8 +34997,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI052.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI052-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI052.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI052-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32520,8 +35040,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI033.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI033-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI033.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI033-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32564,8 +35084,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI003-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI003-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32606,8 +35126,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI041.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI041-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI041.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI041-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32650,8 +35170,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI045.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI045-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI045.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI045-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32693,8 +35213,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI036.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI036-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI036.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI036-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32735,8 +35255,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI051.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI051-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI051.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI051-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32775,8 +35295,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI012.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI012-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI012.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI012-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32817,8 +35337,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI052T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI052T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI052T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI052T2-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32826,8 +35346,8 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "對本回合召喚的所有敵軍單位<br>造成3點傷害。<br>將1張<link=card.level1><style=AssociatedCard>瑟雷西</style></link>洗入我方牌組。",
-    		descriptionRaw: "對本回合召喚的所有敵軍單位造成3點傷害。將1張瑟雷西洗入我方牌組。",
+    		description: "對本回合召喚的所有敵軍單位造成3點傷害。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>瑟雷西</style></link>。",
+    		descriptionRaw: "對本回合召喚的所有敵軍單位造成3點傷害。\r\n在我方牌組生成1張瑟雷西。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「沒人逃得了。」——瑟雷西",
@@ -32861,8 +35381,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI052T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI052T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI052T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI052T1-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32903,8 +35423,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI031.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI031-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI031.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI031-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32945,8 +35465,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI034.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI034-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI034.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI034-full.png"
     			}
     		],
     		region: "闇影島",
@@ -32988,8 +35508,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI043.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI043-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI043.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI043-full.png"
     			}
     		],
     		region: "闇影島",
@@ -33030,8 +35550,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI009-full.png"
     			}
     		],
     		region: "闇影島",
@@ -33071,8 +35591,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI007-full.png"
     			}
     		],
     		region: "闇影島",
@@ -33113,8 +35633,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI007T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI007T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI007T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI007T1-full.png"
     			}
     		],
     		region: "闇影島",
@@ -33155,8 +35675,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI056.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI056-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI056.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI056-full.png"
     			}
     		],
     		region: "闇影島",
@@ -33198,8 +35718,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI001-full.png"
     			}
     		],
     		region: "闇影島",
@@ -33240,8 +35760,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI019.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI019-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI019.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI019-full.png"
     			}
     		],
     		region: "闇影島",
@@ -33282,48 +35802,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI011.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI011-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 3,
-    		cost: 0,
-    		health: 2,
-    		description: "擊殺1個友軍單位即可出此牌。",
-    		descriptionRaw: "擊殺1個友軍單位即可出此牌。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "人如其食。",
-    		artistName: "SIXMOREVODKA",
-    		name: "無饜屠夫",
-    		cardCode: "01SI011",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set1"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI014-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI014-full.png"
     			}
     		],
     		region: "闇影島",
@@ -33364,8 +35844,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI022.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI022-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI022.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI022-full.png"
     			}
     		],
     		region: "闇影島",
@@ -33406,8 +35886,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI006-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI006-full.png"
     			}
     		],
     		region: "闇影島",
@@ -33415,8 +35895,8 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "本回合控制1個敵軍侍從單位。<br>（若我方場上已有6個友軍單位，<br>則無法打出此牌。）",
-    		descriptionRaw: "本回合控制1個敵軍侍從單位。（若我方場上已有6個友軍單位，則無法打出此牌。）",
+    		description: "本回合控制1個敵軍侍從單位。<br>（若我方場上已有共6個友軍單位或地標，則無法打出此牌）",
+    		descriptionRaw: "本回合控制1個敵軍侍從單位。（若我方場上已有共6個友軍單位或地標，則無法打出此牌）",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "他睡醒發現自己雙手發紅，整個營地太過安靜，事情不對勁。 ",
@@ -33449,8 +35929,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI033T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI033T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI033T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI033T1-full.png"
     			}
     		],
     		region: "闇影島",
@@ -33491,8 +35971,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI028.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI028-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI028.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI028-full.png"
     			}
     		],
     		region: "闇影島",
@@ -33533,8 +36013,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI025.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI025-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI025.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI025-full.png"
     			}
     		],
     		region: "闇影島",
@@ -33575,8 +36055,48 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI046.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI046-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI011.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI011-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 3,
+    		cost: 0,
+    		health: 2,
+    		description: "擊殺1個友軍單位即可出此牌。",
+    		descriptionRaw: "擊殺1個友軍單位即可出此牌。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "人如其食。",
+    		artistName: "SIXMOREVODKA",
+    		name: "無饜屠夫",
+    		cardCode: "01SI011",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set1"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI046.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI046-full.png"
     			}
     		],
     		region: "闇影島",
@@ -33618,8 +36138,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI050.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI050-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI050.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI050-full.png"
     			}
     		],
     		region: "闇影島",
@@ -33661,8 +36181,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI016.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI016-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI016-full.png"
     			}
     		],
     		region: "闇影島",
@@ -33701,8 +36221,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI021.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI021-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI021.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI021-full.png"
     			}
     		],
     		region: "闇影島",
@@ -33747,8 +36267,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI032.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI032-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI032.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI032-full.png"
     			}
     		],
     		region: "闇影島",
@@ -33787,8 +36307,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI058.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI058-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI058.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI058-full.png"
     			}
     		],
     		region: "闇影島",
@@ -33827,8 +36347,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI054.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI054-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI054.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI054-full.png"
     			}
     		],
     		region: "闇影島",
@@ -33869,8 +36389,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI044.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI044-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI044.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI044-full.png"
     			}
     		],
     		region: "闇影島",
@@ -33911,8 +36431,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI039.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI039-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI039.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI039-full.png"
     			}
     		],
     		region: "闇影島",
@@ -33954,8 +36474,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI020.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI020-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI020.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI020-full.png"
     			}
     		],
     		region: "闇影島",
@@ -33994,8 +36514,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI029.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI029-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI029.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI029-full.png"
     			}
     		],
     		region: "闇影島",
@@ -34036,8 +36556,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI004-full.png"
     			}
     		],
     		region: "闇影島",
@@ -34080,8 +36600,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI026.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI026-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI026.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI026-full.png"
     			}
     		],
     		region: "闇影島",
@@ -34123,8 +36643,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI040.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI040-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI040.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI040-full.png"
     			}
     		],
     		region: "闇影島",
@@ -34165,8 +36685,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI015.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI015-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI015.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI015-full.png"
     			}
     		],
     		region: "闇影島",
@@ -34207,8 +36727,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI055.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI055-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI055.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI055-full.png"
     			}
     		],
     		region: "闇影島",
@@ -34249,8 +36769,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI047.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/1_14_0/set1/zh_tw/img/cards/01SI047-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI047.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/1_16_0/set1/zh_tw/img/cards/01SI047-full.png"
     			}
     		],
     		region: "闇影島",
