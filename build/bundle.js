@@ -971,7 +971,7 @@ var app = (function () {
       }
     }
 
-    DeckEncoder.MAX_KNOWN_VERSION = 2;
+    DeckEncoder.MAX_KNOWN_VERSION = 3;
 
     var DeckEncoder_1 = DeckEncoder;
 
