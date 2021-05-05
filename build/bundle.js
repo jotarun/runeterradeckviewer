@@ -987,4315 +987,78 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"04SH049T1"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH049.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH049-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 1,
-    		cost: 1,
-    		health: 1,
-    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：若我方已升級英雄，<br>則將此牌幻化為<link=card.transform><style=AssociatedCard>至高普羅</style></link>。",
-    		descriptionRaw: "回合開始：若我方已升級英雄，則將此牌幻化為至高普羅。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "她不確定自己發現了什麼……但看起來亮晶晶的很好吃。",
-    		artistName: "Kudos Productions",
-    		name: "天選普羅",
-    		cardCode: "04SH049",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "普羅",
-    		subtypes: [
-    			"普羅"
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH062T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH062.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH062-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 1,
-    		health: 0,
-    		description: "牌局開始：若我方所有卡牌皆為蘇瑞瑪卡牌，則抽出1張此牌。\r\n<link=vocab.Buried><style=Vocab>倒數25</style></link><style=Variable></style>：<link=vocab.SunDiscRestore><style=Vocab>復原烈日巨環</style></link>。\r\n當我方飛昇者升級時，<link=vocab.Advance><style=Vocab>快轉</style></link>此牌10回合。",
-    		descriptionRaw: "牌局開始：若我方所有卡牌皆為蘇瑞瑪卡牌，則抽出1張此牌。\r\n倒數25：復原烈日巨環。\r\n當我方飛昇者升級時，快轉此牌10回合。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "當阿祈爾看到蘇瑞瑪首都的烈日巨環，他看到的不只是現在，更是未來——巨環可以讓蘇瑞瑪重返昔日榮光。",
-    		artistName: "Kudos Productions",
-    		name: "埋沒的烈日巨環",
-    		cardCode: "04SH062",
-    		keywords: [
-    			"地標"
-    		],
-    		keywordRefs: [
-    			"LandmarkVisualOnly"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "地標",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH062"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH062T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH062T1-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 0,
-    		health: 0,
-    		description: "抽出我方所有飛昇者各1張。\r\n我方的等級2飛昇者變為等級3，此效果持續到牌局結束。",
-    		descriptionRaw: "抽出我方所有飛昇者各1張。\r\n我方的等級2飛昇者變為等級3，此效果持續到牌局結束。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「蘇瑞瑪從未如今日般輝煌。來吧，沐浴在我等的陽光之下！」——重生者宣使",
-    		artistName: "Kudos Productions",
-    		name: "復原的烈日巨環",
-    		cardCode: "04SH062T1",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "地標",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH062"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH012.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH012-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 3,
-    		cost: 3,
-    		health: 4,
-    		description: "召喚此牌時，<link=vocab.Advance><style=Vocab>快轉</style></link>我方的<br><link=card.create><style=AssociatedCard>埋沒的烈日巨環</style></link>3回合。",
-    		descriptionRaw: "召喚此牌時，快轉我方的埋沒的烈日巨環3回合。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「喔，爸爸！那是娜敘亞麥的其中一位長老帕諸曼！今天是不是全部的人都到我們的城鎮裡來啦？」——興奮的圍觀者",
-    		artistName: "Kudos Productions",
-    		name: "崇高聖顯者",
-    		cardCode: "04SH012",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH049T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH049T1-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 2,
-    		cost: 1,
-    		health: 2,
-    		description: "此牌擁有3個隨機特性。",
-    		descriptionRaw: "此牌擁有3個隨機特性。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "她大概是全世界最愛普羅點心的神聖統治者。 ",
-    		artistName: "Kudos Productions",
-    		name: "至高普羅",
-    		cardCode: "04SH049T1",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "普羅",
-    		subtypes: [
-    			"普羅"
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH101.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH101-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 1,
-    		cost: 3,
-    		health: 6,
-    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：若我方已升級英雄，則治療我方英雄及我方主堡2點生命值。",
-    		descriptionRaw: "回合開始：若我方已升級英雄，則治療我方英雄及我方主堡2點生命值。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「我發誓效忠阿祈爾和我的家鄉蘇瑞瑪！你不一起來嗎？」",
-    		artistName: "Kudos Productions",
-    		name: "忠貞議會",
-    		cardCode: "04SH101",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH102.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH102-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 3,
-    		cost: 4,
-    		health: 2,
-    		description: "<link=vocab.Allegiance><style=Vocab>效忠</style></link>：抽1張英雄牌並賦予其+2|+2。",
-    		descriptionRaw: "效忠：抽1張英雄牌並賦予其+2|+2。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「光明的未來就在沙漠底下，而我們要為阿祈爾鋪平道路。沙漠的黃金帝國將會再起！」",
-    		artistName: "Kudos Productions",
-    		name: "黃金使者",
-    		cardCode: "04SH102",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH077.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH077-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 3,
-    		cost: 4,
-    		health: 4,
-    		description: "若我方已升級英雄，則友軍單位獲得+2|+0。",
-    		descriptionRaw: "若我方已升級英雄，則友軍單位獲得+2|+0。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「很久以前，我聽過她說話。」老兵笑了，頓時，他的孫女能夠想像那片光景：蘇瑞瑪閃閃發光，阿祈爾氣宇軒昂地看顧著城市，重生者宣使高聲宣揚他的到來。「她激起了我們早以為失去的熱情。」",
-    		artistName: "Eunice",
-    		name: "重生者宣使",
-    		cardCode: "04SH077",
-    		keywords: [
-    			"Missing Translation"
-    		],
-    		keywordRefs: [
-    			"AuraVisualFakeKeyword"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH107.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH107-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 7,
-    		health: 0,
-    		description: "升級我方所有等級1的飛昇者。",
-    		descriptionRaw: "升級我方所有等級1的飛昇者。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「未來由飛昇者譜寫！」——阿祈爾",
-    		artistName: "Kudos Productions",
-    		name: "飛昇者崛起",
-    		cardCode: "04SH107",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH067T4",
-    			"04SH067T1",
-    			"04SH067T2",
-    			"04SH062",
-    			"04SH067T5"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH067.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH067-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 4,
-    		cost: 4,
-    		health: 4,
-    		description: "此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>敵軍單位時，本回合給予此牌+2|+1。 ",
-    		descriptionRaw: "此牌挑戰敵軍單位時，本回合給予此牌+2|+1。 ",
-    		levelupDescription: "此牌造成12點以上傷害<style=Variable></style>。",
-    		levelupDescriptionRaw: "此牌造成12點以上傷害。",
-    		flavorText: "「很難想像他曾經也是人類，因為他那鱷魚的外表與他對於血腥戰鬥的喜愛實在太過相襯……」——《飛昇戰士團史》，書吏卡尼爾著",
-    		artistName: "SIXMOREVODKA",
-    		name: "雷尼克頓",
-    		cardCode: "04SH067",
-    		keywords: [
-    			"蠻力"
-    		],
-    		keywordRefs: [
-    			"Overwhelm"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "英雄",
-    		rarityRef: "Champion",
-    		subtype: "飛昇者",
-    		subtypes: [
-    			"飛昇者"
-    		],
-    		supertype: "英雄",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH067",
-    			"04SH067T1",
-    			"04SH067T2",
-    			"04SH062",
-    			"04SH067T5"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH067T4.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH067T4-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 5,
-    		cost: 4,
-    		health: 5,
-    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：本回合給予此牌+3|+3。 ",
-    		descriptionRaw: "攻擊：本回合給予此牌+3|+3。 ",
-    		levelupDescription: "我方已<link=vocab.SunDiscRestore><style=Vocab>復原烈日巨環</style></link>。",
-    		levelupDescriptionRaw: "我方已復原烈日巨環。",
-    		flavorText: "「與那個叛徒困在黑暗中過了不知多少歲月，怨恨與憎憤的話語充滿了他的心，讓他對哥哥的恨意日益增長。這滋養了他的憤怒，使他更加強大。」——《飛昇戰士團史》，書吏卡尼爾著",
-    		artistName: "SIXMOREVODKA",
-    		name: "雷尼克頓",
-    		cardCode: "04SH067T4",
-    		keywords: [
-    			"蠻力"
-    		],
-    		keywordRefs: [
-    			"Overwhelm"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "飛昇者",
-    		subtypes: [
-    			"飛昇者"
-    		],
-    		supertype: "英雄",
-    		type: "單位",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH067",
-    			"04SH067T4",
-    			"04SH067T2",
-    			"04SH067T5"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH067T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH067T1-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 10,
-    		cost: 4,
-    		health: 10,
-    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword></style></link>此牌格擋或<link=vocab.Attack><style=Vocab>攻擊</style></link>：對所有敵軍單位與敵方主堡造成2點傷害。",
-    		descriptionRaw: "此牌格擋或攻擊：對所有敵軍單位與敵方主堡造成2點傷害。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「等到雷尼克頓終於有機會向哥哥納瑟斯報仇時，沒有任何東西能阻止他。他會摧毀一切，而蘇瑞瑪將再次化為廢墟。」——《飛昇戰士團史》，書吏卡尼爾著",
-    		artistName: "SIXMOREVODKA",
-    		name: "雷尼克頓",
-    		cardCode: "04SH067T1",
-    		keywords: [
-    			"蠻力"
-    		],
-    		keywordRefs: [
-    			"Overwhelm"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "飛昇者",
-    		subtypes: [
-    			"飛昇者"
-    		],
-    		supertype: "英雄",
-    		type: "單位",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH067",
-    			"04SH067T4",
-    			"04SH067T1",
-    			"04SH067"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH067T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH067T2-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 2,
-    		health: 0,
-    		description: "本回合給予1個友軍單位+2|+0，<br>並給予1個敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>雷尼克頓</style></link>。",
-    		descriptionRaw: "本回合給予1個友軍單位+2|+0，並給予1個敵軍單位弱勢。\r\n在我方牌組生成1張雷尼克頓。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「撕裂他們！」——雷尼克頓",
-    		artistName: "Kudos Productions",
-    		name: "雷尼克頓 庖丁解牛",
-    		cardCode: "04SH067T2",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "英雄",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH069.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH069-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 2,
-    		health: 0,
-    		description: "本回合給予1個友軍單位+2|+0，<br>並給予1個敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
-    		descriptionRaw: "本回合給予1個友軍單位+2|+0，並給予1個敵軍單位弱勢。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「撕裂他們！」——雷尼克頓",
-    		artistName: "Kudos Productions",
-    		name: "庖丁解牛",
-    		cardCode: "04SH069",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH005-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 3,
-    		cost: 1,
-    		health: 1,
-    		description: "",
-    		descriptionRaw: "",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "沙戮者和同伴們關係緊密，連打架、打獵和吃飯都形影不離。",
-    		artistName: "JiHun Lee",
-    		name: "嗜血流寇",
-    		cardCode: "04SH005",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH081.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH081-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 5,
-    		cost: 4,
-    		health: 3,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：賦予1個敵軍單位<br><nobr>-1|-0</nobr>與<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
-    		descriptionRaw: "出牌：賦予1個敵軍單位-1|-0與弱勢。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "每撒出一粒沙，他們的生命就少了一秒，如同風一般慢慢侵蝕他們。",
-    		artistName: "Kudos Productions",
-    		name: "巴凱紡沙者",
-    		cardCode: "04SH081",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH015.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH015-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 6,
-    		cost: 7,
-    		health: 6,
-    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：本回合給予所有敵軍單位<nobr>-2|-0</nobr>。",
-    		descriptionRaw: "攻擊：本回合給予所有敵軍單位-2|-0。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「這隻鱷魚出生時，就是發育最不良、外型最醜陋的，大家都在打賭牠能活多久。呵！沒想到牠竟然把手足吃得一乾二淨！」",
-    		artistName: "JiHun Lee",
-    		name: "血鬃拉茲",
-    		cardCode: "04SH015",
-    		keywords: [
-    			"威嚇"
-    		],
-    		keywordRefs: [
-    			"Fearsome"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH045.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH045-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 1,
-    		health: 0,
-    		description: "本回合給予1個敵軍單位<br><nobr>-2|-0</nobr>與<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
-    		descriptionRaw: "本回合給予1個敵軍單位-2|-0與弱勢。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "沙漠居民知道如何躲避烈陽的灼燒和高溫襲擊，但對毫無準備之人，烈陽將迅速耗損其力量與體力，不給任何喘息空間。",
-    		artistName: "Kudos Productions",
-    		name: "烈日當空",
-    		cardCode: "04SH045",
-    		keywords: [
-    			"專注"
-    		],
-    		keywordRefs: [
-    			"Focus"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH109.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH109-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 3,
-    		health: 0,
-    		description: "本回合給予1個敵軍單位<nobr>-4|-0</nobr>，<br>並使其特性無效化（不含負面特性）。",
-    		descriptionRaw: "本回合給予1個敵軍單位-4|-0，並使其特性無效化（不含負面特性）。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "在沙漠某些地方，遺跡沉入沙底，造成空洞。旅人一不注意就會步上遺跡的後塵。 ",
-    		artistName: "Kudos Productions",
-    		name: "流沙陷阱",
-    		cardCode: "04SH109",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH018.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH018-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 4,
-    		health: 0,
-    		description: "擊殺1個友軍單位或摧毀我方1個魔力寶石，本回合給予所有敵軍單位<nobr>-2|-0</nobr>。",
-    		descriptionRaw: "擊殺1個友軍單位或摧毀我方1個魔力寶石，本回合給予所有敵軍單位-2|-0。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「迎戰吧！讓他們血流成河！」——雷尼克頓",
-    		artistName: "Kudos Productions",
-    		name: "主宰儀式",
-    		cardCode: "04SH018",
-    		keywords: [
-    			"快速"
-    		],
-    		keywordRefs: [
-    			"Fast"
-    		],
-    		spellSpeed: "快速",
-    		spellSpeedRef: "Fast",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH070.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH070-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 2,
-    		health: 0,
-    		description: "本回合給予1個敵軍侍從單位<nobr>-4|-0</nobr>。\r\n若我方的魔力寶石數量少於對手，則改為擊殺該單位。",
-    		descriptionRaw: "本回合給予1個敵軍侍從單位-4|-0。\r\n若我方的魔力寶石數量少於對手，則改為擊殺該單位。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「陽光將再次照耀蘇瑞瑪的大地。」——重生者宣使",
-    		artistName: "Kudos Productions",
-    		name: "不配飛昇",
-    		cardCode: "04SH070",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH067T5.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH067T5-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 0,
-    		health: 0,
-    		description: "對所有敵軍單位與敵方主堡<br>造成2點傷害。",
-    		descriptionRaw: "對所有敵軍單位與敵方主堡造成2點傷害。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「我誰都不放過！」——雷尼克頓",
-    		artistName: "Kudos Productions",
-    		name: "君臨毀滅",
-    		cardCode: "04SH067T5",
-    		keywords: [
-    			"技能"
-    		],
-    		keywordRefs: [
-    			"Skill"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "技能",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04DE008T2",
-    			"04DE008T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE008-full.png"
-    			}
-    		],
-    		region: "蒂瑪西亞",
-    		regionRef: "Demacia",
-    		attack: 6,
-    		cost: 6,
-    		health: 4,
-    		description: "我方攻擊時，支付此牌的魔耗值，\r\n並召喚此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。",
-    		descriptionRaw: "我方攻擊時，支付此牌的魔耗值，\r\n並召喚此牌挑戰最強敵軍單位。",
-    		levelupDescription: "友軍單位承受敵方格擋單位<br><link=vocab.Strike><style=Vocab>打擊</style></link>4次以上，且未陣亡<style=Variable></style>。",
-    		levelupDescriptionRaw: "友軍單位承受敵方格擋單位打擊4次以上，且未陣亡。",
-    		flavorText: "諾克薩斯人不僅把嘉文皇子的打獵行程摸得一清二楚，還知道會有多少蒂瑪西亞衛隊隨行，更清楚皇子為了自己的榮譽，是不可能逃跑的；陷阱已經設計妥當。",
-    		artistName: "SIXMOREVODKA",
-    		name: "嘉文四世",
-    		cardCode: "04DE008",
-    		keywords: [
-    			"光盾"
-    		],
-    		keywordRefs: [
-    			"Barrier"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "英雄",
-    		rarityRef: "Champion",
-    		subtype: "菁英",
-    		subtypes: [
-    			"菁英"
-    		],
-    		supertype: "英雄",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04DE008T2",
-    			"04DE008",
-    			"04DE003"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE008T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE008T1-full.png"
-    			}
-    		],
-    		region: "蒂瑪西亞",
-    		regionRef: "Demacia",
-    		attack: 7,
-    		cost: 6,
-    		health: 5,
-    		description: "我方攻擊時，支付此牌的魔耗值，\r\n並召喚此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：在手牌生成1張\r\n<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.create><style=AssociatedCard>浩劫降臨</style></link>。\r\n<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>敵軍單位時，\r\n本回合給予此牌<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
-    		descriptionRaw: "我方攻擊時，支付此牌的魔耗值，\r\n並召喚此牌挑戰最強敵軍單位。\r\n回合開始：在手牌生成1張\r\n飛逝浩劫降臨。\r\n挑戰敵軍單位時，\r\n本回合給予此牌光盾。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "不過，諾克薩斯人卻沒有預料到，年輕的皇子竟然如此力量強大和意志堅定，這失算也讓他們付出了血的代價。",
-    		artistName: "SIXMOREVODKA",
-    		name: "嘉文四世",
-    		cardCode: "04DE008T1",
-    		keywords: [
-    			"光盾"
-    		],
-    		keywordRefs: [
-    			"Barrier"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "菁英",
-    		subtypes: [
-    			"菁英"
-    		],
-    		supertype: "英雄",
-    		type: "單位",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04DE008",
-    			"04DE008"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE008T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE008T2-full.png"
-    			}
-    		],
-    		region: "蒂瑪西亞",
-    		regionRef: "Demacia",
-    		attack: 0,
-    		cost: 3,
-    		health: 0,
-    		description: "使1個友軍單位發動額外攻擊並<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>1個敵軍單位。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>嘉文四世</style></link>。",
-    		descriptionRaw: "使1個友軍單位發動額外攻擊並挑戰1個敵軍單位。\r\n在我方牌組生成1張嘉文四世。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「國王萬歲！」——嘉文四世",
-    		artistName: "Kudos Productions",
-    		name: "嘉文四世 浩劫降臨",
-    		cardCode: "04DE008T2",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "英雄",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE003-full.png"
-    			}
-    		],
-    		region: "蒂瑪西亞",
-    		regionRef: "Demacia",
-    		attack: 0,
-    		cost: 3,
-    		health: 0,
-    		description: "使1個友軍單位發動額外攻擊並<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>1個敵軍單位。",
-    		descriptionRaw: "使1個友軍單位發動額外攻擊並挑戰1個敵軍單位。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「國王萬歲！」——嘉文四世",
-    		artistName: "Kudos Productions",
-    		name: "浩劫降臨",
-    		cardCode: "04DE003",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04DE008"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE010-full.png"
-    			}
-    		],
-    		region: "蒂瑪西亞",
-    		regionRef: "Demacia",
-    		attack: 3,
-    		cost: 7,
-    		health: 6,
-    		description: "召喚此牌時，抽1張<link=card.champ1><style=AssociatedCard>嘉文四世</style></link>。\r\n若該牌已在場上，則改為本回合給予所有友軍單位<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>與<link=keyword.Scout><sprite name=Scout><style=Keyword>先遣</style></link>。",
-    		descriptionRaw: "召喚此牌時，抽1張嘉文四世。\r\n若該牌已在場上，則改為本回合給予所有友軍單位挑戰者與先遣。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「試問，父親會願意付出什麼代價來拯救孩兒呢？甚或，那父親是一國之君呢？」——勒布朗",
-    		artistName: "SIXMOREVODKA",
-    		name: "嘉文三世國王",
-    		cardCode: "04DE010",
-    		keywords: [
-    			"堅忍"
-    		],
-    		keywordRefs: [
-    			"Tough"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "菁英",
-    		subtypes: [
-    			"菁英"
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"01DE028"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE009-full.png"
-    			}
-    		],
-    		region: "蒂瑪西亞",
-    		regionRef: "Demacia",
-    		attack: 4,
-    		cost: 4,
-    		health: 4,
-    		description: "此牌首次<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>敵軍單位時，<br>將其幻化為<link=card.transform><style=AssociatedCard>先鋒騎兵</style></link>。",
-    		descriptionRaw: "此牌首次挑戰敵軍單位時，將其幻化為先鋒騎兵。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "一聲令下，所有蒂瑪西亞士兵都被徵召投入搜尋皇子的行動；這時靈活權變才是達成任務的關鍵。",
-    		artistName: "SIXMOREVODKA",
-    		name: "英勇騎兵",
-    		cardCode: "04DE009",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "菁英",
-    		subtypes: [
-    			"菁英"
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE002-full.png"
-    			}
-    		],
-    		region: "蒂瑪西亞",
-    		regionRef: "Demacia",
-    		attack: 0,
-    		cost: 4,
-    		health: 0,
-    		description: "本回合給予1個友軍單位<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。<br>進行<link=vocab.Rally><style=Vocab>備戰</style></link>。",
-    		descriptionRaw: "本回合給予1個友軍單位光盾。進行備戰。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「蒂瑪西亞的士兵們，繼續戰鬥吧！」——嘉文四世",
-    		artistName: "Kudos Productions",
-    		name: "光盾庇護",
-    		cardCode: "04DE002",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE001-full.png"
-    			}
-    		],
-    		region: "蒂瑪西亞",
-    		regionRef: "Demacia",
-    		attack: 3,
-    		cost: 2,
-    		health: 2,
-    		description: "此牌首次<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>敵軍單位時，<br>本回合給予此牌<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
-    		descriptionRaw: "此牌首次挑戰敵軍單位時，本回合給予此牌光盾。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "國王嘉文三世在得知皇子失蹤後，委託摯友貝瑞特．布斐利領主組織搜救隊，以找回皇子。後來皇子平安返國，但不幸的是，布斐利領主卻沒有歸來，這也成為了嘉文三世的終生遺憾。",
-    		artistName: "SIXMOREVODKA",
-    		name: "名譽領主",
-    		cardCode: "04DE001",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "菁英",
-    		subtypes: [
-    			"菁英"
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE006-full.png"
-    			}
-    		],
-    		region: "蒂瑪西亞",
-    		regionRef: "Demacia",
-    		attack: 0,
-    		cost: 1,
-    		health: 0,
-    		description: "賦予1個友軍單位+1|+1。",
-    		descriptionRaw: "賦予1個友軍單位+1|+1。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「我來教你兩招。」——布斐利領主",
-    		artistName: "Kudos Productions",
-    		name: "戰技專精",
-    		cardCode: "04DE006",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04DE007T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE007-full.png"
-    			}
-    		],
-    		region: "蒂瑪西亞",
-    		regionRef: "Demacia",
-    		attack: 2,
-    		cost: 1,
-    		health: 2,
-    		description: "召喚此牌時，若我方<link=vocab.Behold><style=Vocab>掌控</style></link>菁英牌，<br>則在手牌生成1張<link=card.create><style=AssociatedCard>殘破戰旗</style></link>。",
-    		descriptionRaw: "召喚此牌時，若我方掌控菁英牌，則在手牌生成1張殘破戰旗。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "那負罪的隨從撐著疲累的身軀，一直走到城牆邊才終於軟下雙腳來。如此一來，無畏先鋒終能把口信傳給國王，好派人去搜救皇子；她也終能將功折過，保全自己的名聲。",
-    		artistName: "SIXMOREVODKA",
-    		name: "懺罪隨從",
-    		cardCode: "04DE007",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE007T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE007T1-full.png"
-    			}
-    		],
-    		region: "蒂瑪西亞",
-    		regionRef: "Demacia",
-    		attack: 0,
-    		cost: 1,
-    		health: 0,
-    		description: "我方下次於本回合召喚友軍單位時，賦予其<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。",
-    		descriptionRaw: "我方下次於本回合召喚友軍單位時，賦予其挑戰者。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「組好隊形，聽令進攻！」——銀翼鷲先鋒",
-    		artistName: "Kudos Productions",
-    		name: "殘破戰旗",
-    		cardCode: "04DE007T1",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH014"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH028.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH028-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 1,
-    		health: 0,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=vocab.Forecast><style=Vocab>預言</style></link>。\r\n<link=vocab.Buried><style=Vocab>倒數2</style></link><style=Variable></style>：召喚1個<link=card.create><style=AssociatedCard>時鐘機器人</style></link>。",
-    		descriptionRaw: "出牌：預言。\r\n倒數2：召喚1個時鐘機器人。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "雖然它們已被沙塵深埋於地底多年，似乎已被時間遺忘，但其實這些機器人是按計劃被精準地安置於此地，只等著被喚醒。",
-    		artistName: "Polar Engine",
-    		name: "遠古計劃",
-    		cardCode: "04SH028",
-    		keywords: [
-    			"地標"
-    		],
-    		keywordRefs: [
-    			"LandmarkVisualOnly"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "地標",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH014-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 2,
-    		cost: 1,
-    		health: 2,
-    		description: "",
-    		descriptionRaw: "",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "首批獲得自由的是時鐘機器人，它們按著極靈設置的<br>時間甦醒後，便爬上古老的城牆，越過障礙試著尋找同類<br>的蹤跡。",
-    		artistName: "Polar Engine",
-    		name: "時鐘機器人",
-    		cardCode: "04SH014",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH001-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 2,
-    		cost: 2,
-    		health: 3,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=vocab.Forecast><style=Vocab>預言</style></link>。",
-    		descriptionRaw: "出牌：預言。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "在作為學徒修練時空術的過程中，泰總是得建立自信，來化解對於不確定未來的猶疑；比起想著可能出錯的環節，懷著可能會獲勝的希望還是比較好的。",
-    		artistName: "Kudos Productions",
-    		name: "新進時空術士",
-    		cardCode: "04SH001",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH011.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH011-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 3,
-    		cost: 3,
-    		health: 3,
-    		description: "召喚此牌時，隨機賦予牌組中<br>3個友軍單位+3|+3。",
-    		descriptionRaw: "召喚此牌時，隨機賦予牌組中3個友軍單位+3|+3。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "虛空總是充滿驚喜，每天都在學習和尋找新方式滲入鐘塔，仿佛如荊棘一樣，但絕對更致命。因此要研究虛空並非易事，只有同樣機智博學的研究者，才能預測和理解來臨的威脅。",
-    		artistName: "Polar Engine",
-    		name: "異形研究者",
-    		cardCode: "04SH011",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH091.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH091-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 3,
-    		cost: 3,
-    		health: 3,
-    		description: "召喚此牌時，若我方已在本牌局<br><link=vocab.Forecast><style=Vocab>預言</style></link>，則賦予此牌+1|+1。",
-    		descriptionRaw: "召喚此牌時，若我方已在本牌局預言，則賦予此牌+1|+1。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「記住我們學過的。」極靈用異常溫柔，但近乎沉重的聲音說道。「你確定你準備好了嗎？」\n卡西歷回以導師肯定的微笑。「我去去就回。而且我過去幾年來的每一天都是在為了這一刻做準備。此時不去待何時？」",
-    		artistName: "Kudos Productions",
-    		name: "學徒卡西歷",
-    		cardCode: "04SH091",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH021.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH021-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 4,
-    		cost: 6,
-    		health: 4,
-    		description: "召喚此牌時，在我方牌組生成1張此牌的複製牌。此牌在<link=vocab.Forecast><style=Vocab>預言</style></link>出現時，賦予我方<link=vocab.Everywhere><style=Vocab>各處</style></link>與之相同的卡牌+2|+2。",
-    		descriptionRaw: "召喚此牌時，在我方牌組生成1張此牌的複製牌。此牌在預言出現時，賦予我方各處與之相同的卡牌+2|+2。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "卡西歷只暫時消失一陣子就突然回歸於眾人面前。他不僅幾乎老了十歲，還手握一個看似詭異又致命的武器。眾人不禁驚聲讚嘆，更暗地裡擔心著。",
-    		artistName: "Kudos Productions",
-    		name: "回歸者卡西歷",
-    		cardCode: "04SH021",
-    		keywords: [
-    			"威嚇"
-    		],
-    		keywordRefs: [
-    			"Fearsome"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH013.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH013-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 2,
-    		health: 0,
-    		description: "召喚此牌時，抽1張牌。\r\n<link=vocab.Buried><style=Vocab>倒數2</style></link><style=Variable></style>：抽1張牌。",
-    		descriptionRaw: "召喚此牌時，抽1張牌。\r\n倒數2：抽1張牌。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "極靈為那些他帶來鐘塔的人，展示他們想要修復的東西。珍存園丁能夠讓他們得償所願，即使每次只能匆匆一瞥。",
-    		artistName: "Polar Engine",
-    		name: "珍存之所",
-    		cardCode: "04SH013",
-    		keywords: [
-    			"地標"
-    		],
-    		keywordRefs: [
-    			"LandmarkVisualOnly"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "地標",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH031.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH031-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 4,
-    		health: 0,
-    		description: "賦予1個我方地標以下能力：「此牌的<link=vocab.Buried><style=Vocab>倒數</style></link>效果發動2次」。",
-    		descriptionRaw: "賦予1個我方地標以下能力：「此牌的倒數效果發動2次」。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「凡人一生花費大部分時間在等待。我誠摯希望他們的耐心能得到獎賞。」——極靈",
-    		artistName: "Kudos Productions",
-    		name: "光明未來",
-    		cardCode: "04SH031",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH073T2",
-    			"04SH073T3",
-    			"04SH073T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH073.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH073-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 2,
-    		cost: 5,
-    		health: 4,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：召喚1個我方地標的複製牌。",
-    		descriptionRaw: "出牌：召喚1個我方地標的複製牌。",
-    		levelupDescription: "我方召喚5個以上的地標<style=Variable></style>。",
-    		levelupDescriptionRaw: "我方召喚5個以上的地標。",
-    		flavorText: "「遊牧民族的步伐總是輕盈無比，因為他們不必落地生根，而家永遠都在地平線的另一端。」\n——蘇瑞瑪俗諺",
-    		artistName: "SIXMOREVODKA",
-    		name: "塔莉雅",
-    		cardCode: "04SH073",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "英雄",
-    		rarityRef: "Champion",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "英雄",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH073",
-    			"04SH073T3",
-    			"04SH073T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH073T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH073T2-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 3,
-    		cost: 5,
-    		health: 5,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：召喚1個我方地標的複製牌。\r\n<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>攻擊</style></link>：對格擋此牌的單位造成2點傷害。若該單位已陣亡或離開場上，則改為對敵方主堡造成2點傷害。若我方場上有地標，則此效果再發動2次。",
-    		descriptionRaw: "出牌：召喚1個我方地標的複製牌。\r\n攻擊：對格擋此牌的單位造成2點傷害。若該單位已陣亡或離開場上，則改為對敵方主堡造成2點傷害。若我方場上有地標，則此效果再發動2次。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "在聽聞家鄉發生重大改變後，塔莉雅離開了愛歐尼亞。當她回到蘇瑞瑪時，她發現神皇重生，民不聊生，煞族比以往更加活躍。她別無選擇，只好年紀輕輕肩扛重任。",
-    		artistName: "SIXMOREVODKA",
-    		name: "塔莉雅",
-    		cardCode: "04SH073T2",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "英雄",
-    		type: "單位",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH073",
-    			"04SH073T2"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH073T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH073T3-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 1,
-    		health: 0,
-    		description: "查看3張我方有足夠魔力能打出的隨機地標，並挑選1張在手牌生成。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>塔莉雅</style></link>。",
-    		descriptionRaw: "查看3張我方有足夠魔力能打出的隨機地標，並挑選1張在手牌生成。\r\n在我方牌組生成1張塔莉雅。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「快來看，簡直目不暇給！」——塔莉雅",
-    		artistName: "Kudos Productions",
-    		name: "塔莉雅 岩石編織",
-    		cardCode: "04SH073T3",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "英雄",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH110.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH110-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 1,
-    		health: 0,
-    		description: "查看3張我方有足夠魔力能打出的隨機地標。挑選1張在手牌生成。",
-    		descriptionRaw: "查看3張我方有足夠魔力能打出的隨機地標。挑選1張在手牌生成。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「快來看，簡直目不暇給！」——塔莉雅",
-    		artistName: "Kudos Productions",
-    		name: "岩石編織",
-    		cardCode: "04SH110",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH093.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH093-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 1,
-    		health: 0,
-    		description: "本回合給予1個友軍單位+1|+1。\r\n在本牌局中，若我方已召喚地標，則改為給予其+3|+1。",
-    		descriptionRaw: "本回合給予1個友軍單位+1|+1。\r\n在本牌局中，若我方已召喚地標，則改為給予其+3|+1。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「有了大地相助，我們必能保護自己！」——塔莉雅",
-    		artistName: "",
-    		name: "砥礪石",
-    		cardCode: "04SH093",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH041.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH041-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 2,
-    		cost: 3,
-    		health: 4,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=vocab.Forecast><style=Vocab>預言</style></link>。<br>若我方挑選的卡牌為地標，則賦予此牌<link=keyword.Elusive><sprite name=Elusive><style=Keyword>隱密</style></link>。",
-    		descriptionRaw: "出牌：預言。若我方挑選的卡牌為地標，則賦予此牌隱密。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「我們差點遇上大麻煩！那時西邊有個逐漸靠近的風暴，而塔莉雅正通過位於大煞沙漠南邊的隧道。好在被我發現北邊有個寺廟能躲避風暴，它的赤陶壁磚正保護著我們的安全。其他人都進入夢鄉了，我的火把也快燒到盡頭了。祝我自己有個好夢。」\n——賽發的日記",
-    		artistName: "Dao Le",
-    		name: "大煞偵察兵",
-    		cardCode: "04SH041",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH090"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH042.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH042-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 2,
-    		health: 0,
-    		description: "<link=vocab.Buried><style=Vocab>倒數3</style></link><style=Variable></style>：召喚1個<link=card.create><style=AssociatedCard>暴躁岩熊</style></link>。",
-    		descriptionRaw: "倒數3：召喚1個暴躁岩熊。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「我的名字叫賽發，我喜歡在薩彌爾和大家都睡著的時候，在我無厘頭的本子裡寫些無厘頭的東西。」\n——賽發的日記",
-    		artistName: "Polar Engine",
-    		name: "冬眠岩熊",
-    		cardCode: "04SH042",
-    		keywords: [
-    			"地標"
-    		],
-    		keywordRefs: [
-    			"LandmarkVisualOnly"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "地標",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH090.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH090-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 5,
-    		cost: 5,
-    		health: 4,
-    		description: "",
-    		descriptionRaw: "",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「今天開心極了！我們停下來吃午餐（斯卡拉錫乳酪——噁！）的時候，卡蒂拉發現樹蔭底下睡著一頭可憐的岩杜伯。想也知道她跑去拉牠尾巴，然後想也知道牠生氣了。希望牠喜歡我們丟在那邊的乳酪！」\n——賽發的日記",
-    		artistName: "Dao Le",
-    		name: "暴躁岩熊",
-    		cardCode: "04SH090",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH089T1",
-    			"04SH090"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH089.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH089-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 2,
-    		cost: 4,
-    		health: 4,
-    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：摧毀1個地標。若是我方地標，則召喚1個<link=card.summon><style=AssociatedCard>暴躁岩熊</style></link>。",
-    		descriptionRaw: "出牌：摧毀1個地標。若是我方地標，則召喚1個暴躁岩熊。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「卡蒂拉今天又弄壞東西了！這次只是一面石牆，但看起來很有歷史，說不定對誰的祖宗八代很重要。她的藉口是特雷西尼的牆壁不像這裡的那麼脆弱，但我還是氣炸了！」——賽發的日記",
-    		artistName: "Dao Le",
-    		name: "沙漠學家",
-    		cardCode: "04SH089",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH090"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH024.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH024-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 4,
-    		health: 0,
-    		description: "<link=vocab.Buried><style=Vocab>倒數2</style></link><style=Variable></style>：召喚1個<link=card.create><style=AssociatedCard>暴躁岩熊</style></link>。<br>在本牌局中，若我方已召喚4個以上地標，則賦予<link=vocab.Strongest><style=Vocab>最強</style></link>友軍單位+2|+2。<style=Variable></style>",
-    		descriptionRaw: "倒數2：召喚1個暴躁岩熊。在本牌局中，若我方已召喚4個以上地標，則賦予最強友軍單位+2|+2。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "蘇瑞瑪的製鹽工人很快便學會哪些鹽礦適合採掘，哪些不該去碰。",
-    		artistName: "Polar Engine",
-    		name: "鹽塔",
-    		cardCode: "04SH024",
-    		keywords: [
-    			"地標"
-    		],
-    		keywordRefs: [
-    			"LandmarkVisualOnly"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "地標",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH006"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH038.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH038-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 3,
-    		cost: 2,
-    		health: 1,
-    		description: "召喚此牌時，召喚1個<link=card.create><style=AssociatedCard>渾攪沙原</style></link>。",
-    		descriptionRaw: "召喚此牌時，召喚1個渾攪沙原。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「今天，我們即將啟程前往娜敘亞麥！薩彌爾下定決心，要在下個滿月前穿越大煞沙漠，在過程中他造成了許多混亂！以前我想也沒有想到，一個簡單的沙板竟然能令一整座沙丘倒塌，薩彌爾也沒有料到，不過最後他沒事。」\n——賽發的日記",
-    		artistName: "Dao Le",
-    		name: "躍岩者",
-    		cardCode: "04SH038",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH006"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH037.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH037-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 3,
-    		health: 0,
-    		description: "召喚2個<link=card.create><style=AssociatedCard>渾攪沙原</style></link>。\r\n抽1張牌。",
-    		descriptionRaw: "召喚2個渾攪沙原。\r\n抽1張牌。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "大煞沙漠擁有極致美景，但並非弱者生存之地。滾滾沙丘和煞族皆非善類，許多生命因此在此地逝去。",
-    		artistName: "Kudos Productions",
-    		name: "碎裂地表",
-    		cardCode: "04SH037",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH006-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 2,
-    		health: 0,
-    		description: "敵方召喚單位時，摧毀此牌以賦予其<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
-    		descriptionRaw: "敵方召喚單位時，摧毀此牌以賦予其弱勢。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "千百年累積下來的錯誤經驗讓蘇瑞瑪人學會如何與沙共處。對外行人來說看起來都一樣的廣原，只有蘇瑞瑪人才知道哪些可踏入、哪些該改道。",
-    		artistName: "Polar Engine",
-    		name: "渾攪沙原",
-    		cardCode: "04SH006",
-    		keywords: [
-    			"地標"
-    		],
-    		keywordRefs: [
-    			"LandmarkVisualOnly"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "地標",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH076T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH076.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH076-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 2,
-    		health: 0,
-    		description: "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>1個友軍單位，以在原處召喚1個<link=card.create><style=AssociatedCard>凝滯雕像</style></link>。",
-    		descriptionRaw: "泯滅1個友軍單位，以在原處召喚1個凝滯雕像。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「阿泰！過來！我們需要你幫個忙。」\n——虛空研究者賽沙",
-    		artistName: "Kudos Productions",
-    		name: "遠古沙漏",
-    		cardCode: "04SH076",
-    		keywords: [
-    			"快速"
-    		],
-    		keywordRefs: [
-    			"Fast"
-    		],
-    		spellSpeed: "快速",
-    		spellSpeedRef: "Fast",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH076T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH076T1-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 2,
-    		health: 0,
-    		description: "<link=vocab.Buried><style=Vocab>倒數1</style></link><style=Variable></style>：召喚1個被此牌取代而<link=keyword.Obliterate><style=Keyword>泯滅</style></link>的單位的複製單位。",
-    		descriptionRaw: "倒數1：召喚1個被此牌取代而泯滅的單位的複製單位。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「我都把這個想成是『捕捉當下』。」\n「哈，說的好。」\n——虛空研究者賽沙與辛沙",
-    		artistName: "Polar Engine",
-    		name: "凝滯雕像",
-    		cardCode: "04SH076T1",
-    		keywords: [
-    			"地標"
-    		],
-    		keywordRefs: [
-    			"LandmarkVisualOnly"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "地標",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH073"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH073T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH073T1-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 0,
-    		health: 0,
-    		description: "對格擋<link=card.parentRef><style=AssociatedCard>塔莉雅</style></link>的單位造成2點傷害。若該單位已陣亡或離開場上，則改為對敵方主堡造成2點傷害。",
-    		descriptionRaw: "對格擋塔莉雅的單位造成2點傷害。若該單位已陣亡或離開場上，則改為對敵方主堡造成2點傷害。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「再丟一顆石頭！」——塔莉雅",
-    		artistName: "Kudos Productions",
-    		name: "旋舞飛岩",
-    		cardCode: "04SH073T1",
-    		keywords: [
-    			"技能"
-    		],
-    		keywordRefs: [
-    			"Skill"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "技能",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH090",
-    			"04SH089"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH089T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH089T1-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 0,
-    		health: 0,
-    		description: "摧毀1個地標。若是我方地標，<br>則召喚1個<link=card.summon><style=AssociatedCard>暴躁岩熊</style></link>。",
-    		descriptionRaw: "摧毀1個地標。若是我方地標，則召喚1個暴躁岩熊。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「卡蒂拉今天又弄壞東西了！這次只是一面石牆，但看起來很有歷史，說不定對誰的祖宗八代很重要。她的藉口是特雷西尼的牆壁不像這裡的那麼脆弱，但我還是氣炸了！」——賽發的日記",
-    		artistName: "Kudos Productions",
-    		name: "血氣方剛",
-    		cardCode: "04SH089T1",
-    		keywords: [
-    			"技能"
-    		],
-    		keywordRefs: [
-    			"Skill"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "技能",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04FR005T1",
-    			"04FR005T2",
-    			"04FR007T1",
-    			"04FR001",
-    			"04FR001T1",
-    			"04FR005T4",
-    			"04FR009"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR005-full.png"
-    			}
-    		],
-    		region: "弗雷爾卓德",
-    		regionRef: "Freljord",
-    		attack: 2,
-    		cost: 3,
-    		health: 3,
-    		description: "召喚此牌時，召喚1個<link=card.create><style=AssociatedCard>冰封奴魔</style></link>。",
-    		descriptionRaw: "召喚此牌時，召喚1個冰封奴魔。",
-    		levelupDescription: "我方已召喚2個以上魔耗值為8點<br>以上的友軍單位<style=Variable></style>。此牌升級時，<br>在手牌生成1張<link=card.summon><style=AssociatedCard>守望者</style></link>。",
-    		levelupDescriptionRaw: "我方已召喚2個以上魔耗值為8點以上的友軍單位。此牌升級時，在手牌生成1張守望者。",
-    		flavorText: "「在高牆的另一邊，潛伏著被冰雪包覆、時間被暫停<br>的守望者。就讓他們再等等吧，我有一些計畫必須先<br>進行……」",
-    		artistName: "SIXMOREVODKA",
-    		name: "麗珊卓",
-    		cardCode: "04FR005",
-    		keywords: [
-    			"堅忍"
-    		],
-    		keywordRefs: [
-    			"Tough"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "英雄",
-    		rarityRef: "Champion",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "英雄",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04FR005",
-    			"04FR005T2",
-    			"04FR007T1",
-    			"04FR001",
-    			"04FR001T1",
-    			"04FR005T4",
-    			"04FR009"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR005T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR005T1-full.png"
-    			}
-    		],
-    		region: "弗雷爾卓德",
-    		regionRef: "Freljord",
-    		attack: 3,
-    		cost: 3,
-    		health: 4,
-    		description: "我方主堡擁有<link=keyword.Tough><sprite name=Tough><style=Keyword>堅忍</style></link>。\r\n召喚此牌時，召喚1個<link=card.create><style=AssociatedCard>冰封奴魔</style></link>。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：在手牌生成1張魔耗值0點的<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.cast><style=AssociatedCard>幽影碎冰</style></link>。",
-    		descriptionRaw: "我方主堡擁有堅忍。\r\n召喚此牌時，召喚1個冰封奴魔。\r\n回合開始：在手牌生成1張魔耗值0點的飛逝幽影碎冰。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "鮮少人知道麗珊卓為了得到力量做出了何種犧牲——她狂妄的野心並非區區肉體可以桎梏的。",
-    		artistName: "SIXMOREVODKA",
-    		name: "麗珊卓",
-    		cardCode: "04FR005T1",
-    		keywords: [
-    			"堅忍",
-    			"Missing Translation"
-    		],
-    		keywordRefs: [
-    			"Tough",
-    			"AuraVisualFakeKeyword"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "英雄",
-    		type: "單位",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04FR001T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR005T4.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR005T4-full.png"
-    			}
-    		],
-    		region: "弗雷爾卓德",
-    		regionRef: "Freljord",
-    		attack: 11,
-    		cost: 17,
-    		health: 17,
-    		description: "在本牌局中，若我方已召喚4個以上<br>魔耗值為8點以上的友軍單位，<br>則此牌魔耗值為0點。<style=Variable></style>\r\n<link=vocab.Attack><style=Vocab>攻擊</style></link>：<link=keyword.Obliterate><style=Keyword>泯滅</style></link>敵方牌組。",
-    		descriptionRaw: "在本牌局中，若我方已召喚4個以上魔耗值為8點以上的友軍單位，則此牌魔耗值為0點。\r\n攻擊：泯滅敵方牌組。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「一切都結束了，就如我所預言、所承諾的一樣。姊妹們，原諒我……」——麗珊卓",
-    		artistName: "Wild Blue",
-    		name: "守望者",
-    		cardCode: "04FR005T4",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04FR007T1",
-    			"04FR005",
-    			"04FR005T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR005T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR005T2-full.png"
-    			}
-    		],
-    		region: "弗雷爾卓德",
-    		regionRef: "Freljord",
-    		attack: 0,
-    		cost: 5,
-    		health: 0,
-    		description: "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>1個單位，並在原處召喚<br>1個<link=card.create><style=AssociatedCard>永凍墳地</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>麗珊卓</style></link>。",
-    		descriptionRaw: "泯滅1個單位，並在原處召喚1個永凍墳地。\r\n在我方牌組生成1張麗珊卓。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「臣服吧！否則我將冰封伺候。」——麗珊卓",
-    		artistName: "Kudos Productions",
-    		name: "麗珊卓 冰葬",
-    		cardCode: "04FR005T2",
-    		keywords: [
-    			"快速"
-    		],
-    		keywordRefs: [
-    			"Fast"
-    		],
-    		spellSpeed: "快速",
-    		spellSpeedRef: "Fast",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "英雄",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04FR007T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR007-full.png"
-    			}
-    		],
-    		region: "弗雷爾卓德",
-    		regionRef: "Freljord",
-    		attack: 0,
-    		cost: 5,
-    		health: 0,
-    		description: "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>1個單位，並在原處召喚<br>1個<link=card.create><style=AssociatedCard>永凍墳地</style></link>。",
-    		descriptionRaw: "泯滅1個單位，並在原處召喚1個永凍墳地。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「臣服吧！否則我將冰封伺候。」——麗珊卓",
-    		artistName: "Kudos Productions",
-    		name: "冰葬",
-    		cardCode: "04FR007",
-    		keywords: [
-    			"快速"
-    		],
-    		keywordRefs: [
-    			"Fast"
-    		],
-    		spellSpeed: "快速",
-    		spellSpeedRef: "Fast",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR007T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR007T1-full.png"
-    			}
-    		],
-    		region: "弗雷爾卓德",
-    		regionRef: "Freljord",
-    		attack: 0,
-    		cost: 0,
-    		health: 0,
-    		description: "<link=vocab.Buried><style=Vocab>倒數2</style></link><style=Variable></style>：召喚1個被此牌取代而<link=keyword.Obliterate><style=Keyword>泯滅</style></link>的單位的複製單位。",
-    		descriptionRaw: "倒數2：召喚1個被此牌取代而泯滅的單位的複製單位。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「我們的女王將把你熟悉的一切，連同這個世界一起冰封掩埋，永不見天日。」——凜冰仲裁官 ",
-    		artistName: "Kudos Productions",
-    		name: "永凍墳地",
-    		cardCode: "04FR007T1",
-    		keywords: [
-    			"地標"
-    		],
-    		keywordRefs: [
-    			"LandmarkVisualOnly"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "地標",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04FR001T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR001-full.png"
-    			}
-    		],
-    		region: "弗雷爾卓德",
-    		regionRef: "Freljord",
-    		attack: 0,
-    		cost: 1,
-    		health: 0,
-    		description: "<link=vocab.Buried><style=Vocab>倒數8</style></link><style=Variable></style>：<br>召喚1個<link=card.create><style=AssociatedCard>寒冰護衛的奴魔</style></link>。",
-    		descriptionRaw: "倒數8：召喚1個寒冰護衛的奴魔。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "在特朗德那毫無紀律的軍隊中，的確有許多笨頭笨腦的兵卒，可以拿來當前線的砲灰；不過麗珊卓要的是更高級的貨色，不僅要更忠心、還只能對她一人忠心……",
-    		artistName: "Kudos Productions",
-    		name: "冰封奴魔",
-    		cardCode: "04FR001",
-    		keywords: [
-    			"地標"
-    		],
-    		keywordRefs: [
-    			"LandmarkVisualOnly"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "地標",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR001T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR001T1-full.png"
-    			}
-    		],
-    		region: "弗雷爾卓德",
-    		regionRef: "Freljord",
-    		attack: 8,
-    		cost: 8,
-    		health: 8,
-    		description: "",
-    		descriptionRaw: "",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "墮落的巨魔從冰封墳墓被釋放後，他們只知道唯一一件事，就是對暗黑女主唯命是從。",
-    		artistName: "Kudos Productions",
-    		name: "寒冰護衛的奴魔",
-    		cardCode: "04FR001T1",
-    		keywords: [
-    			"蠻力"
-    		],
-    		keywordRefs: [
-    			"Overwhelm"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR009-full.png"
-    			}
-    		],
-    		region: "弗雷爾卓德",
-    		regionRef: "Freljord",
-    		attack: 0,
-    		cost: 3,
-    		health: 0,
-    		description: "對所有目標造成1點傷害。",
-    		descriptionRaw: "對所有目標造成1點傷害。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「我將冰埋這個世界。」——麗珊卓",
-    		artistName: "Kudos Productions",
-    		name: "幽影碎冰",
-    		cardCode: "04FR009",
-    		keywords: [
-    			"快速"
-    		],
-    		keywordRefs: [
-    			"Fast"
-    		],
-    		spellSpeed: "快速",
-    		spellSpeedRef: "Fast",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04FR001",
-    			"04FR001T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR006-full.png"
-    			}
-    		],
-    		region: "弗雷爾卓德",
-    		regionRef: "Freljord",
-    		attack: 4,
-    		cost: 5,
-    		health: 5,
-    		description: "召喚此牌時，召喚1個<link=card.create><style=AssociatedCard>冰封奴魔</style></link>。\r\n<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：若我方有<link=vocab.Buried><style=Vocab>倒數4</style></link>回合以下的<link=card.create><style=AssociatedCard>冰封奴魔</style></link>，<br>則將其<link=vocab.Advance><style=Vocab>快轉</style></link>至歸零。",
-    		descriptionRaw: "召喚此牌時，召喚1個冰封奴魔。\r\n回合結束：若我方有倒數4回合以下的冰封奴魔，則將其快轉至歸零。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「我夢到女王輕聲細語的邀請：『跟隨我的腳步吧。』我不敢抗命。」",
-    		artistName: "Kudos Productions",
-    		name: "凜冰仲裁官",
-    		cardCode: "04FR006",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR014-full.png"
-    			}
-    		],
-    		region: "弗雷爾卓德",
-    		regionRef: "Freljord",
-    		attack: 0,
-    		cost: 4,
-    		health: 0,
-    		description: "召喚此牌時，治療我方主堡<br>4點生命值。\r\n<link=vocab.Buried><style=Vocab>倒數1</style></link><style=Variable></style>：對所有目標造成<br>2點傷害。",
-    		descriptionRaw: "召喚此牌時，治療我方主堡4點生命值。\r\n倒數1：對所有目標造成2點傷害。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "各種奇形怪狀的黑暗冰晶從山壑中冒出，密密麻麻的尖刺，任何入侵者都逃不過它們的天羅地網。",
-    		artistName: "Kudos Productions",
-    		name: "蠻荒冰壑",
-    		cardCode: "04FR014",
-    		keywords: [
-    			"地標"
-    		],
-    		keywordRefs: [
-    			"LandmarkVisualOnly"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "地標",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"01FR001",
-    			"02FR007",
-    			"04FR007",
-    			"04FR007T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR010-full.png"
-    			}
-    		],
-    		region: "弗雷爾卓德",
-    		regionRef: "Freljord",
-    		attack: 0,
-    		cost: 1,
-    		health: 0,
-    		description: "在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.create1><style=AssociatedCard>急速冰凍</style></link>、<link=card.create2><style=AssociatedCard>北境之怒</style></link>或<link=card.create3><style=AssociatedCard>冰葬</style></link>。",
-    		descriptionRaw: "在手牌生成1張飛逝急速冰凍、北境之怒或冰葬。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "艾伐洛森、席利妲和麗珊卓，這弗雷爾卓德三姊妹都擁有強大的力量，但她們發揮所長的方式不盡相同；一個慈悲為懷、一個熱愛戰爭，而另一個殺戮成性。",
-    		artistName: "Kudos Productions",
-    		name: "三姊妹",
-    		cardCode: "04FR010",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR013.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR013-full.png"
-    			}
-    		],
-    		region: "弗雷爾卓德",
-    		regionRef: "Freljord",
-    		attack: 0,
-    		cost: 5,
-    		health: 0,
-    		description: "獲得1個魔力寶石槽位並賦予<br>1個友軍單位+0|+2。",
-    		descriptionRaw: "獲得1個魔力寶石槽位並賦予1個友軍單位+0|+2。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「小心那些寒冰……更加要提防的是……冰裡的東西！」——某弗雷爾卓德旅店牆上的潦草字跡",
-    		artistName: "Kudos Productions",
-    		name: "極寒防禦",
-    		cardCode: "04FR013",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH047T3",
-    			"04SH047T2",
-    			"04SH047T1",
-    			"04SH062"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH047.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH047-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 2,
-    		cost: 6,
-    		health: 2,
-    		description: "本牌局我方每<link=vocab.Slay><style=Vocab>屠殺</style></link>1個單位，<br>則此牌獲得+1|+1。<style=Variable></style>",
-    		descriptionRaw: "本牌局我方每屠殺1個單位，則此牌獲得+1|+1。",
-    		levelupDescription: "此牌單次<link=vocab.Strike><style=Vocab>打擊</style></link>造成10點以上傷害。",
-    		levelupDescriptionRaw: "此牌單次打擊造成10點以上傷害。",
-    		flavorText: "「納瑟斯新獲得的祝福讓他有了無限的生命可以細細研究和深思生死的法則。但在蘇瑞瑪滅亡後，這份祝福也變成了詛咒。」——《飛昇戰士團史》，書吏卡尼爾著",
-    		artistName: "SIXMOREVODKA",
-    		name: "納瑟斯",
-    		cardCode: "04SH047",
-    		keywords: [
-    			"威嚇"
-    		],
-    		keywordRefs: [
-    			"Fearsome"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "英雄",
-    		rarityRef: "Champion",
-    		subtype: "飛昇者",
-    		subtypes: [
-    			"飛昇者"
-    		],
-    		supertype: "英雄",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH047",
-    			"04SH047T2",
-    			"04SH047T1",
-    			"04SH062"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH047T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH047T3-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 3,
-    		cost: 6,
-    		health: 3,
-    		description: "本牌局我方每<link=vocab.Slay><style=Vocab>屠殺</style></link>1個單位，\r\n則此牌獲得+1|+1。<style=Variable></style>\r\n所有敵軍單位受到<nobr>-1|-0</nobr>。",
-    		descriptionRaw: "本牌局我方每屠殺1個單位，\r\n則此牌獲得+1|+1。\r\n所有敵軍單位受到-1|-0。",
-    		levelupDescription: "我方已<link=vocab.SunDiscRestore><style=Vocab>復原烈日巨環</style></link>。",
-    		levelupDescriptionRaw: "我方已復原烈日巨環。",
-    		flavorText: "「納瑟斯與弟弟雷尼克頓報效帝國多年，納瑟斯是一名學者，而雷尼克頓則是驍勇善戰的戰士。但當他們被派去與叛徒齊勒斯戰鬥時，納瑟斯不得不做出殘酷的抉擇……」<br>——《飛昇戰士團史》，書吏卡尼爾著",
-    		artistName: "SIXMOREVODKA",
-    		name: "納瑟斯",
-    		cardCode: "04SH047T3",
-    		keywords: [
-    			"威嚇",
-    			"法盾",
-    			"Missing Translation"
-    		],
-    		keywordRefs: [
-    			"Fearsome",
-    			"SpellShield",
-    			"AuraVisualFakeKeyword"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "飛昇者",
-    		subtypes: [
-    			"飛昇者"
-    		],
-    		supertype: "英雄",
-    		type: "單位",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH047",
-    			"04SH047T3",
-    			"04SH047T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH047T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH047T2-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 10,
-    		cost: 6,
-    		health: 10,
-    		description: "本牌局我方每<link=vocab.Slay><style=Vocab>屠殺</style></link>1個單位，\r\n則此牌獲得+1|+1。<style=Variable></style>\r\n所有敵軍單位受到<nobr>-3|-0</nobr>。",
-    		descriptionRaw: "本牌局我方每屠殺1個單位，\r\n則此牌獲得+1|+1。\r\n所有敵軍單位受到-3|-0。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「蘇瑞瑪的復甦使納瑟斯重燃希望，在沙漠流浪多年後，他終於重返故地，渴望能與弟弟重修舊好。但他從未料想到等著他的雷尼克頓，竟然因在陵墓中遭受齊勒斯折磨多年而早已發狂。」——《飛昇戰士團史》，書吏卡尼爾著",
-    		artistName: "SIXMOREVODKA",
-    		name: "納瑟斯",
-    		cardCode: "04SH047T2",
-    		keywords: [
-    			"威嚇",
-    			"法盾",
-    			"Missing Translation"
-    		],
-    		keywordRefs: [
-    			"Fearsome",
-    			"SpellShield",
-    			"AuraVisualFakeKeyword"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "飛昇者",
-    		subtypes: [
-    			"飛昇者"
-    		],
-    		supertype: "英雄",
-    		type: "單位",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH047",
-    			"04SH047T3",
-    			"04SH047T2",
-    			"04SH047"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH047T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH047T1-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 5,
-    		health: 0,
-    		description: "使1個友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>1個單位。\r\n若該單位陣亡，則賦予我方<link=vocab.Everywhere><style=Vocab>各處</style></link>的英雄+2|+2。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>納瑟斯</style></link>。",
-    		descriptionRaw: "使1個友軍單位打擊1個單位。\r\n若該單位陣亡，則賦予我方各處的英雄+2|+2。\r\n在我方牌組生成1張納瑟斯。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「你的靈魂由我來審判。」——納瑟斯",
-    		artistName: "Kudos Productions",
-    		name: "納瑟斯 虹吸打擊",
-    		cardCode: "04SH047T1",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "英雄",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH016.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH016-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 5,
-    		health: 0,
-    		description: "使1個友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>1個單位。\r\n若該單位陣亡，\r\n則賦予我方<link=vocab.Everywhere><style=Vocab>各處</style></link>的英雄+2|+2。",
-    		descriptionRaw: "使1個友軍單位打擊1個單位。\r\n若該單位陣亡，\r\n則賦予我方各處的英雄+2|+2。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「你的靈魂由我來審判。」——納瑟斯",
-    		artistName: "Kudos Productions",
-    		name: "虹吸打擊",
-    		cardCode: "04SH016",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH002-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 1,
-    		cost: 1,
-    		health: 2,
-    		description: "我方<link=vocab.Slay><style=Vocab>屠殺</style></link>單位時，賦予此牌+1|+0。",
-    		descriptionRaw: "我方屠殺單位時，賦予此牌+1|+0。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「飛昇儀式失敗後，所有巴凱不是被遺棄，就是四散而逃，之後便行蹤成謎。背負著這樣的屈辱，和委身於暗黑墓地中的淒涼，又有誰能明瞭？」——《飛昇戰士團史》，書吏卡尼爾著",
-    		artistName: "Kudos Productions",
-    		name: "巴凱收割者",
-    		cardCode: "04SH002",
-    		keywords: [
-    			"威嚇"
-    		],
-    		keywordRefs: [
-    			"Fearsome"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH009T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH009-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 4,
-    		cost: 5,
-    		health: 6,
-    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：在本牌局中，若我方已<link=vocab.Slay><style=Vocab>屠殺</style></link>4個以上單位，則使1個敵軍單位與此牌互相<link=vocab.Strike><style=Vocab>打擊</style></link>。<style=Variable></style>",
-    		descriptionRaw: "出牌：在本牌局中，若我方已屠殺4個以上單位，則使1個敵軍單位與此牌互相打擊。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "就算仇敵早已離開世間，身上背負著的怨恨只會愈來愈深。",
-    		artistName: "Kudos Productions",
-    		name: "暴怒巴凱",
-    		cardCode: "04SH009",
-    		keywords: [
-    			"蠻力"
-    		],
-    		keywordRefs: [
-    			"Overwhelm"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH009"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH009T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH009T1-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 0,
-    		health: 0,
-    		description: "使<link=card.parentRef><style=AssociatedCard>暴怒巴凱</style></link>與1個敵軍單位<br>互相<link=vocab.Strike><style=Vocab>打擊</style></link>。",
-    		descriptionRaw: "使暴怒巴凱與1個敵軍單位互相打擊。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "巴凱們本應加入飛昇者的行列，但結果變成了異形怪物，這股因失敗而起的怒氣必須有地方釋放。",
-    		artistName: "Kudos Productions",
-    		name: "巴凱狂暴",
-    		cardCode: "04SH009T1",
-    		keywords: [
-    			"技能"
-    		],
-    		keywordRefs: [
-    			"Skill"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "技能",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH097T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH097.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH097-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 8,
-    		cost: 8,
-    		health: 5,
-    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：在本牌局中，若我方已<link=vocab.Slay><style=Vocab>屠殺</style></link>13個以上的單位，則擊殺所有敵軍侍從單位，並召喚1個此牌的複製單位。<style=Variable></style>",
-    		descriptionRaw: "出牌：在本牌局中，若我方已屠殺13個以上的單位，則擊殺所有敵軍侍從單位，並召喚1個此牌的複製單位。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "巴凱的任務是保衛聖所內殿與裡面的遠古秘寶，還有制裁那些自以為夠聰明或夠強大，能夠承受監管員審判的凡人，免得他們自取其禍。",
-    		artistName: "Kudos Productions",
-    		name: "聖所監管員",
-    		cardCode: "04SH097",
-    		keywords: [
-    			"威嚇"
-    		],
-    		keywordRefs: [
-    			"Fearsome"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH097"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH097T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH097T1-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 0,
-    		health: 0,
-    		description: "在本牌局中，若我方已<link=vocab.Slay><style=Vocab>屠殺</style></link>13個以上的單位，則擊殺所有敵軍侍從單位，並召喚1個此牌的複製單位。",
-    		descriptionRaw: "在本牌局中，若我方已屠殺13個以上的單位，則擊殺所有敵軍侍從單位，並召喚1個此牌的複製單位。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「我們是人與神的終焉。」——聖所監管員",
-    		artistName: "Kudos Productions",
-    		name: "監管員審判",
-    		cardCode: "04SH097T1",
-    		keywords: [
-    			"技能"
-    		],
-    		keywordRefs: [
-    			"Skill"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "技能",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH106.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH106-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 7,
-    		health: 0,
-    		description: "本回合給予所有敵軍單位<nobr>-2|-0</nobr>以及「<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：對此牌造成2點傷害」。",
-    		descriptionRaw: "本回合給予所有敵軍單位-2|-0以及「回合結束：對此牌造成2點傷害」。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「他們的靈魂將會燃燒。」——納瑟斯",
-    		artistName: "Kudos Productions",
-    		name: "靈魂烈焰",
-    		cardCode: "04SH106",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH121.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH121-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 0,
-    		health: 0,
-    		description: "擊殺1個友軍單位或摧毀我方1個<br>魔力寶石，然後抽1張英雄牌。",
-    		descriptionRaw: "擊殺1個友軍單位或摧毀我方1個魔力寶石，然後抽1張英雄牌。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「這點犧牲無可厚非。」——納瑟斯",
-    		artistName: "Kudos Productions",
-    		name: "呼喚儀式",
-    		cardCode: "04SH121",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH004-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 4,
-    		health: 0,
-    		description: "對1個英雄造成2點傷害，<br>或對1個侍從單位造成7點傷害。",
-    		descriptionRaw: "對1個英雄造成2點傷害，或對1個侍從單位造成7點傷害。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「一人犧牲，眾人得救。」——納瑟斯",
-    		artistName: "Kudos Productions",
-    		name: "審判之重",
-    		cardCode: "04SH004",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH082.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH082-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 2,
-    		health: 0,
-    		description: "抽1張牌。\r\n若本回合我方已<link=vocab.Slay><style=Vocab>屠殺</style></link>單位，\r\n則從敵方主堡<link=keyword.Drain><style=Keyword>汲取</style></link>2點生命值。",
-    		descriptionRaw: "抽1張牌。\r\n若本回合我方已屠殺單位，\r\n則從敵方主堡汲取2點生命值。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "沙戮者的招募對象主要是他們的敵人。誰能活過他們的襲擊就能加入，或是領死。",
-    		artistName: "Kudos Productions",
-    		name: "殺戮之路",
-    		cardCode: "04SH082",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SI005T4",
-    			"04SI005T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI005-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 4,
-    		cost: 5,
-    		health: 4,
-    		description: "每回合我方首次<link=vocab.Slay><style=Vocab>屠殺</style></link>單位時，\r\n此牌給予<link=keyword.Weakest><style=Keyword>最弱</style></link>敵軍單位印記。\r\n<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：擊殺擁有印記的單位。",
-    		descriptionRaw: "每回合我方首次屠殺單位時，\r\n此牌給予最弱敵軍單位印記。\r\n回合結束：擊殺擁有印記的單位。",
-    		levelupDescription: "此牌在場上時，<link=vocab.Slay><style=Vocab>屠殺</style></link>2個擁有印記的單位<style=Variable></style>。",
-    		levelupDescriptionRaw: "此牌在場上時，屠殺2個擁有印記的單位。",
-    		flavorText: "曾有一人，孑然一身\n他將自己，為二一分\n一化為二，重獲新生\n從此不再，孤獨一生。",
-    		artistName: "SIXMOREVODKA",
-    		name: "鏡爪",
-    		cardCode: "04SI005",
-    		keywords: [
-    			"快速攻擊"
-    		],
-    		keywordRefs: [
-    			"QuickStrike"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "英雄",
-    		rarityRef: "Champion",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "英雄",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SI005T4",
-    			"04SI005"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI005T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI005T1-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 5,
-    		cost: 5,
-    		health: 5,
-    		description: "每回合我方首次<link=vocab.Slay><style=Vocab>屠殺</style></link>單位時，<br>賦予此牌+2|+2，並給予<br><link=keyword.Weakest><style=Keyword>最弱</style></link>敵軍單位印記。\r\n<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：擊殺擁有印記的單位。",
-    		descriptionRaw: "每回合我方首次屠殺單位時，賦予此牌+2|+2，並給予最弱敵軍單位印記。\r\n回合結束：擊殺擁有印記的單位。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "死亡以獵人之姿顯現\n沒有人能逃過一劫\n一個拿著弓箭\n一個負責追獵。",
-    		artistName: "SIXMOREVODKA",
-    		name: "鏡爪",
-    		cardCode: "04SI005T1",
-    		keywords: [
-    			"快速攻擊"
-    		],
-    		keywordRefs: [
-    			"QuickStrike"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "英雄",
-    		type: "單位",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SI005",
-    			"04SI005T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI005T4.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI005T4-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 0,
-    		cost: 5,
-    		health: 0,
-    		description: "擊殺1個單位，再將其復甦。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>鏡爪</style></link>。",
-    		descriptionRaw: "擊殺1個單位，再將其復甦。\r\n在我方牌組生成1張鏡爪。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「這只不過是個小插曲而已。」——神羊",
-    		artistName: "Kudos Productions",
-    		name: "鏡爪 靈魂之旅",
-    		cardCode: "04SI005T4",
-    		keywords: [
-    			"快速"
-    		],
-    		keywordRefs: [
-    			"Fast"
-    		],
-    		spellSpeed: "快速",
-    		spellSpeedRef: "Fast",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "英雄",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI002-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 0,
-    		cost: 5,
-    		health: 0,
-    		description: "擊殺1個單位，再將其復甦。",
-    		descriptionRaw: "擊殺1個單位，再將其復甦。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「這只不過是個小插曲而已。」——神羊",
-    		artistName: "Kudos Productions",
-    		name: "靈魂之旅",
-    		cardCode: "04SI002",
-    		keywords: [
-    			"快速"
-    		],
-    		keywordRefs: [
-    			"Fast"
-    		],
-    		spellSpeed: "快速",
-    		spellSpeedRef: "Fast",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI001-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 0,
-    		cost: 2,
-    		health: 0,
-    		description: "本回合給予<link=keyword.Weakest><style=Keyword>最弱</style></link>友軍單位\r\n「此牌免疫傷害及死亡」。",
-    		descriptionRaw: "本回合給予最弱友軍單位\r\n「此牌免疫傷害及死亡」。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「在斷氣前再一次發光發熱。」——神羊",
-    		artistName: "Kudos Productions",
-    		name: "神羊喘息",
-    		cardCode: "04SI001",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI016.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI016-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 4,
-    		cost: 4,
-    		health: 1,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<br>擊殺1個友軍單位，然後抽2張牌。",
-    		descriptionRaw: "出牌：擊殺1個友軍單位，然後抽2張牌。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "潛伏於黑暗之中，等待著獵物睡著或恍神。接著尖爪一揮、大嘴一咬，最後只剩黑暗。",
-    		artistName: "Kudos Productions",
-    		name: "靈蛭 ",
-    		cardCode: "04SI016",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SI007T3"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI007-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 6,
-    		cost: 7,
-    		health: 4,
-    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：擊殺1個友軍單位，<br>以擊殺1個敵軍單位。",
-    		descriptionRaw: "出牌：擊殺1個友軍單位，以擊殺1個敵軍單位。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「當我氣數將盡時，我發現自己思考的不是這一次的死亡，而是下一次的。最後一個記得我的人會是誰？而當他也回歸塵土後……我會變成怎樣？」——大善人",
-    		artistName: "Wild Blue",
-    		name: "幻影魔鷹",
-    		cardCode: "04SI007",
-    		keywords: [
-    			"威嚇"
-    		],
-    		keywordRefs: [
-    			"Fearsome"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SI014"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI003-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 3,
-    		cost: 2,
-    		health: 1,
-    		description: "召喚此牌時，召喚1個<link=card.summon><style=AssociatedCard>螢火靈</style></link>。",
-    		descriptionRaw: "召喚此牌時，召喚1個螢火靈。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "除了受到永生詛咒的人以外，誰會忘記死神？而對於死神來說，除了被遺忘以外，還有什麼更可怕的？ ",
-    		artistName: "Wild Blue",
-    		name: "褪色死神",
-    		cardCode: "04SI003",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI014-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 0,
-    		cost: 0,
-    		health: 1,
-    		description: "",
-    		descriptionRaw: "",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「他們穿梭於黑暗的森林之中，如繁星般點綴著樹木，渾然不知自己已成為目標。」——神羊",
-    		artistName: "Dao Le",
-    		name: "螢火靈",
-    		cardCode: "04SI014",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI013.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI013-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 2,
-    		cost: 2,
-    		health: 2,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：擊殺1個友軍單位，並賦予此牌該友軍單位的能力值與特性。",
-    		descriptionRaw: "出牌：擊殺1個友軍單位，並賦予此牌該友軍單位的能力值與特性。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "據說假面之母創造了鏡爪，如同她創造所有死亡的化身。但她的面具若非自己打造，又是從何而來？",
-    		artistName: "Wild Blue",
-    		name: "假面之母",
-    		cardCode: "04SI013",
-    		keywords: [
-    			"威嚇"
-    		],
-    		keywordRefs: [
-    			"Fearsome"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI011.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI011-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 0,
-    		cost: 2,
-    		health: 0,
-    		description: "抽1張牌。\r\n<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：發動1個友軍單位的<link=keyword.Nightfall><style=Keyword>夜臨</style></link>效果，其中需指定目標的效果不會被觸發。",
-    		descriptionRaw: "抽1張牌。\r\n夜臨：發動1個友軍單位的夜臨效果，其中需指定目標的效果不會被觸發。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「來吧，孩子，毋須害怕。」——假面之母",
-    		artistName: "Kudos Productions",
-    		name: "身陷黃昏",
-    		cardCode: "04SI011",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI017.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI017-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 0,
-    		cost: 2,
-    		health: 0,
-    		description: "賦予1個友軍單位<br><link=keyword.Lifesteal><sprite name=Lifesteal><style=Keyword>吸血</style></link>、<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>與<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>。",
-    		descriptionRaw: "賦予1個友軍單位吸血、威嚇與閃靈。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「來吧，孩子。見我所見、觸我所觸。毋須害怕黑暗。」——燃魂人",
-    		artistName: "Kudos Productions",
-    		name: "闇影島之歌",
-    		cardCode: "04SI017",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI007T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI007T3-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 0,
-    		cost: 0,
-    		health: 0,
-    		description: "擊殺1個友軍單位，<br>以擊殺1個敵軍單位。",
-    		descriptionRaw: "擊殺1個友軍單位，以擊殺1個敵軍單位。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「一切終將被遺忘。」——幻影魔鷹",
-    		artistName: "Kudos Productions",
-    		name: "二度死亡",
-    		cardCode: "04SI007T3",
-    		keywords: [
-    			"技能"
-    		],
-    		keywordRefs: [
-    			"Skill"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "技能",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT012.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT012-full.png"
-    			}
-    		],
-    		region: "巨石峰",
-    		regionRef: "Targon",
-    		attack: 0,
-    		cost: 8,
-    		health: 0,
-    		description: "賦予手牌中1個友軍單位+8|+8。",
-    		descriptionRaw: "賦予手牌中1個友軍單位+8|+8。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「接納你的命運，綻放前所未有的光芒吧！」——塔里克",
-    		artistName: "Kudos Productions",
-    		name: "天命選召",
-    		cardCode: "04MT012",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT010-full.png"
-    			}
-    		],
-    		region: "巨石峰",
-    		regionRef: "Targon",
-    		attack: 0,
-    		cost: 2,
-    		health: 0,
-    		description: "<link=vocab.Buried><style=Vocab>倒數2</style></link><style=Variable></style>：在手牌隨機生成2張<br>魔耗值3點以下的天界牌。",
-    		descriptionRaw: "倒數2：在手牌隨機生成2張魔耗值3點以下的天界牌。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "挑戰攀登巨石峰的人們，在旅途前段就可以欣賞到幾幅符文大地上最壯觀的奇景；當山壁益加陡峭，景觀也會隨之更加震憾人心。",
-    		artistName: "Polar Engine",
-    		name: "星角峰",
-    		cardCode: "04MT010",
-    		keywords: [
-    			"地標"
-    		],
-    		keywordRefs: [
-    			"LandmarkVisualOnly"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "地標",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"02BW030T4",
-    			"02BW030T1",
-    			"02BW030T3",
-    			"02BW030T2"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04BW008.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04BW008-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04BW002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04BW002-full.png"
     			}
     		],
     		region: "比爾吉沃特",
     		regionRef: "Bilgewater",
     		attack: 0,
-    		cost: 4,
+    		cost: 2,
     		health: 0,
-    		description: "抽1張寶藏牌。<br>若無寶藏牌可抽，則改為在<br>我方牌組生成2張寶藏牌。",
-    		descriptionRaw: "抽1張寶藏牌。若無寶藏牌可抽，則改為在我方牌組生成2張寶藏牌。",
+    		description: "使1個友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>1個敵軍單位，然後移至牌組最上方。",
+    		descriptionRaw: "使1個友軍單位打擊1個敵軍單位，然後移至牌組最上方。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「我們發財啦！」——殘鉤團屠夫",
+    		flavorText: "「這是小小的餞別禮……」——派克",
     		artistName: "Kudos Productions",
-    		name: "失落寶藏",
-    		cardCode: "04BW008",
+    		name: "刺骨串叉",
+    		cardCode: "04BW002",
     		keywords: [
-    			"疾速"
+    			"快速"
     		],
     		keywordRefs: [
-    			"Burst"
+    			"Fast"
     		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04BW010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04BW010-full.png"
+    			}
+    		],
+    		region: "比爾吉沃特",
+    		regionRef: "Bilgewater",
+    		attack: 0,
+    		cost: 6,
+    		health: 0,
+    		description: "對1個單位造成5點傷害。\r\n<link=vocab.Plunder><style=Vocab>洗劫</style></link>：此牌魔耗值-3。",
+    		descriptionRaw: "對1個單位造成5點傷害。\r\n洗劫：此牌魔耗值-3。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「小子們，海獸已經受傷了！快刺到牠動彈不得，血染大海為止！」——殘鉤團監工",
+    		artistName: "Kudos Productions",
+    		name: "巨怪魚叉",
+    		cardCode: "04BW010",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "普通",
+    		rarityRef: "Common",
     		subtype: "",
     		subtypes: [
     		],
@@ -5350,26 +1113,73 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
+    			"02BW030T4",
+    			"02BW030T1",
+    			"02BW030T3",
+    			"02BW030T2"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO014-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04BW008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04BW008-full.png"
     			}
     		],
-    		region: "愛歐尼亞",
-    		regionRef: "Ionia",
-    		attack: 1,
-    		cost: 1,
-    		health: 1,
-    		description: "召喚此牌時，若有友軍單位擁有<br><link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>，則賦予此牌+1|+1。",
-    		descriptionRaw: "召喚此牌時，若有友軍單位擁有閃靈，則賦予此牌+1|+1。",
+    		region: "比爾吉沃特",
+    		regionRef: "Bilgewater",
+    		attack: 0,
+    		cost: 4,
+    		health: 0,
+    		description: "抽1張寶藏牌。<br>若無寶藏牌可抽，則改為在<br>我方牌組生成2張寶藏牌。",
+    		descriptionRaw: "抽1張寶藏牌。若無寶藏牌可抽，則改為在我方牌組生成2張寶藏牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「如微風一般的輕聲細語，你如煙霧繚繞的輕拂；你的拳頭必須融入黑暗，如同陰影化為黑不透光的漆影一樣。好，再來一次！」——示師傅",
+    		flavorText: "「我們發財啦！」——殘鉤團屠夫",
+    		artistName: "Kudos Productions",
+    		name: "失落寶藏",
+    		cardCode: "04BW008",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04PZ005T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04PZ005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04PZ005-full.png"
+    			}
+    		],
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 1,
+    		cost: 2,
+    		health: 2,
+    		description: "召喚其他<link=card.selfRef><style=AssociatedCard>奇里安汙水坑工人</style></link>時，<link=keyword.Obliterate><style=Keyword>泯滅</style></link>此牌並將我方<link=vocab.Everywhere><style=Vocab>各處</style></link><link=card.selfRef><style=AssociatedCard>奇里安汙水坑工人</style></link>幻化為<link=card.transform><style=AssociatedCard>汙水坑暴徒</style></link>。",
+    		descriptionRaw: "召喚其他奇里安汙水坑工人時，泯滅此牌並將我方各處奇里安汙水坑工人幻化為汙水坑暴徒。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "首位發現奇里安的佐恩礦工以為牠們是溫馴單純的生物。但隨著時間過去，適應與人類共存後，牠們逐漸展現出緊密的社會性，而且似乎與生俱來就能瞭解科技。",
     		artistName: "Dao Le",
-    		name: "闇影學徒",
-    		cardCode: "04IO014",
+    		name: "奇里安汙水坑工人",
+    		cardCode: "04PZ005",
     		keywords: [
     			"隱密"
     		],
@@ -5395,39 +1205,83 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04PZ005T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04PZ005T2-full.png"
     			}
     		],
-    		region: "愛歐尼亞",
-    		regionRef: "Ionia",
-    		attack: 1,
-    		cost: 4,
-    		health: 4,
-    		description: "每回合召喚3個其他友軍單位後，<br>恢復我方所有法術魔力並抽1張牌。<style=Variable></style>",
-    		descriptionRaw: "每回合召喚3個其他友軍單位後，恢復我方所有法術魔力並抽1張牌。",
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "對所有敵軍單位與敵方主堡造成1點傷害。",
+    		descriptionRaw: "對所有敵軍單位與敵方主堡造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "音樂對某些人來說，是暫離苦難和暴戾的避風港；對另一些人來說，是讓自己更具韌性的力量來源。",
-    		artistName: "SIXMOREVODKA",
-    		name: "戰地樂手",
-    		cardCode: "04IO001",
+    		flavorText: "要惹惱一群奇里安不容易，但牠們一生起氣來，就會鬧得天翻地覆。",
+    		artistName: "Kudos Productions",
+    		name: "電路破壞者",
+    		cardCode: "04PZ005T2",
     		keywords: [
-    			"調節"
+    			"技能"
     		],
     		keywordRefs: [
-    			"Attune"
+    			"Skill"
     		],
     		spellSpeed: "",
     		spellSpeedRef: "",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "技能",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04PZ005T2",
+    			"04PZ005"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04PZ005T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04PZ005T1-full.png"
+    			}
+    		],
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
+    		attack: 4,
+    		cost: 2,
+    		health: 2,
+    		description: "<link=vocab.Attack><style=Vocab>攻擊：</style></link>對所有敵軍單位與敵方主堡<br>造成1點傷害。",
+    		descriptionRaw: "攻擊：對所有敵軍單位與敵方主堡造成1點傷害。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「一個就很厲害了沒錯，但如果好幾個合作，不知不覺就會打造出暴走機器，大鬧汙水坑巷了。」——佐恩機械工",
+    		artistName: "Dao Le",
+    		name: "汙水坑暴徒",
+    		cardCode: "04PZ005T1",
+    		keywords: [
+    			"隱密"
+    		],
+    		keywordRefs: [
+    			"Elusive"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
     		subtype: "",
     		subtypes: [
     		],
     		supertype: "",
     		type: "單位",
-    		collectible: true,
+    		collectible: false,
     		set: "Set4"
     	},
     	{
@@ -5530,33 +1384,34 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX018.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX018-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04PZ015.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04PZ015-full.png"
     			}
     		],
-    		region: "諾克薩斯",
-    		regionRef: "Noxus",
+    		region: "皮爾托福&佐恩",
+    		regionRef: "PiltoverZaun",
     		attack: 1,
     		cost: 1,
-    		health: 2,
-    		description: "我方下次召喚友軍單位時，對其造成1點傷害，並賦予此牌+1|+1。",
-    		descriptionRaw: "我方下次召喚友軍單位時，對其造成1點傷害，並賦予此牌+1|+1。",
+    		health: 3,
+    		description: "召喚機械單位時，與此牌共享特性。",
+    		descriptionRaw: "召喚機械單位時，與此牌共享特性。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「被牠們的利爪輕輕一劃就會血流如注，所以很少人會把牠們當寵物……但我絲毫不介意。」<br>——血色門徒，克拉拉",
+    		flavorText: "「有了！就叫適應創號3000！靈活多變、愛發明又超有型！如果這傢伙能說話，我們一定很聊得來。」——漢默丁格",
     		artistName: "Kudos Productions",
-    		name: "血色怪貓 ",
-    		cardCode: "04NX018",
+    		name: "適應創號3000",
+    		cardCode: "04PZ015",
     		keywords: [
     		],
     		keywordRefs: [
     		],
     		spellSpeed: "",
     		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
     		subtype: "",
     		subtypes: [
+    			"機械"
     		],
     		supertype: "",
     		type: "單位",
@@ -5567,27 +1422,26 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"01NX021"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX017.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX017-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH070.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH070-full.png"
     			}
     		],
-    		region: "諾克薩斯",
-    		regionRef: "Noxus",
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
     		attack: 0,
-    		cost: 8,
+    		cost: 2,
     		health: 0,
-    		description: "召喚2個<link=card.summon><style=AssociatedCard>軍團流寇</style></link>。",
-    		descriptionRaw: "召喚2個軍團流寇。",
+    		description: "本回合給予1個敵軍侍從單位<nobr>-4|-0</nobr>。\r\n若我方的魔力寶石數量少於對手，則改為擊殺該單位。",
+    		descriptionRaw: "本回合給予1個敵軍侍從單位-4|-0。\r\n若我方的魔力寶石數量少於對手，則改為擊殺該單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "雖說諾克薩斯士兵甚少留下活口，但流寇更加無情。",
+    		flavorText: "「陽光將再次照耀蘇瑞瑪的大地。」——重生者宣使",
     		artistName: "Kudos Productions",
-    		name: "人多勢眾",
-    		cardCode: "04NX017",
+    		name: "不配飛昇",
+    		cardCode: "04SH070",
     		keywords: [
     			"慢速"
     		],
@@ -5596,8 +1450,8 @@ var app = (function () {
     		],
     		spellSpeed: "慢速",
     		spellSpeedRef: "Slow",
-    		rarity: "普通",
-    		rarityRef: "Common",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
     		subtype: "",
     		subtypes: [
     		],
@@ -5613,301 +1467,8 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX016.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX016-full.png"
-    			}
-    		],
-    		region: "諾克薩斯",
-    		regionRef: "Noxus",
-    		attack: 2,
-    		cost: 4,
-    		health: 5,
-    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：賦予我方蜘蛛單位+1|+0。",
-    		descriptionRaw: "攻擊：賦予我方蜘蛛單位+1|+0。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「盡情地嘶吼讓眾人都聽到吧，我的寶貝！讓他們『興奮』難耐，讓我愉悅痛快！」——伊莉絲",
-    		artistName: "Kudos Productions",
-    		name: "尖嘯蜘蛛",
-    		cardCode: "04NX016",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "蜘蛛",
-    		subtypes: [
-    			"蜘蛛"
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI009-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 3,
-    		cost: 3,
-    		health: 2,
-    		description: "召喚此牌時，若本回合有友軍單位陣亡，則賦予此牌+1|+1與<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>。",
-    		descriptionRaw: "召喚此牌時，若本回合有友軍單位陣亡，則賦予此牌+1|+1與威嚇。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「曾經有位不幸的年輕人想要和蜘蛛交往，卻從來沒想過自己可能也會淪為牠的獵物……」",
-    		artistName: "Wild Blue",
-    		name: "織魂者",
-    		cardCode: "04SI009",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    			"蜘蛛"
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI015.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI015-full.png"
-    			}
-    		],
-    		region: "闇影島",
-    		regionRef: "ShadowIsles",
-    		attack: 2,
-    		cost: 2,
-    		health: 3,
-    		description: "每有1個其他友軍單位陣亡或<br><link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<link=vocab.Toss><style=Vocab>亂擲</style></link>1張牌。\r\n<style=Variable></style>",
-    		descriptionRaw: "每有1個其他友軍單位陣亡或遺願：亂擲1張牌。\r\n",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「好了，大夥們——把陷阱拉上來！記得，如果看到深海甲蟲，就切斷繩索換下一個。我才不想為了拿到牠們吃剩的垃圾而沉船，聽見沒？」——比爾吉沃特船長",
-    		artistName: "Kudos Productions",
-    		name: "深海甲蟲",
-    		cardCode: "04SI015",
-    		keywords: [
-    			"探底",
-    			"遺願"
-    		],
-    		keywordRefs: [
-    			"Deep",
-    			"LastBreath"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "海怪",
-    		subtypes: [
-    			"海怪"
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE014-full.png"
-    			}
-    		],
-    		region: "蒂瑪西亞",
-    		regionRef: "Demacia",
-    		attack: 0,
-    		cost: 1,
-    		health: 3,
-    		description: "我方打出龍族時，該龍族單位會<br><link=vocab.Strike><style=Vocab>打擊</style></link>此牌，接著我方抽1張牌。",
-    		descriptionRaw: "我方打出龍族時，該龍族單位會打擊此牌，接著我方抽1張牌。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「你說那遠在天邊的尖銳叫聲？兒子，那並不是鳥鳴，而是正在捕食的巨龍所發出的尖嘯。」——蒂瑪西亞農夫",
-    		artistName: "Kudos Productions",
-    		name: "巨龍點心",
-    		cardCode: "04DE014",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE013.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE013-full.png"
-    			}
-    		],
-    		region: "蒂瑪西亞",
-    		regionRef: "Demacia",
-    		attack: 7,
-    		cost: 6,
-    		health: 7,
-    		description: "敵方法術/技能無法對此牌造成傷害。",
-    		descriptionRaw: "敵方法術/技能無法對此牌造成傷害。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "傳說反魔法英石森林還很年輕時，這些偉大的石角獸就已存在了。牠們的鹿角和那些古老的樹木，材質上還有幾分相似。",
-    		artistName: "Kudos Productions",
-    		name: "魁偉石角鹿",
-    		cardCode: "04DE013",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR017.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR017-full.png"
-    			}
-    		],
-    		region: "弗雷爾卓德",
-    		regionRef: "Freljord",
-    		attack: 0,
-    		cost: 2,
-    		health: 0,
-    		description: "賦予牌組最上方的友軍單位+2|+2。\r\n<link=keyword.Enlightened><style=Keyword>開悟</style></link>：改為賦予牌組中所有<br>友軍單位+2|+2。",
-    		descriptionRaw: "賦予牌組最上方的友軍單位+2|+2。\r\n開悟：改為賦予牌組中所有友軍單位+2|+2。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "寒冷風暴無情地肆虐本已貧瘠的弗雷爾卓德，更奪走了無數性命。不過大難不死必有後福，倖存者們磨練出更加堅定的意志力，能夠面對未來的考驗。",
-    		artistName: "Kudos Productions",
-    		name: "先祖恩澤",
-    		cardCode: "04FR017",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR016.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR016-full.png"
-    			}
-    		],
-    		region: "弗雷爾卓德",
-    		regionRef: "Freljord",
-    		attack: 0,
-    		cost: 3,
-    		health: 0,
-    		description: "賦予1個友軍單位+1|+2。\r\n<link=vocab.Plunder><style=Vocab>洗劫</style></link>：改為賦予+2|+4。",
-    		descriptionRaw: "賦予1個友軍單位+1|+2。\r\n洗劫：改為賦予+2|+4。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「你們這些艾伐洛森人仰仗那肥沃土地坐吃山空，變得軟弱無能。虛弱的可憐蟲們啊，把握今晚最後的美夢吧，因為你們睜眼之時這一切都將屬於我們。」<br>——戰痕之母芙蕊娜",
-    		artistName: "Kudos Productions",
-    		name: "搜刮戰利",
-    		cardCode: "04FR016",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH020T1",
-    			"04SH020T2"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH020.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH020-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH081.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH081-full.png"
     			}
     		],
     		region: "蘇瑞瑪",
@@ -5915,205 +1476,322 @@ var app = (function () {
     		attack: 5,
     		cost: 4,
     		health: 3,
-    		description: "",
-    		descriptionRaw: "",
-    		levelupDescription: "我方造成35點以上傷害<style=Variable></style>。",
-    		levelupDescriptionRaw: "我方造成35點以上傷害。",
-    		flavorText: "希維爾一直以傭兵之姿過日子，所有隨之而來的，無論是獎賞懲罰，自己選擇自己承擔。一次不幸的遠征任務差點讓她失去一切，但就在此時，當她的血滲入蘇瑞瑪的沙石，喚醒了能讓她和她的家鄉重返榮耀的遠古力量。",
-    		artistName: "SIXMOREVODKA",
-    		name: "希維爾",
-    		cardCode: "04SH020",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：賦予1個敵軍單位<br><nobr>-1|-0</nobr>與<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
+    		descriptionRaw: "出牌：賦予1個敵軍單位-1|-0與弱勢。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "每撒出一粒沙，他們的生命就少了一秒，如同風一般慢慢侵蝕他們。",
+    		artistName: "Kudos Productions",
+    		name: "巴凱紡沙者",
+    		cardCode: "04SH081",
     		keywords: [
-    			"快速攻擊",
-    			"法盾"
     		],
     		keywordRefs: [
-    			"QuickStrike",
-    			"SpellShield"
     		],
     		spellSpeed: "",
     		spellSpeedRef: "",
-    		rarity: "英雄",
-    		rarityRef: "Champion",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "英雄",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH020",
-    			"04SH020T2"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH020T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH020T1-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 6,
-    		cost: 4,
-    		health: 4,
-    		description: "此牌攻擊時，攻擊中的友軍單位將擁有此牌的特性。",
-    		descriptionRaw: "此牌攻擊時，攻擊中的友軍單位將擁有此牌的特性。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「我對每個想跟我共事的人都說這話：『自己的酬勞自己賺，我不會虧待你。但若你是老鼠屎或拖油瓶，我就會親手殺了你。』」",
-    		artistName: "SIXMOREVODKA",
-    		name: "希維爾",
-    		cardCode: "04SH020T1",
-    		keywords: [
-    			"快速攻擊",
-    			"法盾"
-    		],
-    		keywordRefs: [
-    			"QuickStrike",
-    			"SpellShield"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "英雄",
-    		type: "單位",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH020",
-    			"04SH020T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH020T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH020T2-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 6,
-    		health: 0,
-    		description: "<link=vocab.Aftermath><style=Vocab>名望</style></link>：此牌魔耗值為3點。<style=Variable></style>\r\n隨機對敵軍單位或敵方主堡<br>造成1點傷害5次。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>希維爾</style></link>。",
-    		descriptionRaw: "名望：此牌魔耗值為3點。\r\n隨機對敵軍單位或敵方主堡造成1點傷害5次。\r\n在我方牌組生成1張希維爾。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「場面可能會有點慘烈。」——希維爾",
-    		artistName: "Kudos Productions",
-    		name: "希維爾 十字彈射",
-    		cardCode: "04SH020T2",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "英雄",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH119.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH119-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 6,
-    		health: 0,
-    		description: "<link=vocab.Aftermath><style=Vocab>名望</style></link>：此牌魔耗值為3點。<style=Variable></style>\r\n隨機對敵軍單位或敵方主堡造成1點傷害5次。",
-    		descriptionRaw: "名望：此牌魔耗值為3點。\r\n隨機對敵軍單位或敵方主堡造成1點傷害5次。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「場面可能會有點慘烈。」——希維爾",
-    		artistName: "Kudos Productions",
-    		name: "十字彈射",
-    		cardCode: "04SH119",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH108.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH108-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 7,
-    		health: 0,
-    		description: "使1個友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>\r\n<link=vocab.Strongest><style=Vocab>最強</style></link>與<link=keyword.Weakest><style=Keyword>最弱</style></link>敵軍單位。",
-    		descriptionRaw: "使1個友軍單位打擊\r\n最強與最弱敵軍單位。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「勸你趕快閃。」——希維爾",
-    		artistName: "Kudos Productions",
-    		name: "迴旋之刃",
-    		cardCode: "04SH108",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
     		rarity: "稀有",
     		rarityRef: "Rare",
     		subtype: "",
     		subtypes: [
     		],
     		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH059T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH059T2-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 4,
+    		health: 0,
+    		description: "摧毀我方1個魔力寶石，以抵銷敵方所有<link=keyword.Fast><sprite name=Fast><style=Keyword>快速</style></link>法術、<link=keyword.Slow><sprite name=Slow><style=Keyword>慢速</style></link>法術與<link=keyword.Skill><sprite name=PlaySkillMark><style=Keyword>技能</style></link>。",
+    		descriptionRaw: "摧毀我方1個魔力寶石，以抵銷敵方所有快速法術、慢速法術與技能。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "",
+    		artistName: "Kudos Productions",
+    		name: "相消儀式",
+    		cardCode: "04SH059T2",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
     		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH059T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH059T1-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 4,
+    		health: 0,
+    		description: "擊殺1個友軍單位，以抵銷敵方所有<link=keyword.Fast><sprite name=Fast><style=Keyword>快速</style></link>法術、<link=keyword.Slow><sprite name=Slow><style=Keyword>慢速</style></link>法術與<link=keyword.Skill><sprite name=PlaySkillMark><style=Keyword>技能</style></link>。",
+    		descriptionRaw: "擊殺1個友軍單位，以抵銷敵方所有快速法術、慢速法術與技能。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "",
+    		artistName: "Kudos Productions",
+    		name: "相消儀式",
+    		cardCode: "04SH059T1",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH077.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH077-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 3,
+    		cost: 4,
+    		health: 4,
+    		description: "若我方已升級英雄，則友軍單位獲得+2|+0。",
+    		descriptionRaw: "若我方已升級英雄，則友軍單位獲得+2|+0。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「很久以前，我聽過她說話。」老兵笑了，頓時，他的孫女能夠想像那片光景：蘇瑞瑪閃閃發光，阿祈爾氣宇軒昂地看顧著城市，重生者宣使高聲宣揚他的到來。「她激起了我們早以為失去的熱情。」",
+    		artistName: "Eunice",
+    		name: "重生者宣使",
+    		cardCode: "04SH077",
+    		keywords: [
+    			"Missing Translation"
+    		],
+    		keywordRefs: [
+    			"AuraVisualFakeKeyword"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH089T1",
+    			"04SH090"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH089.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH089-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 2,
+    		cost: 4,
+    		health: 4,
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：摧毀1個地標。若是我方地標，則召喚1個<link=card.summon><style=AssociatedCard>暴躁岩熊</style></link>。",
+    		descriptionRaw: "出牌：摧毀1個地標。若是我方地標，則召喚1個暴躁岩熊。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「卡蒂拉今天又弄壞東西了！這次只是一面石牆，但看起來很有歷史，說不定對誰的祖宗八代很重要。她的藉口是特雷西尼的牆壁不像這裡的那麼脆弱，但我還是氣炸了！」——賽發的日記",
+    		artistName: "Dao Le",
+    		name: "沙漠學家",
+    		cardCode: "04SH089",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH090",
+    			"04SH089"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH089T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH089T1-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "摧毀1個地標。若是我方地標，<br>則召喚1個<link=card.summon><style=AssociatedCard>暴躁岩熊</style></link>。",
+    		descriptionRaw: "摧毀1個地標。若是我方地標，則召喚1個暴躁岩熊。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「卡蒂拉今天又弄壞東西了！這次只是一面石牆，但看起來很有歷史，說不定對誰的祖宗八代很重要。她的藉口是特雷西尼的牆壁不像這裡的那麼脆弱，但我還是氣炸了！」——賽發的日記",
+    		artistName: "Kudos Productions",
+    		name: "血氣方剛",
+    		cardCode: "04SH089T1",
+    		keywords: [
+    			"技能"
+    		],
+    		keywordRefs: [
+    			"Skill"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "技能",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH015.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH015-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 6,
+    		cost: 7,
+    		health: 6,
+    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：本回合給予所有敵軍單位<nobr>-2|-0</nobr>。",
+    		descriptionRaw: "攻擊：本回合給予所有敵軍單位-2|-0。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「這隻鱷魚出生時，就是發育最不良、外型最醜陋的，大家都在打賭牠能活多久。呵！沒想到牠竟然把手足吃得一乾二淨！」",
+    		artistName: "JiHun Lee",
+    		name: "血鬃拉茲",
+    		cardCode: "04SH015",
+    		keywords: [
+    			"威嚇"
+    		],
+    		keywordRefs: [
+    			"Fearsome"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH003T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH058.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH058-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 3,
+    		cost: 4,
+    		health: 5,
+    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：召喚1個攻擊中的<link=card.summon><style=AssociatedCard>沙礫士兵</style></link>。",
+    		descriptionRaw: "攻擊：召喚1個攻擊中的沙礫士兵。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "很少人知道沙漠的生存之道，更少人能夠像阿祈爾一樣操縱沙子。只有阿祈爾最忠誠、最厲害的侍從能夠有幸擁有這份力量，以及知曉沙漠的秘密。",
+    		artistName: "Kudos Productions",
+    		name: "沙術士",
+    		cardCode: "04SH058",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
     		collectible: true,
     		set: "Set4"
     	},
@@ -6164,27 +1842,27 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"04SH098"
+    			"04SH014"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH048.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH048-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH028.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH028-full.png"
     			}
     		],
     		region: "蘇瑞瑪",
     		regionRef: "Shurima",
     		attack: 0,
-    		cost: 3,
+    		cost: 1,
     		health: 0,
-    		description: "<link=vocab.Aftermath><style=Vocab>名望</style></link>：此牌魔耗值為0點。<style=Variable></style>\r\n<link=vocab.Buried><style=Vocab>倒數1</style></link><style=Variable></style>：在手牌生成2張<link=card.create><style=AssociatedCard>挖到寶</style></link>。",
-    		descriptionRaw: "名望：此牌魔耗值為0點。\r\n倒數1：在手牌生成2張挖到寶。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=vocab.Forecast><style=Vocab>預言</style></link>。\r\n<link=vocab.Buried><style=Vocab>倒數2</style></link><style=Variable></style>：召喚1個<link=card.create><style=AssociatedCard>時鐘機器人</style></link>。",
+    		descriptionRaw: "出牌：預言。\r\n倒數2：召喚1個時鐘機器人。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「有些地圖需要好幾年才能解讀；有些陷阱需要好幾個月才能解除，而有些寶庫需要好幾週才能摸透，但成功的那瞬間，每分每秒都值得。」——希維爾",
-    		artistName: "Kudos Productions",
-    		name: "聖所內殿",
-    		cardCode: "04SH048",
+    		flavorText: "雖然它們已被沙塵深埋於地底多年，似乎已被時間遺忘，但其實這些機器人是按計劃被精準地安置於此地，只等著被喚醒。",
+    		artistName: "Polar Engine",
+    		name: "遠古計劃",
+    		cardCode: "04SH028",
     		keywords: [
     			"地標"
     		],
@@ -6210,494 +1888,28 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH002-full.png"
     			}
     		],
     		region: "蘇瑞瑪",
     		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 0,
-    		health: 0,
-    		description: "從3個增益效果中挑選1個，<br>賦予1個友軍單位。",
-    		descriptionRaw: "從3個增益效果中挑選1個，賦予1個友軍單位。",
+    		attack: 1,
+    		cost: 1,
+    		health: 2,
+    		description: "我方<link=vocab.Slay><style=Vocab>屠殺</style></link>單位時，賦予此牌+1|+0。",
+    		descriptionRaw: "我方屠殺單位時，賦予此牌+1|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「找到寶藏的那一刻最開心了。」——希維爾",
+    		flavorText: "「飛昇儀式失敗後，所有巴凱不是被遺棄，就是四散而逃，之後便行蹤成謎。背負著這樣的屈辱，和委身於暗黑墓地中的淒涼，又有誰能明瞭？」——《飛昇戰士團史》，書吏卡尼爾著",
     		artistName: "Kudos Productions",
-    		name: "挖到寶",
-    		cardCode: "04SH098",
+    		name: "巴凱收割者",
+    		cardCode: "04SH002",
     		keywords: [
-    			"飛逝",
-    			"專注"
+    			"威嚇"
     		],
     		keywordRefs: [
-    			"Fleeting",
-    			"Focus"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T1-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 0,
-    		health: 0,
-    		description: "<link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>法盾</style></link>",
-    		descriptionRaw: "法盾",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「小子，你的雕蟲小技比你腳下的沙子還不如。」——希維爾",
-    		artistName: "Kudos Productions",
-    		name: "挖到寶",
-    		cardCode: "04SH098T1",
-    		keywords: [
-    			"專注"
-    		],
-    		keywordRefs: [
-    			"Focus"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T2-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 0,
-    		health: 0,
-    		description: "<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>",
-    		descriptionRaw: "挑戰者",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「敢拒絕我就試試看。」——希維爾",
-    		artistName: "Kudos Productions",
-    		name: "挖到寶",
-    		cardCode: "04SH098T2",
-    		keywords: [
-    			"專注"
-    		],
-    		keywordRefs: [
-    			"Focus"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T3.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T3-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 0,
-    		health: 0,
-    		description: "<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>",
-    		descriptionRaw: "威嚇",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「會怕就好。」——希維爾",
-    		artistName: "Kudos Productions",
-    		name: "挖到寶",
-    		cardCode: "04SH098T3",
-    		keywords: [
-    			"專注"
-    		],
-    		keywordRefs: [
-    			"Focus"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T5.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T5-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 0,
-    		health: 0,
-    		description: "+2|+0",
-    		descriptionRaw: "+2|+0",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「來把他們大卸八塊吧。」——希維爾",
-    		artistName: "Kudos Productions",
-    		name: "挖到寶",
-    		cardCode: "04SH098T5",
-    		keywords: [
-    			"專注"
-    		],
-    		keywordRefs: [
-    			"Focus"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T6.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T6-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 0,
-    		health: 0,
-    		description: "+1|+1",
-    		descriptionRaw: "+1|+1",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「高手要變高高手了。」——希維爾",
-    		artistName: "Kudos Productions",
-    		name: "挖到寶",
-    		cardCode: "04SH098T6",
-    		keywords: [
-    			"專注"
-    		],
-    		keywordRefs: [
-    			"Focus"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T7.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T7-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 0,
-    		health: 0,
-    		description: "<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>",
-    		descriptionRaw: "快速攻擊",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「快如閃電。」——希維爾",
-    		artistName: "Kudos Productions",
-    		name: "挖到寶",
-    		cardCode: "04SH098T7",
-    		keywords: [
-    			"專注"
-    		],
-    		keywordRefs: [
-    			"Focus"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T8.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T8-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 0,
-    		health: 0,
-    		description: "+0|+2",
-    		descriptionRaw: "+0|+2",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「來啊，放馬過來。然後就換我出手了。」——希維爾",
-    		artistName: "Kudos Productions",
-    		name: "挖到寶",
-    		cardCode: "04SH098T8",
-    		keywords: [
-    			"專注"
-    		],
-    		keywordRefs: [
-    			"Focus"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T10.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T10-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 0,
-    		health: 0,
-    		description: "<link=keyword.Tough><sprite name=Tough><style=Keyword>堅忍</style></link>",
-    		descriptionRaw: "堅忍",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「死了等於沒賺。」——希維爾",
-    		artistName: "Kudos Productions",
-    		name: "挖到寶",
-    		cardCode: "04SH098T10",
-    		keywords: [
-    			"專注"
-    		],
-    		keywordRefs: [
-    			"Focus"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T12.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T12-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 0,
-    		health: 0,
-    		description: "<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>蠻力</style></link>",
-    		descriptionRaw: "蠻力",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「如果過不去，那就穿過去吧。」——希維爾",
-    		artistName: "Kudos Productions",
-    		name: "挖到寶",
-    		cardCode: "04SH098T12",
-    		keywords: [
-    			"專注"
-    		],
-    		keywordRefs: [
-    			"Focus"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH003T14"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH118.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH118-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 2,
-    		health: 0,
-    		description: "召喚1個<link=card.summon><style=AssociatedCard>砂褐衝鋒者</style></link>。",
-    		descriptionRaw: "召喚1個砂褐衝鋒者。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「那個箱子可能值點錢，但裡面的東西肯定跟沙子一樣毫無價值。我的意思是叫你別浪費力氣打開了。這是我的經驗談。」——希維爾",
-    		artistName: "Kudos Productions",
-    		name: "覺醒沙團",
-    		cardCode: "04SH118",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH003T14"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH105.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH105-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 5,
-    		health: 0,
-    		description: "我方攻擊時，召喚1個攻擊中的<br><link=card.create><style=AssociatedCard>砂褐衝鋒者</style></link>。",
-    		descriptionRaw: "我方攻擊時，召喚1個攻擊中的砂褐衝鋒者。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "當他們穿越河谷，沙術士念出咒語，一陣狂風便席捲峽谷，回音化為震耳欲聾的蹄聲。",
-    		artistName: "Kudos Productions",
-    		name: "古沙陵墓",
-    		cardCode: "04SH105",
-    		keywords: [
-    			"地標"
-    		],
-    		keywordRefs: [
-    			"LandmarkVisualOnly"
+    			"Fearsome"
     		],
     		spellSpeed: "",
     		spellSpeedRef: "",
@@ -6707,7 +1919,7 @@ var app = (function () {
     		subtypes: [
     		],
     		supertype: "",
-    		type: "地標",
+    		type: "單位",
     		collectible: true,
     		set: "Set4"
     	},
@@ -6715,42 +1927,43 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
+    			"04SH090"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T14.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T14-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH042.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH042-full.png"
     			}
     		],
     		region: "蘇瑞瑪",
     		regionRef: "Shurima",
-    		attack: 5,
+    		attack: 0,
     		cost: 2,
-    		health: 2,
-    		description: "",
-    		descriptionRaw: "",
+    		health: 0,
+    		description: "<link=vocab.Buried><style=Vocab>倒數3</style></link><style=Variable></style>：召喚1個<link=card.create><style=AssociatedCard>暴躁岩熊</style></link>。",
+    		descriptionRaw: "倒數3：召喚1個暴躁岩熊。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「突然之間地上的砂子旋轉成形，把我們打得潰不成軍，然後……他們就憑空消失了，在沙漠中消散、再度融於大地。」——沙漠倖存者",
-    		artistName: "Kudos Productions",
-    		name: "砂褐衝鋒者",
-    		cardCode: "04SH003T14",
+    		flavorText: "「我的名字叫賽發，我喜歡在薩彌爾和大家都睡著的時候，在我無厘頭的本子裡寫些無厘頭的東西。」\n——賽發的日記",
+    		artistName: "Polar Engine",
+    		name: "冬眠岩熊",
+    		cardCode: "04SH042",
     		keywords: [
-    			"閃靈"
+    			"地標"
     		],
     		keywordRefs: [
-    			"Ephemeral"
+    			"LandmarkVisualOnly"
     		],
     		spellSpeed: "",
     		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
+    		rarity: "普通",
+    		rarityRef: "Common",
     		subtype: "",
     		subtypes: [
     		],
     		supertype: "",
-    		type: "單位",
-    		collectible: false,
+    		type: "地標",
+    		collectible: true,
     		set: "Set4"
     	},
     	{
@@ -6841,34 +2054,32 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"04NX005",
-    			"04NX004T1",
-    			"04NX004T2"
+    			"04SH039T1",
+    			"04SH039T2",
+    			"04SH060T1"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH039.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH039-full.png"
     			}
     		],
-    		region: "諾克薩斯",
-    		regionRef: "Noxus",
-    		attack: 5,
-    		cost: 3,
-    		health: 2,
-    		description: "",
-    		descriptionRaw: "",
-    		levelupDescription: "此牌在場上時，我方造成<br>15點以上傷害<style=Variable></style>。",
-    		levelupDescriptionRaw: "此牌在場上時，我方造成15點以上傷害。",
-    		flavorText: "「好了好了，起內鬨沒意義。暫時不要草率行事，待探子捎來消息後我們再開議，畢竟……」",
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 1,
+    		cost: 2,
+    		health: 4,
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：在我方牌組生成4張<link=card.create><style=AssociatedCard>定時炸彈</style></link>，然後<link=vocab.Forecast><style=Vocab>預言</style></link>。",
+    		descriptionRaw: "出牌：在我方牌組生成4張定時炸彈，然後預言。",
+    		levelupDescription: "此牌在場上時，我方摧毀2個友軍<link=card.create><style=AssociatedCard>定時炸彈</style></link><style=Variable></style>。",
+    		levelupDescriptionRaw: "此牌在場上時，我方摧毀2個友軍定時炸彈。",
+    		flavorText: "多年來，極靈穿梭時空，結識了許多來自不同時代的年輕法師，全都蘊藏著無窮潛力。這樣一來，萬一他自身遭遇不測，任何一人都可以延續他的畢生心血。雖然在這些年輕法師的眼中，極靈是個和藹可親、懂得鼓勵人的良師，當他獨處時，緊鎖的眉頭卻總透露出深沉哀傷，而那眼中的疲倦痛苦，唯有活過不只一輩子的人才能體悟。",
     		artistName: "SIXMOREVODKA",
-    		name: "勒布朗",
-    		cardCode: "04NX004",
+    		name: "極靈",
+    		cardCode: "04SH039",
     		keywords: [
-    			"快速攻擊"
     		],
     		keywordRefs: [
-    			"QuickStrike"
     		],
     		spellSpeed: "",
     		spellSpeedRef: "",
@@ -6886,475 +2097,12 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"04NX005",
-    			"04NX004T1",
-    			"04NX004"
+    			"04SH060T1"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX004T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX004T2-full.png"
-    			}
-    		],
-    		region: "諾克薩斯",
-    		regionRef: "Noxus",
-    		attack: 6,
-    		cost: 3,
-    		health: 3,
-    		description: "此牌在場上時，我方每造成15點以上傷害，便在手牌生成1張<link=card.create><style=AssociatedCard>鏡像</style></link>。<br>若手牌中已有該牌，<br>則改為使其魔耗值-1。<style=Variable></style>",
-    		descriptionRaw: "此牌在場上時，我方每造成15點以上傷害，便在手牌生成1張鏡像。若手牌中已有該牌，則改為使其魔耗值-1。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「……我們的目標都是一致的。」",
-    		artistName: "SIXMOREVODKA",
-    		name: "勒布朗",
-    		cardCode: "04NX004T2",
-    		keywords: [
-    			"快速攻擊"
-    		],
-    		keywordRefs: [
-    			"QuickStrike"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "英雄",
-    		type: "單位",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX006-full.png"
-    			}
-    		],
-    		region: "諾克薩斯",
-    		regionRef: "Noxus",
-    		attack: 3,
-    		cost: 2,
-    		health: 2,
-    		description: "<link=vocab.Aftermath><style=Vocab>名望</style></link>：召喚此牌時，將此牌幻化為\r\n本回合進行過<link=vocab.Strike><style=Vocab>打擊</style></link>的<link=vocab.Strongest><style=Vocab>最強</style></link>友軍單位的複製單位。<style=Variable></style>",
-    		descriptionRaw: "名望：召喚此牌時，將此牌幻化為\r\n本回合進行過打擊的最強友軍單位的複製單位。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「一旦曝光，秘密就不值錢了。」",
-    		artistName: "Grafit Studio",
-    		name: "黑玫瑰間諜",
-    		cardCode: "04NX006",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04NX004",
-    			"04NX004T2"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX004T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX004T1-full.png"
-    			}
-    		],
-    		region: "諾克薩斯",
-    		regionRef: "Noxus",
-    		attack: 0,
-    		cost: 4,
-    		health: 0,
-    		description: "<link=vocab.Aftermath><style=Vocab>名望</style></link>：此牌魔耗值為1點。<style=Variable></style>\r\n對任1目標造成2點傷害。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>勒布朗</style></link>。",
-    		descriptionRaw: "名望：此牌魔耗值為1點。\r\n對任1目標造成2點傷害。\r\n在我方牌組生成1張勒布朗。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "得勝後絕不能手下容情，必須乘勝追擊，將仇敵趕盡殺絕。",
-    		artistName: "Kudos Productions",
-    		name: "勒布朗 惡意印記",
-    		cardCode: "04NX004T1",
-    		keywords: [
-    			"快速"
-    		],
-    		keywordRefs: [
-    			"Fast"
-    		],
-    		spellSpeed: "快速",
-    		spellSpeedRef: "Fast",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "英雄",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX003-full.png"
-    			}
-    		],
-    		region: "諾克薩斯",
-    		regionRef: "Noxus",
-    		attack: 0,
-    		cost: 4,
-    		health: 0,
-    		description: "<link=vocab.Aftermath><style=Vocab>名望</style></link>：此牌魔耗值為1點。<style=Variable></style>\r\n對任1目標造成2點傷害。",
-    		descriptionRaw: "名望：此牌魔耗值為1點。\r\n對任1目標造成2點傷害。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "得勝後絕不能手下容情，必須乘勝追擊，將仇敵趕盡殺絕。",
-    		artistName: "Kudos Productions",
-    		name: "惡意印記",
-    		cardCode: "04NX003",
-    		keywords: [
-    			"快速"
-    		],
-    		keywordRefs: [
-    			"Fast"
-    		],
-    		spellSpeed: "快速",
-    		spellSpeedRef: "Fast",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX002-full.png"
-    			}
-    		],
-    		region: "諾克薩斯",
-    		regionRef: "Noxus",
-    		attack: 0,
-    		cost: 4,
-    		health: 0,
-    		description: "<link=vocab.Aftermath><style=Vocab>名望</style></link>：此牌魔耗值為2點。<style=Variable></style>\r\n抽2張牌。",
-    		descriptionRaw: "名望：此牌魔耗值為2點。\r\n抽2張牌。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "處心積慮設局讓流言滿天飛，而真相永遠只有一個。",
-    		artistName: "Kudos Productions",
-    		name: "流言蜚語",
-    		cardCode: "04NX002",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX001-full.png"
-    			}
-    		],
-    		region: "諾克薩斯",
-    		regionRef: "Noxus",
-    		attack: 0,
-    		cost: 3,
-    		health: 0,
-    		description: "<link=vocab.Aftermath><style=Vocab>名望</style></link>：此牌魔耗值為1點。<style=Variable></style>\r\n從場上或手牌中挑選1個法術，在手牌生成1張該牌的<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>複製牌。",
-    		descriptionRaw: "名望：此牌魔耗值為1點。\r\n從場上或手牌中挑選1個法術，在手牌生成1張該牌的飛逝複製牌。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "模仿是最真誠的讚美，而讚美有時候反而是最致命的。",
-    		artistName: "Kudos Productions",
-    		name: "模仿",
-    		cardCode: "04NX001",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX015.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX015-full.png"
-    			}
-    		],
-    		region: "諾克薩斯",
-    		regionRef: "Noxus",
-    		attack: 0,
-    		cost: 4,
-    		health: 0,
-    		description: "使1個力量值5點以上的友軍單位<br><link=vocab.Strike><style=Vocab>打擊</style></link>1個敵軍單位。",
-    		descriptionRaw: "使1個力量值5點以上的友軍單位打擊1個敵軍單位。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「最可怕的威脅都是躲在不見光處的。」——勒布朗",
-    		artistName: "Kudos Productions",
-    		name: "血腥事件",
-    		cardCode: "04NX015",
-    		keywords: [
-    			"快速"
-    		],
-    		keywordRefs: [
-    			"Fast"
-    		],
-    		spellSpeed: "快速",
-    		spellSpeedRef: "Fast",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"01NX049"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX010-full.png"
-    			}
-    		],
-    		region: "諾克薩斯",
-    		regionRef: "Noxus",
-    		attack: 5,
-    		cost: 3,
-    		health: 1,
-    		description: "召喚此牌時，在手牌生成1張<link=card.guile><style=AssociatedCard>狡詐</style></link>。",
-    		descriptionRaw: "召喚此牌時，在手牌生成1張狡詐。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「艾連娜，我的摯友和同僚！妳有見到都因領主嗎……？啊，真是太可惜了，我本想和他敘敘舊。若那老朋友出了什麼差錯，我可是會傷心欲絕的……」<br>——黑玫瑰間諜，奧芙蕊夫人",
-    		artistName: "Grafit Studio",
-    		name: "玫瑰棘兵",
-    		cardCode: "04NX010",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX005-full.png"
-    			}
-    		],
-    		region: "諾克薩斯",
-    		regionRef: "Noxus",
-    		attack: 0,
-    		cost: 2,
-    		health: 0,
-    		description: "召喚1個力量值5點以上友軍單位的<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>複製單位。",
-    		descriptionRaw: "召喚1個力量值5點以上友軍單位的閃靈複製單位。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「看到分身了嗎？」——勒布朗",
-    		artistName: "Kudos Productions",
-    		name: "鏡像",
-    		cardCode: "04NX005",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T1-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 1,
-    		cost: 1,
-    		health: 1,
-    		description: "<link=vocab.NexusStrike><style=Vocab>打擊主堡</style></link>：對敵方主堡造成1點傷害。",
-    		descriptionRaw: "打擊主堡：對敵方主堡造成1點傷害。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "在蘇瑞瑪重生前，阿祈爾的軍團就以所向披靡而聞名四方，現在他們的勢力更加強大，無所不在。",
-    		artistName: "Kudos Productions",
-    		name: "沙礫士兵",
-    		cardCode: "04SH003T1",
-    		keywords: [
-    			"閃靈"
-    		],
-    		keywordRefs: [
-    			"Ephemeral"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH003T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH026.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH026-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 2,
-    		cost: 1,
-    		health: 1,
-    		description: "召喚此牌時，召喚1個<link=card.summon><style=AssociatedCard>沙礫士兵</style></link>。",
-    		descriptionRaw: "召喚此牌時，召喚1個沙礫士兵。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「只要神皇一聲令下，眾沙塵與我皆將臣服。」",
-    		artistName: "Kudos Productions",
-    		name: "沙丘守護者",
-    		cardCode: "04SH026",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH003T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH051.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH051-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH060T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH060T1-full.png"
     			}
     		],
     		region: "蘇瑞瑪",
@@ -7362,14 +2110,14 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "我方攻擊時，召喚1個攻擊中的<br><link=card.create><style=AssociatedCard>沙礫士兵</style></link>。",
-    		descriptionRaw: "我方攻擊時，召喚1個攻擊中的沙礫士兵。",
+    		description: "召喚此牌時，抽1張牌並<link=vocab.Advance><style=Vocab>快轉</style></link>其他我方定時炸彈1回合。\r\n<link=vocab.Buried><style=Vocab>倒數1</style></link><style=Variable></style>：對所有敵軍單位與敵方主堡造成1點傷害。",
+    		descriptionRaw: "召喚此牌時，抽1張牌並快轉其他我方定時炸彈1回合。\r\n倒數1：對所有敵軍單位與敵方主堡造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "沙術士一抬手，沙子便化為那熟悉的無臉士兵整裝待發。不知疲倦為何物的軍團旋即準備好為了神皇而戰。 ",
-    		artistName: "Kudos Productions",
-    		name: "神皇座台",
-    		cardCode: "04SH051",
+    		flavorText: "「建設性」地利用時間，便能帶來「破壞性」的成果。",
+    		artistName: "Polar Engine",
+    		name: "定時炸彈",
+    		cardCode: "04SH060T1",
     		keywords: [
     			"地標"
     		],
@@ -7378,13 +2126,144 @@ var app = (function () {
     		],
     		spellSpeed: "",
     		spellSpeedRef: "",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
+    		rarity: "無",
+    		rarityRef: "None",
     		subtype: "",
     		subtypes: [
     		],
     		supertype: "",
     		type: "地標",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH039",
+    			"04SH039T2",
+    			"04SH039T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH039T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH039T2-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 7,
+    		health: 0,
+    		description: "給予1個我方英雄：「本回合此牌下次將要陣亡時，反而會完全治癒此牌，並賦予其+3|+3」。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>極靈</style></link>。",
+    		descriptionRaw: "給予1個我方英雄：「本回合此牌下次將要陣亡時，反而會完全治癒此牌，並賦予其+3|+3」。\r\n在我方牌組生成1張極靈。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「生命總會走到盡頭……但我們能拖延最後那段旅程。」——極靈",
+    		artistName: "Kudos Productions",
+    		name: "極靈 時光倒流",
+    		cardCode: "04SH039T2",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH039",
+    			"04SH039T2",
+    			"04SH060T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH039T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH039T1-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 2,
+    		cost: 2,
+    		health: 5,
+    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：上一回合此牌在場上時，我方每打出1張非<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>卡牌，則生成1張該張牌的<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>複製牌。\r\n<link=vocab.Play><style=Vocab>出牌</style></link>：在我方牌組生成4張<link=card.create><style=AssociatedCard>定時炸彈</style></link>，然後<link=vocab.Forecast><style=Vocab>預言</style></link>。",
+    		descriptionRaw: "回合開始：上一回合此牌在場上時，我方每打出1張非飛逝卡牌，則生成1張該張牌的飛逝複製牌。\r\n出牌：在我方牌組生成4張定時炸彈，然後預言。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "無窮無盡的可能性在極靈周圍伸展開來，全部同時映入他眼簾。除了他以外，無人能夠解讀這幅深奧複雜的時光圖。極靈只需輕輕揮手，便能展開多個時間軸，但卻仍未能從中找到拯救伊卡西亞的方法。",
+    		artistName: "SIXMOREVODKA",
+    		name: "極靈",
+    		cardCode: "04SH039T1",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH073T2",
+    			"04SH073T3",
+    			"04SH073T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH073.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH073-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 2,
+    		cost: 5,
+    		health: 4,
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：召喚1個我方地標的複製牌。",
+    		descriptionRaw: "出牌：召喚1個我方地標的複製牌。",
+    		levelupDescription: "我方召喚5個以上的地標<style=Variable></style>。",
+    		levelupDescriptionRaw: "我方召喚5個以上的地標。",
+    		flavorText: "「遊牧民族的步伐總是輕盈無比，因為他們不必落地生根，而家永遠都在地平線的另一端。」\n——蘇瑞瑪俗諺",
+    		artistName: "SIXMOREVODKA",
+    		name: "塔莉雅",
+    		cardCode: "04SH073",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "英雄",
+    		rarityRef: "Champion",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "單位",
     		collectible: true,
     		set: "Set4"
     	},
@@ -7392,27 +2271,156 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"04SH003T1"
+    			"04SH073",
+    			"04SH073T3",
+    			"04SH073T1"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH058.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH058-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH073T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH073T2-full.png"
     			}
     		],
     		region: "蘇瑞瑪",
     		regionRef: "Shurima",
     		attack: 3,
-    		cost: 4,
+    		cost: 5,
     		health: 5,
-    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：召喚1個攻擊中的<link=card.summon><style=AssociatedCard>沙礫士兵</style></link>。",
-    		descriptionRaw: "攻擊：召喚1個攻擊中的沙礫士兵。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：召喚1個我方地標的複製牌。\r\n<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>攻擊</style></link>：對格擋此牌的單位造成2點傷害。若該單位已陣亡或離開場上，則改為對敵方主堡造成2點傷害。若我方場上有地標，則此效果再發動2次。",
+    		descriptionRaw: "出牌：召喚1個我方地標的複製牌。\r\n攻擊：對格擋此牌的單位造成2點傷害。若該單位已陣亡或離開場上，則改為對敵方主堡造成2點傷害。若我方場上有地標，則此效果再發動2次。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "很少人知道沙漠的生存之道，更少人能夠像阿祈爾一樣操縱沙子。只有阿祈爾最忠誠、最厲害的侍從能夠有幸擁有這份力量，以及知曉沙漠的秘密。",
+    		flavorText: "在聽聞家鄉發生重大改變後，塔莉雅離開了愛歐尼亞。當她回到蘇瑞瑪時，她發現神皇重生，民不聊生，煞族比以往更加活躍。她別無選擇，只好年紀輕輕肩扛重任。",
+    		artistName: "SIXMOREVODKA",
+    		name: "塔莉雅",
+    		cardCode: "04SH073T2",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH073"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH073T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH073T1-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "對格擋<link=card.parentRef><style=AssociatedCard>塔莉雅</style></link>的單位造成2點傷害。若該單位已陣亡或離開場上，則改為對敵方主堡造成2點傷害。",
+    		descriptionRaw: "對格擋塔莉雅的單位造成2點傷害。若該單位已陣亡或離開場上，則改為對敵方主堡造成2點傷害。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「再丟一顆石頭！」——塔莉雅",
     		artistName: "Kudos Productions",
-    		name: "沙術士",
-    		cardCode: "04SH058",
+    		name: "旋舞飛岩",
+    		cardCode: "04SH073T1",
+    		keywords: [
+    			"技能"
+    		],
+    		keywordRefs: [
+    			"Skill"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "技能",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH073",
+    			"04SH073T2"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH073T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH073T3-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 1,
+    		health: 0,
+    		description: "查看3張我方有足夠魔力能打出的隨機地標，並挑選1張在手牌生成。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>塔莉雅</style></link>。",
+    		descriptionRaw: "查看3張我方有足夠魔力能打出的隨機地標，並挑選1張在手牌生成。\r\n在我方牌組生成1張塔莉雅。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「快來看，簡直目不暇給！」——塔莉雅",
+    		artistName: "Kudos Productions",
+    		name: "塔莉雅 岩石編織",
+    		cardCode: "04SH073T3",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH091.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH091-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 3,
+    		cost: 3,
+    		health: 3,
+    		description: "召喚此牌時，若我方已在本牌局<br><link=vocab.Forecast><style=Vocab>預言</style></link>，則賦予此牌+1|+1。",
+    		descriptionRaw: "召喚此牌時，若我方已在本牌局預言，則賦予此牌+1|+1。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「記住我們學過的。」極靈用異常溫柔，但近乎沉重的聲音說道。「你確定你準備好了嗎？」\n卡西歷回以導師肯定的微笑。「我去去就回。而且我過去幾年來的每一天都是在為了這一刻做準備。此時不去待何時？」",
+    		artistName: "Kudos Productions",
+    		name: "學徒卡西歷",
+    		cardCode: "04SH091",
     		keywords: [
     		],
     		keywordRefs: [
@@ -7433,12 +2441,12 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"04SH003T1"
+    			"04SH090"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH114.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH114-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH024.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH024-full.png"
     			}
     		],
     		region: "蘇瑞瑪",
@@ -7446,109 +2454,29 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "賦予我方<link=vocab.Everywhere><style=Vocab>各處</style></link>的<link=card.summon><style=AssociatedCard>沙礫士兵</style></link>+1|+0。\r\n召喚2個<link=card.summon><style=AssociatedCard>沙礫士兵</style></link>。",
-    		descriptionRaw: "賦予我方各處的沙礫士兵+1|+0。\r\n召喚2個沙礫士兵。",
+    		description: "<link=vocab.Buried><style=Vocab>倒數2</style></link><style=Variable></style>：召喚1個<link=card.create><style=AssociatedCard>暴躁岩熊</style></link>。<br>在本牌局中，若我方已召喚4個以上地標，則賦予<link=vocab.Strongest><style=Vocab>最強</style></link>友軍單位+2|+2。<style=Variable></style>",
+    		descriptionRaw: "倒數2：召喚1個暴躁岩熊。在本牌局中，若我方已召喚4個以上地標，則賦予最強友軍單位+2|+2。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "他們永不止息。他們毫不猶豫。他們堅定、無情且絕不<br>屈服。",
-    		artistName: "Kudos Productions",
-    		name: "沙漠之怒",
-    		cardCode: "04SH114",
+    		flavorText: "蘇瑞瑪的製鹽工人很快便學會哪些鹽礦適合採掘，哪些不該去碰。",
+    		artistName: "Polar Engine",
+    		name: "鹽塔",
+    		cardCode: "04SH024",
     		keywords: [
-    			"慢速"
+    			"地標"
     		],
     		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH057.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH057-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 4,
-    		cost: 5,
-    		health: 6,
-    		description: "召喚其他友軍單位時，本回合給予其+2|+0。",
-    		descriptionRaw: "召喚其他友軍單位時，本回合給予其+2|+0。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "獲得阿祈爾的祝福是一大榮耀——能以他之名給予祝福則是莫大榮耀。",
-    		artistName: "Kudos Productions",
-    		name: "精神領袖",
-    		cardCode: "04SH057",
-    		keywords: [
-    		],
-    		keywordRefs: [
+    			"LandmarkVisualOnly"
     		],
     		spellSpeed: "",
     		spellSpeedRef: "",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
+    		rarity: "普通",
+    		rarityRef: "Common",
     		subtype: "",
     		subtypes: [
     		],
     		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH046.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH046-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 6,
-    		cost: 12,
-    		health: 6,
-    		description: "在此牌局中，每有1個友軍單位攻擊1次，則此牌魔耗值-1。",
-    		descriptionRaw: "在此牌局中，每有1個友軍單位攻擊1次，則此牌魔耗值-1。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "在阿祈爾的回歸之時，蘇瑞瑪人也目擊傳說中遠古怪物的蹤影。用沙做成的怪物？著實令人過目難忘。",
-    		artistName: "Kudos Productions",
-    		name: "砂褐奇美拉",
-    		cardCode: "04SH046",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
+    		type: "地標",
     		collectible: true,
     		set: "Set4"
     	},
@@ -7604,6 +2532,52 @@ var app = (function () {
     		],
     		associatedCardRefs: [
     			"04SH003",
+    			"04SH003T3",
+    			"04SH003T4",
+    			"04SH003T14",
+    			"04SH003T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T2-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 6,
+    		cost: 3,
+    		health: 6,
+    		description: "此牌升級時，將我方牌組替換成神皇牌組，並抽1張牌。\r\n我方攻擊時，召喚1個攻擊中的<br><link=card.summon><style=AssociatedCard>砂褐衝鋒者</style></link>。",
+    		descriptionRaw: "此牌升級時，將我方牌組替換成神皇牌組，並抽1張牌。\r\n我方攻擊時，召喚1個攻擊中的砂褐衝鋒者。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「阿祈爾皇帝雖傲慢，但不乏君主氣度，深深關心著和他一同邁向蘇瑞瑪輝煌未來的臣民。在他的統治之下，子民們同心協力共創重生國度。」\n——《飛昇戰士團史》，書吏卡尼爾著",
+    		artistName: "SIXMOREVODKA",
+    		name: "阿祈爾",
+    		cardCode: "04SH003T2",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "飛昇者",
+    		subtypes: [
+    			"飛昇者"
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH003",
     			"04SH003T2",
     			"04SH003T4",
     			"04SH003T1",
@@ -7650,31 +2624,69 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"04SH003",
-    			"04SH003T3",
-    			"04SH003T4",
-    			"04SH003T14",
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T14.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T14-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 5,
+    		cost: 2,
+    		health: 2,
+    		description: "",
+    		descriptionRaw: "",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「突然之間地上的砂子旋轉成形，把我們打得潰不成軍，然後……他們就憑空消失了，在沙漠中消散、再度融於大地。」——沙漠倖存者",
+    		artistName: "Kudos Productions",
+    		name: "砂褐衝鋒者",
+    		cardCode: "04SH003T14",
+    		keywords: [
+    			"閃靈"
+    		],
+    		keywordRefs: [
+    			"Ephemeral"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
     			"04SH003T1"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T5.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T5-full.png"
     			}
     		],
     		region: "蘇瑞瑪",
     		regionRef: "Shurima",
     		attack: 6,
-    		cost: 3,
+    		cost: 5,
     		health: 6,
-    		description: "此牌升級時，將我方牌組替換成神皇牌組，並抽1張牌。\r\n我方攻擊時，召喚1個攻擊中的<br><link=card.summon><style=AssociatedCard>砂褐衝鋒者</style></link>。",
-    		descriptionRaw: "此牌升級時，將我方牌組替換成神皇牌組，並抽1張牌。\r\n我方攻擊時，召喚1個攻擊中的砂褐衝鋒者。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>與<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：召喚2個<link=card.summon><style=AssociatedCard>沙礫士兵</style></link><br>並賦予其+2|+2。",
+    		descriptionRaw: "出牌與回合開始：召喚2個沙礫士兵並賦予其+2|+2。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「阿祈爾皇帝雖傲慢，但不乏君主氣度，深深關心著和他一同邁向蘇瑞瑪輝煌未來的臣民。在他的統治之下，子民們同心協力共創重生國度。」\n——《飛昇戰士團史》，書吏卡尼爾著",
-    		artistName: "SIXMOREVODKA",
-    		name: "阿祈爾",
-    		cardCode: "04SH003T2",
+    		flavorText: "阿祈爾擁有了前所未有的力量，對他最忠誠的士兵們也被提拔至發號施令的位置。",
+    		artistName: "Kudos Productions",
+    		name: "黃沙先使",
+    		cardCode: "04SH003T5",
     		keywords: [
     		],
     		keywordRefs: [
@@ -7683,11 +2695,10 @@ var app = (function () {
     		spellSpeedRef: "",
     		rarity: "無",
     		rarityRef: "None",
-    		subtype: "飛昇者",
+    		subtype: "",
     		subtypes: [
-    			"飛昇者"
     		],
-    		supertype: "英雄",
+    		supertype: "",
     		type: "單位",
     		collectible: false,
     		set: "Set4"
@@ -7742,169 +2753,43 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"04SH003T1"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH099.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH099-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T10.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T10-full.png"
     			}
     		],
     		region: "蘇瑞瑪",
     		regionRef: "Shurima",
     		attack: 0,
-    		cost: 3,
+    		cost: 5,
     		health: 0,
-    		description: "召喚1個<link=card.summon><style=AssociatedCard>沙礫士兵</style></link>。\r\n在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.selfRef><style=AssociatedCard>砂漠禁軍</style></link>。",
-    		descriptionRaw: "召喚1個沙礫士兵。\r\n在手牌生成1張飛逝砂漠禁軍。",
+    		description: "使所有敵軍單位擁有<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：進行<link=vocab.Rally><style=Vocab>備戰</style></link>。",
+    		descriptionRaw: "使所有敵軍單位擁有弱勢。\r\n回合開始：進行備戰。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「命令已下達。」——阿祈爾",
+    		flavorText: "「瞻仰神皇吧！這塊土地蘊含的力量只有他最明瞭，而且他的軍隊只見日趨強大。蘇瑞瑪已然興起，且將永不殞落！」——重生者宣使",
     		artistName: "Kudos Productions",
-    		name: "砂漠禁軍",
-    		cardCode: "04SH099",
+    		name: "將軍王府",
+    		cardCode: "04SH003T10",
     		keywords: [
-    			"疾速"
+    			"Missing Translation",
+    			"地標"
     		],
     		keywordRefs: [
-    			"Burst"
+    			"AuraVisualFakeKeyword",
+    			"LandmarkVisualOnly"
     		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH003T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH075.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH075-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 3,
-    		cost: 7,
-    		health: 7,
-    		description: "本回合給予所有敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>並召喚6個<link=card.summon><style=AssociatedCard>沙礫士兵</style></link>。",
-    		descriptionRaw: "本回合給予所有敵軍單位弱勢並召喚6個沙礫士兵。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「我的士兵昂首前進。」——阿祈爾",
-    		artistName: "Kudos Productions",
-    		name: "空砂防壁",
-    		cardCode: "04SH075",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH059.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH059-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 4,
-    		health: 0,
-    		description: "擊殺1個友軍單位或摧毀我方1個魔力寶石，以抵銷敵方所有<link=keyword.Fast><sprite name=Fast><style=Keyword>快速</style></link>法術、<link=keyword.Slow><sprite name=Slow><style=Keyword>慢速</style></link>法術與<link=keyword.Skill><sprite name=PlaySkillMark><style=Keyword>技能</style></link>。",
-    		descriptionRaw: "擊殺1個友軍單位或摧毀我方1個魔力寶石，以抵銷敵方所有快速法術、慢速法術與技能。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "分析乃時空術之基石，因為在採取大多數行動前，必須先停下來思考未來的解決方法。",
-    		artistName: "Kudos Productions",
-    		name: "相消儀式",
-    		cardCode: "04SH059",
-    		keywords: [
-    			"快速"
-    		],
-    		keywordRefs: [
-    			"Fast"
-    		],
-    		spellSpeed: "快速",
-    		spellSpeedRef: "Fast",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T6.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T6-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 4,
-    		health: 0,
-    		description: "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>1個敵軍侍從單位。\r\n抽1張牌。",
-    		descriptionRaw: "泯滅1個敵軍侍從單位。\r\n抽1張牌。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「違命者只有化為塵灰的命運。」——阿祈爾",
-    		artistName: "Kudos Productions",
-    		name: "沙崩土解",
-    		cardCode: "04SH003T6",
-    		keywords: [
-    			"快速"
-    		],
-    		keywordRefs: [
-    			"Fast"
-    		],
-    		spellSpeed: "快速",
-    		spellSpeedRef: "Fast",
+    		spellSpeed: "",
+    		spellSpeedRef: "",
     		rarity: "無",
     		rarityRef: "None",
     		subtype: "",
     		subtypes: [
     		],
     		supertype: "",
-    		type: "法術",
+    		type: "地標",
     		collectible: false,
     		set: "Set4"
     	},
@@ -7915,28 +2800,28 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T11.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T11-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T1-full.png"
     			}
     		],
     		region: "蘇瑞瑪",
     		regionRef: "Shurima",
-    		attack: 5,
-    		cost: 2,
-    		health: 4,
-    		description: "召喚此牌時，抽1張牌。",
-    		descriptionRaw: "召喚此牌時，抽1張牌。",
+    		attack: 1,
+    		cost: 1,
+    		health: 1,
+    		description: "<link=vocab.NexusStrike><style=Vocab>打擊主堡</style></link>：對敵方主堡造成1點傷害。",
+    		descriptionRaw: "打擊主堡：對敵方主堡造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "效忠於神皇的黃金護衛隊動作整齊劃一，這些遵守嚴明軍紀的戰士們令人印象深刻，也不禁令人不寒而慄。",
+    		flavorText: "在蘇瑞瑪重生前，阿祈爾的軍團就以所向披靡而聞名四方，現在他們的勢力更加強大，無所不在。",
     		artistName: "Kudos Productions",
-    		name: "神皇衛隊",
-    		cardCode: "04SH003T11",
+    		name: "沙礫士兵",
+    		cardCode: "04SH003T1",
     		keywords: [
-    			"威嚇"
+    			"閃靈"
     		],
     		keywordRefs: [
-    			"Fearsome"
+    			"Ephemeral"
     		],
     		spellSpeed: "",
     		spellSpeedRef: "",
@@ -7999,118 +2884,31 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T10.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T10-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T6.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T6-full.png"
     			}
     		],
     		region: "蘇瑞瑪",
     		regionRef: "Shurima",
     		attack: 0,
-    		cost: 5,
+    		cost: 4,
     		health: 0,
-    		description: "使所有敵軍單位擁有<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：進行<link=vocab.Rally><style=Vocab>備戰</style></link>。",
-    		descriptionRaw: "使所有敵軍單位擁有弱勢。\r\n回合開始：進行備戰。",
+    		description: "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>1個敵軍侍從單位。\r\n抽1張牌。",
+    		descriptionRaw: "泯滅1個敵軍侍從單位。\r\n抽1張牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「瞻仰神皇吧！這塊土地蘊含的力量只有他最明瞭，而且他的軍隊只見日趨強大。蘇瑞瑪已然興起，且將永不殞落！」——重生者宣使",
+    		flavorText: "「違命者只有化為塵灰的命運。」——阿祈爾",
     		artistName: "Kudos Productions",
-    		name: "將軍王府",
-    		cardCode: "04SH003T10",
+    		name: "沙崩土解",
+    		cardCode: "04SH003T6",
     		keywords: [
-    			"Missing Translation",
-    			"地標"
+    			"快速"
     		],
     		keywordRefs: [
-    			"AuraVisualFakeKeyword",
-    			"LandmarkVisualOnly"
+    			"Fast"
     		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "地標",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH003T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T5.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T5-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 6,
-    		cost: 5,
-    		health: 6,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>與<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：召喚2個<link=card.summon><style=AssociatedCard>沙礫士兵</style></link><br>並賦予其+2|+2。",
-    		descriptionRaw: "出牌與回合開始：召喚2個沙礫士兵並賦予其+2|+2。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "阿祈爾擁有了前所未有的力量，對他最忠誠的士兵們也被提拔至發號施令的位置。",
-    		artistName: "Kudos Productions",
-    		name: "黃沙先使",
-    		cardCode: "04SH003T5",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH067",
-    			"04SH047"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T13.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T13-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 10,
-    		health: 0,
-    		description: "進行<link=vocab.Rally><style=Vocab>備戰</style></link>。\r\n召喚<link=card.create><style=AssociatedCard>雷尼克頓</style></link>和<link=card.create2><style=AssociatedCard>納瑟斯</style></link>，<br>並立刻將兩者升級至等級3。",
-    		descriptionRaw: "進行備戰。\r\n召喚雷尼克頓和納瑟斯，並立刻將兩者升級至等級3。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「所有人將效忠於神皇，我的將軍們會確保此事不出一點差錯。」——阿祈爾",
-    		artistName: "Kudos Productions",
-    		name: "飛昇者之令",
-    		cardCode: "04SH003T13",
-    		keywords: [
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
     		rarity: "無",
     		rarityRef: "None",
     		subtype: "",
@@ -8170,6 +2968,48 @@ var app = (function () {
     		],
     		assets: [
     			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T11.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T11-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 5,
+    		cost: 2,
+    		health: 4,
+    		description: "召喚此牌時，抽1張牌。",
+    		descriptionRaw: "召喚此牌時，抽1張牌。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "效忠於神皇的黃金護衛隊動作整齊劃一，這些遵守嚴明軍紀的戰士們令人印象深刻，也不禁令人不寒而慄。",
+    		artistName: "Kudos Productions",
+    		name: "神皇衛隊",
+    		cardCode: "04SH003T11",
+    		keywords: [
+    			"威嚇"
+    		],
+    		keywordRefs: [
+    			"Fearsome"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
     				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T7.png",
     				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T7-full.png"
     			}
@@ -8195,6 +3035,50 @@ var app = (function () {
     		],
     		spellSpeed: "疾速",
     		spellSpeedRef: "Burst",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH067",
+    			"04SH047"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T13.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH003T13-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 10,
+    		health: 0,
+    		description: "進行<link=vocab.Rally><style=Vocab>備戰</style></link>。\r\n召喚<link=card.create><style=AssociatedCard>雷尼克頓</style></link>和<link=card.create2><style=AssociatedCard>納瑟斯</style></link>，<br>並立刻將兩者升級至等級3。",
+    		descriptionRaw: "進行備戰。\r\n召喚雷尼克頓和納瑟斯，並立刻將兩者升級至等級3。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「所有人將效忠於神皇，我的將軍們會確保此事不出一點差錯。」——阿祈爾",
+    		artistName: "Kudos Productions",
+    		name: "飛昇者之令",
+    		cardCode: "04SH003T13",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
     		rarity: "無",
     		rarityRef: "None",
     		subtype: "",
@@ -8254,143 +3138,23 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH044.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH044-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH011.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH011-full.png"
     			}
     		],
     		region: "蘇瑞瑪",
     		regionRef: "Shurima",
-    		attack: 2,
-    		cost: 2,
-    		health: 2,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=vocab.Advance><style=Vocab>快轉</style></link>1個我方地標2回合。 ",
-    		descriptionRaw: "出牌：快轉1個我方地標2回合。 ",
+    		attack: 3,
+    		cost: 3,
+    		health: 3,
+    		description: "召喚此牌時，隨機賦予牌組中<br>3個友軍單位+3|+3。",
+    		descriptionRaw: "召喚此牌時，隨機賦予牌組中3個友軍單位+3|+3。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "這些魔像抵禦沙漠的無情摧殘長達千年之久，一直以來守護著極靈的鍾塔，這並不是單靠精巧工藝便能夠達成。",
+    		flavorText: "虛空總是充滿驚喜，每天都在學習和尋找新方式滲入鐘塔，仿佛如荊棘一樣，但絕對更致命。因此要研究虛空並非易事，只有同樣機智博學的研究者，才能預測和理解來臨的威脅。",
     		artistName: "Polar Engine",
-    		name: "發條管理員",
-    		cardCode: "04SH044",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT005-full.png"
-    			}
-    		],
-    		region: "巨石峰",
-    		regionRef: "Targon",
-    		attack: 1,
-    		cost: 1,
-    		health: 1,
-    		description: "在本牌局中，我方召喚地標後，<br>賦予此牌+2|+2。",
-    		descriptionRaw: "在本牌局中，我方召喚地標後，賦予此牌+2|+2。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「大家好偶是石奇，偶要來帶大家探叟巨石峰！巨石峰糙大糙高，希望你們汆的鞋爬起山來夠蘇湖！走吧！」\n——《石奇大冒險》第一部",
-    		artistName: "Polar Engine",
-    		name: "石奇",
-    		cardCode: "04MT005",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO010-full.png"
-    			}
-    		],
-    		region: "愛歐尼亞",
-    		regionRef: "Ionia",
-    		attack: 1,
-    		cost: 1,
-    		health: 1,
-    		description: "此牌脫離戰鬥時，<link=keyword.Obliterate><style=Keyword>泯滅</style></link>此牌。",
-    		descriptionRaw: "此牌脫離戰鬥時，泯滅此牌。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「不要讓技巧生疏了——攻擊靠的不只是劍刃，還有操控它的人。」——伊瑞莉雅",
-    		artistName: "SIXMOREVODKA",
-    		name: "劍刃",
-    		cardCode: "04IO010",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH104.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH104-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 4,
-    		cost: 5,
-    		health: 4,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=vocab.Advance><style=Vocab>快轉</style></link>1個我方地標3回合。",
-    		descriptionRaw: "出牌：快轉1個我方地標3回合。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "每當極靈想要尋求一絲安寧的時候，他都會回到伊卡西亞的最後一座花園，那裡與他回憶中的景色一模一樣。",
-    		artistName: "Polar Engine",
-    		name: "珍存園丁",
-    		cardCode: "04SH104",
+    		name: "異形研究者",
+    		cardCode: "04SH011",
     		keywords: [
     		],
     		keywordRefs: [
@@ -8405,6 +3169,280 @@ var app = (function () {
     		supertype: "",
     		type: "單位",
     		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH003T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH114.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH114-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 4,
+    		health: 0,
+    		description: "賦予我方<link=vocab.Everywhere><style=Vocab>各處</style></link>的<link=card.summon><style=AssociatedCard>沙礫士兵</style></link>+1|+0。\r\n召喚2個<link=card.summon><style=AssociatedCard>沙礫士兵</style></link>。",
+    		descriptionRaw: "賦予我方各處的沙礫士兵+1|+0。\r\n召喚2個沙礫士兵。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "他們永不止息。他們毫不猶豫。他們堅定、無情且絕不<br>屈服。",
+    		artistName: "Kudos Productions",
+    		name: "沙漠之怒",
+    		cardCode: "04SH114",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH067T4",
+    			"04SH067T1",
+    			"04SH067T2",
+    			"04SH062",
+    			"04SH067T5"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH067.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH067-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 4,
+    		cost: 4,
+    		health: 4,
+    		description: "此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>敵軍單位時，本回合給予此牌+2|+1。 ",
+    		descriptionRaw: "此牌挑戰敵軍單位時，本回合給予此牌+2|+1。 ",
+    		levelupDescription: "此牌造成12點以上傷害<style=Variable></style>。",
+    		levelupDescriptionRaw: "此牌造成12點以上傷害。",
+    		flavorText: "「很難想像他曾經也是人類，因為他那鱷魚的外表與他對於血腥戰鬥的喜愛實在太過相襯……」——《飛昇戰士團史》，書吏卡尼爾著",
+    		artistName: "SIXMOREVODKA",
+    		name: "雷尼克頓",
+    		cardCode: "04SH067",
+    		keywords: [
+    			"蠻力"
+    		],
+    		keywordRefs: [
+    			"Overwhelm"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "英雄",
+    		rarityRef: "Champion",
+    		subtype: "飛昇者",
+    		subtypes: [
+    			"飛昇者"
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH067",
+    			"04SH067T4",
+    			"04SH067T2",
+    			"04SH067T5"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH067T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH067T1-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 10,
+    		cost: 4,
+    		health: 10,
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword></style></link>此牌格擋或<link=vocab.Attack><style=Vocab>攻擊</style></link>：對所有敵軍單位與敵方主堡造成2點傷害。",
+    		descriptionRaw: "此牌格擋或攻擊：對所有敵軍單位與敵方主堡造成2點傷害。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「等到雷尼克頓終於有機會向哥哥納瑟斯報仇時，沒有任何東西能阻止他。他會摧毀一切，而蘇瑞瑪將再次化為廢墟。」——《飛昇戰士團史》，書吏卡尼爾著",
+    		artistName: "SIXMOREVODKA",
+    		name: "雷尼克頓",
+    		cardCode: "04SH067T1",
+    		keywords: [
+    			"蠻力"
+    		],
+    		keywordRefs: [
+    			"Overwhelm"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "飛昇者",
+    		subtypes: [
+    			"飛昇者"
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH067",
+    			"04SH067T1",
+    			"04SH067T2",
+    			"04SH062",
+    			"04SH067T5"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH067T4.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH067T4-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 5,
+    		cost: 4,
+    		health: 5,
+    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：本回合給予此牌+3|+3。 ",
+    		descriptionRaw: "攻擊：本回合給予此牌+3|+3。 ",
+    		levelupDescription: "我方已<link=vocab.SunDiscRestore><style=Vocab>復原烈日巨環</style></link>。",
+    		levelupDescriptionRaw: "我方已復原烈日巨環。",
+    		flavorText: "「與那個叛徒困在黑暗中過了不知多少歲月，怨恨與憎憤的話語充滿了他的心，讓他對哥哥的恨意日益增長。這滋養了他的憤怒，使他更加強大。」——《飛昇戰士團史》，書吏卡尼爾著",
+    		artistName: "SIXMOREVODKA",
+    		name: "雷尼克頓",
+    		cardCode: "04SH067T4",
+    		keywords: [
+    			"蠻力"
+    		],
+    		keywordRefs: [
+    			"Overwhelm"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "飛昇者",
+    		subtypes: [
+    			"飛昇者"
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH067",
+    			"04SH067T4",
+    			"04SH067T1",
+    			"04SH067"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH067T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH067T2-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "本回合給予1個友軍單位+2|+0，<br>並給予1個敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>雷尼克頓</style></link>。",
+    		descriptionRaw: "本回合給予1個友軍單位+2|+0，並給予1個敵軍單位弱勢。\r\n在我方牌組生成1張雷尼克頓。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「撕裂他們！」——雷尼克頓",
+    		artistName: "Kudos Productions",
+    		name: "雷尼克頓 庖丁解牛",
+    		cardCode: "04SH067T2",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH067T5.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH067T5-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "對所有敵軍單位與敵方主堡<br>造成2點傷害。",
+    		descriptionRaw: "對所有敵軍單位與敵方主堡造成2點傷害。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「我誰都不放過！」——雷尼克頓",
+    		artistName: "Kudos Productions",
+    		name: "君臨毀滅",
+    		cardCode: "04SH067T5",
+    		keywords: [
+    			"技能"
+    		],
+    		keywordRefs: [
+    			"Skill"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "技能",
+    		collectible: false,
     		set: "Set4"
     	},
     	{
@@ -8456,8 +3494,50 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH120T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH120T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH119.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH119-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 6,
+    		health: 0,
+    		description: "<link=vocab.Aftermath><style=Vocab>名望</style></link>：此牌魔耗值為3點。<style=Variable></style>\r\n隨機對敵軍單位或敵方主堡造成1點傷害5次。",
+    		descriptionRaw: "名望：此牌魔耗值為3點。\r\n隨機對敵軍單位或敵方主堡造成1點傷害5次。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「場面可能會有點慘烈。」——希維爾",
+    		artistName: "Kudos Productions",
+    		name: "十字彈射",
+    		cardCode: "04SH119",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH093.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH093-full.png"
     			}
     		],
     		region: "蘇瑞瑪",
@@ -8465,14 +3545,306 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "在手牌隨機生成1張擁有<br><link=vocab.Buried><style=Vocab>倒數</style></link>的地標。",
-    		descriptionRaw: "在手牌隨機生成1張擁有倒數的地標。",
+    		description: "本回合給予1個友軍單位+1|+1。\r\n在本牌局中，若我方已召喚地標，則改為給予其+3|+1。",
+    		descriptionRaw: "本回合給予1個友軍單位+1|+1。\r\n在本牌局中，若我方已召喚地標，則改為給予其+3|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「時光疾如電。」——極靈",
+    		flavorText: "「有了大地相助，我們必能保護自己！」——塔莉雅",
+    		artistName: "",
+    		name: "砥礪石",
+    		cardCode: "04SH093",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH079.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH079-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 1,
+    		health: 0,
+    		description: "<link=vocab.Forecast><style=Vocab>預言</style></link>。\r\n本回合給予1個敵軍單位<nobr>-2|-0</nobr>。 ",
+    		descriptionRaw: "預言。\r\n本回合給予1個敵軍單位-2|-0。 ",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「我已看透自己的命運。而這次，我無人能擋。」——阿祈爾",
     		artistName: "Kudos Productions",
-    		name: "未來異想",
-    		cardCode: "04SH120T1",
+    		name: "占沙術",
+    		cardCode: "04SH079",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH006"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH038.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH038-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 3,
+    		cost: 2,
+    		health: 1,
+    		description: "召喚此牌時，召喚1個<link=card.create><style=AssociatedCard>渾攪沙原</style></link>。",
+    		descriptionRaw: "召喚此牌時，召喚1個渾攪沙原。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「今天，我們即將啟程前往娜敘亞麥！薩彌爾下定決心，要在下個滿月前穿越大煞沙漠，在過程中他造成了許多混亂！以前我想也沒有想到，一個簡單的沙板竟然能令一整座沙丘倒塌，薩彌爾也沒有料到，不過最後他沒事。」\n——賽發的日記",
+    		artistName: "Dao Le",
+    		name: "躍岩者",
+    		cardCode: "04SH038",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH104.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH104-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 4,
+    		cost: 5,
+    		health: 4,
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=vocab.Advance><style=Vocab>快轉</style></link>1個我方地標3回合。",
+    		descriptionRaw: "出牌：快轉1個我方地標3回合。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "每當極靈想要尋求一絲安寧的時候，他都會回到伊卡西亞的最後一座花園，那裡與他回憶中的景色一模一樣。",
+    		artistName: "Polar Engine",
+    		name: "珍存園丁",
+    		cardCode: "04SH104",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH003T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH099.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH099-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 3,
+    		health: 0,
+    		description: "召喚1個<link=card.summon><style=AssociatedCard>沙礫士兵</style></link>。\r\n在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.selfRef><style=AssociatedCard>砂漠禁軍</style></link>。",
+    		descriptionRaw: "召喚1個沙礫士兵。\r\n在手牌生成1張飛逝砂漠禁軍。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「命令已下達。」——阿祈爾",
+    		artistName: "Kudos Productions",
+    		name: "砂漠禁軍",
+    		cardCode: "04SH099",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH098"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH048.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH048-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 3,
+    		health: 0,
+    		description: "<link=vocab.Aftermath><style=Vocab>名望</style></link>：此牌魔耗值為0點。<style=Variable></style>\r\n<link=vocab.Buried><style=Vocab>倒數1</style></link><style=Variable></style>：在手牌生成2張<link=card.create><style=AssociatedCard>挖到寶</style></link>。",
+    		descriptionRaw: "名望：此牌魔耗值為0點。\r\n倒數1：在手牌生成2張挖到寶。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「有些地圖需要好幾年才能解讀；有些陷阱需要好幾個月才能解除，而有些寶庫需要好幾週才能摸透，但成功的那瞬間，每分每秒都值得。」——希維爾",
+    		artistName: "Kudos Productions",
+    		name: "聖所內殿",
+    		cardCode: "04SH048",
+    		keywords: [
+    			"地標"
+    		],
+    		keywordRefs: [
+    			"LandmarkVisualOnly"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "地標",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH098"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH056.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH056-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 5,
+    		cost: 4,
+    		health: 3,
+    		description: "召喚此牌時，在手牌生成1張<link=card.create><style=AssociatedCard>挖到寶</style></link>。",
+    		descriptionRaw: "召喚此牌時，在手牌生成1張挖到寶。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「朋友，這是我在傳說中的帝王之墓中，從偉大的雷尼克頓本尊手裡，硬生生奪來的無價之寶。我衝出墓穴時，還被十個，不，二十個嗜血如命的騎兵團團包圍呢！這件寶貝能送到你的手中，根本就是一個奇跡！」",
+    		artistName: "Grafit Studio",
+    		name: "寶物獵人",
+    		cardCode: "04SH056",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T3-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>",
+    		descriptionRaw: "威嚇",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「會怕就好。」——希維爾",
+    		artistName: "Kudos Productions",
+    		name: "挖到寶",
+    		cardCode: "04SH098T3",
     		keywords: [
     			"專注"
     		],
@@ -8489,6 +3861,514 @@ var app = (function () {
     		supertype: "",
     		type: "法術",
     		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T12.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T12-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>蠻力</style></link>",
+    		descriptionRaw: "蠻力",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「如果過不去，那就穿過去吧。」——希維爾",
+    		artistName: "Kudos Productions",
+    		name: "挖到寶",
+    		cardCode: "04SH098T12",
+    		keywords: [
+    			"專注"
+    		],
+    		keywordRefs: [
+    			"Focus"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T7.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T7-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>",
+    		descriptionRaw: "快速攻擊",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「快如閃電。」——希維爾",
+    		artistName: "Kudos Productions",
+    		name: "挖到寶",
+    		cardCode: "04SH098T7",
+    		keywords: [
+    			"專注"
+    		],
+    		keywordRefs: [
+    			"Focus"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T6.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T6-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "+1|+1",
+    		descriptionRaw: "+1|+1",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「高手要變高高手了。」——希維爾",
+    		artistName: "Kudos Productions",
+    		name: "挖到寶",
+    		cardCode: "04SH098T6",
+    		keywords: [
+    			"專注"
+    		],
+    		keywordRefs: [
+    			"Focus"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T2-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>",
+    		descriptionRaw: "挑戰者",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「敢拒絕我就試試看。」——希維爾",
+    		artistName: "Kudos Productions",
+    		name: "挖到寶",
+    		cardCode: "04SH098T2",
+    		keywords: [
+    			"專注"
+    		],
+    		keywordRefs: [
+    			"Focus"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T10.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T10-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "<link=keyword.Tough><sprite name=Tough><style=Keyword>堅忍</style></link>",
+    		descriptionRaw: "堅忍",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「死了等於沒賺。」——希維爾",
+    		artistName: "Kudos Productions",
+    		name: "挖到寶",
+    		cardCode: "04SH098T10",
+    		keywords: [
+    			"專注"
+    		],
+    		keywordRefs: [
+    			"Focus"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T5.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T5-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "+2|+0",
+    		descriptionRaw: "+2|+0",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「來把他們大卸八塊吧。」——希維爾",
+    		artistName: "Kudos Productions",
+    		name: "挖到寶",
+    		cardCode: "04SH098T5",
+    		keywords: [
+    			"專注"
+    		],
+    		keywordRefs: [
+    			"Focus"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T8.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T8-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "+0|+2",
+    		descriptionRaw: "+0|+2",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「來啊，放馬過來。然後就換我出手了。」——希維爾",
+    		artistName: "Kudos Productions",
+    		name: "挖到寶",
+    		cardCode: "04SH098T8",
+    		keywords: [
+    			"專注"
+    		],
+    		keywordRefs: [
+    			"Focus"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098T1-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "<link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>法盾</style></link>",
+    		descriptionRaw: "法盾",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「小子，你的雕蟲小技比你腳下的沙子還不如。」——希維爾",
+    		artistName: "Kudos Productions",
+    		name: "挖到寶",
+    		cardCode: "04SH098T1",
+    		keywords: [
+    			"專注"
+    		],
+    		keywordRefs: [
+    			"Focus"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH098-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "從3個增益效果中挑選1個，<br>賦予1個友軍單位。",
+    		descriptionRaw: "從3個增益效果中挑選1個，賦予1個友軍單位。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「找到寶藏的那一刻最開心了。」——希維爾",
+    		artistName: "Kudos Productions",
+    		name: "挖到寶",
+    		cardCode: "04SH098",
+    		keywords: [
+    			"飛逝",
+    			"專注"
+    		],
+    		keywordRefs: [
+    			"Fleeting",
+    			"Focus"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH020T1",
+    			"04SH020T2"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH020.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH020-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 5,
+    		cost: 4,
+    		health: 3,
+    		description: "",
+    		descriptionRaw: "",
+    		levelupDescription: "我方造成35點以上傷害<style=Variable></style>。",
+    		levelupDescriptionRaw: "我方造成35點以上傷害。",
+    		flavorText: "希維爾一直以傭兵之姿過日子，所有隨之而來的，無論是獎賞懲罰，自己選擇自己承擔。一次不幸的遠征任務差點讓她失去一切，但就在此時，當她的血滲入蘇瑞瑪的沙石，喚醒了能讓她和她的家鄉重返榮耀的遠古力量。",
+    		artistName: "SIXMOREVODKA",
+    		name: "希維爾",
+    		cardCode: "04SH020",
+    		keywords: [
+    			"快速攻擊",
+    			"法盾"
+    		],
+    		keywordRefs: [
+    			"QuickStrike",
+    			"SpellShield"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "英雄",
+    		rarityRef: "Champion",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH057.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH057-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 4,
+    		cost: 5,
+    		health: 6,
+    		description: "召喚其他友軍單位時，本回合給予其+2|+0。",
+    		descriptionRaw: "召喚其他友軍單位時，本回合給予其+2|+0。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "獲得阿祈爾的祝福是一大榮耀——能以他之名給予祝福則是莫大榮耀。",
+    		artistName: "Kudos Productions",
+    		name: "精神領袖",
+    		cardCode: "04SH057",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH103.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH103-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 4,
+    		cost: 3,
+    		health: 3,
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：賦予1個敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
+    		descriptionRaw: "出牌：賦予1個敵軍單位弱勢。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「就這樣綁起來……好，搞定了。雷尼克頓最喜歡還活跳跳的食物。」",
+    		artistName: "Kudos Production",
+    		name: "無情獵手",
+    		cardCode: "04SH103",
+    		keywords: [
+    			"威嚇"
+    		],
+    		keywordRefs: [
+    			"Fearsome"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
     		set: "Set4"
     	},
     	{
@@ -8540,23 +4420,23 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH066.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH066-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH120T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH120T1-full.png"
     			}
     		],
     		region: "蘇瑞瑪",
     		regionRef: "Shurima",
     		attack: 0,
-    		cost: 2,
+    		cost: 1,
     		health: 0,
-    		description: "<link=vocab.Forecast><style=Vocab>預言</style></link>並<link=vocab.Advance><style=Vocab>快轉</style></link>1個我方地標2回合。",
-    		descriptionRaw: "預言並快轉1個我方地標2回合。",
+    		description: "在手牌隨機生成1張擁有<br><link=vocab.Buried><style=Vocab>倒數</style></link>的地標。",
+    		descriptionRaw: "在手牌隨機生成1張擁有倒數的地標。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「若你能見我所見，就會明白時間並非無可改變。」——極靈",
+    		flavorText: "「時光疾如電。」——極靈",
     		artistName: "Kudos Productions",
-    		name: "時光之瓶",
-    		cardCode: "04SH066",
+    		name: "未來異想",
+    		cardCode: "04SH120T1",
     		keywords: [
     			"專注"
     		],
@@ -8565,14 +4445,98 @@ var app = (function () {
     		],
     		spellSpeed: "疾速",
     		spellSpeedRef: "Burst",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH006-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "敵方召喚單位時，摧毀此牌以賦予其<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
+    		descriptionRaw: "敵方召喚單位時，摧毀此牌以賦予其弱勢。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "千百年累積下來的錯誤經驗讓蘇瑞瑪人學會如何與沙共處。對外行人來說看起來都一樣的廣原，只有蘇瑞瑪人才知道哪些可踏入、哪些該改道。",
+    		artistName: "Polar Engine",
+    		name: "渾攪沙原",
+    		cardCode: "04SH006",
+    		keywords: [
+    			"地標"
+    		],
+    		keywordRefs: [
+    			"LandmarkVisualOnly"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
     		rarity: "普通",
     		rarityRef: "Common",
     		subtype: "",
     		subtypes: [
     		],
     		supertype: "",
-    		type: "法術",
-    		collectible: true,
+    		type: "地標",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH076T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH076T1-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "<link=vocab.Buried><style=Vocab>倒數1</style></link><style=Variable></style>：召喚1個被此牌取代而<link=keyword.Obliterate><style=Keyword>泯滅</style></link>的單位的複製單位。",
+    		descriptionRaw: "倒數1：召喚1個被此牌取代而泯滅的單位的複製單位。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「我都把這個想成是『捕捉當下』。」\n「哈，說的好。」\n——虛空研究者賽沙與辛沙",
+    		artistName: "Polar Engine",
+    		name: "凝滯雕像",
+    		cardCode: "04SH076T1",
+    		keywords: [
+    			"地標"
+    		],
+    		keywordRefs: [
+    			"LandmarkVisualOnly"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "地標",
+    		collectible: false,
     		set: "Set4"
     	},
     	{
@@ -8746,39 +4710,423 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"04SH039T1",
-    			"04SH039T2",
-    			"04SH060T1"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH039.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH039-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH082.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH082-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "抽1張牌。\r\n若本回合我方已<link=vocab.Slay><style=Vocab>屠殺</style></link>單位，\r\n則從敵方主堡<link=keyword.Drain><style=Keyword>汲取</style></link>2點生命值。",
+    		descriptionRaw: "抽1張牌。\r\n若本回合我方已屠殺單位，\r\n則從敵方主堡汲取2點生命值。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "沙戮者的招募對象主要是他們的敵人。誰能活過他們的襲擊就能加入，或是領死。",
+    		artistName: "Kudos Productions",
+    		name: "殺戮之路",
+    		cardCode: "04SH082",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH003T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH075.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH075-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 3,
+    		cost: 7,
+    		health: 7,
+    		description: "本回合給予所有敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>並召喚6個<link=card.summon><style=AssociatedCard>沙礫士兵</style></link>。",
+    		descriptionRaw: "本回合給予所有敵軍單位弱勢並召喚6個沙礫士兵。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「我的士兵昂首前進。」——阿祈爾",
+    		artistName: "Kudos Productions",
+    		name: "空砂防壁",
+    		cardCode: "04SH075",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH018.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH018-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 4,
+    		health: 0,
+    		description: "擊殺1個友軍單位或摧毀我方1個魔力寶石，本回合給予所有敵軍單位<nobr>-2|-0</nobr>。",
+    		descriptionRaw: "擊殺1個友軍單位或摧毀我方1個魔力寶石，本回合給予所有敵軍單位-2|-0。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「迎戰吧！讓他們血流成河！」——雷尼克頓",
+    		artistName: "Kudos Productions",
+    		name: "主宰儀式",
+    		cardCode: "04SH018",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH009T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH009-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 4,
+    		cost: 5,
+    		health: 6,
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：在本牌局中，若我方已<link=vocab.Slay><style=Vocab>屠殺</style></link>4個以上單位，則使1個敵軍單位與此牌互相<link=vocab.Strike><style=Vocab>打擊</style></link>。<style=Variable></style>",
+    		descriptionRaw: "出牌：在本牌局中，若我方已屠殺4個以上單位，則使1個敵軍單位與此牌互相打擊。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "就算仇敵早已離開世間，身上背負著的怨恨只會愈來愈深。",
+    		artistName: "Kudos Productions",
+    		name: "暴怒巴凱",
+    		cardCode: "04SH009",
+    		keywords: [
+    			"蠻力"
+    		],
+    		keywordRefs: [
+    			"Overwhelm"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH049T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH049.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH049-full.png"
     			}
     		],
     		region: "蘇瑞瑪",
     		regionRef: "Shurima",
     		attack: 1,
-    		cost: 2,
-    		health: 4,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：在我方牌組生成4張<link=card.create><style=AssociatedCard>定時炸彈</style></link>，然後<link=vocab.Forecast><style=Vocab>預言</style></link>。",
-    		descriptionRaw: "出牌：在我方牌組生成4張定時炸彈，然後預言。",
-    		levelupDescription: "此牌在場上時，我方摧毀2個友軍<link=card.create><style=AssociatedCard>定時炸彈</style></link><style=Variable></style>。",
-    		levelupDescriptionRaw: "此牌在場上時，我方摧毀2個友軍定時炸彈。",
-    		flavorText: "多年來，極靈穿梭時空，結識了許多來自不同時代的年輕法師，全都蘊藏著無窮潛力。這樣一來，萬一他自身遭遇不測，任何一人都可以延續他的畢生心血。雖然在這些年輕法師的眼中，極靈是個和藹可親、懂得鼓勵人的良師，當他獨處時，緊鎖的眉頭卻總透露出深沉哀傷，而那眼中的疲倦痛苦，唯有活過不只一輩子的人才能體悟。",
-    		artistName: "SIXMOREVODKA",
-    		name: "極靈",
-    		cardCode: "04SH039",
+    		cost: 1,
+    		health: 1,
+    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：若我方已升級英雄，<br>則將此牌幻化為<link=card.transform><style=AssociatedCard>至高普羅</style></link>。",
+    		descriptionRaw: "回合開始：若我方已升級英雄，則將此牌幻化為至高普羅。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "她不確定自己發現了什麼……但看起來亮晶晶的很好吃。",
+    		artistName: "Kudos Productions",
+    		name: "天選普羅",
+    		cardCode: "04SH049",
     		keywords: [
     		],
     		keywordRefs: [
     		],
     		spellSpeed: "",
     		spellSpeedRef: "",
-    		rarity: "英雄",
-    		rarityRef: "Champion",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "普羅",
+    		subtypes: [
+    			"普羅"
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH049T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH049T1-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 2,
+    		cost: 1,
+    		health: 2,
+    		description: "此牌擁有3個隨機特性。",
+    		descriptionRaw: "此牌擁有3個隨機特性。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "她大概是全世界最愛普羅點心的神聖統治者。 ",
+    		artistName: "Kudos Productions",
+    		name: "至高普羅",
+    		cardCode: "04SH049T1",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "普羅",
+    		subtypes: [
+    			"普羅"
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH045.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH045-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 1,
+    		health: 0,
+    		description: "本回合給予1個敵軍單位<br><nobr>-2|-0</nobr>與<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
+    		descriptionRaw: "本回合給予1個敵軍單位-2|-0與弱勢。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "沙漠居民知道如何躲避烈陽的灼燒和高溫襲擊，但對毫無準備之人，烈陽將迅速耗損其力量與體力，不給任何喘息空間。",
+    		artistName: "Kudos Productions",
+    		name: "烈日當空",
+    		cardCode: "04SH045",
+    		keywords: [
+    			"專注"
+    		],
+    		keywordRefs: [
+    			"Focus"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
     		subtype: "",
     		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH006"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH037.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH037-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 3,
+    		health: 0,
+    		description: "召喚2個<link=card.create><style=AssociatedCard>渾攪沙原</style></link>。\r\n抽1張牌。",
+    		descriptionRaw: "召喚2個渾攪沙原。\r\n抽1張牌。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "大煞沙漠擁有極致美景，但並非弱者生存之地。滾滾沙丘和煞族皆非善類，許多生命因此在此地逝去。",
+    		artistName: "Kudos Productions",
+    		name: "碎裂地表",
+    		cardCode: "04SH037",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH107.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH107-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 7,
+    		health: 0,
+    		description: "升級我方所有等級1的飛昇者。",
+    		descriptionRaw: "升級我方所有等級1的飛昇者。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「未來由飛昇者譜寫！」——阿祈爾",
+    		artistName: "Kudos Productions",
+    		name: "飛昇者崛起",
+    		cardCode: "04SH107",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH047T3",
+    			"04SH047T2",
+    			"04SH047T1",
+    			"04SH062"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH047.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH047-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 2,
+    		cost: 6,
+    		health: 2,
+    		description: "本牌局我方每<link=vocab.Slay><style=Vocab>屠殺</style></link>1個單位，<br>則此牌獲得+1|+1。<style=Variable></style>",
+    		descriptionRaw: "本牌局我方每屠殺1個單位，則此牌獲得+1|+1。",
+    		levelupDescription: "此牌單次<link=vocab.Strike><style=Vocab>打擊</style></link>造成10點以上傷害。",
+    		levelupDescriptionRaw: "此牌單次打擊造成10點以上傷害。",
+    		flavorText: "「納瑟斯新獲得的祝福讓他有了無限的生命可以細細研究和深思生死的法則。但在蘇瑞瑪滅亡後，這份祝福也變成了詛咒。」——《飛昇戰士團史》，書吏卡尼爾著",
+    		artistName: "SIXMOREVODKA",
+    		name: "納瑟斯",
+    		cardCode: "04SH047",
+    		keywords: [
+    			"威嚇"
+    		],
+    		keywordRefs: [
+    			"Fearsome"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "英雄",
+    		rarityRef: "Champion",
+    		subtype: "飛昇者",
+    		subtypes: [
+    			"飛昇者"
     		],
     		supertype: "英雄",
     		type: "單位",
@@ -8789,75 +5137,196 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"04SH039",
-    			"04SH039T2",
-    			"04SH060T1"
+    			"04SH097T1"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH039T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH039T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH097.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH097-full.png"
     			}
     		],
     		region: "蘇瑞瑪",
     		regionRef: "Shurima",
-    		attack: 2,
-    		cost: 2,
+    		attack: 8,
+    		cost: 8,
     		health: 5,
-    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：上一回合此牌在場上時，我方每打出1張非<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>卡牌，則生成1張該張牌的<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>複製牌。\r\n<link=vocab.Play><style=Vocab>出牌</style></link>：在我方牌組生成4張<link=card.create><style=AssociatedCard>定時炸彈</style></link>，然後<link=vocab.Forecast><style=Vocab>預言</style></link>。",
-    		descriptionRaw: "回合開始：上一回合此牌在場上時，我方每打出1張非飛逝卡牌，則生成1張該張牌的飛逝複製牌。\r\n出牌：在我方牌組生成4張定時炸彈，然後預言。",
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：在本牌局中，若我方已<link=vocab.Slay><style=Vocab>屠殺</style></link>13個以上的單位，則擊殺所有敵軍侍從單位，並召喚1個此牌的複製單位。<style=Variable></style>",
+    		descriptionRaw: "出牌：在本牌局中，若我方已屠殺13個以上的單位，則擊殺所有敵軍侍從單位，並召喚1個此牌的複製單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "無窮無盡的可能性在極靈周圍伸展開來，全部同時映入他眼簾。除了他以外，無人能夠解讀這幅深奧複雜的時光圖。極靈只需輕輕揮手，便能展開多個時間軸，但卻仍未能從中找到拯救伊卡西亞的方法。",
-    		artistName: "SIXMOREVODKA",
-    		name: "極靈",
-    		cardCode: "04SH039T1",
+    		flavorText: "巴凱的任務是保衛聖所內殿與裡面的遠古秘寶，還有制裁那些自以為夠聰明或夠強大，能夠承受監管員審判的凡人，免得他們自取其禍。",
+    		artistName: "Kudos Productions",
+    		name: "聖所監管員",
+    		cardCode: "04SH097",
     		keywords: [
+    			"威嚇"
     		],
     		keywordRefs: [
+    			"Fearsome"
     		],
     		spellSpeed: "",
     		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
     		subtype: "",
     		subtypes: [
     		],
-    		supertype: "英雄",
+    		supertype: "",
     		type: "單位",
-    		collectible: false,
+    		collectible: true,
     		set: "Set4"
     	},
     	{
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"04SH060T1"
+    			"04SH003T1"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH060T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH060T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH026.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH026-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 2,
+    		cost: 1,
+    		health: 1,
+    		description: "召喚此牌時，召喚1個<link=card.summon><style=AssociatedCard>沙礫士兵</style></link>。",
+    		descriptionRaw: "召喚此牌時，召喚1個沙礫士兵。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「只要神皇一聲令下，眾沙塵與我皆將臣服。」",
+    		artistName: "Kudos Productions",
+    		name: "沙丘守護者",
+    		cardCode: "04SH026",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH102.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH102-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 3,
+    		cost: 4,
+    		health: 2,
+    		description: "<link=vocab.Allegiance><style=Vocab>效忠</style></link>：抽1張英雄牌並賦予其+2|+2。",
+    		descriptionRaw: "效忠：抽1張英雄牌並賦予其+2|+2。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「光明的未來就在沙漠底下，而我們要為阿祈爾鋪平道路。沙漠的黃金帝國將會再起！」",
+    		artistName: "Kudos Productions",
+    		name: "黃金使者",
+    		cardCode: "04SH102",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH001-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 2,
+    		cost: 2,
+    		health: 3,
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=vocab.Forecast><style=Vocab>預言</style></link>。",
+    		descriptionRaw: "出牌：預言。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "在作為學徒修練時空術的過程中，泰總是得建立自信，來化解對於不確定未來的猶疑；比起想著可能出錯的環節，懷著可能會獲勝的希望還是比較好的。",
+    		artistName: "Kudos Productions",
+    		name: "新進時空術士",
+    		cardCode: "04SH001",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH009"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH009T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH009T1-full.png"
     			}
     		],
     		region: "蘇瑞瑪",
     		regionRef: "Shurima",
     		attack: 0,
-    		cost: 2,
+    		cost: 0,
     		health: 0,
-    		description: "召喚此牌時，抽1張牌並<link=vocab.Advance><style=Vocab>快轉</style></link>其他我方定時炸彈1回合。\r\n<link=vocab.Buried><style=Vocab>倒數1</style></link><style=Variable></style>：對所有敵軍單位與敵方主堡造成1點傷害。",
-    		descriptionRaw: "召喚此牌時，抽1張牌並快轉其他我方定時炸彈1回合。\r\n倒數1：對所有敵軍單位與敵方主堡造成1點傷害。",
+    		description: "使<link=card.parentRef><style=AssociatedCard>暴怒巴凱</style></link>與1個敵軍單位<br>互相<link=vocab.Strike><style=Vocab>打擊</style></link>。",
+    		descriptionRaw: "使暴怒巴凱與1個敵軍單位互相打擊。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「建設性」地利用時間，便能帶來「破壞性」的成果。",
-    		artistName: "Polar Engine",
-    		name: "定時炸彈",
-    		cardCode: "04SH060T1",
+    		flavorText: "巴凱們本應加入飛昇者的行列，但結果變成了異形怪物，這股因失敗而起的怒氣必須有地方釋放。",
+    		artistName: "Kudos Productions",
+    		name: "巴凱狂暴",
+    		cardCode: "04SH009T1",
     		keywords: [
-    			"地標"
+    			"技能"
     		],
     		keywordRefs: [
-    			"LandmarkVisualOnly"
+    			"Skill"
     		],
     		spellSpeed: "",
     		spellSpeedRef: "",
@@ -8867,52 +5336,7 @@ var app = (function () {
     		subtypes: [
     		],
     		supertype: "",
-    		type: "地標",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH039",
-    			"04SH039T2",
-    			"04SH039T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH039T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH039T2-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 0,
-    		cost: 7,
-    		health: 0,
-    		description: "給予1個我方英雄：「本回合此牌下次將要陣亡時，反而會完全治癒此牌，並賦予其+3|+3」。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>極靈</style></link>。",
-    		descriptionRaw: "給予1個我方英雄：「本回合此牌下次將要陣亡時，反而會完全治癒此牌，並賦予其+3|+3」。\r\n在我方牌組生成1張極靈。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「生命總會走到盡頭……但我們能拖延最後那段旅程。」——極靈",
-    		artistName: "Kudos Productions",
-    		name: "極靈 時光倒流",
-    		cardCode: "04SH039T2",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "英雄",
-    		type: "法術",
+    		type: "技能",
     		collectible: false,
     		set: "Set4"
     	},
@@ -8965,8 +5389,51 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH079.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH079-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH013.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH013-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "召喚此牌時，抽1張牌。\r\n<link=vocab.Buried><style=Vocab>倒數2</style></link><style=Variable></style>：抽1張牌。",
+    		descriptionRaw: "召喚此牌時，抽1張牌。\r\n倒數2：抽1張牌。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "極靈為那些他帶來鐘塔的人，展示他們想要修復的東西。珍存園丁能夠讓他們得償所願，即使每次只能匆匆一瞥。",
+    		artistName: "Polar Engine",
+    		name: "珍存之所",
+    		cardCode: "04SH013",
+    		keywords: [
+    			"地標"
+    		],
+    		keywordRefs: [
+    			"LandmarkVisualOnly"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "地標",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH062T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH062.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH062-full.png"
     			}
     		],
     		region: "蘇瑞瑪",
@@ -8974,24 +5441,802 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "<link=vocab.Forecast><style=Vocab>預言</style></link>。\r\n本回合給予1個敵軍單位<nobr>-2|-0</nobr>。 ",
-    		descriptionRaw: "預言。\r\n本回合給予1個敵軍單位-2|-0。 ",
+    		description: "牌局開始：若我方所有卡牌皆為蘇瑞瑪卡牌，則抽出1張此牌。\r\n<link=vocab.Buried><style=Vocab>倒數25</style></link><style=Variable></style>：<link=vocab.SunDiscRestore><style=Vocab>復原烈日巨環</style></link>。\r\n當我方飛昇者升級時，<link=vocab.Advance><style=Vocab>快轉</style></link>此牌10回合。",
+    		descriptionRaw: "牌局開始：若我方所有卡牌皆為蘇瑞瑪卡牌，則抽出1張此牌。\r\n倒數25：復原烈日巨環。\r\n當我方飛昇者升級時，快轉此牌10回合。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「我已看透自己的命運。而這次，我無人能擋。」——阿祈爾",
+    		flavorText: "當阿祈爾看到蘇瑞瑪首都的烈日巨環，他看到的不只是現在，更是未來——巨環可以讓蘇瑞瑪重返昔日榮光。",
     		artistName: "Kudos Productions",
-    		name: "占沙術",
-    		cardCode: "04SH079",
+    		name: "埋沒的烈日巨環",
+    		cardCode: "04SH062",
     		keywords: [
-    			"疾速"
+    			"地標"
     		],
     		keywordRefs: [
-    			"Burst"
+    			"LandmarkVisualOnly"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "地標",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH016-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 5,
+    		health: 0,
+    		description: "使1個友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>1個單位。\r\n若該單位陣亡，\r\n則賦予我方<link=vocab.Everywhere><style=Vocab>各處</style></link>的英雄+2|+2。",
+    		descriptionRaw: "使1個友軍單位打擊1個單位。\r\n若該單位陣亡，\r\n則賦予我方各處的英雄+2|+2。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「你的靈魂由我來審判。」——納瑟斯",
+    		artistName: "Kudos Productions",
+    		name: "虹吸打擊",
+    		cardCode: "04SH016",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH108.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH108-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 7,
+    		health: 0,
+    		description: "使1個友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>\r\n<link=vocab.Strongest><style=Vocab>最強</style></link>與<link=keyword.Weakest><style=Keyword>最弱</style></link>敵軍單位。",
+    		descriptionRaw: "使1個友軍單位打擊\r\n最強與最弱敵軍單位。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「勸你趕快閃。」——希維爾",
+    		artistName: "Kudos Productions",
+    		name: "迴旋之刃",
+    		cardCode: "04SH108",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH066.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH066-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "<link=vocab.Forecast><style=Vocab>預言</style></link>並<link=vocab.Advance><style=Vocab>快轉</style></link>1個我方地標2回合。",
+    		descriptionRaw: "預言並快轉1個我方地標2回合。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「若你能見我所見，就會明白時間並非無可改變。」——極靈",
+    		artistName: "Kudos Productions",
+    		name: "時光之瓶",
+    		cardCode: "04SH066",
+    		keywords: [
+    			"專注"
+    		],
+    		keywordRefs: [
+    			"Focus"
     		],
     		spellSpeed: "疾速",
     		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH014-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 2,
+    		cost: 1,
+    		health: 2,
+    		description: "",
+    		descriptionRaw: "",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "首批獲得自由的是時鐘機器人，它們按著極靈設置的<br>時間甦醒後，便爬上古老的城牆，越過障礙試著尋找同類<br>的蹤跡。",
+    		artistName: "Polar Engine",
+    		name: "時鐘機器人",
+    		cardCode: "04SH014",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH047",
+    			"04SH047T3",
+    			"04SH047T2",
+    			"04SH047"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH047T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH047T1-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 5,
+    		health: 0,
+    		description: "使1個友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>1個單位。\r\n若該單位陣亡，則賦予我方<link=vocab.Everywhere><style=Vocab>各處</style></link>的英雄+2|+2。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>納瑟斯</style></link>。",
+    		descriptionRaw: "使1個友軍單位打擊1個單位。\r\n若該單位陣亡，則賦予我方各處的英雄+2|+2。\r\n在我方牌組生成1張納瑟斯。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「你的靈魂由我來審判。」——納瑟斯",
+    		artistName: "Kudos Productions",
+    		name: "納瑟斯 虹吸打擊",
+    		cardCode: "04SH047T1",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH047",
+    			"04SH047T3",
+    			"04SH047T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH047T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH047T2-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 10,
+    		cost: 6,
+    		health: 10,
+    		description: "本牌局我方每<link=vocab.Slay><style=Vocab>屠殺</style></link>1個單位，\r\n則此牌獲得+1|+1。<style=Variable></style>\r\n所有敵軍單位受到<nobr>-3|-0</nobr>。",
+    		descriptionRaw: "本牌局我方每屠殺1個單位，\r\n則此牌獲得+1|+1。\r\n所有敵軍單位受到-3|-0。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「蘇瑞瑪的復甦使納瑟斯重燃希望，在沙漠流浪多年後，他終於重返故地，渴望能與弟弟重修舊好。但他從未料想到等著他的雷尼克頓，竟然因在陵墓中遭受齊勒斯折磨多年而早已發狂。」——《飛昇戰士團史》，書吏卡尼爾著",
+    		artistName: "SIXMOREVODKA",
+    		name: "納瑟斯",
+    		cardCode: "04SH047T2",
+    		keywords: [
+    			"威嚇",
+    			"法盾",
+    			"Missing Translation"
+    		],
+    		keywordRefs: [
+    			"Fearsome",
+    			"SpellShield",
+    			"AuraVisualFakeKeyword"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "飛昇者",
+    		subtypes: [
+    			"飛昇者"
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH047",
+    			"04SH047T2",
+    			"04SH047T1",
+    			"04SH062"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH047T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH047T3-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 3,
+    		cost: 6,
+    		health: 3,
+    		description: "本牌局我方每<link=vocab.Slay><style=Vocab>屠殺</style></link>1個單位，\r\n則此牌獲得+1|+1。<style=Variable></style>\r\n所有敵軍單位受到<nobr>-1|-0</nobr>。",
+    		descriptionRaw: "本牌局我方每屠殺1個單位，\r\n則此牌獲得+1|+1。\r\n所有敵軍單位受到-1|-0。",
+    		levelupDescription: "我方已<link=vocab.SunDiscRestore><style=Vocab>復原烈日巨環</style></link>。",
+    		levelupDescriptionRaw: "我方已復原烈日巨環。",
+    		flavorText: "「納瑟斯與弟弟雷尼克頓報效帝國多年，納瑟斯是一名學者，而雷尼克頓則是驍勇善戰的戰士。但當他們被派去與叛徒齊勒斯戰鬥時，納瑟斯不得不做出殘酷的抉擇……」<br>——《飛昇戰士團史》，書吏卡尼爾著",
+    		artistName: "SIXMOREVODKA",
+    		name: "納瑟斯",
+    		cardCode: "04SH047T3",
+    		keywords: [
+    			"威嚇",
+    			"法盾",
+    			"Missing Translation"
+    		],
+    		keywordRefs: [
+    			"Fearsome",
+    			"SpellShield",
+    			"AuraVisualFakeKeyword"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "飛昇者",
+    		subtypes: [
+    			"飛昇者"
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH021.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH021-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 4,
+    		cost: 6,
+    		health: 4,
+    		description: "召喚此牌時，在我方牌組生成1張此牌的複製牌。此牌在<link=vocab.Forecast><style=Vocab>預言</style></link>出現時，賦予我方<link=vocab.Everywhere><style=Vocab>各處</style></link>與之相同的卡牌+2|+2。",
+    		descriptionRaw: "召喚此牌時，在我方牌組生成1張此牌的複製牌。此牌在預言出現時，賦予我方各處與之相同的卡牌+2|+2。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "卡西歷只暫時消失一陣子就突然回歸於眾人面前。他不僅幾乎老了十歲，還手握一個看似詭異又致命的武器。眾人不禁驚聲讚嘆，更暗地裡擔心著。",
+    		artistName: "Kudos Productions",
+    		name: "回歸者卡西歷",
+    		cardCode: "04SH021",
+    		keywords: [
+    			"威嚇"
+    		],
+    		keywordRefs: [
+    			"Fearsome"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
     		rarity: "稀有",
     		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH101.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH101-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 1,
+    		cost: 3,
+    		health: 6,
+    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：若我方已升級英雄，則治療我方英雄及我方主堡2點生命值。",
+    		descriptionRaw: "回合開始：若我方已升級英雄，則治療我方英雄及我方主堡2點生命值。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「我發誓效忠阿祈爾和我的家鄉蘇瑞瑪！你不一起來嗎？」",
+    		artistName: "Kudos Productions",
+    		name: "忠貞議會",
+    		cardCode: "04SH101",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH062"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH012.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH012-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 3,
+    		cost: 3,
+    		health: 4,
+    		description: "召喚此牌時，<link=vocab.Advance><style=Vocab>快轉</style></link>我方的<br><link=card.create><style=AssociatedCard>埋沒的烈日巨環</style></link>3回合。",
+    		descriptionRaw: "召喚此牌時，快轉我方的埋沒的烈日巨環3回合。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「喔，爸爸！那是娜敘亞麥的其中一位長老帕諸曼！今天是不是全部的人都到我們的城鎮裡來啦？」——興奮的圍觀者",
+    		artistName: "Kudos Productions",
+    		name: "崇高聖顯者",
+    		cardCode: "04SH012",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH020",
+    			"04SH020T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH020T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH020T2-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 6,
+    		health: 0,
+    		description: "<link=vocab.Aftermath><style=Vocab>名望</style></link>：此牌魔耗值為3點。<style=Variable></style>\r\n隨機對敵軍單位或敵方主堡<br>造成1點傷害5次。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>希維爾</style></link>。",
+    		descriptionRaw: "名望：此牌魔耗值為3點。\r\n隨機對敵軍單位或敵方主堡造成1點傷害5次。\r\n在我方牌組生成1張希維爾。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「場面可能會有點慘烈。」——希維爾",
+    		artistName: "Kudos Productions",
+    		name: "希維爾 十字彈射",
+    		cardCode: "04SH020T2",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH020",
+    			"04SH020T2"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH020T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH020T1-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 6,
+    		cost: 4,
+    		health: 4,
+    		description: "此牌攻擊時，攻擊中的友軍單位將擁有此牌的特性。",
+    		descriptionRaw: "此牌攻擊時，攻擊中的友軍單位將擁有此牌的特性。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「我對每個想跟我共事的人都說這話：『自己的酬勞自己賺，我不會虧待你。但若你是老鼠屎或拖油瓶，我就會親手殺了你。』」",
+    		artistName: "SIXMOREVODKA",
+    		name: "希維爾",
+    		cardCode: "04SH020T1",
+    		keywords: [
+    			"快速攻擊",
+    			"法盾"
+    		],
+    		keywordRefs: [
+    			"QuickStrike",
+    			"SpellShield"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH031.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH031-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 4,
+    		health: 0,
+    		description: "賦予1個我方地標以下能力：「此牌的<link=vocab.Buried><style=Vocab>倒數</style></link>效果發動2次」。",
+    		descriptionRaw: "賦予1個我方地標以下能力：「此牌的倒數效果發動2次」。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「凡人一生花費大部分時間在等待。我誠摯希望他們的耐心能得到獎賞。」——極靈",
+    		artistName: "Kudos Productions",
+    		name: "光明未來",
+    		cardCode: "04SH031",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH004-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 4,
+    		health: 0,
+    		description: "對1個英雄造成2點傷害，<br>或對1個侍從單位造成7點傷害。",
+    		descriptionRaw: "對1個英雄造成2點傷害，或對1個侍從單位造成7點傷害。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「一人犧牲，眾人得救。」——納瑟斯",
+    		artistName: "Kudos Productions",
+    		name: "審判之重",
+    		cardCode: "04SH004",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH059.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH059-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 4,
+    		health: 0,
+    		description: "擊殺1個友軍單位或摧毀我方1個魔力寶石，以抵銷敵方所有<link=keyword.Fast><sprite name=Fast><style=Keyword>快速</style></link>法術、<link=keyword.Slow><sprite name=Slow><style=Keyword>慢速</style></link>法術與<link=keyword.Skill><sprite name=PlaySkillMark><style=Keyword>技能</style></link>。",
+    		descriptionRaw: "擊殺1個友軍單位或摧毀我方1個魔力寶石，以抵銷敵方所有快速法術、慢速法術與技能。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "分析乃時空術之基石，因為在採取大多數行動前，必須先停下來思考未來的解決方法。",
+    		artistName: "Kudos Productions",
+    		name: "相消儀式",
+    		cardCode: "04SH059",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH044.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH044-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 2,
+    		cost: 2,
+    		health: 2,
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=vocab.Advance><style=Vocab>快轉</style></link>1個我方地標2回合。 ",
+    		descriptionRaw: "出牌：快轉1個我方地標2回合。 ",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "這些魔像抵禦沙漠的無情摧殘長達千年之久，一直以來守護著極靈的鍾塔，這並不是單靠精巧工藝便能夠達成。",
+    		artistName: "Polar Engine",
+    		name: "發條管理員",
+    		cardCode: "04SH044",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH076T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH076.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH076-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>1個友軍單位，以在原處召喚1個<link=card.create><style=AssociatedCard>凝滯雕像</style></link>。",
+    		descriptionRaw: "泯滅1個友軍單位，以在原處召喚1個凝滯雕像。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「阿泰！過來！我們需要你幫個忙。」\n——虛空研究者賽沙",
+    		artistName: "Kudos Productions",
+    		name: "遠古沙漏",
+    		cardCode: "04SH076",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH003T14"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH118.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH118-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "召喚1個<link=card.summon><style=AssociatedCard>砂褐衝鋒者</style></link>。",
+    		descriptionRaw: "召喚1個砂褐衝鋒者。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「那個箱子可能值點錢，但裡面的東西肯定跟沙子一樣毫無價值。我的意思是叫你別浪費力氣打開了。這是我的經驗談。」——希維爾",
+    		artistName: "Kudos Productions",
+    		name: "覺醒沙團",
+    		cardCode: "04SH118",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "普通",
+    		rarityRef: "Common",
     		subtype: "",
     		subtypes: [
     		],
@@ -9047,115 +6292,26 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE004-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH041.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH041-full.png"
     			}
     		],
-    		region: "蒂瑪西亞",
-    		regionRef: "Demacia",
-    		attack: 3,
-    		cost: 6,
-    		health: 5,
-    		description: "每召喚1個菁英單位，<br>則此牌魔耗值-1。",
-    		descriptionRaw: "每召喚1個菁英單位，則此牌魔耗值-1。",
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 2,
+    		cost: 3,
+    		health: 4,
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=vocab.Forecast><style=Vocab>預言</style></link>。<br>若我方挑選的卡牌為地標，則賦予此牌<link=keyword.Elusive><sprite name=Elusive><style=Keyword>隱密</style></link>。",
+    		descriptionRaw: "出牌：預言。若我方挑選的卡牌為地標，則賦予此牌隱密。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "蒂瑪西亞的偵察兵對森林瞭若指掌，無論諾克薩斯人的陷阱設得再怎麼隱密，每根斷枝、每個腳印都是引導他們接近王子的線索。",
-    		artistName: "SIXMOREVODKA",
-    		name: "鐵血偵察兵",
-    		cardCode: "04DE004",
-    		keywords: [
-    			"先遣"
-    		],
-    		keywordRefs: [
-    			"Scout"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "菁英",
-    		subtypes: [
-    			"菁英"
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE005-full.png"
-    			}
-    		],
-    		region: "蒂瑪西亞",
-    		regionRef: "Demacia",
-    		attack: 10,
-    		cost: 10,
-    		health: 10,
-    		description: "召喚此牌時，使其他友軍單位的力量值與生命值加倍，並賦予其<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。",
-    		descriptionRaw: "召喚此牌時，使其他友軍單位的力量值與生命值加倍，並賦予其挑戰者。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「能夠拯救蒂瑪西亞王子的非雲霄戰士莫屬！」<br>——嘉文三世國王",
-    		artistName: "SIXMOREVODKA",
-    		name: "雲霄戰士希莉亞",
-    		cardCode: "04DE005",
-    		keywords: [
-    			"挑戰者"
-    		],
-    		keywordRefs: [
-    			"Challenger"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    			"菁英"
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04PZ005T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04PZ005.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04PZ005-full.png"
-    			}
-    		],
-    		region: "皮爾托福&佐恩",
-    		regionRef: "PiltoverZaun",
-    		attack: 1,
-    		cost: 2,
-    		health: 2,
-    		description: "召喚其他<link=card.selfRef><style=AssociatedCard>奇里安汙水坑工人</style></link>時，<link=keyword.Obliterate><style=Keyword>泯滅</style></link>此牌並將我方<link=vocab.Everywhere><style=Vocab>各處</style></link><link=card.selfRef><style=AssociatedCard>奇里安汙水坑工人</style></link>幻化為<link=card.transform><style=AssociatedCard>汙水坑暴徒</style></link>。",
-    		descriptionRaw: "召喚其他奇里安汙水坑工人時，泯滅此牌並將我方各處奇里安汙水坑工人幻化為汙水坑暴徒。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "首位發現奇里安的佐恩礦工以為牠們是溫馴單純的生物。但隨著時間過去，適應與人類共存後，牠們逐漸展現出緊密的社會性，而且似乎與生俱來就能瞭解科技。",
+    		flavorText: "「我們差點遇上大麻煩！那時西邊有個逐漸靠近的風暴，而塔莉雅正通過位於大煞沙漠南邊的隧道。好在被我發現北邊有個寺廟能躲避風暴，它的赤陶壁磚正保護著我們的安全。其他人都進入夢鄉了，我的火把也快燒到盡頭了。祝我自己有個好夢。」\n——賽發的日記",
     		artistName: "Dao Le",
-    		name: "奇里安汙水坑工人",
-    		cardCode: "04PZ005",
+    		name: "大煞偵察兵",
+    		cardCode: "04SH041",
     		keywords: [
-    			"隱密"
     		],
     		keywordRefs: [
-    			"Elusive"
     		],
     		spellSpeed: "",
     		spellSpeedRef: "",
@@ -9173,33 +6329,110 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"04PZ005T2",
-    			"04PZ005"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04PZ005T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04PZ005T1-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH005-full.png"
     			}
     		],
-    		region: "皮爾托福&佐恩",
-    		regionRef: "PiltoverZaun",
-    		attack: 4,
-    		cost: 2,
-    		health: 2,
-    		description: "<link=vocab.Attack><style=Vocab>攻擊：</style></link>對所有敵軍單位與敵方主堡<br>造成1點傷害。",
-    		descriptionRaw: "攻擊：對所有敵軍單位與敵方主堡造成1點傷害。",
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 3,
+    		cost: 1,
+    		health: 1,
+    		description: "",
+    		descriptionRaw: "",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「一個就很厲害了沒錯，但如果好幾個合作，不知不覺就會打造出暴走機器，大鬧汙水坑巷了。」——佐恩機械工",
-    		artistName: "Dao Le",
-    		name: "汙水坑暴徒",
-    		cardCode: "04PZ005T1",
+    		flavorText: "沙戮者和同伴們關係緊密，連打架、打獵和吃飯都形影不離。",
+    		artistName: "JiHun Lee",
+    		name: "嗜血流寇",
+    		cardCode: "04SH005",
     		keywords: [
-    			"隱密"
     		],
     		keywordRefs: [
-    			"Elusive"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH046.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH046-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 6,
+    		cost: 12,
+    		health: 6,
+    		description: "在此牌局中，每有1個友軍單位攻擊1次，則此牌魔耗值-1。",
+    		descriptionRaw: "在此牌局中，每有1個友軍單位攻擊1次，則此牌魔耗值-1。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "在阿祈爾的回歸之時，蘇瑞瑪人也目擊傳說中遠古怪物的蹤影。用沙做成的怪物？著實令人過目難忘。",
+    		artistName: "Kudos Productions",
+    		name: "砂褐奇美拉",
+    		cardCode: "04SH046",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH062"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH062T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH062T1-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "抽出我方所有飛昇者各1張。\r\n我方的等級2飛昇者變為等級3，此效果持續到牌局結束。",
+    		descriptionRaw: "抽出我方所有飛昇者各1張。\r\n我方的等級2飛昇者變為等級3，此效果持續到牌局結束。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「蘇瑞瑪從未如今日般輝煌。來吧，沐浴在我等的陽光之下！」——重生者宣使",
+    		artistName: "Kudos Productions",
+    		name: "復原的烈日巨環",
+    		cardCode: "04SH062T1",
+    		keywords: [
+    		],
+    		keywordRefs: [
     		],
     		spellSpeed: "",
     		spellSpeedRef: "",
@@ -9209,7 +6442,7 @@ var app = (function () {
     		subtypes: [
     		],
     		supertype: "",
-    		type: "單位",
+    		type: "地標",
     		collectible: false,
     		set: "Set4"
     	},
@@ -9220,23 +6453,319 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04PZ005T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04PZ005T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH018T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH018T2-full.png"
     			}
     		],
-    		region: "皮爾托福&佐恩",
-    		regionRef: "PiltoverZaun",
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 4,
+    		health: 0,
+    		description: "擊殺1個友軍單位，本回合給予所有敵軍單位<nobr>-2|-0</nobr>。",
+    		descriptionRaw: "擊殺1個友軍單位，本回合給予所有敵軍單位-2|-0。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "",
+    		artistName: "Kudos Productions",
+    		name: "主宰儀式",
+    		cardCode: "04SH018T2",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH018T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH018T1-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 4,
+    		health: 0,
+    		description: "摧毀我方1個魔力寶石，本回合給予所有敵軍單位<nobr>-2|-0</nobr>。",
+    		descriptionRaw: "摧毀我方1個魔力寶石，本回合給予所有敵軍單位-2|-0。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "",
+    		artistName: "Kudos Productions",
+    		name: "主宰儀式",
+    		cardCode: "04SH018T1",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH003T14"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH105.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH105-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 5,
+    		health: 0,
+    		description: "我方攻擊時，召喚1個攻擊中的<br><link=card.create><style=AssociatedCard>砂褐衝鋒者</style></link>。",
+    		descriptionRaw: "我方攻擊時，召喚1個攻擊中的砂褐衝鋒者。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "當他們穿越河谷，沙術士念出咒語，一陣狂風便席捲峽谷，回音化為震耳欲聾的蹄聲。",
+    		artistName: "Kudos Productions",
+    		name: "古沙陵墓",
+    		cardCode: "04SH105",
+    		keywords: [
+    			"地標"
+    		],
+    		keywordRefs: [
+    			"LandmarkVisualOnly"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "地標",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH069.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH069-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "本回合給予1個友軍單位+2|+0，<br>並給予1個敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
+    		descriptionRaw: "本回合給予1個友軍單位+2|+0，並給予1個敵軍單位弱勢。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「撕裂他們！」——雷尼克頓",
+    		artistName: "Kudos Productions",
+    		name: "庖丁解牛",
+    		cardCode: "04SH069",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH121.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH121-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "對所有敵軍單位與敵方主堡造成1點傷害。",
-    		descriptionRaw: "對所有敵軍單位與敵方主堡造成1點傷害。",
+    		description: "擊殺1個友軍單位或摧毀我方1個<br>魔力寶石，然後抽1張英雄牌。",
+    		descriptionRaw: "擊殺1個友軍單位或摧毀我方1個魔力寶石，然後抽1張英雄牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "要惹惱一群奇里安不容易，但牠們一生起氣來，就會鬧得天翻地覆。",
+    		flavorText: "「這點犧牲無可厚非。」——納瑟斯",
     		artistName: "Kudos Productions",
-    		name: "電路破壞者",
-    		cardCode: "04PZ005T2",
+    		name: "呼喚儀式",
+    		cardCode: "04SH121",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH121T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH121T1-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "摧毀我方1個魔力寶石，<br>然後抽1張英雄牌。",
+    		descriptionRaw: "摧毀我方1個魔力寶石，然後抽1張英雄牌。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "",
+    		artistName: "Kudos Productions",
+    		name: "呼喚儀式",
+    		cardCode: "04SH121T1",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH121T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH121T2-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "擊殺1個友軍單位，<br>然後抽1張英雄牌。",
+    		descriptionRaw: "擊殺1個友軍單位，然後抽1張英雄牌。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "",
+    		artistName: "Kudos Productions",
+    		name: "呼喚儀式",
+    		cardCode: "04SH121T2",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH097"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH097T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH097T1-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "在本牌局中，若我方已<link=vocab.Slay><style=Vocab>屠殺</style></link>13個以上的單位，則擊殺所有敵軍侍從單位，並召喚1個此牌的複製單位。",
+    		descriptionRaw: "在本牌局中，若我方已屠殺13個以上的單位，則擊殺所有敵軍侍從單位，並召喚1個此牌的複製單位。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「我們是人與神的終焉。」——聖所監管員",
+    		artistName: "Kudos Productions",
+    		name: "監管員審判",
+    		cardCode: "04SH097T1",
     		keywords: [
     			"技能"
     		],
@@ -9262,23 +6791,234 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04PZ015.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04PZ015-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH110.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH110-full.png"
     			}
     		],
-    		region: "皮爾托福&佐恩",
-    		regionRef: "PiltoverZaun",
-    		attack: 1,
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
     		cost: 1,
-    		health: 3,
-    		description: "召喚機械單位時，與此牌共享特性。",
-    		descriptionRaw: "召喚機械單位時，與此牌共享特性。",
+    		health: 0,
+    		description: "查看3張我方有足夠魔力能打出的隨機地標。挑選1張在手牌生成。",
+    		descriptionRaw: "查看3張我方有足夠魔力能打出的隨機地標。挑選1張在手牌生成。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「有了！就叫適應創號3000！靈活多變、愛發明又超有型！如果這傢伙能說話，我們一定很聊得來。」——漢默丁格",
+    		flavorText: "「快來看，簡直目不暇給！」——塔莉雅",
     		artistName: "Kudos Productions",
-    		name: "適應創號3000",
-    		cardCode: "04PZ015",
+    		name: "岩石編織",
+    		cardCode: "04SH110",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SH003T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH051.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH051-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "我方攻擊時，召喚1個攻擊中的<br><link=card.create><style=AssociatedCard>沙礫士兵</style></link>。",
+    		descriptionRaw: "我方攻擊時，召喚1個攻擊中的沙礫士兵。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "沙術士一抬手，沙子便化為那熟悉的無臉士兵整裝待發。不知疲倦為何物的軍團旋即準備好為了神皇而戰。 ",
+    		artistName: "Kudos Productions",
+    		name: "神皇座台",
+    		cardCode: "04SH051",
+    		keywords: [
+    			"地標"
+    		],
+    		keywordRefs: [
+    			"LandmarkVisualOnly"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "地標",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH106.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH106-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 7,
+    		health: 0,
+    		description: "本回合給予所有敵軍單位<nobr>-2|-0</nobr>以及「<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：對此牌造成2點傷害」。",
+    		descriptionRaw: "本回合給予所有敵軍單位-2|-0以及「回合結束：對此牌造成2點傷害」。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「他們的靈魂將會燃燒。」——納瑟斯",
+    		artistName: "Kudos Productions",
+    		name: "靈魂烈焰",
+    		cardCode: "04SH106",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH109.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH109-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 0,
+    		cost: 3,
+    		health: 0,
+    		description: "本回合給予1個敵軍單位<nobr>-4|-0</nobr>，<br>並使其特性無效化（不含負面特性）。",
+    		descriptionRaw: "本回合給予1個敵軍單位-4|-0，並使其特性無效化（不含負面特性）。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "在沙漠某些地方，遺跡沉入沙底，造成空洞。旅人一不注意就會步上遺跡的後塵。 ",
+    		artistName: "Kudos Productions",
+    		name: "流沙陷阱",
+    		cardCode: "04SH109",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH090.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH090-full.png"
+    			}
+    		],
+    		region: "蘇瑞瑪",
+    		regionRef: "Shurima",
+    		attack: 5,
+    		cost: 5,
+    		health: 4,
+    		description: "",
+    		descriptionRaw: "",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「今天開心極了！我們停下來吃午餐（斯卡拉錫乳酪——噁！）的時候，卡蒂拉發現樹蔭底下睡著一頭可憐的岩杜伯。想也知道她跑去拉牠尾巴，然後想也知道牠生氣了。希望牠喜歡我們丟在那邊的乳酪！」\n——賽發的日記",
+    		artistName: "Dao Le",
+    		name: "暴躁岩熊",
+    		cardCode: "04SH090",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04FR001",
+    			"04FR001T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR006-full.png"
+    			}
+    		],
+    		region: "弗雷爾卓德",
+    		regionRef: "Freljord",
+    		attack: 4,
+    		cost: 5,
+    		health: 5,
+    		description: "召喚此牌時，召喚1個<link=card.create><style=AssociatedCard>冰封奴魔</style></link>。\r\n<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：若我方有<link=vocab.Buried><style=Vocab>倒數4</style></link>回合以下的<link=card.create><style=AssociatedCard>冰封奴魔</style></link>，<br>則將其<link=vocab.Advance><style=Vocab>快轉</style></link>至歸零。",
+    		descriptionRaw: "召喚此牌時，召喚1個冰封奴魔。\r\n回合結束：若我方有倒數4回合以下的冰封奴魔，則將其快轉至歸零。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「我夢到女王輕聲細語的邀請：『跟隨我的腳步吧。』我不敢抗命。」",
+    		artistName: "Kudos Productions",
+    		name: "凜冰仲裁官",
+    		cardCode: "04FR006",
     		keywords: [
     		],
     		keywordRefs: [
@@ -9289,7 +7029,870 @@ var app = (function () {
     		rarityRef: "Epic",
     		subtype: "",
     		subtypes: [
-    			"機械"
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04FR007T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR012.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR012-full.png"
+    			}
+    		],
+    		region: "弗雷爾卓德",
+    		regionRef: "Freljord",
+    		attack: 0,
+    		cost: 9,
+    		health: 0,
+    		description: "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>所有敵軍單位，並在原處召喚相同數量的<link=card.create><style=AssociatedCard>永凍墳地</style></link>。",
+    		descriptionRaw: "泯滅所有敵軍單位，並在原處召喚相同數量的永凍墳地。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「寒冷終究會吞噬一切。」——麗珊卓",
+    		artistName: "Kudos Productions",
+    		name: "寒冰滅頂",
+    		cardCode: "04FR012",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR016-full.png"
+    			}
+    		],
+    		region: "弗雷爾卓德",
+    		regionRef: "Freljord",
+    		attack: 0,
+    		cost: 3,
+    		health: 0,
+    		description: "賦予1個友軍單位+1|+2。\r\n<link=vocab.Plunder><style=Vocab>洗劫</style></link>：改為賦予+2|+4。",
+    		descriptionRaw: "賦予1個友軍單位+1|+2。\r\n洗劫：改為賦予+2|+4。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「你們這些艾伐洛森人仰仗那肥沃土地坐吃山空，變得軟弱無能。虛弱的可憐蟲們啊，把握今晚最後的美夢吧，因為你們睜眼之時這一切都將屬於我們。」<br>——戰痕之母芙蕊娜",
+    		artistName: "Kudos Productions",
+    		name: "搜刮戰利",
+    		cardCode: "04FR016",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR001T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR001T1-full.png"
+    			}
+    		],
+    		region: "弗雷爾卓德",
+    		regionRef: "Freljord",
+    		attack: 8,
+    		cost: 8,
+    		health: 8,
+    		description: "",
+    		descriptionRaw: "",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "墮落的巨魔從冰封墳墓被釋放後，他們只知道唯一一件事，就是對暗黑女主唯命是從。",
+    		artistName: "Kudos Productions",
+    		name: "寒冰護衛的奴魔",
+    		cardCode: "04FR001T1",
+    		keywords: [
+    			"蠻力"
+    		],
+    		keywordRefs: [
+    			"Overwhelm"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR013.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR013-full.png"
+    			}
+    		],
+    		region: "弗雷爾卓德",
+    		regionRef: "Freljord",
+    		attack: 0,
+    		cost: 5,
+    		health: 0,
+    		description: "獲得1個魔力寶石槽位並賦予<br>1個友軍單位+0|+2。",
+    		descriptionRaw: "獲得1個魔力寶石槽位並賦予1個友軍單位+0|+2。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「小心那些寒冰……更加要提防的是……冰裡的東西！」——某弗雷爾卓德旅店牆上的潦草字跡",
+    		artistName: "Kudos Productions",
+    		name: "極寒防禦",
+    		cardCode: "04FR013",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04FR005T1",
+    			"04FR005T2",
+    			"04FR007T1",
+    			"04FR001",
+    			"04FR001T1",
+    			"04FR005T4",
+    			"04FR009"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR005-full.png"
+    			}
+    		],
+    		region: "弗雷爾卓德",
+    		regionRef: "Freljord",
+    		attack: 2,
+    		cost: 3,
+    		health: 3,
+    		description: "召喚此牌時，召喚1個<link=card.create><style=AssociatedCard>冰封奴魔</style></link>。",
+    		descriptionRaw: "召喚此牌時，召喚1個冰封奴魔。",
+    		levelupDescription: "我方已召喚2個以上魔耗值為8點<br>以上的友軍單位<style=Variable></style>。此牌升級時，<br>在手牌生成1張<link=card.summon><style=AssociatedCard>守望者</style></link>。",
+    		levelupDescriptionRaw: "我方已召喚2個以上魔耗值為8點以上的友軍單位。此牌升級時，在手牌生成1張守望者。",
+    		flavorText: "「在高牆的另一邊，潛伏著被冰雪包覆、時間被暫停<br>的守望者。就讓他們再等等吧，我有一些計畫必須先<br>進行……」",
+    		artistName: "SIXMOREVODKA",
+    		name: "麗珊卓",
+    		cardCode: "04FR005",
+    		keywords: [
+    			"堅忍"
+    		],
+    		keywordRefs: [
+    			"Tough"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "英雄",
+    		rarityRef: "Champion",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04FR001T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR005T4.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR005T4-full.png"
+    			}
+    		],
+    		region: "弗雷爾卓德",
+    		regionRef: "Freljord",
+    		attack: 11,
+    		cost: 17,
+    		health: 17,
+    		description: "在本牌局中，若我方已召喚4個以上<br>魔耗值為8點以上的友軍單位，<br>則此牌魔耗值為0點。<style=Variable></style>\r\n<link=vocab.Attack><style=Vocab>攻擊</style></link>：<link=keyword.Obliterate><style=Keyword>泯滅</style></link>敵方牌組。",
+    		descriptionRaw: "在本牌局中，若我方已召喚4個以上魔耗值為8點以上的友軍單位，則此牌魔耗值為0點。\r\n攻擊：泯滅敵方牌組。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「一切都結束了，就如我所預言、所承諾的一樣。姊妹們，原諒我……」——麗珊卓",
+    		artistName: "Wild Blue",
+    		name: "守望者",
+    		cardCode: "04FR005T4",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04FR005",
+    			"04FR005T2",
+    			"04FR007T1",
+    			"04FR001",
+    			"04FR001T1",
+    			"04FR005T4",
+    			"04FR009"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR005T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR005T1-full.png"
+    			}
+    		],
+    		region: "弗雷爾卓德",
+    		regionRef: "Freljord",
+    		attack: 3,
+    		cost: 3,
+    		health: 4,
+    		description: "我方主堡擁有<link=keyword.Tough><sprite name=Tough><style=Keyword>堅忍</style></link>。\r\n召喚此牌時，召喚1個<link=card.create><style=AssociatedCard>冰封奴魔</style></link>。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：在手牌生成1張魔耗值0點的<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.cast><style=AssociatedCard>幽影碎冰</style></link>。",
+    		descriptionRaw: "我方主堡擁有堅忍。\r\n召喚此牌時，召喚1個冰封奴魔。\r\n回合開始：在手牌生成1張魔耗值0點的飛逝幽影碎冰。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "鮮少人知道麗珊卓為了得到力量做出了何種犧牲——她狂妄的野心並非區區肉體可以桎梏的。",
+    		artistName: "SIXMOREVODKA",
+    		name: "麗珊卓",
+    		cardCode: "04FR005T1",
+    		keywords: [
+    			"堅忍",
+    			"Missing Translation"
+    		],
+    		keywordRefs: [
+    			"Tough",
+    			"AuraVisualFakeKeyword"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04FR007T1",
+    			"04FR005",
+    			"04FR005T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR005T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR005T2-full.png"
+    			}
+    		],
+    		region: "弗雷爾卓德",
+    		regionRef: "Freljord",
+    		attack: 0,
+    		cost: 5,
+    		health: 0,
+    		description: "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>1個單位，並在原處召喚<br>1個<link=card.create><style=AssociatedCard>永凍墳地</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>麗珊卓</style></link>。",
+    		descriptionRaw: "泯滅1個單位，並在原處召喚1個永凍墳地。\r\n在我方牌組生成1張麗珊卓。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「臣服吧！否則我將冰封伺候。」——麗珊卓",
+    		artistName: "Kudos Productions",
+    		name: "麗珊卓 冰葬",
+    		cardCode: "04FR005T2",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04FR001",
+    			"04FR001T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR011.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR011-full.png"
+    			}
+    		],
+    		region: "弗雷爾卓德",
+    		regionRef: "Freljord",
+    		attack: 0,
+    		cost: 4,
+    		health: 0,
+    		description: "<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>1個敵軍單位。\r\n召喚1個<link=card.create><style=AssociatedCard>冰封奴魔</style></link>。",
+    		descriptionRaw: "凍傷1個敵軍單位。\r\n召喚1個冰封奴魔。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「每個人對寒冷的反應不同，來看看你又是如何吧。」——麗珊卓",
+    		artistName: "Kudos Productions",
+    		name: "極寒冰噬",
+    		cardCode: "04FR011",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04FR001T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR001-full.png"
+    			}
+    		],
+    		region: "弗雷爾卓德",
+    		regionRef: "Freljord",
+    		attack: 0,
+    		cost: 1,
+    		health: 0,
+    		description: "<link=vocab.Buried><style=Vocab>倒數8</style></link><style=Variable></style>：<br>召喚1個<link=card.create><style=AssociatedCard>寒冰護衛的奴魔</style></link>。",
+    		descriptionRaw: "倒數8：召喚1個寒冰護衛的奴魔。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "在特朗德那毫無紀律的軍隊中，的確有許多笨頭笨腦的兵卒，可以拿來當前線的砲灰；不過麗珊卓要的是更高級的貨色，不僅要更忠心、還只能對她一人忠心……",
+    		artistName: "Kudos Productions",
+    		name: "冰封奴魔",
+    		cardCode: "04FR001",
+    		keywords: [
+    			"地標"
+    		],
+    		keywordRefs: [
+    			"LandmarkVisualOnly"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "地標",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04FR007T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR007-full.png"
+    			}
+    		],
+    		region: "弗雷爾卓德",
+    		regionRef: "Freljord",
+    		attack: 0,
+    		cost: 5,
+    		health: 0,
+    		description: "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>1個單位，並在原處召喚<br>1個<link=card.create><style=AssociatedCard>永凍墳地</style></link>。",
+    		descriptionRaw: "泯滅1個單位，並在原處召喚1個永凍墳地。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「臣服吧！否則我將冰封伺候。」——麗珊卓",
+    		artistName: "Kudos Productions",
+    		name: "冰葬",
+    		cardCode: "04FR007",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR007T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR007T1-full.png"
+    			}
+    		],
+    		region: "弗雷爾卓德",
+    		regionRef: "Freljord",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "<link=vocab.Buried><style=Vocab>倒數2</style></link><style=Variable></style>：召喚1個被此牌取代而<link=keyword.Obliterate><style=Keyword>泯滅</style></link>的單位的複製單位。",
+    		descriptionRaw: "倒數2：召喚1個被此牌取代而泯滅的單位的複製單位。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「我們的女王將把你熟悉的一切，連同這個世界一起冰封掩埋，永不見天日。」——凜冰仲裁官 ",
+    		artistName: "Kudos Productions",
+    		name: "永凍墳地",
+    		cardCode: "04FR007T1",
+    		keywords: [
+    			"地標"
+    		],
+    		keywordRefs: [
+    			"LandmarkVisualOnly"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "地標",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR017.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR017-full.png"
+    			}
+    		],
+    		region: "弗雷爾卓德",
+    		regionRef: "Freljord",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "賦予牌組最上方的友軍單位+2|+2。\r\n<link=keyword.Enlightened><style=Keyword>開悟</style></link>：改為賦予牌組中所有<br>友軍單位+2|+2。",
+    		descriptionRaw: "賦予牌組最上方的友軍單位+2|+2。\r\n開悟：改為賦予牌組中所有友軍單位+2|+2。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "寒冷風暴無情地肆虐本已貧瘠的弗雷爾卓德，更奪走了無數性命。不過大難不死必有後福，倖存者們磨練出更加堅定的意志力，能夠面對未來的考驗。",
+    		artistName: "Kudos Productions",
+    		name: "先祖恩澤",
+    		cardCode: "04FR017",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR014-full.png"
+    			}
+    		],
+    		region: "弗雷爾卓德",
+    		regionRef: "Freljord",
+    		attack: 0,
+    		cost: 4,
+    		health: 0,
+    		description: "召喚此牌時，治療我方主堡<br>4點生命值。\r\n<link=vocab.Buried><style=Vocab>倒數1</style></link><style=Variable></style>：對所有目標造成<br>2點傷害。",
+    		descriptionRaw: "召喚此牌時，治療我方主堡4點生命值。\r\n倒數1：對所有目標造成2點傷害。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "各種奇形怪狀的黑暗冰晶從山壑中冒出，密密麻麻的尖刺，任何入侵者都逃不過它們的天羅地網。",
+    		artistName: "Kudos Productions",
+    		name: "蠻荒冰壑",
+    		cardCode: "04FR014",
+    		keywords: [
+    			"地標"
+    		],
+    		keywordRefs: [
+    			"LandmarkVisualOnly"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "地標",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR009-full.png"
+    			}
+    		],
+    		region: "弗雷爾卓德",
+    		regionRef: "Freljord",
+    		attack: 0,
+    		cost: 3,
+    		health: 0,
+    		description: "對所有目標造成1點傷害。",
+    		descriptionRaw: "對所有目標造成1點傷害。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「我將冰埋這個世界。」——麗珊卓",
+    		artistName: "Kudos Productions",
+    		name: "幽影碎冰",
+    		cardCode: "04FR009",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"01FR001",
+    			"02FR007",
+    			"04FR007",
+    			"04FR007T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR010-full.png"
+    			}
+    		],
+    		region: "弗雷爾卓德",
+    		regionRef: "Freljord",
+    		attack: 0,
+    		cost: 1,
+    		health: 0,
+    		description: "在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.create1><style=AssociatedCard>急速冰凍</style></link>、<link=card.create2><style=AssociatedCard>北境之怒</style></link>或<link=card.create3><style=AssociatedCard>冰葬</style></link>。",
+    		descriptionRaw: "在手牌生成1張飛逝急速冰凍、北境之怒或冰葬。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "艾伐洛森、席利妲和麗珊卓，這弗雷爾卓德三姊妹都擁有強大的力量，但她們發揮所長的方式不盡相同；一個慈悲為懷、一個熱愛戰爭，而另一個殺戮成性。",
+    		artistName: "Kudos Productions",
+    		name: "三姊妹",
+    		cardCode: "04FR010",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX002-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 0,
+    		cost: 4,
+    		health: 0,
+    		description: "<link=vocab.Aftermath><style=Vocab>名望</style></link>：此牌魔耗值為2點。<style=Variable></style>\r\n抽2張牌。",
+    		descriptionRaw: "名望：此牌魔耗值為2點。\r\n抽2張牌。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "處心積慮設局讓流言滿天飛，而真相永遠只有一個。",
+    		artistName: "Kudos Productions",
+    		name: "流言蜚語",
+    		cardCode: "04NX002",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"01NX049"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX010-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 5,
+    		cost: 3,
+    		health: 1,
+    		description: "召喚此牌時，在手牌生成1張<link=card.guile><style=AssociatedCard>狡詐</style></link>。",
+    		descriptionRaw: "召喚此牌時，在手牌生成1張狡詐。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「艾連娜，我的摯友和同僚！妳有見到都因領主嗎……？啊，真是太可惜了，我本想和他敘敘舊。若那老朋友出了什麼差錯，我可是會傷心欲絕的……」<br>——黑玫瑰間諜，奧芙蕊夫人",
+    		artistName: "Grafit Studio",
+    		name: "玫瑰棘兵",
+    		cardCode: "04NX010",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX015.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX015-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 0,
+    		cost: 4,
+    		health: 0,
+    		description: "使1個力量值5點以上的友軍單位<br><link=vocab.Strike><style=Vocab>打擊</style></link>1個敵軍單位。",
+    		descriptionRaw: "使1個力量值5點以上的友軍單位打擊1個敵軍單位。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「最可怕的威脅都是躲在不見光處的。」——勒布朗",
+    		artistName: "Kudos Productions",
+    		name: "血腥事件",
+    		cardCode: "04NX015",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX019.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX019-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 2,
+    		cost: 1,
+    		health: 1,
+    		description: "此牌被敵軍單位格擋時，<br>本回合給予此牌+3|+0。",
+    		descriptionRaw: "此牌被敵軍單位格擋時，本回合給予此牌+3|+0。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "諾克薩斯軍隊在愛歐尼亞海岸邊發現了一種生物，其過人的生存能力令年輕的將軍十分訝異，便堅持把牠帶回去，想要發掘牠真正的力量。",
+    		artistName: "Kudos Productions",
+    		name: "狂暴四不像",
+    		cardCode: "04NX019",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
     		],
     		supertype: "",
     		type: "單位",
@@ -9343,23 +7946,23 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX019.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX019-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX006-full.png"
     			}
     		],
     		region: "諾克薩斯",
     		regionRef: "Noxus",
-    		attack: 2,
-    		cost: 1,
-    		health: 1,
-    		description: "此牌被敵軍單位格擋時，<br>本回合給予此牌+3|+0。",
-    		descriptionRaw: "此牌被敵軍單位格擋時，本回合給予此牌+3|+0。",
+    		attack: 3,
+    		cost: 2,
+    		health: 2,
+    		description: "<link=vocab.Aftermath><style=Vocab>名望</style></link>：召喚此牌時，將此牌幻化為\r\n本回合進行過<link=vocab.Strike><style=Vocab>打擊</style></link>的<link=vocab.Strongest><style=Vocab>最強</style></link>友軍單位的複製單位。<style=Variable></style>",
+    		descriptionRaw: "名望：召喚此牌時，將此牌幻化為\r\n本回合進行過打擊的最強友軍單位的複製單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "諾克薩斯軍隊在愛歐尼亞海岸邊發現了一種生物，其過人的生存能力令年輕的將軍十分訝異，便堅持把牠帶回去，想要發掘牠真正的力量。",
-    		artistName: "Kudos Productions",
-    		name: "狂暴四不像",
-    		cardCode: "04NX019",
+    		flavorText: "「一旦曝光，秘密就不值錢了。」",
+    		artistName: "Grafit Studio",
+    		name: "黑玫瑰間諜",
+    		cardCode: "04NX006",
     		keywords: [
     		],
     		keywordRefs: [
@@ -9383,109 +7986,23 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04BW002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04BW002-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX001-full.png"
     			}
     		],
-    		region: "比爾吉沃特",
-    		regionRef: "Bilgewater",
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
     		attack: 0,
-    		cost: 2,
+    		cost: 3,
     		health: 0,
-    		description: "使1個友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>1個敵軍單位，然後移至牌組最上方。",
-    		descriptionRaw: "使1個友軍單位打擊1個敵軍單位，然後移至牌組最上方。",
+    		description: "<link=vocab.Aftermath><style=Vocab>名望</style></link>：此牌魔耗值為1點。<style=Variable></style>\r\n從場上或手牌中挑選1個法術，在手牌生成1張該牌的<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>複製牌。",
+    		descriptionRaw: "名望：此牌魔耗值為1點。\r\n從場上或手牌中挑選1個法術，在手牌生成1張該牌的飛逝複製牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「這是小小的餞別禮……」——派克",
+    		flavorText: "模仿是最真誠的讚美，而讚美有時候反而是最致命的。",
     		artistName: "Kudos Productions",
-    		name: "刺骨串叉",
-    		cardCode: "04BW002",
-    		keywords: [
-    			"快速"
-    		],
-    		keywordRefs: [
-    			"Fast"
-    		],
-    		spellSpeed: "快速",
-    		spellSpeedRef: "Fast",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04BW010.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04BW010-full.png"
-    			}
-    		],
-    		region: "比爾吉沃特",
-    		regionRef: "Bilgewater",
-    		attack: 0,
-    		cost: 6,
-    		health: 0,
-    		description: "對1個單位造成5點傷害。\r\n<link=vocab.Plunder><style=Vocab>洗劫</style></link>：此牌魔耗值-3。",
-    		descriptionRaw: "對1個單位造成5點傷害。\r\n洗劫：此牌魔耗值-3。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「小子們，海獸已經受傷了！快刺到牠動彈不得，血染大海為止！」——殘鉤團監工",
-    		artistName: "Kudos Productions",
-    		name: "巨怪魚叉",
-    		cardCode: "04BW010",
-    		keywords: [
-    			"快速"
-    		],
-    		keywordRefs: [
-    			"Fast"
-    		],
-    		spellSpeed: "快速",
-    		spellSpeedRef: "Fast",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04FR001",
-    			"04FR001T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR011.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR011-full.png"
-    			}
-    		],
-    		region: "弗雷爾卓德",
-    		regionRef: "Freljord",
-    		attack: 0,
-    		cost: 4,
-    		health: 0,
-    		description: "<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>1個敵軍單位。\r\n召喚1個<link=card.create><style=AssociatedCard>冰封奴魔</style></link>。",
-    		descriptionRaw: "凍傷1個敵軍單位。\r\n召喚1個冰封奴魔。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「每個人對寒冷的反應不同，來看看你又是如何吧。」——麗珊卓",
-    		artistName: "Kudos Productions",
-    		name: "極寒冰噬",
-    		cardCode: "04FR011",
+    		name: "模仿",
+    		cardCode: "04NX001",
     		keywords: [
     			"疾速"
     		],
@@ -9494,6 +8011,305 @@ var app = (function () {
     		],
     		spellSpeed: "疾速",
     		spellSpeedRef: "Burst",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04NX005",
+    			"04NX004T1",
+    			"04NX004T2"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX004-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 5,
+    		cost: 3,
+    		health: 2,
+    		description: "",
+    		descriptionRaw: "",
+    		levelupDescription: "此牌在場上時，我方造成<br>15點以上傷害<style=Variable></style>。",
+    		levelupDescriptionRaw: "此牌在場上時，我方造成15點以上傷害。",
+    		flavorText: "「好了好了，起內鬨沒意義。暫時不要草率行事，待探子捎來消息後我們再開議，畢竟……」",
+    		artistName: "SIXMOREVODKA",
+    		name: "勒布朗",
+    		cardCode: "04NX004",
+    		keywords: [
+    			"快速攻擊"
+    		],
+    		keywordRefs: [
+    			"QuickStrike"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "英雄",
+    		rarityRef: "Champion",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04NX004",
+    			"04NX004T2"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX004T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX004T1-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 0,
+    		cost: 4,
+    		health: 0,
+    		description: "<link=vocab.Aftermath><style=Vocab>名望</style></link>：此牌魔耗值為1點。<style=Variable></style>\r\n對任1目標造成2點傷害。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>勒布朗</style></link>。",
+    		descriptionRaw: "名望：此牌魔耗值為1點。\r\n對任1目標造成2點傷害。\r\n在我方牌組生成1張勒布朗。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "得勝後絕不能手下容情，必須乘勝追擊，將仇敵趕盡殺絕。",
+    		artistName: "Kudos Productions",
+    		name: "勒布朗 惡意印記",
+    		cardCode: "04NX004T1",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX005-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "召喚1個力量值5點以上友軍單位的<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>複製單位。",
+    		descriptionRaw: "召喚1個力量值5點以上友軍單位的閃靈複製單位。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「看到分身了嗎？」——勒布朗",
+    		artistName: "Kudos Productions",
+    		name: "鏡像",
+    		cardCode: "04NX005",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04NX005",
+    			"04NX004T1",
+    			"04NX004"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX004T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX004T2-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 6,
+    		cost: 3,
+    		health: 3,
+    		description: "此牌在場上時，我方每造成15點以上傷害，便在手牌生成1張<link=card.create><style=AssociatedCard>鏡像</style></link>。<br>若手牌中已有該牌，<br>則改為使其魔耗值-1。<style=Variable></style>",
+    		descriptionRaw: "此牌在場上時，我方每造成15點以上傷害，便在手牌生成1張鏡像。若手牌中已有該牌，則改為使其魔耗值-1。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「……我們的目標都是一致的。」",
+    		artistName: "SIXMOREVODKA",
+    		name: "勒布朗",
+    		cardCode: "04NX004T2",
+    		keywords: [
+    			"快速攻擊"
+    		],
+    		keywordRefs: [
+    			"QuickStrike"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX016-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 2,
+    		cost: 4,
+    		health: 5,
+    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：賦予我方蜘蛛單位+1|+0。",
+    		descriptionRaw: "攻擊：賦予我方蜘蛛單位+1|+0。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「盡情地嘶吼讓眾人都聽到吧，我的寶貝！讓他們『興奮』難耐，讓我愉悅痛快！」——伊莉絲",
+    		artistName: "Kudos Productions",
+    		name: "尖嘯蜘蛛",
+    		cardCode: "04NX016",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "蜘蛛",
+    		subtypes: [
+    			"蜘蛛"
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX018.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX018-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 1,
+    		cost: 1,
+    		health: 2,
+    		description: "我方下次召喚友軍單位時，對其造成1點傷害，並賦予此牌+1|+1。",
+    		descriptionRaw: "我方下次召喚友軍單位時，對其造成1點傷害，並賦予此牌+1|+1。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「被牠們的利爪輕輕一劃就會血流如注，所以很少人會把牠們當寵物……但我絲毫不介意。」<br>——血色門徒，克拉拉",
+    		artistName: "Kudos Productions",
+    		name: "血色怪貓 ",
+    		cardCode: "04NX018",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX003-full.png"
+    			}
+    		],
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
+    		attack: 0,
+    		cost: 4,
+    		health: 0,
+    		description: "<link=vocab.Aftermath><style=Vocab>名望</style></link>：此牌魔耗值為1點。<style=Variable></style>\r\n對任1目標造成2點傷害。",
+    		descriptionRaw: "名望：此牌魔耗值為1點。\r\n對任1目標造成2點傷害。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "得勝後絕不能手下容情，必須乘勝追擊，將仇敵趕盡殺絕。",
+    		artistName: "Kudos Productions",
+    		name: "惡意印記",
+    		cardCode: "04NX003",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
     		rarity: "普通",
     		rarityRef: "Common",
     		subtype: "",
@@ -9508,27 +8324,27 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"04FR007T1"
+    			"01NX021"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR012.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04FR012-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX017.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04NX017-full.png"
     			}
     		],
-    		region: "弗雷爾卓德",
-    		regionRef: "Freljord",
+    		region: "諾克薩斯",
+    		regionRef: "Noxus",
     		attack: 0,
-    		cost: 9,
+    		cost: 8,
     		health: 0,
-    		description: "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>所有敵軍單位，並在原處召喚相同數量的<link=card.create><style=AssociatedCard>永凍墳地</style></link>。",
-    		descriptionRaw: "泯滅所有敵軍單位，並在原處召喚相同數量的永凍墳地。",
+    		description: "召喚2個<link=card.summon><style=AssociatedCard>軍團流寇</style></link>。",
+    		descriptionRaw: "召喚2個軍團流寇。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「寒冷終究會吞噬一切。」——麗珊卓",
+    		flavorText: "雖說諾克薩斯士兵甚少留下活口，但流寇更加無情。",
     		artistName: "Kudos Productions",
-    		name: "寒冰滅頂",
-    		cardCode: "04FR012",
+    		name: "人多勢眾",
+    		cardCode: "04NX017",
     		keywords: [
     			"慢速"
     		],
@@ -9537,13 +8353,315 @@ var app = (function () {
     		],
     		spellSpeed: "慢速",
     		spellSpeedRef: "Slow",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
+    		rarity: "普通",
+    		rarityRef: "Common",
     		subtype: "",
     		subtypes: [
     		],
     		supertype: "",
     		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SI005T4",
+    			"04SI005T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI005-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 4,
+    		cost: 5,
+    		health: 4,
+    		description: "每回合我方首次<link=vocab.Slay><style=Vocab>屠殺</style></link>單位時，\r\n此牌給予<link=keyword.Weakest><style=Keyword>最弱</style></link>敵軍單位印記。\r\n<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：擊殺擁有印記的單位。",
+    		descriptionRaw: "每回合我方首次屠殺單位時，\r\n此牌給予最弱敵軍單位印記。\r\n回合結束：擊殺擁有印記的單位。",
+    		levelupDescription: "此牌在場上時，<link=vocab.Slay><style=Vocab>屠殺</style></link>2個擁有印記的單位<style=Variable></style>。",
+    		levelupDescriptionRaw: "此牌在場上時，屠殺2個擁有印記的單位。",
+    		flavorText: "曾有一人，孑然一身\n他將自己，為二一分\n一化為二，重獲新生\n從此不再，孤獨一生。",
+    		artistName: "SIXMOREVODKA",
+    		name: "鏡爪",
+    		cardCode: "04SI005",
+    		keywords: [
+    			"快速攻擊"
+    		],
+    		keywordRefs: [
+    			"QuickStrike"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "英雄",
+    		rarityRef: "Champion",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SI005",
+    			"04SI005T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI005T4.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI005T4-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 0,
+    		cost: 5,
+    		health: 0,
+    		description: "擊殺1個單位，再將其復甦。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>鏡爪</style></link>。",
+    		descriptionRaw: "擊殺1個單位，再將其復甦。\r\n在我方牌組生成1張鏡爪。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「這只不過是個小插曲而已。」——神羊",
+    		artistName: "Kudos Productions",
+    		name: "鏡爪 靈魂之旅",
+    		cardCode: "04SI005T4",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SI005T4",
+    			"04SI005"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI005T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI005T1-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 5,
+    		cost: 5,
+    		health: 5,
+    		description: "每回合我方首次<link=vocab.Slay><style=Vocab>屠殺</style></link>單位時，<br>賦予此牌+2|+2，並給予<br><link=keyword.Weakest><style=Keyword>最弱</style></link>敵軍單位印記。\r\n<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：擊殺擁有印記的單位。",
+    		descriptionRaw: "每回合我方首次屠殺單位時，賦予此牌+2|+2，並給予最弱敵軍單位印記。\r\n回合結束：擊殺擁有印記的單位。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "死亡以獵人之姿顯現\n沒有人能逃過一劫\n一個拿著弓箭\n一個負責追獵。",
+    		artistName: "SIXMOREVODKA",
+    		name: "鏡爪",
+    		cardCode: "04SI005T1",
+    		keywords: [
+    			"快速攻擊"
+    		],
+    		keywordRefs: [
+    			"QuickStrike"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI016.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI016-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 4,
+    		cost: 4,
+    		health: 1,
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<br>擊殺1個友軍單位，然後抽2張牌。",
+    		descriptionRaw: "出牌：擊殺1個友軍單位，然後抽2張牌。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "潛伏於黑暗之中，等待著獵物睡著或恍神。接著尖爪一揮、大嘴一咬，最後只剩黑暗。",
+    		artistName: "Kudos Productions",
+    		name: "靈蛭 ",
+    		cardCode: "04SI016",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SI007T3"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI007-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 6,
+    		cost: 7,
+    		health: 4,
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：擊殺1個友軍單位，<br>以擊殺1個敵軍單位。",
+    		descriptionRaw: "出牌：擊殺1個友軍單位，以擊殺1個敵軍單位。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「當我氣數將盡時，我發現自己思考的不是這一次的死亡，而是下一次的。最後一個記得我的人會是誰？而當他也回歸塵土後……我會變成怎樣？」——大善人",
+    		artistName: "Wild Blue",
+    		name: "幻影魔鷹",
+    		cardCode: "04SI007",
+    		keywords: [
+    			"威嚇"
+    		],
+    		keywordRefs: [
+    			"Fearsome"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI011.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI011-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "抽1張牌。\r\n<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：發動1個友軍單位的<link=keyword.Nightfall><style=Keyword>夜臨</style></link>效果，其中需指定目標的效果不會被觸發。",
+    		descriptionRaw: "抽1張牌。\r\n夜臨：發動1個友軍單位的夜臨效果，其中需指定目標的效果不會被觸發。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「來吧，孩子，毋須害怕。」——假面之母",
+    		artistName: "Kudos Productions",
+    		name: "身陷黃昏",
+    		cardCode: "04SI011",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI015.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI015-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 2,
+    		cost: 2,
+    		health: 3,
+    		description: "每有1個其他友軍單位陣亡或<br><link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<link=vocab.Toss><style=Vocab>亂擲</style></link>1張牌。\r\n<style=Variable></style>",
+    		descriptionRaw: "每有1個其他友軍單位陣亡或遺願：亂擲1張牌。\r\n",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「好了，大夥們——把陷阱拉上來！記得，如果看到深海甲蟲，就切斷繩索換下一個。我才不想為了拿到牠們吃剩的垃圾而沉船，聽見沒？」——比爾吉沃特船長",
+    		artistName: "Kudos Productions",
+    		name: "深海甲蟲",
+    		cardCode: "04SI015",
+    		keywords: [
+    			"探底",
+    			"遺願"
+    		],
+    		keywordRefs: [
+    			"Deep",
+    			"LastBreath"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "海怪",
+    		subtypes: [
+    			"海怪"
+    		],
+    		supertype: "",
+    		type: "單位",
     		collectible: true,
     		set: "Set4"
     	},
@@ -9675,87 +8793,42 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
-    			"04MT009T1"
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT009-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI017.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI017-full.png"
     			}
     		],
-    		region: "巨石峰",
-    		regionRef: "Targon",
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
     		attack: 0,
-    		cost: 3,
+    		cost: 2,
     		health: 0,
-    		description: "<link=vocab.Buried><style=Vocab>倒數3</style></link><style=Variable></style>：在手牌生成1張<link=card.create><style=AssociatedCard>力量種子</style></link>。",
-    		descriptionRaw: "倒數3：在手牌生成1張力量種子。",
+    		description: "賦予1個友軍單位<br><link=keyword.Lifesteal><sprite name=Lifesteal><style=Keyword>吸血</style></link>、<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>與<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>。",
+    		descriptionRaw: "賦予1個友軍單位吸血、威嚇與閃靈。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「仄裡似巨石峰之旅的第一讚！偶叫仄裡『腳必軟』，因為仄個樓梯糙長！景色也酷，巨石峰仄點最棒了。好了粗發吧！」\n——《石奇大冒險》第二部之一",
-    		artistName: "Polar Engine",
-    		name: "蜿蜒長城",
-    		cardCode: "04MT009",
-    		keywords: [
-    			"地標"
-    		],
-    		keywordRefs: [
-    			"LandmarkVisualOnly"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "地標",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT009T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT009T1-full.png"
-    			}
-    		],
-    		region: "巨石峰",
-    		regionRef: "Targon",
-    		attack: 0,
-    		cost: 0,
-    		health: 0,
-    		description: "賦予1個友軍單位<br>+3|+2與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>蠻力</style></link>。",
-    		descriptionRaw: "賦予1個友軍單位+3|+2與蠻力。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「忘記縮了！你可人……葛稜……可倫在想你的腿痠到爆，但偶看過一天到晚爬上來的稜，你們的腿馬上就會壯到爆！叟以加油繼續爬！再粗發！」\n——《石奇大冒險》第二部之二",
+    		flavorText: "「來吧，孩子。見我所見、觸我所觸。毋須害怕黑暗。」——燃魂人",
     		artistName: "Kudos Productions",
-    		name: "力量種子",
-    		cardCode: "04MT009T1",
+    		name: "闇影島之歌",
+    		cardCode: "04SI017",
     		keywords: [
-    			"慢速",
-    			"飛逝"
+    			"疾速"
     		],
     		keywordRefs: [
-    			"Slow",
-    			"Fleeting"
+    			"Burst"
     		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "無",
-    		rarityRef: "None",
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "普通",
+    		rarityRef: "Common",
     		subtype: "",
     		subtypes: [
     		],
     		supertype: "",
     		type: "法術",
-    		collectible: false,
+    		collectible: true,
     		set: "Set4"
     	},
     	{
@@ -9765,205 +8838,78 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT001.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT001-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI001-full.png"
     			}
     		],
-    		region: "巨石峰",
-    		regionRef: "Targon",
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "<link=vocab.Buried><style=Vocab>倒數2</style></link><style=Variable></style>：<link=keyword.Obliterate><style=Keyword>泯滅</style></link><link=keyword.Weakest><style=Keyword>最弱</style></link>敵軍單位。",
-    		descriptionRaw: "倒數2：泯滅最弱敵軍單位。",
+    		description: "本回合給予<link=keyword.Weakest><style=Keyword>最弱</style></link>友軍單位\r\n「此牌免疫傷害及死亡」。",
+    		descriptionRaw: "本回合給予最弱友軍單位\r\n「此牌免疫傷害及死亡」。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「所——有——稜給偶看好，仄懸崖真滴高。偶摔下來仄裡好幾次了，你們聽偶縮，仄裡可深了！偶是鐵打的叟以不會受傷，但你們不一樣……所以要小——克里夫來啦！去打個招呼吧！」\n——《石奇大冒險》第三部",
-    		artistName: "Polar Engine",
-    		name: "落石小徑",
-    		cardCode: "04MT001",
+    		flavorText: "「在斷氣前再一次發光發熱。」——神羊",
+    		artistName: "Kudos Productions",
+    		name: "神羊喘息",
+    		cardCode: "04SI001",
     		keywords: [
-    			"地標"
+    			"慢速"
     		],
     		keywordRefs: [
-    			"LandmarkVisualOnly"
+    			"Slow"
     		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "地標",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT003.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT003-full.png"
-    			}
-    		],
-    		region: "巨石峰",
-    		regionRef: "Targon",
-    		attack: 3,
-    		cost: 4,
-    		health: 5,
-    		description: "在本牌局中，我方召喚4個以上<br>地標後，賦予此牌+3|+0。<style=Variable></style>",
-    		descriptionRaw: "在本牌局中，我方召喚4個以上地標後，賦予此牌+3|+0。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「他就似克里夫！他在仄裡混一段時間了。偶知道他看起來很酷，也很善良，但他背上有一堆粽物，有時候還會砸到人，所以給偶當心點，懂？多謝，下一位！」\n——《石奇大冒險》第四部",
-    		artistName: "Polar Engine",
-    		name: "大地龜",
-    		cardCode: "04MT003",
-    		keywords: [
-    			"蠻力"
-    		],
-    		keywordRefs: [
-    			"Overwhelm"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04MT004T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT004-full.png"
-    			}
-    		],
-    		region: "巨石峰",
-    		regionRef: "Targon",
-    		attack: 2,
-    		cost: 2,
-    		health: 3,
-    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：召喚1個<link=card.create><style=AssociatedCard>智慧的餘燼</style></link>。",
-    		descriptionRaw: "遺願：召喚1個智慧的餘燼。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「所——有——人一起縮『嗨小藍！』嗨小藍！偶有次以為他也回答『嗨小藍！』，但現在想想那大概似偶的回音。總之他很神奇而且藍藍的，不用縮話沒關係辣！好了掰小藍走囉！」\n——《石奇大冒險》第五部",
-    		artistName: "MAR Studio",
-    		name: "遠古魔像",
-    		cardCode: "04MT004",
-    		keywords: [
-    			"遺願"
-    		],
-    		keywordRefs: [
-    			"LastBreath"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT004T1.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT004T1-full.png"
-    			}
-    		],
-    		region: "巨石峰",
-    		regionRef: "Targon",
-    		attack: 0,
-    		cost: 2,
-    		health: 0,
-    		description: "<link=vocab.Buried><style=Vocab>倒數1</style></link><style=Variable></style>：<br>本回合額外獲得1顆魔力寶石。",
-    		descriptionRaw: "倒數1：本回合額外獲得1顆魔力寶石。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「仄裡是小藍最最最最最最最喜翻的地方！他說仄裡超神奇的！喔喔喔啊啊啊！」——石奇",
-    		artistName: "Polar Engine",
-    		name: "智慧的餘燼",
-    		cardCode: "04MT004T1",
-    		keywords: [
-    			"地標"
-    		],
-    		keywordRefs: [
-    			"LandmarkVisualOnly"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "地標",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04MT002T2"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT002-full.png"
-    			}
-    		],
-    		region: "巨石峰",
-    		regionRef: "Targon",
-    		attack: 6,
-    		cost: 6,
-    		health: 4,
-    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：在本牌局中，若我方已召喚4個以上地標，則對1個敵軍單位造成4點傷害，並對敵方主堡造成2點傷害。",
-    		descriptionRaw: "出牌：在本牌局中，若我方已召喚4個以上地標，則對1個敵軍單位造成4點傷害，並對敵方主堡造成2點傷害。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "巨石峰的巨像偶爾會從沉睡中甦醒，並在高山上四處遷徙。這種事發生時可一點都不平靜，遑論安全了。",
-    		artistName: "Polar Engine",
-    		name: "碎石巨像",
-    		cardCode: "04MT002",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
     		rarity: "史詩",
     		rarityRef: "Epic",
     		subtype: "",
     		subtypes: [
     		],
     		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI009-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 3,
+    		cost: 3,
+    		health: 2,
+    		description: "召喚此牌時，若本回合有友軍單位陣亡，則賦予此牌+1|+1與<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>。",
+    		descriptionRaw: "召喚此牌時，若本回合有友軍單位陣亡，則賦予此牌+1|+1與威嚇。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「曾經有位不幸的年輕人想要和蜘蛛交往，卻從來沒想過自己可能也會淪為牠的獵物……」",
+    		artistName: "Wild Blue",
+    		name: "織魂者",
+    		cardCode: "04SI009",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    			"蜘蛛"
+    		],
+    		supertype: "",
     		type: "單位",
     		collectible: true,
     		set: "Set4"
@@ -9975,23 +8921,65 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT002T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT002T2-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI013.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI013-full.png"
     			}
     		],
-    		region: "巨石峰",
-    		regionRef: "Targon",
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 2,
+    		cost: 2,
+    		health: 2,
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：擊殺1個友軍單位，並賦予此牌該友軍單位的能力值與特性。",
+    		descriptionRaw: "出牌：擊殺1個友軍單位，並賦予此牌該友軍單位的能力值與特性。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "據說假面之母創造了鏡爪，如同她創造所有死亡的化身。但她的面具若非自己打造，又是從何而來？",
+    		artistName: "Wild Blue",
+    		name: "假面之母",
+    		cardCode: "04SI013",
+    		keywords: [
+    			"威嚇"
+    		],
+    		keywordRefs: [
+    			"Fearsome"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI007T3.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI007T3-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "在本牌局中，若我方已召喚4個以上地標，則對1個敵軍單位造成4點傷害，並對敵方主堡造成2點傷害。",
-    		descriptionRaw: "在本牌局中，若我方已召喚4個以上地標，則對1個敵軍單位造成4點傷害，並對敵方主堡造成2點傷害。",
+    		description: "擊殺1個友軍單位，<br>以擊殺1個敵軍單位。",
+    		descriptionRaw: "擊殺1個友軍單位，以擊殺1個敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「史派克有起床氣……」——墨菲特",
+    		flavorText: "「一切終將被遺忘。」——幻影魔鷹",
     		artistName: "Kudos Productions",
-    		name: "地動山搖",
-    		cardCode: "04MT002T2",
+    		name: "二度死亡",
+    		cardCode: "04SI007T3",
     		keywords: [
     			"技能"
     		],
@@ -10008,6 +8996,171 @@ var app = (function () {
     		supertype: "",
     		type: "技能",
     		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI002-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 0,
+    		cost: 5,
+    		health: 0,
+    		description: "擊殺1個單位，再將其復甦。",
+    		descriptionRaw: "擊殺1個單位，再將其復甦。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「這只不過是個小插曲而已。」——神羊",
+    		artistName: "Kudos Productions",
+    		name: "靈魂之旅",
+    		cardCode: "04SI002",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04SI014"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI003-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 3,
+    		cost: 2,
+    		health: 1,
+    		description: "召喚此牌時，召喚1個<link=card.summon><style=AssociatedCard>螢火靈</style></link>。",
+    		descriptionRaw: "召喚此牌時，召喚1個螢火靈。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "除了受到永生詛咒的人以外，誰會忘記死神？而對於死神來說，除了被遺忘以外，還有什麼更可怕的？ ",
+    		artistName: "Wild Blue",
+    		name: "褪色死神",
+    		cardCode: "04SI003",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SI014-full.png"
+    			}
+    		],
+    		region: "闇影島",
+    		regionRef: "ShadowIsles",
+    		attack: 0,
+    		cost: 0,
+    		health: 1,
+    		description: "",
+    		descriptionRaw: "",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「他們穿梭於黑暗的森林之中，如繁星般點綴著樹木，渾然不知自己已成為目標。」——神羊",
+    		artistName: "Dao Le",
+    		name: "螢火靈",
+    		cardCode: "04SI014",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT014-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 0,
+    		cost: 5,
+    		health: 0,
+    		description: "<link=vocab.Buried><style=Vocab>倒數1</style></link><style=Variable></style>：<br><link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>2個<link=keyword.Weakest><style=Keyword>最弱</style></link>敵軍單位。\r\n<link=keyword.Daybreak><style=Keyword>破曉</style></link>：召喚1個此牌的複製地標，其為<link=vocab.Buried><style=Vocab>倒數</style></link>2。",
+    		descriptionRaw: "倒數1：擊暈2個最弱敵軍單位。\r\n破曉：召喚1個此牌的複製地標，其為倒數2。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「讓太陽的光輝照耀我們。不配的弱者將畏懼她的亮光！」——日輪女祭司",
+    		artistName: "Kudos Productions",
+    		name: "拉克爾之眼",
+    		cardCode: "04MT014",
+    		keywords: [
+    			"地標"
+    		],
+    		keywordRefs: [
+    			"LandmarkVisualOnly"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "地標",
+    		collectible: true,
     		set: "Set4"
     	},
     	{
@@ -10195,38 +9348,250 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT007-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT010-full.png"
     			}
     		],
     		region: "巨石峰",
     		regionRef: "Targon",
-    		attack: 2,
-    		cost: 4,
-    		health: 3,
-    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>1個單位。在本牌局中，若我方已召喚地標，則對該單位造成3點傷害。",
-    		descriptionRaw: "擊暈1個單位。在本牌局中，若我方已召喚地標，則對該單位造成3點傷害。",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "<link=vocab.Buried><style=Vocab>倒數2</style></link><style=Variable></style>：在手牌隨機生成2張<br>魔耗值3點以下的天界牌。",
+    		descriptionRaw: "倒數2：在手牌隨機生成2張魔耗值3點以下的天界牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「沒錯，那只似山在搖，絕對不似老爹在亂拍亂晃噢不對似耶算了，繼續往上爬吧！」——石奇",
-    		artistName: "Kudos Productions",
-    		name: "大地震顫 ",
-    		cardCode: "04MT007",
+    		flavorText: "挑戰攀登巨石峰的人們，在旅途前段就可以欣賞到幾幅符文大地上最壯觀的奇景；當山壁益加陡峭，景觀也會隨之更加震憾人心。",
+    		artistName: "Polar Engine",
+    		name: "星角峰",
+    		cardCode: "04MT010",
     		keywords: [
-    			"快速"
+    			"地標"
     		],
     		keywordRefs: [
-    			"Fast"
+    			"LandmarkVisualOnly"
     		],
-    		spellSpeed: "快速",
-    		spellSpeedRef: "Fast",
+    		spellSpeed: "",
+    		spellSpeedRef: "",
     		rarity: "稀有",
     		rarityRef: "Rare",
     		subtype: "",
     		subtypes: [
     		],
     		supertype: "",
+    		type: "地標",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT005-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 1,
+    		cost: 1,
+    		health: 1,
+    		description: "在本牌局中，我方召喚地標後，<br>賦予此牌+2|+2。",
+    		descriptionRaw: "在本牌局中，我方召喚地標後，賦予此牌+2|+2。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「大家好偶是石奇，偶要來帶大家探叟巨石峰！巨石峰糙大糙高，希望你們汆的鞋爬起山來夠蘇湖！走吧！」\n——《石奇大冒險》第一部",
+    		artistName: "Polar Engine",
+    		name: "石奇",
+    		cardCode: "04MT005",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04MT009T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT009-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 0,
+    		cost: 3,
+    		health: 0,
+    		description: "<link=vocab.Buried><style=Vocab>倒數3</style></link><style=Variable></style>：在手牌生成1張<link=card.create><style=AssociatedCard>力量種子</style></link>。",
+    		descriptionRaw: "倒數3：在手牌生成1張力量種子。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「仄裡似巨石峰之旅的第一讚！偶叫仄裡『腳必軟』，因為仄個樓梯糙長！景色也酷，巨石峰仄點最棒了。好了粗發吧！」\n——《石奇大冒險》第二部之一",
+    		artistName: "Polar Engine",
+    		name: "蜿蜒長城",
+    		cardCode: "04MT009",
+    		keywords: [
+    			"地標"
+    		],
+    		keywordRefs: [
+    			"LandmarkVisualOnly"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "地標",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT009T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT009T1-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 0,
+    		cost: 0,
+    		health: 0,
+    		description: "賦予1個友軍單位<br>+3|+2與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>蠻力</style></link>。",
+    		descriptionRaw: "賦予1個友軍單位+3|+2與蠻力。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「忘記縮了！你可人……葛稜……可倫在想你的腿痠到爆，但偶看過一天到晚爬上來的稜，你們的腿馬上就會壯到爆！叟以加油繼續爬！再粗發！」\n——《石奇大冒險》第二部之二",
+    		artistName: "Kudos Productions",
+    		name: "力量種子",
+    		cardCode: "04MT009T1",
+    		keywords: [
+    			"慢速",
+    			"飛逝"
+    		],
+    		keywordRefs: [
+    			"Slow",
+    			"Fleeting"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
     		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT001-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "<link=vocab.Buried><style=Vocab>倒數2</style></link><style=Variable></style>：<link=keyword.Obliterate><style=Keyword>泯滅</style></link><link=keyword.Weakest><style=Keyword>最弱</style></link>敵軍單位。",
+    		descriptionRaw: "倒數2：泯滅最弱敵軍單位。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「所——有——稜給偶看好，仄懸崖真滴高。偶摔下來仄裡好幾次了，你們聽偶縮，仄裡可深了！偶是鐵打的叟以不會受傷，但你們不一樣……所以要小——克里夫來啦！去打個招呼吧！」\n——《石奇大冒險》第三部",
+    		artistName: "Polar Engine",
+    		name: "落石小徑",
+    		cardCode: "04MT001",
+    		keywords: [
+    			"地標"
+    		],
+    		keywordRefs: [
+    			"LandmarkVisualOnly"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "地標",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04MT004T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT004-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 2,
+    		cost: 2,
+    		health: 3,
+    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：召喚1個<link=card.create><style=AssociatedCard>智慧的餘燼</style></link>。",
+    		descriptionRaw: "遺願：召喚1個智慧的餘燼。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「所——有——人一起縮『嗨小藍！』嗨小藍！偶有次以為他也回答『嗨小藍！』，但現在想想那大概似偶的回音。總之他很神奇而且藍藍的，不用縮話沒關係辣！好了掰小藍走囉！」\n——《石奇大冒險》第五部",
+    		artistName: "MAR Studio",
+    		name: "遠古魔像",
+    		cardCode: "04MT004",
+    		keywords: [
+    			"遺願"
+    		],
+    		keywordRefs: [
+    			"LastBreath"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
     		collectible: true,
     		set: "Set4"
     	},
@@ -10268,6 +9633,215 @@ var app = (function () {
     		],
     		supertype: "",
     		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT003-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 3,
+    		cost: 4,
+    		health: 5,
+    		description: "在本牌局中，我方召喚4個以上<br>地標後，賦予此牌+3|+0。<style=Variable></style>",
+    		descriptionRaw: "在本牌局中，我方召喚4個以上地標後，賦予此牌+3|+0。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「他就似克里夫！他在仄裡混一段時間了。偶知道他看起來很酷，也很善良，但他背上有一堆粽物，有時候還會砸到人，所以給偶當心點，懂？多謝，下一位！」\n——《石奇大冒險》第四部",
+    		artistName: "Polar Engine",
+    		name: "大地龜",
+    		cardCode: "04MT003",
+    		keywords: [
+    			"蠻力"
+    		],
+    		keywordRefs: [
+    			"Overwhelm"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT004T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT004T1-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "<link=vocab.Buried><style=Vocab>倒數1</style></link><style=Variable></style>：<br>本回合額外獲得1顆魔力寶石。",
+    		descriptionRaw: "倒數1：本回合額外獲得1顆魔力寶石。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「仄裡是小藍最最最最最最最喜翻的地方！他說仄裡超神奇的！喔喔喔啊啊啊！」——石奇",
+    		artistName: "Polar Engine",
+    		name: "智慧的餘燼",
+    		cardCode: "04MT004T1",
+    		keywords: [
+    			"地標"
+    		],
+    		keywordRefs: [
+    			"LandmarkVisualOnly"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "地標",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04MT002T2"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT002-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 6,
+    		cost: 6,
+    		health: 4,
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：在本牌局中，若我方已召喚4個以上地標，則對1個敵軍單位造成4點傷害，並對敵方主堡造成2點傷害。",
+    		descriptionRaw: "出牌：在本牌局中，若我方已召喚4個以上地標，則對1個敵軍單位造成4點傷害，並對敵方主堡造成2點傷害。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "巨石峰的巨像偶爾會從沉睡中甦醒，並在高山上四處遷徙。這種事發生時可一點都不平靜，遑論安全了。",
+    		artistName: "Polar Engine",
+    		name: "碎石巨像",
+    		cardCode: "04MT002",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT012.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT012-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 0,
+    		cost: 8,
+    		health: 0,
+    		description: "賦予手牌中1個友軍單位+8|+8。",
+    		descriptionRaw: "賦予手牌中1個友軍單位+8|+8。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「接納你的命運，綻放前所未有的光芒吧！」——塔里克",
+    		artistName: "Kudos Productions",
+    		name: "天命選召",
+    		cardCode: "04MT012",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT007-full.png"
+    			}
+    		],
+    		region: "巨石峰",
+    		regionRef: "Targon",
+    		attack: 2,
+    		cost: 4,
+    		health: 3,
+    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>1個單位。在本牌局中，若我方已召喚地標，則對該單位造成3點傷害。",
+    		descriptionRaw: "擊暈1個單位。在本牌局中，若我方已召喚地標，則對該單位造成3點傷害。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「沒錯，那只似山在搖，絕對不似老爹在亂拍亂晃噢不對似耶算了，繼續往上爬吧！」——石奇",
+    		artistName: "Kudos Productions",
+    		name: "大地震顫 ",
+    		cardCode: "04MT007",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
     		collectible: true,
     		set: "Set4"
     	},
@@ -10320,416 +9894,39 @@ var app = (function () {
     		],
     		assets: [
     			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT014.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT014-full.png"
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT002T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04MT002T2-full.png"
     			}
     		],
     		region: "巨石峰",
     		regionRef: "Targon",
     		attack: 0,
-    		cost: 5,
+    		cost: 0,
     		health: 0,
-    		description: "<link=vocab.Buried><style=Vocab>倒數1</style></link><style=Variable></style>：<br><link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>2個<link=keyword.Weakest><style=Keyword>最弱</style></link>敵軍單位。\r\n<link=keyword.Daybreak><style=Keyword>破曉</style></link>：召喚1個此牌的複製地標，其為<link=vocab.Buried><style=Vocab>倒數</style></link>2。",
-    		descriptionRaw: "倒數1：擊暈2個最弱敵軍單位。\r\n破曉：召喚1個此牌的複製地標，其為倒數2。",
+    		description: "在本牌局中，若我方已召喚4個以上地標，則對1個敵軍單位造成4點傷害，並對敵方主堡造成2點傷害。",
+    		descriptionRaw: "在本牌局中，若我方已召喚4個以上地標，則對1個敵軍單位造成4點傷害，並對敵方主堡造成2點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「讓太陽的光輝照耀我們。不配的弱者將畏懼她的亮光！」——日輪女祭司",
+    		flavorText: "「史派克有起床氣……」——墨菲特",
     		artistName: "Kudos Productions",
-    		name: "拉克爾之眼",
-    		cardCode: "04MT014",
+    		name: "地動山搖",
+    		cardCode: "04MT002T2",
     		keywords: [
-    			"地標"
+    			"技能"
     		],
     		keywordRefs: [
-    			"LandmarkVisualOnly"
+    			"Skill"
     		],
     		spellSpeed: "",
     		spellSpeedRef: "",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
+    		rarity: "無",
+    		rarityRef: "None",
     		subtype: "",
     		subtypes: [
     		],
     		supertype: "",
-    		type: "地標",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"01IO009T1"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO012.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO012-full.png"
-    			}
-    		],
-    		region: "愛歐尼亞",
-    		regionRef: "Ionia",
-    		attack: 0,
-    		cost: 5,
-    		health: 0,
-    		description: "<link=keyword.Recall><style=Keyword>召回</style></link>所有友軍單位，並在原處召喚相同數量的<link=card.summon><style=AssociatedCard>疾風殘影</style></link>。",
-    		descriptionRaw: "召回所有友軍單位，並在原處召喚相同數量的疾風殘影。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「讓他們打影子，他們的武器什麼都碰不到。」——劫",
-    		artistName: "Kudos Productions",
-    		name: "替身殘影",
-    		cardCode: "04IO012",
-    		keywords: [
-    			"快速"
-    		],
-    		keywordRefs: [
-    			"Fast"
-    		],
-    		spellSpeed: "快速",
-    		spellSpeedRef: "Fast",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO015.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO015-full.png"
-    			}
-    		],
-    		region: "愛歐尼亞",
-    		regionRef: "Ionia",
-    		attack: 1,
-    		cost: 1,
-    		health: 1,
-    		description: "<link=keyword.Recall><style=Keyword>召回</style></link>此牌時，抽1張牌。",
-    		descriptionRaw: "召回此牌時，抽1張牌。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「流水無形——它會應情勢所需而有所變化，無論是撲向岸邊還是流回大海。」——愛歐尼亞僧侶",
-    		artistName: "Dao Le",
-    		name: "舞動水滴",
-    		cardCode: "04IO015",
-    		keywords: [
-    			"調節",
-    			"隱密"
-    		],
-    		keywordRefs: [
-    			"Attune",
-    			"Elusive"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH103.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH103-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 4,
-    		cost: 3,
-    		health: 3,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：賦予1個敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
-    		descriptionRaw: "出牌：賦予1個敵軍單位弱勢。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「就這樣綁起來……好，搞定了。雷尼克頓最喜歡還活跳跳的食物。」",
-    		artistName: "Kudos Production",
-    		name: "無情獵手",
-    		cardCode: "04SH103",
-    		keywords: [
-    			"威嚇"
-    		],
-    		keywordRefs: [
-    			"Fearsome"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04SH098"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH056.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04SH056-full.png"
-    			}
-    		],
-    		region: "蘇瑞瑪",
-    		regionRef: "Shurima",
-    		attack: 5,
-    		cost: 4,
-    		health: 3,
-    		description: "召喚此牌時，在手牌生成1張<link=card.create><style=AssociatedCard>挖到寶</style></link>。",
-    		descriptionRaw: "召喚此牌時，在手牌生成1張挖到寶。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「朋友，這是我在傳說中的帝王之墓中，從偉大的雷尼克頓本尊手裡，硬生生奪來的無價之寶。我衝出墓穴時，還被十個，不，二十個嗜血如命的騎兵團團包圍呢！這件寶貝能送到你的手中，根本就是一個奇跡！」",
-    		artistName: "Grafit Studio",
-    		name: "寶物獵人",
-    		cardCode: "04SH056",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04IO010"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO009.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO009-full.png"
-    			}
-    		],
-    		region: "愛歐尼亞",
-    		regionRef: "Ionia",
-    		attack: 2,
-    		cost: 2,
-    		health: 1,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=vocab.BladeDance><style=Vocab>劍舞</style></link>1。",
-    		descriptionRaw: "出牌：劍舞1。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「真可惜，小子們！空有蠻力卻毫無節奏感？看來並非每個人都是當明星的料……！」",
-    		artistName: "SIXMOREVODKA",
-    		name: "緞帶舞者",
-    		cardCode: "04IO009",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO007.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO007-full.png"
-    			}
-    		],
-    		region: "愛歐尼亞",
-    		regionRef: "Ionia",
-    		attack: 0,
-    		cost: 2,
-    		health: 0,
-    		description: "調換2個友軍單位位置。",
-    		descriptionRaw: "調換2個友軍單位位置。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「舞蹈就是隨著萬物運行和諧起舞。」<br>——鋼鐵終曲辛妮亞",
-    		artistName: "Kudos Productions",
-    		name: "切分換位",
-    		cardCode: "04IO007",
-    		keywords: [
-    			"疾速"
-    		],
-    		keywordRefs: [
-    			"Burst"
-    		],
-    		spellSpeed: "疾速",
-    		spellSpeedRef: "Burst",
-    		rarity: "稀有",
-    		rarityRef: "Rare",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO006.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO006-full.png"
-    			}
-    		],
-    		region: "愛歐尼亞",
-    		regionRef: "Ionia",
-    		attack: 2,
-    		cost: 4,
-    		health: 6,
-    		description: "每召喚1個友軍單位，<br>則本回合給予此牌+2|+0。",
-    		descriptionRaw: "每召喚1個友軍單位，則本回合給予此牌+2|+0。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "親愛的凱，\n他們的艦隊在今早劃破地平線，遮住了日出。他們放火燒了銀白平原，濃煙瀰漫在夏日的空氣之中。我們無法再袖手旁觀了，無論手持的是鋤鏟鐮劍，我們都必須面對命運的安排。\n千言萬語都無法表達我對你和這個家的愛。\n——燒焦的信紙\n",
-    		artistName: "SIXMOREVODKA",
-    		name: "沿岸守軍",
-    		cardCode: "04IO006",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04IO010"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO004.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO004-full.png"
-    			}
-    		],
-    		region: "愛歐尼亞",
-    		regionRef: "Ionia",
-    		attack: 3,
-    		cost: 4,
-    		health: 3,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=vocab.BladeDance><style=Vocab>劍舞</style></link>2。",
-    		descriptionRaw: "出牌：劍舞2。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「有人認為花朵嬌柔脆弱，但他們忘了扎根於大地，用花開帶來希望需要多大的力量。」\n——鋼鐵終曲辛妮亞",
-    		artistName: "SIXMOREVODKA",
-    		name: "劍刃之花",
-    		cardCode: "04IO004",
-    		keywords: [
-    		],
-    		keywordRefs: [
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04IO010"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO002.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO002-full.png"
-    			}
-    		],
-    		region: "愛歐尼亞",
-    		regionRef: "Ionia",
-    		attack: 3,
-    		cost: 8,
-    		health: 5,
-    		description: "我方進行<link=vocab.BladeDance><style=Vocab>劍舞</style></link>時，<br>此牌與<link=card.blade><style=AssociatedCard>劍刃</style></link>一起攻擊。\r\n<link=vocab.Play><style=Vocab>出牌</style></link>：<link=vocab.BladeDance><style=Vocab>劍舞</style></link>1。",
-    		descriptionRaw: "我方進行劍舞時，此牌與劍刃一起攻擊。\r\n出牌：劍舞1。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「孩子們靠過來。今天我們將會跳著家族流傳下來的舞步，在這片孕育我們的大地上舞動。我們是愛歐尼亞之子，今日我們為了藝術、為了自由、為了彼此而舞！」",
-    		artistName: "SIXMOREVODKA",
-    		name: "鋼鐵終曲辛妮亞",
-    		cardCode: "04IO002",
-    		keywords: [
-    			"隱密"
-    		],
-    		keywordRefs: [
-    			"Elusive"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "史詩",
-    		rarityRef: "Epic",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "單位",
-    		collectible: true,
+    		type: "技能",
+    		collectible: false,
     		set: "Set4"
     	},
     	{
@@ -10776,142 +9973,6 @@ var app = (function () {
     		],
     		supertype: "英雄",
     		type: "單位",
-    		collectible: true,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04IO005",
-    			"04IO005T1",
-    			"04IO005T5",
-    			"04IO005T4",
-    			"04IO010"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO005T2.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO005T2-full.png"
-    			}
-    		],
-    		region: "愛歐尼亞",
-    		regionRef: "Ionia",
-    		attack: 4,
-    		cost: 3,
-    		health: 3,
-    		description: "召喚此牌時及<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：<br>若我方擁有攻擊主動權，<br>則在手牌生成1張<link=card.create><style=AssociatedCard>無瑕重刃</style></link>。\r\n我方攻擊時，在手牌生成1張<br><link=card.create2><style=AssociatedCard>利刃衝擊</style></link>。",
-    		descriptionRaw: "召喚此牌時及回合開始：若我方擁有攻擊主動權，則在手牌生成1張無瑕重刃。\r\n我方攻擊時，在手牌生成1張利刃衝擊。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「……即便心情沉重，我們也不能拋下使命，必須再次起舞。」",
-    		artistName: "SIXMOREVODKA",
-    		name: "伊瑞莉雅",
-    		cardCode: "04IO005T2",
-    		keywords: [
-    			"快速攻擊"
-    		],
-    		keywordRefs: [
-    			"QuickStrike"
-    		],
-    		spellSpeed: "",
-    		spellSpeedRef: "",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "英雄",
-    		type: "單位",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04IO010"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO005T5.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO005T5-full.png"
-    			}
-    		],
-    		region: "愛歐尼亞",
-    		regionRef: "Ionia",
-    		attack: 0,
-    		cost: 1,
-    		health: 0,
-    		description: "<link=vocab.BladeDance><style=Vocab>劍舞</style></link>2。",
-    		descriptionRaw: "劍舞2。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「最完美的歌曲莫過於和諧交織的兩道美聲……」<br>——劍刃之花\n",
-    		artistName: "Kudos Productions",
-    		name: "無瑕重刃",
-    		cardCode: "04IO005T5",
-    		keywords: [
-    			"飛逝",
-    			"慢速"
-    		],
-    		keywordRefs: [
-    			"Fleeting",
-    			"Slow"
-    		],
-    		spellSpeed: "慢速",
-    		spellSpeedRef: "Slow",
-    		rarity: "無",
-    		rarityRef: "None",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
-    		collectible: false,
-    		set: "Set4"
-    	},
-    	{
-    		associatedCards: [
-    		],
-    		associatedCardRefs: [
-    			"04IO005T5",
-    			"04IO010"
-    		],
-    		assets: [
-    			{
-    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO011.png",
-    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO011-full.png"
-    			}
-    		],
-    		region: "愛歐尼亞",
-    		regionRef: "Ionia",
-    		attack: 0,
-    		cost: 2,
-    		health: 0,
-    		description: "<link=keyword.Recall><style=Keyword>召回</style></link>1個友軍單位以在手牌生成1張<link=card.create><style=AssociatedCard>無瑕重刃</style></link>。",
-    		descriptionRaw: "召回1個友軍單位以在手牌生成1張無瑕重刃。",
-    		levelupDescription: "",
-    		levelupDescriptionRaw: "",
-    		flavorText: "「我們的演出將會讓你……永生難忘。」<br>——鋼鐵終曲辛妮亞",
-    		artistName: "Kudos Productions",
-    		name: "一搭一唱",
-    		cardCode: "04IO011",
-    		keywords: [
-    			"快速"
-    		],
-    		keywordRefs: [
-    			"Fast"
-    		],
-    		spellSpeed: "快速",
-    		spellSpeedRef: "Fast",
-    		rarity: "普通",
-    		rarityRef: "Common",
-    		subtype: "",
-    		subtypes: [
-    		],
-    		supertype: "",
-    		type: "法術",
     		collectible: true,
     		set: "Set4"
     	},
@@ -11011,6 +10072,139 @@ var app = (function () {
     		associatedCards: [
     		],
     		associatedCardRefs: [
+    			"04IO005",
+    			"04IO005T1",
+    			"04IO005T5",
+    			"04IO005T4",
+    			"04IO010"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO005T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO005T2-full.png"
+    			}
+    		],
+    		region: "愛歐尼亞",
+    		regionRef: "Ionia",
+    		attack: 4,
+    		cost: 3,
+    		health: 3,
+    		description: "召喚此牌時及<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：<br>若我方擁有攻擊主動權，<br>則在手牌生成1張<link=card.create><style=AssociatedCard>無瑕重刃</style></link>。\r\n我方攻擊時，在手牌生成1張<br><link=card.create2><style=AssociatedCard>利刃衝擊</style></link>。",
+    		descriptionRaw: "召喚此牌時及回合開始：若我方擁有攻擊主動權，則在手牌生成1張無瑕重刃。\r\n我方攻擊時，在手牌生成1張利刃衝擊。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「……即便心情沉重，我們也不能拋下使命，必須再次起舞。」",
+    		artistName: "SIXMOREVODKA",
+    		name: "伊瑞莉雅",
+    		cardCode: "04IO005T2",
+    		keywords: [
+    			"快速攻擊"
+    		],
+    		keywordRefs: [
+    			"QuickStrike"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04IO010"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO005T5.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO005T5-full.png"
+    			}
+    		],
+    		region: "愛歐尼亞",
+    		regionRef: "Ionia",
+    		attack: 0,
+    		cost: 1,
+    		health: 0,
+    		description: "<link=vocab.BladeDance><style=Vocab>劍舞</style></link>2。",
+    		descriptionRaw: "劍舞2。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「最完美的歌曲莫過於和諧交織的兩道美聲……」<br>——劍刃之花\n",
+    		artistName: "Kudos Productions",
+    		name: "無瑕重刃",
+    		cardCode: "04IO005T5",
+    		keywords: [
+    			"飛逝",
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Fleeting",
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04IO010"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO004-full.png"
+    			}
+    		],
+    		region: "愛歐尼亞",
+    		regionRef: "Ionia",
+    		attack: 3,
+    		cost: 4,
+    		health: 3,
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=vocab.BladeDance><style=Vocab>劍舞</style></link>2。",
+    		descriptionRaw: "出牌：劍舞2。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「有人認為花朵嬌柔脆弱，但他們忘了扎根於大地，用花開帶來希望需要多大的力量。」\n——鋼鐵終曲辛妮亞",
+    		artistName: "SIXMOREVODKA",
+    		name: "劍刃之花",
+    		cardCode: "04IO004",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
     			"04IO010"
     		],
     		assets: [
@@ -11049,6 +10243,1064 @@ var app = (function () {
     		type: "法術",
     		collectible: true,
     		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO015.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO015-full.png"
+    			}
+    		],
+    		region: "愛歐尼亞",
+    		regionRef: "Ionia",
+    		attack: 1,
+    		cost: 1,
+    		health: 1,
+    		description: "<link=keyword.Recall><style=Keyword>召回</style></link>此牌時，抽1張牌。",
+    		descriptionRaw: "召回此牌時，抽1張牌。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「流水無形——它會應情勢所需而有所變化，無論是撲向岸邊還是流回大海。」——愛歐尼亞僧侶",
+    		artistName: "Dao Le",
+    		name: "舞動水滴",
+    		cardCode: "04IO015",
+    		keywords: [
+    			"調節",
+    			"隱密"
+    		],
+    		keywordRefs: [
+    			"Attune",
+    			"Elusive"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO014-full.png"
+    			}
+    		],
+    		region: "愛歐尼亞",
+    		regionRef: "Ionia",
+    		attack: 1,
+    		cost: 1,
+    		health: 1,
+    		description: "召喚此牌時，若有友軍單位擁有<br><link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>，則賦予此牌+1|+1。",
+    		descriptionRaw: "召喚此牌時，若有友軍單位擁有閃靈，則賦予此牌+1|+1。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「如微風一般的輕聲細語，你如煙霧繚繞的輕拂；你的拳頭必須融入黑暗，如同陰影化為黑不透光的漆影一樣。好，再來一次！」——示師傅",
+    		artistName: "Dao Le",
+    		name: "闇影學徒",
+    		cardCode: "04IO014",
+    		keywords: [
+    			"隱密"
+    		],
+    		keywordRefs: [
+    			"Elusive"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04IO010"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO002-full.png"
+    			}
+    		],
+    		region: "愛歐尼亞",
+    		regionRef: "Ionia",
+    		attack: 3,
+    		cost: 8,
+    		health: 5,
+    		description: "我方進行<link=vocab.BladeDance><style=Vocab>劍舞</style></link>時，<br>此牌與<link=card.blade><style=AssociatedCard>劍刃</style></link>一起攻擊。\r\n<link=vocab.Play><style=Vocab>出牌</style></link>：<link=vocab.BladeDance><style=Vocab>劍舞</style></link>1。",
+    		descriptionRaw: "我方進行劍舞時，此牌與劍刃一起攻擊。\r\n出牌：劍舞1。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「孩子們靠過來。今天我們將會跳著家族流傳下來的舞步，在這片孕育我們的大地上舞動。我們是愛歐尼亞之子，今日我們為了藝術、為了自由、為了彼此而舞！」",
+    		artistName: "SIXMOREVODKA",
+    		name: "鋼鐵終曲辛妮亞",
+    		cardCode: "04IO002",
+    		keywords: [
+    			"隱密"
+    		],
+    		keywordRefs: [
+    			"Elusive"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO010-full.png"
+    			}
+    		],
+    		region: "愛歐尼亞",
+    		regionRef: "Ionia",
+    		attack: 1,
+    		cost: 1,
+    		health: 1,
+    		description: "此牌脫離戰鬥時，<link=keyword.Obliterate><style=Keyword>泯滅</style></link>此牌。",
+    		descriptionRaw: "此牌脫離戰鬥時，泯滅此牌。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「不要讓技巧生疏了——攻擊靠的不只是劍刃，還有操控它的人。」——伊瑞莉雅",
+    		artistName: "SIXMOREVODKA",
+    		name: "劍刃",
+    		cardCode: "04IO010",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO007-full.png"
+    			}
+    		],
+    		region: "愛歐尼亞",
+    		regionRef: "Ionia",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "調換2個友軍單位位置。",
+    		descriptionRaw: "調換2個友軍單位位置。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「舞蹈就是隨著萬物運行和諧起舞。」<br>——鋼鐵終曲辛妮亞",
+    		artistName: "Kudos Productions",
+    		name: "切分換位",
+    		cardCode: "04IO007",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04IO005T5",
+    			"04IO010"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO011.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO011-full.png"
+    			}
+    		],
+    		region: "愛歐尼亞",
+    		regionRef: "Ionia",
+    		attack: 0,
+    		cost: 2,
+    		health: 0,
+    		description: "<link=keyword.Recall><style=Keyword>召回</style></link>1個友軍單位以在手牌生成1張<link=card.create><style=AssociatedCard>無瑕重刃</style></link>。",
+    		descriptionRaw: "召回1個友軍單位以在手牌生成1張無瑕重刃。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「我們的演出將會讓你……永生難忘。」<br>——鋼鐵終曲辛妮亞",
+    		artistName: "Kudos Productions",
+    		name: "一搭一唱",
+    		cardCode: "04IO011",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"01IO009T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO012.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO012-full.png"
+    			}
+    		],
+    		region: "愛歐尼亞",
+    		regionRef: "Ionia",
+    		attack: 0,
+    		cost: 5,
+    		health: 0,
+    		description: "<link=keyword.Recall><style=Keyword>召回</style></link>所有友軍單位，並在原處召喚相同數量的<link=card.summon><style=AssociatedCard>疾風殘影</style></link>。",
+    		descriptionRaw: "召回所有友軍單位，並在原處召喚相同數量的疾風殘影。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「讓他們打影子，他們的武器什麼都碰不到。」——劫",
+    		artistName: "Kudos Productions",
+    		name: "替身殘影",
+    		cardCode: "04IO012",
+    		keywords: [
+    			"快速"
+    		],
+    		keywordRefs: [
+    			"Fast"
+    		],
+    		spellSpeed: "快速",
+    		spellSpeedRef: "Fast",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04IO010"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO009-full.png"
+    			}
+    		],
+    		region: "愛歐尼亞",
+    		regionRef: "Ionia",
+    		attack: 2,
+    		cost: 2,
+    		health: 1,
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=vocab.BladeDance><style=Vocab>劍舞</style></link>1。",
+    		descriptionRaw: "出牌：劍舞1。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「真可惜，小子們！空有蠻力卻毫無節奏感？看來並非每個人都是當明星的料……！」",
+    		artistName: "SIXMOREVODKA",
+    		name: "緞帶舞者",
+    		cardCode: "04IO009",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO001-full.png"
+    			}
+    		],
+    		region: "愛歐尼亞",
+    		regionRef: "Ionia",
+    		attack: 1,
+    		cost: 4,
+    		health: 4,
+    		description: "每回合召喚3個其他友軍單位後，<br>恢復我方所有法術魔力並抽1張牌。<style=Variable></style>",
+    		descriptionRaw: "每回合召喚3個其他友軍單位後，恢復我方所有法術魔力並抽1張牌。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "音樂對某些人來說，是暫離苦難和暴戾的避風港；對另一些人來說，是讓自己更具韌性的力量來源。",
+    		artistName: "SIXMOREVODKA",
+    		name: "戰地樂手",
+    		cardCode: "04IO001",
+    		keywords: [
+    			"調節"
+    		],
+    		keywordRefs: [
+    			"Attune"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04IO006-full.png"
+    			}
+    		],
+    		region: "愛歐尼亞",
+    		regionRef: "Ionia",
+    		attack: 2,
+    		cost: 4,
+    		health: 6,
+    		description: "每召喚1個友軍單位，<br>則本回合給予此牌+2|+0。",
+    		descriptionRaw: "每召喚1個友軍單位，則本回合給予此牌+2|+0。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "親愛的凱，\n他們的艦隊在今早劃破地平線，遮住了日出。他們放火燒了銀白平原，濃煙瀰漫在夏日的空氣之中。我們無法再袖手旁觀了，無論手持的是鋤鏟鐮劍，我們都必須面對命運的安排。\n千言萬語都無法表達我對你和這個家的愛。\n——燒焦的信紙\n",
+    		artistName: "SIXMOREVODKA",
+    		name: "沿岸守軍",
+    		cardCode: "04IO006",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE004.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE004-full.png"
+    			}
+    		],
+    		region: "蒂瑪西亞",
+    		regionRef: "Demacia",
+    		attack: 3,
+    		cost: 6,
+    		health: 5,
+    		description: "每召喚1個菁英單位，<br>則此牌魔耗值-1。",
+    		descriptionRaw: "每召喚1個菁英單位，則此牌魔耗值-1。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "蒂瑪西亞的偵察兵對森林瞭若指掌，無論諾克薩斯人的陷阱設得再怎麼隱密，每根斷枝、每個腳印都是引導他們接近王子的線索。",
+    		artistName: "SIXMOREVODKA",
+    		name: "鐵血偵察兵",
+    		cardCode: "04DE004",
+    		keywords: [
+    			"先遣"
+    		],
+    		keywordRefs: [
+    			"Scout"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "菁英",
+    		subtypes: [
+    			"菁英"
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE014.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE014-full.png"
+    			}
+    		],
+    		region: "蒂瑪西亞",
+    		regionRef: "Demacia",
+    		attack: 0,
+    		cost: 1,
+    		health: 3,
+    		description: "我方打出龍族時，該龍族單位會<br><link=vocab.Strike><style=Vocab>打擊</style></link>此牌，接著我方抽1張牌。",
+    		descriptionRaw: "我方打出龍族時，該龍族單位會打擊此牌，接著我方抽1張牌。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「你說那遠在天邊的尖銳叫聲？兒子，那並不是鳥鳴，而是正在捕食的巨龍所發出的尖嘯。」——蒂瑪西亞農夫",
+    		artistName: "Kudos Productions",
+    		name: "巨龍點心",
+    		cardCode: "04DE014",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE001.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE001-full.png"
+    			}
+    		],
+    		region: "蒂瑪西亞",
+    		regionRef: "Demacia",
+    		attack: 3,
+    		cost: 2,
+    		health: 2,
+    		description: "此牌首次<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>敵軍單位時，<br>本回合給予此牌<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
+    		descriptionRaw: "此牌首次挑戰敵軍單位時，本回合給予此牌光盾。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "國王嘉文三世在得知皇子失蹤後，委託摯友貝瑞特．布斐利領主組織搜救隊，以找回皇子。後來皇子平安返國，但不幸的是，布斐利領主卻沒有歸來，這也成為了嘉文三世的終生遺憾。",
+    		artistName: "SIXMOREVODKA",
+    		name: "名譽領主",
+    		cardCode: "04DE001",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "菁英",
+    		subtypes: [
+    			"菁英"
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE003.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE003-full.png"
+    			}
+    		],
+    		region: "蒂瑪西亞",
+    		regionRef: "Demacia",
+    		attack: 0,
+    		cost: 3,
+    		health: 0,
+    		description: "使1個友軍單位發動額外攻擊並<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>1個敵軍單位。",
+    		descriptionRaw: "使1個友軍單位發動額外攻擊並挑戰1個敵軍單位。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「國王萬歲！」——嘉文四世",
+    		artistName: "Kudos Productions",
+    		name: "浩劫降臨",
+    		cardCode: "04DE003",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE002.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE002-full.png"
+    			}
+    		],
+    		region: "蒂瑪西亞",
+    		regionRef: "Demacia",
+    		attack: 0,
+    		cost: 4,
+    		health: 0,
+    		description: "本回合給予1個友軍單位<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。<br>進行<link=vocab.Rally><style=Vocab>備戰</style></link>。",
+    		descriptionRaw: "本回合給予1個友軍單位光盾。進行備戰。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「蒂瑪西亞的士兵們，繼續戰鬥吧！」——嘉文四世",
+    		artistName: "Kudos Productions",
+    		name: "光盾庇護",
+    		cardCode: "04DE002",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE006.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE006-full.png"
+    			}
+    		],
+    		region: "蒂瑪西亞",
+    		regionRef: "Demacia",
+    		attack: 0,
+    		cost: 1,
+    		health: 0,
+    		description: "賦予1個友軍單位+1|+1。",
+    		descriptionRaw: "賦予1個友軍單位+1|+1。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「我來教你兩招。」——布斐利領主",
+    		artistName: "Kudos Productions",
+    		name: "戰技專精",
+    		cardCode: "04DE006",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE007T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE007T1-full.png"
+    			}
+    		],
+    		region: "蒂瑪西亞",
+    		regionRef: "Demacia",
+    		attack: 0,
+    		cost: 1,
+    		health: 0,
+    		description: "我方下次於本回合召喚友軍單位時，賦予其<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。",
+    		descriptionRaw: "我方下次於本回合召喚友軍單位時，賦予其挑戰者。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「組好隊形，聽令進攻！」——銀翼鷲先鋒",
+    		artistName: "Kudos Productions",
+    		name: "殘破戰旗",
+    		cardCode: "04DE007T1",
+    		keywords: [
+    			"疾速"
+    		],
+    		keywordRefs: [
+    			"Burst"
+    		],
+    		spellSpeed: "疾速",
+    		spellSpeedRef: "Burst",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04DE008T2",
+    			"04DE008T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE008.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE008-full.png"
+    			}
+    		],
+    		region: "蒂瑪西亞",
+    		regionRef: "Demacia",
+    		attack: 6,
+    		cost: 6,
+    		health: 4,
+    		description: "我方攻擊時，支付此牌的魔耗值，\r\n並召喚此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。",
+    		descriptionRaw: "我方攻擊時，支付此牌的魔耗值，\r\n並召喚此牌挑戰最強敵軍單位。",
+    		levelupDescription: "友軍單位承受敵方格擋單位<br><link=vocab.Strike><style=Vocab>打擊</style></link>4次以上，且未陣亡<style=Variable></style>。",
+    		levelupDescriptionRaw: "友軍單位承受敵方格擋單位打擊4次以上，且未陣亡。",
+    		flavorText: "諾克薩斯人不僅把嘉文皇子的打獵行程摸得一清二楚，還知道會有多少蒂瑪西亞衛隊隨行，更清楚皇子為了自己的榮譽，是不可能逃跑的；陷阱已經設計妥當。",
+    		artistName: "SIXMOREVODKA",
+    		name: "嘉文四世",
+    		cardCode: "04DE008",
+    		keywords: [
+    			"光盾"
+    		],
+    		keywordRefs: [
+    			"Barrier"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "英雄",
+    		rarityRef: "Champion",
+    		subtype: "菁英",
+    		subtypes: [
+    			"菁英"
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04DE008T2",
+    			"04DE008",
+    			"04DE003"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE008T1.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE008T1-full.png"
+    			}
+    		],
+    		region: "蒂瑪西亞",
+    		regionRef: "Demacia",
+    		attack: 7,
+    		cost: 6,
+    		health: 5,
+    		description: "我方攻擊時，支付此牌的魔耗值，\r\n並召喚此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：在手牌生成1張\r\n<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.create><style=AssociatedCard>浩劫降臨</style></link>。\r\n<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>敵軍單位時，\r\n本回合給予此牌<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
+    		descriptionRaw: "我方攻擊時，支付此牌的魔耗值，\r\n並召喚此牌挑戰最強敵軍單位。\r\n回合開始：在手牌生成1張\r\n飛逝浩劫降臨。\r\n挑戰敵軍單位時，\r\n本回合給予此牌光盾。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "不過，諾克薩斯人卻沒有預料到，年輕的皇子竟然如此力量強大和意志堅定，這失算也讓他們付出了血的代價。",
+    		artistName: "SIXMOREVODKA",
+    		name: "嘉文四世",
+    		cardCode: "04DE008T1",
+    		keywords: [
+    			"光盾"
+    		],
+    		keywordRefs: [
+    			"Barrier"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "菁英",
+    		subtypes: [
+    			"菁英"
+    		],
+    		supertype: "英雄",
+    		type: "單位",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04DE008",
+    			"04DE008"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE008T2.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE008T2-full.png"
+    			}
+    		],
+    		region: "蒂瑪西亞",
+    		regionRef: "Demacia",
+    		attack: 0,
+    		cost: 3,
+    		health: 0,
+    		description: "使1個友軍單位發動額外攻擊並<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>1個敵軍單位。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>嘉文四世</style></link>。",
+    		descriptionRaw: "使1個友軍單位發動額外攻擊並挑戰1個敵軍單位。\r\n在我方牌組生成1張嘉文四世。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「國王萬歲！」——嘉文四世",
+    		artistName: "Kudos Productions",
+    		name: "嘉文四世 浩劫降臨",
+    		cardCode: "04DE008T2",
+    		keywords: [
+    			"慢速"
+    		],
+    		keywordRefs: [
+    			"Slow"
+    		],
+    		spellSpeed: "慢速",
+    		spellSpeedRef: "Slow",
+    		rarity: "無",
+    		rarityRef: "None",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "英雄",
+    		type: "法術",
+    		collectible: false,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE005.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE005-full.png"
+    			}
+    		],
+    		region: "蒂瑪西亞",
+    		regionRef: "Demacia",
+    		attack: 10,
+    		cost: 10,
+    		health: 10,
+    		description: "召喚此牌時，使其他友軍單位的力量值與生命值加倍，並賦予其<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。",
+    		descriptionRaw: "召喚此牌時，使其他友軍單位的力量值與生命值加倍，並賦予其挑戰者。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「能夠拯救蒂瑪西亞王子的非雲霄戰士莫屬！」<br>——嘉文三世國王",
+    		artistName: "SIXMOREVODKA",
+    		name: "雲霄戰士希莉亞",
+    		cardCode: "04DE005",
+    		keywords: [
+    			"挑戰者"
+    		],
+    		keywordRefs: [
+    			"Challenger"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "",
+    		subtypes: [
+    			"菁英"
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04DE008"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE010.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE010-full.png"
+    			}
+    		],
+    		region: "蒂瑪西亞",
+    		regionRef: "Demacia",
+    		attack: 3,
+    		cost: 7,
+    		health: 6,
+    		description: "召喚此牌時，抽1張<link=card.champ1><style=AssociatedCard>嘉文四世</style></link>。\r\n若該牌已在場上，則改為本回合給予所有友軍單位<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>與<link=keyword.Scout><sprite name=Scout><style=Keyword>先遣</style></link>。",
+    		descriptionRaw: "召喚此牌時，抽1張嘉文四世。\r\n若該牌已在場上，則改為本回合給予所有友軍單位挑戰者與先遣。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "「試問，父親會願意付出什麼代價來拯救孩兒呢？甚或，那父親是一國之君呢？」——勒布朗",
+    		artistName: "SIXMOREVODKA",
+    		name: "嘉文三世國王",
+    		cardCode: "04DE010",
+    		keywords: [
+    			"堅忍"
+    		],
+    		keywordRefs: [
+    			"Tough"
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "史詩",
+    		rarityRef: "Epic",
+    		subtype: "菁英",
+    		subtypes: [
+    			"菁英"
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE013.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE013-full.png"
+    			}
+    		],
+    		region: "蒂瑪西亞",
+    		regionRef: "Demacia",
+    		attack: 7,
+    		cost: 6,
+    		health: 7,
+    		description: "敵方法術/技能無法對此牌造成傷害。",
+    		descriptionRaw: "敵方法術/技能無法對此牌造成傷害。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "傳說反魔法英石森林還很年輕時，這些偉大的石角獸就已存在了。牠們的鹿角和那些古老的樹木，材質上還有幾分相似。",
+    		artistName: "Kudos Productions",
+    		name: "魁偉石角鹿",
+    		cardCode: "04DE013",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"04DE007T1"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE007.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE007-full.png"
+    			}
+    		],
+    		region: "蒂瑪西亞",
+    		regionRef: "Demacia",
+    		attack: 2,
+    		cost: 1,
+    		health: 2,
+    		description: "召喚此牌時，若我方<link=vocab.Behold><style=Vocab>掌控</style></link>菁英牌，<br>則在手牌生成1張<link=card.create><style=AssociatedCard>殘破戰旗</style></link>。",
+    		descriptionRaw: "召喚此牌時，若我方掌控菁英牌，則在手牌生成1張殘破戰旗。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "那負罪的隨從撐著疲累的身軀，一直走到城牆邊才終於軟下雙腳來。如此一來，無畏先鋒終能把口信傳給國王，好派人去搜救皇子；她也終能將功折過，保全自己的名聲。",
+    		artistName: "SIXMOREVODKA",
+    		name: "懺罪隨從",
+    		cardCode: "04DE007",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "普通",
+    		rarityRef: "Common",
+    		subtype: "",
+    		subtypes: [
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
+    	},
+    	{
+    		associatedCards: [
+    		],
+    		associatedCardRefs: [
+    			"01DE028"
+    		],
+    		assets: [
+    			{
+    				gameAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE009.png",
+    				fullAbsolutePath: "http://dd.b.pvp.net/2_7_0/set4/zh_tw/img/cards/04DE009-full.png"
+    			}
+    		],
+    		region: "蒂瑪西亞",
+    		regionRef: "Demacia",
+    		attack: 4,
+    		cost: 4,
+    		health: 4,
+    		description: "此牌首次<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>敵軍單位時，<br>將其幻化為<link=card.transform><style=AssociatedCard>先鋒騎兵</style></link>。",
+    		descriptionRaw: "此牌首次挑戰敵軍單位時，將其幻化為先鋒騎兵。",
+    		levelupDescription: "",
+    		levelupDescriptionRaw: "",
+    		flavorText: "一聲令下，所有蒂瑪西亞士兵都被徵召投入搜尋皇子的行動；這時靈活權變才是達成任務的關鍵。",
+    		artistName: "SIXMOREVODKA",
+    		name: "英勇騎兵",
+    		cardCode: "04DE009",
+    		keywords: [
+    		],
+    		keywordRefs: [
+    		],
+    		spellSpeed: "",
+    		spellSpeedRef: "",
+    		rarity: "稀有",
+    		rarityRef: "Rare",
+    		subtype: "菁英",
+    		subtypes: [
+    			"菁英"
+    		],
+    		supertype: "",
+    		type: "單位",
+    		collectible: true,
+    		set: "Set4"
     	}
     ];
 
@@ -11069,7 +11321,7 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "使敵方棄置手牌中<link=keyword.Weakest><style=Keyword>最弱</style></link>的<br>侍從牌。",
+    		description: "使敵方棄置手牌中<link=keyword.Weakest><style=Keyword>最弱</style></link>的侍從牌。",
     		descriptionRaw: "使敵方棄置手牌中最弱的侍從牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -11111,8 +11363,8 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "使1個友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>1個敵軍單位。若其有<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>，則將超額傷害加諸敵方主堡。",
-    		descriptionRaw: "使1個友軍單位打擊1個敵軍單位。若其有勢不可擋，則將超額傷害加諸敵方主堡。",
+    		description: "使1個友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>1個敵軍單位。若其有<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>蠻力</style></link>，則將超額傷害加諸敵方主堡。",
+    		descriptionRaw: "使1個友軍單位打擊1個敵軍單位。若其有蠻力，則將超額傷害加諸敵方主堡。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「喔，野蠻人今天看起來格外狂野！鄉親們，離這些爪子遠點喔！」——競技場主持人",
@@ -11202,8 +11454,8 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "本回合給予1個友軍單位<br><link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。\r\n<style=Variable></style>",
-    		descriptionRaw: "本回合給予1個友軍單位勢不可擋。\r\n",
+    		description: "本回合給予1個友軍單位<br><link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>蠻力</style></link>。\r\n<style=Variable></style>",
+    		descriptionRaw: "本回合給予1個友軍單位蠻力。\r\n",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「一名戰士必須知道自己的武器有多沉重，承載著多少罪惡。」——雷玟",
@@ -11292,8 +11544,8 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "賦予1個友軍單位+2|+0、<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>與<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>。",
-    		descriptionRaw: "賦予1個友軍單位+2|+0、勢不可擋與快速攻擊。",
+    		description: "賦予1個友軍單位+2|+0、<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>蠻力</style></link>與<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>。",
+    		descriptionRaw: "賦予1個友軍單位+2|+0、蠻力與快速攻擊。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「戰士擁有的不僅是武器。他們還擁有力量，但也必須承擔後果、了解寬恕與救贖。」——雷玟",
@@ -11516,8 +11768,8 @@ var app = (function () {
     		attack: 2,
     		cost: 6,
     		health: 5,
-    		description: "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：若我方本回合曾對此牌施放法術，則此牌<link=vocab.Strike><style=Vocab>打擊</style></link><link=keyword.Weakest><style=Keyword>最弱</style></link>的敵軍<br>單位。",
-    		descriptionRaw: "回合結束：若我方本回合曾對此牌施放法術，則此牌打擊最弱的敵軍單位。",
+    		description: "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：若我方本回合\r\n曾對此牌施放法術，\r\n則此牌<link=vocab.Strike><style=Vocab>打擊</style></link><link=keyword.Weakest><style=Keyword>最弱</style></link>敵軍單位。",
+    		descriptionRaw: "回合結束：若我方本回合\r\n曾對此牌施放法術，\r\n則此牌打擊最弱敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「儘管躲啊，我們會找到你。\n就連呼吸，我們都聽得到。\n盡量跑吧，我們會殺了你。」",
@@ -11646,12 +11898,12 @@ var app = (function () {
     		descriptionRaw: "出牌：對1個友軍單位與1個敵軍單位造成1點傷害4次。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "戰鬥前幾天，巨異蜥馴獸師不會讓牠們吃活的獵物。等到那些猛獸被釋放時，牠們會變得不分敵友，並且所向無敵。",
+    		flavorText: "戰鬥前幾天，巨異蜥馴獸師不會讓牠們吃活的獵物。<br>等到那些猛獸被釋放時，牠們會變得不分敵友，<br>並且所向無敵。",
     		artistName: "Kudos Productions",
     		name: "巨異蜥血魔",
     		cardCode: "03NX017",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -11900,7 +12152,7 @@ var app = (function () {
     		attack: 3,
     		cost: 4,
     		health: 3,
-    		description: "召喚此牌時，本回合給予此牌<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>。",
+    		description: "召喚此牌時，本回合給予此牌<br><link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>。",
     		descriptionRaw: "召喚此牌時，本回合給予此牌快速攻擊。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -12072,8 +12324,8 @@ var app = (function () {
     		health: 6,
     		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：\r\n在手牌生成1張<link=card.create><style=AssociatedCard>品味獨到</style></link>。",
     		descriptionRaw: "回合開始：\r\n在手牌生成1張品味獨到。",
-    		levelupDescription: "此牌<link=keyword.Capture><sprite name=Capture><style=Keyword>俘虜</style></link>3個或以上單位<style=Variable></style>。此牌升級時，<link=keyword.Obliterate><style=Keyword>泯滅</style></link>被此牌<link=keyword.Capture><sprite name=Capture><style=Keyword>俘虜</style></link>的敵軍單位，若為友軍單位則將其釋放。",
-    		levelupDescriptionRaw: "此牌俘虜3個或以上單位。此牌升級時，泯滅被此牌俘虜的敵軍單位，若為友軍單位則將其釋放。",
+    		levelupDescription: "此牌<link=keyword.Capture><sprite name=Capture><style=Keyword>俘虜</style></link>3個以上單位<style=Variable></style>。此牌升級時，<link=keyword.Obliterate><style=Keyword>泯滅</style></link>被此牌<link=keyword.Capture><sprite name=Capture><style=Keyword>俘虜</style></link>的敵軍單位，若為友軍單位則將其釋放。",
+    		levelupDescriptionRaw: "此牌俘虜3個以上單位。此牌升級時，泯滅被此牌俘虜的敵軍單位，若為友軍單位則將其釋放。",
     		flavorText: "「朋友，我知道那個表情。我看得出來，你覺得自己滿手爛牌。你想要更棒的對吧？我或許能滿足你的渴望，讓你品嚐最想要的東西。只需在這紙上簽名……而你，我的朋友，你的生命就會得到滿足。」",
     		artistName: "SIXMOREVODKA",
     		name: "貪啃奇",
@@ -12548,7 +12800,7 @@ var app = (function () {
     		name: "奸巧魚老大",
     		cardCode: "03BW003",
     		keywords: [
-    			"勢不可擋",
+    			"蠻力",
     			"弱勢"
     		],
     		keywordRefs: [
@@ -12666,8 +12918,8 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "召喚1個<link=card.create><style=AssociatedCard>火藥猴群</style></link>，且本牌局我方每次發動<link=vocab.Plunder><style=Vocab>洗劫</style></link>，便可在本回合給予1個隨機敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。<style=Variable></style>",
-    		descriptionRaw: "召喚1個火藥猴群，且本牌局我方每次發動洗劫，便可在本回合給予1個隨機敵軍單位弱勢。",
+    		description: "本牌局我方每發動1次<link=vocab.Plunder><style=Vocab>洗劫</style></link>，便召喚1個<link=card.create><style=AssociatedCard>火藥猴群</style></link>，並在本回合給予相同數量的隨機敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
+    		descriptionRaw: "本牌局我方每發動1次洗劫，便召喚1個火藥猴群，並在本回合給予相同數量的隨機敵軍單位弱勢。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「噢，這些小黑炭沒那麼不好。給你個建議，牠們喜歡煙火，所以等你奪來了敵方的火藥庫，嗯，剩下的交給猴子們來處理就好。」——好運姐",
@@ -12876,8 +13128,8 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：擊殺魔耗值最高的友軍單位，並從我方牌組召喚1個魔耗值高出1點的友軍單位（若無則不發動效果）。",
-    		descriptionRaw: "回合開始：擊殺魔耗值最高的友軍單位，並從我方牌組召喚1個魔耗值高出1點的友軍單位（若無則不發動效果）。",
+    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：擊殺魔耗值最高的友軍單位，並從我方牌組召喚1個魔耗值+1的友軍單位（若無則不發動效果）。",
+    		descriptionRaw: "回合開始：擊殺魔耗值最高的友軍單位，並從我方牌組召喚1個魔耗值+1的友軍單位（若無則不發動效果）。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "要引誘靈魂到這個鬼地方，有什麼能比承諾給予永生和無盡的財富來得有用呢？",
@@ -12918,11 +13170,11 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：治癒所有負傷友軍單位1點生命。此牌在場上時，若我方治癒友軍單位22點或以上生命，即贏下牌局。<style=Variable></style>",
-    		descriptionRaw: "回合結束：治癒所有負傷友軍單位1點生命。此牌在場上時，若我方治癒友軍單位22點或以上生命，即贏下牌局。",
+    		description: "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：治療所有負傷友軍單位1點生命值。此牌在場上時，若我方治療友軍單位22點以上，即贏下牌局。<style=Variable></style>",
+    		descriptionRaw: "回合結束：治療所有負傷友軍單位1點生命值。此牌在場上時，若我方治療友軍單位22點以上，即贏下牌局。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「聖流之上，\n水池深處，治癒之泉\n閃耀之光，微明之水，\n聆聽河流之歌，\n水晶山脈之巔。」\n——〈獺人詩篇〉",
+    		flavorText: "「聖流之上，\n水池深處，療癒之泉\n閃耀之光，微明之水，\n聆聽河流之歌，\n水晶山脈之巔。」\n——〈獺人詩篇〉",
     		artistName: "SIXMOREVODKA",
     		name: "星泉",
     		cardCode: "03MT052",
@@ -13051,7 +13303,7 @@ var app = (function () {
     		descriptionRaw: "擊殺1個負傷單位或摧毀1個地標。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「龍犬聞到味道了，牠們會找到她，然後做個了結，除此之外別無他法。」——獵捕手亞瑞爾",
+    		flavorText: "「龍犬聞到味道了，牠們會找到她，然後做個了結，除此之外別無他法。」——獵捕手艾瑞兒",
     		artistName: "Kudos Productions",
     		name: "焦土作戰",
     		cardCode: "03NX013",
@@ -13847,8 +14099,8 @@ var app = (function () {
     		attack: 10,
     		cost: 10,
     		health: 10,
-    		description: "召喚此牌時，本牌局我方每打出1張天界牌，則賦予此牌+1|+0。<style=Variable></style>\r\n<link=vocab.Attack><style=Vocab>攻擊</style></link>：本回合給予所有其他友軍單位+2|+2與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。",
-    		descriptionRaw: "召喚此牌時，本牌局我方每打出1張天界牌，則賦予此牌+1|+0。\r\n攻擊：本回合給予所有其他友軍單位+2|+2與勢不可擋。",
+    		description: "召喚此牌時，本牌局我方每打出1張天界牌，則賦予此牌+1|+0。<style=Variable></style>\r\n<link=vocab.Attack><style=Vocab>攻擊</style></link>：本回合給予所有其他友軍單位+2|+2與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>蠻力</style></link>。",
+    		descriptionRaw: "召喚此牌時，本牌局我方每打出1張天界牌，則賦予此牌+1|+0。\r\n攻擊：本回合給予所有其他友軍單位+2|+2與蠻力。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "傳說天界的極遠邊陲潛伏著一隻災星怪獸，靜等著末日之時。那時它便會掌控繁星的力量，<br>粉碎世界的根基。",
@@ -14067,7 +14319,7 @@ var app = (function () {
     		descriptionRaw: "若我方掌控天界牌，則賦予各處友軍單位+2|+2。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「仰望夜空，讓耀眼的繁星映入眼簾，並讓它們的治癒之光充盈全身。」——索拉卡",
+    		flavorText: "「仰望夜空，讓耀眼的繁星映入眼簾，並讓它們的療癒之光充盈全身。」——索拉卡",
     		artistName: "Kudos Productions",
     		name: "宇宙星啟",
     		cardCode: "03MT066",
@@ -14158,7 +14410,7 @@ var app = (function () {
     		name: "魔犀座",
     		cardCode: "03MT010",
     		keywords: [
-    			"勢不可擋",
+    			"蠻力",
     			"法盾"
     		],
     		keywordRefs: [
@@ -14369,8 +14621,8 @@ var app = (function () {
     		attack: 0,
     		cost: 8,
     		health: 0,
-    		description: "若我方<link=vocab.Behold><style=Vocab>掌控</style></link>天界牌，則<link=keyword.Obliterate><style=Keyword>泯滅</style></link>所有力量值3點或以下的敵軍單位。",
-    		descriptionRaw: "若我方掌控天界牌，則泯滅所有力量值3點或以下的敵軍單位。",
+    		description: "若我方<link=vocab.Behold><style=Vocab>掌控</style></link>天界牌，則<link=keyword.Obliterate><style=Keyword>泯滅</style></link>所有力量值3點以下的敵軍單位。",
+    		descriptionRaw: "若我方掌控天界牌，則泯滅所有力量值3點以下的敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "在最初的黑暗中，生命的火花在宇宙中擴散開來。我們永遠不會知道它發出了什麼樣的聲音，散發什麼樣的光芒，因為當時文字仍未誕生，也沒人能見證生命的起源。 ",
@@ -14637,7 +14889,7 @@ var app = (function () {
     		name: "戰牛座",
     		cardCode: "03MT090",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -14671,8 +14923,8 @@ var app = (function () {
     		attack: 3,
     		cost: 4,
     		health: 2,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=keyword.Invoke><style=Keyword>祈願</style></link>1張魔耗值3點或以下的天界牌。",
-    		descriptionRaw: "出牌：祈願1張魔耗值3點或以下的天界牌。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=keyword.Invoke><style=Keyword>祈願</style></link>1張魔耗值3點以下的天界牌。",
+    		descriptionRaw: "出牌：祈願1張魔耗值3點以下的天界牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「月亮母親，請為我指引方向，\n撕裂蒼穹，\n讓我得見更高境界。」\n——月環教禱辭",
@@ -14803,10 +15055,10 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 2,
-    		description: "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：<br>選擇1個月之武器，在手牌中生成。\r\n每回合首次打出2張其他卡牌時，若我方尚未擁有已<link=vocab.Phase><style=Vocab>變取</style></link>的月之武器，則在手牌中生成1張。<style=Variable></style>",
-    		descriptionRaw: "夜臨：選擇1個月之武器，在手牌中生成。\r\n每回合首次打出2張其他卡牌時，若我方尚未擁有已變取的月之武器，則在手牌中生成1張。",
-    		levelupDescription: "我方已施放4張或以上月之武器。<style=Variable></style>",
-    		levelupDescriptionRaw: "我方已施放4張或以上月之武器。",
+    		description: "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：<br>挑選1張月之武器，在手牌中生成。\r\n每回合首次打出2張其他卡牌時，若我方尚未擁有已<link=vocab.Phase><style=Vocab>變取</style></link>的月之武器，則在手牌中生成1張。<style=Variable></style>",
+    		descriptionRaw: "夜臨：挑選1張月之武器，在手牌中生成。\r\n每回合首次打出2張其他卡牌時，若我方尚未擁有已變取的月之武器，則在手牌中生成1張。",
+    		levelupDescription: "我方已施放4張以上月之武器。<style=Variable></style>",
+    		levelupDescriptionRaw: "我方已施放4張以上月之武器。",
     		flavorText: "「每一次對抗，我們都是在向日輪教證明，我們應該得到尊重。我們已經讓他們知道，月光能與他們的日光平起平坐，我們已經讓他們知道，不要看輕自己不懂的事物，以及那些他們還沒學會的教訓……」——月環教陰晴講者",
     		artistName: "SIXMOREVODKA",
     		name: "亞菲利歐",
@@ -14845,8 +15097,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "從我方牌組召喚1個魔耗值2點的侍從單位。如其有<link=keyword.Nightfall><style=Keyword>夜臨</style></link>，則發動之。<link=vocab.Phase><style=Vocab>變取</style></link><link=card.Calibrum><style=AssociatedCard>月影步槍</style></link>或<link=card.Severum><style=AssociatedCard>月鐮槍刃</style></link>。",
-    		descriptionRaw: "從我方牌組召喚1個魔耗值2點的侍從單位。如其有夜臨，則發動之。變取月影步槍或月鐮槍刃。",
+    		description: "從我方牌組召喚1個魔耗值2點的侍從單位。若其有<link=keyword.Nightfall><style=Keyword>夜臨</style></link>，則發動之。<link=vocab.Phase><style=Vocab>變取</style></link><link=card.Calibrum><style=AssociatedCard>月影步槍</style></link>或<link=card.Severum><style=AssociatedCard>月鐮槍刃</style></link>。",
+    		descriptionRaw: "從我方牌組召喚1個魔耗值2點的侍從單位。若其有夜臨，則發動之。變取月影步槍或月鐮槍刃。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「新月般的道路在我們面前展開。」——亞盧妮",
@@ -14890,8 +15142,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "本回合給予1個友軍單位+2|+1與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。<link=vocab.Phase><style=Vocab>變取</style></link><link=card.Crescendum><style=AssociatedCard>月曲終章</style></link>或<link=card.Calibrum><style=AssociatedCard>月影步槍</style></link>。",
-    		descriptionRaw: "本回合給予1個友軍單位+2|+1與勢不可擋。變取月曲終章或月影步槍。",
+    		description: "本回合給予1個友軍單位+2|+1與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>蠻力</style></link>。<link=vocab.Phase><style=Vocab>變取</style></link><link=card.Crescendum><style=AssociatedCard>月曲終章</style></link>或<link=card.Calibrum><style=AssociatedCard>月影步槍</style></link>。",
+    		descriptionRaw: "本回合給予1個友軍單位+2|+1與蠻力。變取月曲終章或月影步槍。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「月隨焰生。」——亞盧妮",
@@ -14940,8 +15192,8 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "選擇1個月之武器，<br>在手牌中生成。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>亞菲利歐</style></link>。",
-    		descriptionRaw: "選擇1個月之武器，在手牌中生成。\r\n在我方牌組生成1張亞菲利歐。",
+    		description: "挑選1張月之武器，<br>在手牌中生成。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>亞菲利歐</style></link>。",
+    		descriptionRaw: "挑選1張月之武器，在手牌中生成。\r\n在我方牌組生成1張亞菲利歐。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「亞菲利歐，伸出手……」——亞盧妮",
@@ -15079,8 +15331,8 @@ var app = (function () {
     		attack: 4,
     		cost: 3,
     		health: 3,
-    		description: "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：<br>選擇1個月之武器，在手牌中生成。\r\n每回合首次打出2張其他卡牌或<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：若我方尚未擁有已<link=vocab.Phase><style=Vocab>變取</style></link>的月之武器，則在手牌中生成1張。<style=Variable></style>\r\n我方月之武器魔耗值-1。",
-    		descriptionRaw: "夜臨：選擇1個月之武器，在手牌中生成。\r\n每回合首次打出2張其他卡牌或回合開始：若我方尚未擁有已變取的月之武器，則在手牌中生成1張。\r\n我方月之武器魔耗值-1。",
+    		description: "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：<br>挑選1張月之武器，在手牌中生成。\r\n每回合首次打出2張其他卡牌或<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：若我方尚未擁有已<link=vocab.Phase><style=Vocab>變取</style></link>的月之武器，則在手牌中生成1張。<style=Variable></style>\r\n我方月之武器魔耗值-1。",
+    		descriptionRaw: "夜臨：挑選1張月之武器，在手牌中生成。\r\n每回合首次打出2張其他卡牌或回合開始：若我方尚未擁有已變取的月之武器，則在手牌中生成1張。\r\n我方月之武器魔耗值-1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「要數亞菲利歐與亞盧妮的教導最為恰當……」<br>——月環教陰晴講者",
@@ -15167,8 +15419,8 @@ var app = (function () {
     		attack: 3,
     		cost: 5,
     		health: 3,
-    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>力量值2點或以下的所有敵軍單位。",
-    		descriptionRaw: "出牌：擊暈力量值2點或以下的所有敵軍單位。",
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>力量值2點以下的所有敵軍單位。",
+    		descriptionRaw: "出牌：擊暈力量值2點以下的所有敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "冰塊落地時的清脆叮鈴聲，在山腰的一片寂靜之中傳來，而在旅人的上方遠處，他們發誓說聽到了……嘻笑的聲音？",
@@ -15209,8 +15461,8 @@ var app = (function () {
     		attack: 2,
     		cost: 4,
     		health: 7,
-    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：治癒我方主堡3點生命，並對此牌造成等值傷害。",
-    		descriptionRaw: "回合開始：治癒我方主堡3點生命，並對此牌造成等值傷害。",
+    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：治療我方主堡3點生命值，並對此牌造成等值傷害。",
+    		descriptionRaw: "回合開始：治療我方主堡3點生命值，並對此牌造成等值傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「沒人比我更熟悉巨石峰的山徑，所以有些，呃，任性的星角獸總是纏著我。幸好牠們有我來照顧！」 ",
@@ -15258,7 +15510,7 @@ var app = (function () {
     		name: "魯姆爾爺爺",
     		cardCode: "03MT033",
     		keywords: [
-    			"勢不可擋",
+    			"蠻力",
     			"法盾"
     		],
     		keywordRefs: [
@@ -15293,8 +15545,8 @@ var app = (function () {
     		attack: 8,
     		cost: 8,
     		health: 8,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：選擇2個敵軍單位。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>他們。",
-    		descriptionRaw: "出牌：選擇2個敵軍單位。\r\n回合開始：擊暈他們。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：挑選2個敵軍單位。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>他們。",
+    		descriptionRaw: "出牌：挑選2個敵軍單位。\r\n回合開始：擊暈他們。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "傳說與這隻生物視線交錯的旅行者，會被灌輸深奧知識、淵深洞見，以致於在其凝視之下精神崩潰。",
@@ -15340,8 +15592,8 @@ var app = (function () {
     		health: 2,
     		description: "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：本回合給予此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。",
     		descriptionRaw: "夜臨：本回合給予此牌挑戰者。",
-    		levelupDescription: "我方已發動4次或以上<link=keyword.Nightfall><style=Keyword>夜臨</style></link><style=Variable></style>。",
-    		levelupDescriptionRaw: "我方已發動4次或以上夜臨。",
+    		levelupDescription: "我方已發動4次以上<link=keyword.Nightfall><style=Keyword>夜臨</style></link><style=Variable></style>。",
+    		levelupDescriptionRaw: "我方已發動4次以上夜臨。",
     		flavorText: "她傲然立於眾人之間，隨時準備戰鬥——她散發著耀眼的光芒，身穿銀色搭配藍色的盔甲，雙眸如星星般閃爍。當月亮升起，月光灑落在她身上，在場的月環教徒便閉上眼睛，為她的安全默默祈禱，也表達他們的感激之情。",
     		artistName: "SIXMOREVODKA",
     		name: "黛安娜",
@@ -15468,8 +15720,8 @@ var app = (function () {
     		attack: 4,
     		cost: 4,
     		health: 4,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：賦予1個友軍單位<br><link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。",
-    		descriptionRaw: "出牌：賦予1個友軍單位勢不可擋。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：賦予1個友軍單位<br><link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>蠻力</style></link>。",
+    		descriptionRaw: "出牌：賦予1個友軍單位蠻力。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "想攀登巨石峰的人會和當地的野生動物好好相處。這裡的動物最瞭解巨石峰的危險，也能用更快的速度通過結冰的地勢。",
@@ -15551,11 +15803,11 @@ var app = (function () {
     		attack: 1,
     		cost: 3,
     		health: 6,
-    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：治癒此牌及受此牌支援的友軍單位4點生命。",
-    		descriptionRaw: "支援：治癒此牌及受此牌支援的友軍單位4點生命。",
-    		levelupDescription: "我方治癒負傷友軍單位4次或<br>以上<style=Variable></style>。",
-    		levelupDescriptionRaw: "我方治癒負傷友軍單位4次或以上。",
-    		flavorText: "「治癒的本質是無私。你不需要從中汲取力量，力量是自願流出。只要展現憐憫，你就能看到治癒之光<br>閃耀。」",
+    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：治療此牌及受此牌支援的友軍單位4點生命值。",
+    		descriptionRaw: "支援：治療此牌及受此牌支援的友軍單位4點生命值。",
+    		levelupDescription: "我方治療負傷友軍單位<br>4次以上<style=Variable></style>。",
+    		levelupDescriptionRaw: "我方治療負傷友軍單位4次以上。",
+    		flavorText: "「療癒的本質是無私。你不需要從中汲取力量，力量是自願流出。只要展現憐憫，你就能看到治癒之光<br>閃耀。」",
     		artistName: "SIXMOREVODKA",
     		name: "索拉卡",
     		cardCode: "03MT055",
@@ -15593,8 +15845,8 @@ var app = (function () {
     		attack: 2,
     		cost: 3,
     		health: 7,
-    		description: "每回合我方首次治癒負傷友軍單位時，抽1張牌。\r\n<link=vocab.Support><style=Vocab>支援</style></link>：完全治癒此牌及受此牌支援的友軍單位。",
-    		descriptionRaw: "每回合我方首次治癒負傷友軍單位時，抽1張牌。\r\n支援：完全治癒此牌及受此牌支援的友軍單位。",
+    		description: "每回合我方首次治療負傷友軍單位時，抽1張牌。\r\n<link=vocab.Support><style=Vocab>支援</style></link>：完全治癒此牌及受此牌支援的友軍單位。",
+    		descriptionRaw: "每回合我方首次治療負傷友軍單位時，抽1張牌。\r\n支援：完全治癒此牌及受此牌支援的友軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「給人點滴，他人將湧泉以報，這就是付出的力量。慷慨是一種禮讚，給予者也能被治癒，心靈、身體和精神皆然。」",
@@ -15806,8 +16058,8 @@ var app = (function () {
     		health: 5,
     		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword></style></link><link=keyword.Daybreak><style=Keyword>破曉</style></link>：<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。",
     		descriptionRaw: "破曉：擊暈最強敵軍單位。",
-    		levelupDescription: "我方已發動4次或以上<link=keyword.Daybreak><style=Keyword>破曉</style></link><style=Variable></style>。",
-    		levelupDescriptionRaw: "我方已發動4次或以上破曉。",
+    		levelupDescription: "我方已發動4次以上<link=keyword.Daybreak><style=Keyword>破曉</style></link><style=Variable></style>。",
+    		levelupDescriptionRaw: "我方已發動4次以上破曉。",
     		flavorText: "她傲然立於眾人之間，隨時準備戰鬥——她散發著耀眼的光芒，身穿深紅搭配金色的盔甲，雙眸如火焰般炯炯有神。當太陽升起，她頭上絢爛的光芒彷彿日光的加冕，在場的日輪教徒不禁垂下眼簾，不是因為羞愧，而是因為這是對耀眼的領袖應有的尊重。",
     		artistName: "SIXMOREVODKA",
     		name: "雷歐娜",
@@ -16017,10 +16269,10 @@ var app = (function () {
     		attack: 3,
     		cost: 4,
     		health: 4,
-    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：本回合給予此牌及受此牌支援的友軍單位<link=keyword.Tough><sprite name=Tough><style=Keyword>堅忍</style></link>。將本回合只對此牌施放的最後一個我方法術複製，並施放在該友軍單位上（該法術無法再度被複製）。",
-    		descriptionRaw: "支援：本回合給予此牌及受此牌支援的友軍單位堅忍。將本回合只對此牌施放的最後一個我方法術複製，並施放在該友軍單位上（該法術無法再度被複製）。",
-    		levelupDescription: "此牌在場上時，我方以友軍單位為法術/技能目標或<link=vocab.Support><style=Vocab>支援</style></link>友軍單位7次或以上<style=Variable></style>。",
-    		levelupDescriptionRaw: "此牌在場上時，我方以友軍單位為法術/技能目標或支援友軍單位7次或以上。",
+    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：本回合給予此牌及受此牌支援的友軍單位<link=keyword.Tough><sprite name=Tough><style=Keyword>堅忍</style></link>。複製我方本回合只對此牌施放的最後一個法術，並施放在該友軍單位上（該法術無法再度被複製）。",
+    		descriptionRaw: "支援：本回合給予此牌及受此牌支援的友軍單位堅忍。複製我方本回合只對此牌施放的最後一個法術，並施放在該友軍單位上（該法術無法再度被複製）。",
+    		levelupDescription: "此牌在場上時，我方以友軍單位為法術/技能或<link=vocab.Support><style=Vocab>支援</style></link>目標7次以上<style=Variable></style>。",
+    		levelupDescriptionRaw: "此牌在場上時，我方以友軍單位為法術/技能或支援目標7次以上。",
     		flavorText: "「塔里克的溫柔與善良照亮了所有遇見他的人，激勵他們找到內心深處的溫暖，就算夜晚再怎麼寒冷，他們也能繼續前進。」——群峰占術師",
     		artistName: "SIXMOREVODKA",
     		name: "塔里克",
@@ -16185,8 +16437,8 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>力量值2點或以下的所有敵軍單位。",
-    		descriptionRaw: "擊暈力量值2點或以下的所有敵軍單位。",
+    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>力量值2點以下的所有敵軍單位。",
+    		descriptionRaw: "擊暈力量值2點以下的所有敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「哈哈哈哈，看看他們跑來跑去的樣子！真是好快啊！你也頭暈了嗎？」——柔依",
@@ -16237,7 +16489,7 @@ var app = (function () {
     		name: "穿雲座",
     		cardCode: "03MT220",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -16310,11 +16562,11 @@ var app = (function () {
     		attack: 4,
     		cost: 5,
     		health: 5,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：治癒1個友軍單位以及我方主堡3點生命。",
-    		descriptionRaw: "出牌：治癒1個友軍單位以及我方主堡3點生命。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：治療1個友軍單位以及我方主堡3點生命值。",
+    		descriptionRaw: "出牌：治療1個友軍單位以及我方主堡3點生命值。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「看到那個橫跨夜空的星星嗎？那是一隻成體的星角獸。年幼的星角獸會把牠們的治癒法力借給我們使用，而成體的星角獸則能自己駕馭那股力量。能看到並認出成體的星角獸，是一件非常幸運的事。不過，能夠照顧牠更為幸運。」——守星者里達利",
+    		flavorText: "「看到那個橫跨夜空的星星嗎？那是一隻成體的星角獸。年幼的星角獸會把牠們的療癒法力借給我們使用，而成體的星角獸則能自己駕馭那股力量。能看到並認出成體的星角獸，是一件非常幸運的事。不過，能夠照顧牠更為幸運。」——守星者里達利",
     		artistName: "SIXMOREVODKA",
     		name: "光輝星角獸",
     		cardCode: "03MT020",
@@ -16439,8 +16691,8 @@ var app = (function () {
     		health: 1,
     		description: "<link=vocab.NexusStrike><style=Vocab>打擊主堡</style></link>：在手牌生成1張<link=card.create><style=AssociatedCard>酷炫星圖</style></link>。若手牌已有該牌，<br>則改為使其魔耗值-1。",
     		descriptionRaw: "打擊主堡：在手牌生成1張酷炫星圖。若手牌已有該牌，則改為使其魔耗值-1。",
-    		levelupDescription: "此牌在場上時，我方打出10張名稱不重複的卡牌<style=Variable></style>。",
-    		levelupDescriptionRaw: "此牌在場上時，我方打出10張名稱不重複的卡牌。",
+    		levelupDescription: "此牌在場上時，我方打出10張名稱不同的卡牌<style=Variable></style>。",
+    		levelupDescriptionRaw: "此牌在場上時，我方打出10張名稱不同的卡牌。",
     		flavorText: "「嘿，哈囉哈囉！在幹嘛呀？你們在玩牌嗎？我可以加入嗎？什麼？！我是你的牌？哈！這個維度太搞笑了……」",
     		artistName: "SIXMOREVODKA",
     		name: "柔依",
@@ -16574,8 +16826,8 @@ var app = (function () {
     		attack: 1,
     		cost: 1,
     		health: 1,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：棄置1張牌，即可<link=keyword.Invoke><style=Keyword>祈願</style></link>1張魔耗值3點或以下的天界牌。",
-    		descriptionRaw: "出牌：棄置1張牌，即可祈願1張魔耗值3點或以下的天界牌。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：棄置1張牌，即可<link=keyword.Invoke><style=Keyword>祈願</style></link>1張魔耗值3點以下的天界牌。",
+    		descriptionRaw: "出牌：棄置1張牌，即可祈願1張魔耗值3點以下的天界牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「這是我的最愛！我叫它『形而上的意識心理』，除非你這樣歪著頭看……這樣看起來就像兩支湯匙了。」",
@@ -16616,10 +16868,10 @@ var app = (function () {
     		attack: 10,
     		cost: 10,
     		health: 10,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<br><link=keyword.Invoke><style=Keyword>祈願</style></link>1張魔耗值7點或以上的天界牌。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：<br>在手牌隨機生成1張天界牌。",
-    		descriptionRaw: "出牌：祈願1張魔耗值7點或以上的天界牌。\r\n回合開始：在手牌隨機生成1張天界牌。",
-    		levelupDescription: "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：我方場上友軍單位力量值總和達25點或以上<style=Variable></style>。",
-    		levelupDescriptionRaw: "回合結束：我方場上友軍單位力量值總和達25點或以上。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<br><link=keyword.Invoke><style=Keyword>祈願</style></link>1張魔耗值7點以上的天界牌。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：<br>在手牌隨機生成1張天界牌。",
+    		descriptionRaw: "出牌：祈願1張魔耗值7點以上的天界牌。\r\n回合開始：在手牌隨機生成1張天界牌。",
+    		levelupDescription: "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：我方場上友軍單位力量值總和達25點以上<style=Variable></style>。",
+    		levelupDescriptionRaw: "回合結束：我方場上友軍單位力量值總和達25點以上。",
     		flavorText: "「我才不在乎你們人類怎麼寫我的介紹呢！<br>只要提到我英俊非凡，而且超～級聰明就好。<br>這麼簡單應該不會寫錯字吧？」",
     		artistName: "SIXMOREVODKA",
     		name: "翱銳龍獸",
@@ -17002,8 +17254,8 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "治癒1個友軍單位4點生命，並賦予其+0|+4。",
-    		descriptionRaw: "治癒1個友軍單位4點生命，並賦予其+0|+4。",
+    		description: "治療1個友軍單位4點生命值，並賦予其+0|+4。",
+    		descriptionRaw: "治療1個友軍單位4點生命值，並賦予其+0|+4。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「你以為打敗我們了嗎？哈！還早得很呢。」<br>——巨力捍衛者",
@@ -17089,7 +17341,7 @@ var app = (function () {
     		descriptionRaw: "完全治癒1個友軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「讓泉水治癒你的苦痛。」——護泉者",
+    		flavorText: "「讓泉水療癒你的苦痛。」——護泉者",
     		artistName: "Max Grecke",
     		name: "泉之禮讚",
     		cardCode: "03MT080T1",
@@ -17209,8 +17461,8 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "<link=keyword.Invoke><style=Keyword>祈願</style></link>1張魔耗值3點或以下的<br>天界牌。",
-    		descriptionRaw: "祈願1張魔耗值3點或以下的天界牌。",
+    		description: "<link=keyword.Invoke><style=Keyword>祈願</style></link>1張魔耗值3點以下的<br>天界牌。",
+    		descriptionRaw: "祈願1張魔耗值3點以下的天界牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「這三顆特別亮的星星，我叫它們……『天界跳跳繩』！還是這更像倒過來的笑臉呢？」——柔依",
@@ -17260,7 +17512,7 @@ var app = (function () {
     		name: "耀日守護者",
     		cardCode: "03MT044",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -17426,7 +17678,7 @@ var app = (function () {
     		descriptionRaw: "以靈力寶石補滿我方手牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "「把寶石轉動到適當的角度，便能反射出奪目光輝；每個人的生命也一樣，內心都有一把燃燒著的火。」——塔里克",
+    		flavorText: "「把寶石轉動到適當的角度，便能反射出奪目光輝；每個人的生命也一樣，內心都有一把燃燒著的火。」<br>——塔里克",
     		artistName: "Kudos Productions",
     		name: "石峰破片",
     		cardCode: "03MT025",
@@ -17507,8 +17759,8 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "治癒1個友軍單位或我方主堡2點生命。抽1張牌。",
-    		descriptionRaw: "治癒1個友軍單位或我方主堡2點生命。抽1張牌。",
+    		description: "治療1個友軍單位或我方主堡2點生命值。抽1張牌。",
+    		descriptionRaw: "治療1個友軍單位或我方主堡2點生命值。抽1張牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "星角獸開心時會散發最亮的光芒。",
@@ -17558,7 +17810,7 @@ var app = (function () {
     		name: "凜峰仲裁者",
     		cardCode: "03MT012",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -17678,8 +17930,8 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "選擇1個月之武器，<br>在手牌中生成。",
-    		descriptionRaw: "選擇1個月之武器，在手牌中生成。",
+    		description: "挑選1張月之武器，<br>在手牌中生成。",
+    		descriptionRaw: "挑選1張月之武器，在手牌中生成。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「亞菲利歐，伸出手……」——亞盧妮",
@@ -17849,8 +18101,8 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 3,
-    		description: "每當我方治癒負傷的友軍單位，便賦予此牌+2|+0。",
-    		descriptionRaw: "每當我方治癒負傷的友軍單位，便賦予此牌+2|+0。",
+    		description: "每當我方治療負傷的友軍單位，便賦予此牌+2|+0。",
+    		descriptionRaw: "每當我方治療負傷的友軍單位，便賦予此牌+2|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「自從我看到一隻星角獸劃破夜空之後，我就喜歡牠們。誰知道，現在我竟然會遇上這麼多！」",
@@ -17931,8 +18183,8 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "治癒1個友軍單位1點生命，並賦予其+1|+0。",
-    		descriptionRaw: "治癒1個友軍單位1點生命，並賦予其+1|+0。",
+    		description: "治療1個友軍單位1點生命值，並賦予其+1|+0。",
+    		descriptionRaw: "治療1個友軍單位1點生命值，並賦予其+1|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「不需要眼見為憑……只要有信心即可。」——漂泊旅者泰亞歷",
@@ -18472,8 +18724,8 @@ var app = (function () {
     		attack: 3,
     		cost: 4,
     		health: 4,
-    		description: "治癒負傷的友軍單位時，本回合給予其<link=keyword.Elusive><sprite name=Elusive><style=Keyword>隱密</style></link>。",
-    		descriptionRaw: "治癒負傷的友軍單位時，本回合給予其隱密。",
+    		description: "治療負傷的友軍單位時，本回合給予其<link=keyword.Elusive><sprite name=Elusive><style=Keyword>隱密</style></link>。",
+    		descriptionRaw: "治療負傷的友軍單位時，本回合給予其隱密。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「星星只會待在我們身邊一段時間，等到受到充分的照顧，我就會讓星子帶著閃耀的光芒……還有揮動的蹄子回歸天際。」",
@@ -18561,7 +18813,7 @@ var app = (function () {
     		name: "新月守護者",
     		cardCode: "03MT089",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -18594,8 +18846,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "賦予1個友軍單位+1|+2<br>與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。\r\n<link=keyword.Daybreak><style=Keyword>破曉</style></link>：抽1張<link=card.me><style=AssociatedCard>太陽聖劍</style></link>。",
-    		descriptionRaw: "賦予1個友軍單位+1|+2與勢不可擋。\r\n破曉：抽1張太陽聖劍。",
+    		description: "賦予1個友軍單位+1|+2<br>與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>蠻力</style></link>。\r\n<link=keyword.Daybreak><style=Keyword>破曉</style></link>：抽1張<link=card.me><style=AssociatedCard>太陽聖劍</style></link>。",
+    		descriptionRaw: "賦予1個友軍單位+1|+2與蠻力。\r\n破曉：抽1張太陽聖劍。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「讓耀日的力量在你身上充盈灌注！」——日輪祭司",
@@ -18679,8 +18931,8 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "<link=keyword.Invoke><style=Keyword>祈願</style></link>1張魔耗值7點或以上的天界牌，並治癒1個友軍單位或我方主堡5點生命。",
-    		descriptionRaw: "祈願1張魔耗值7點或以上的天界牌，並治癒1個友軍單位或我方主堡5點生命。",
+    		description: "<link=keyword.Invoke><style=Keyword>祈願</style></link>1張魔耗值7點以上的天界牌，並治療1個友軍單位或我方主堡5點生命值。",
+    		descriptionRaw: "祈願1張魔耗值7點以上的天界牌，並治療1個友軍單位或我方主堡5點生命值。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「仰望星空吧。幸運的話，還會跟我四目相對呢。」——翱銳龍獸",
@@ -18730,7 +18982,7 @@ var app = (function () {
     		name: "害怕的星界象",
     		cardCode: "03MT016",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -19237,8 +19489,8 @@ var app = (function () {
     		health: 4,
     		description: "召喚此牌時及<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：在手牌生成1張<link=card.upgrade><style=AssociatedCard>海克斯核心升級</style></link>。",
     		descriptionRaw: "召喚此牌時及回合開始：在手牌生成1張海克斯核心升級。",
-    		levelupDescription: "我方打出7張或以上生成的卡牌<style=Variable></style>。",
-    		levelupDescriptionRaw: "我方打出7張或以上生成的卡牌。",
+    		levelupDescription: "我方打出7張以上生成的卡牌<style=Variable></style>。",
+    		levelupDescriptionRaw: "我方打出7張以上生成的卡牌。",
     		flavorText: "「佐恩，你見過的苦難已經夠多了，是時候迎來改變了，而所有偉大的進步都要從內部開始。」",
     		artistName: "SIXMOREVODKA",
     		name: "維克特",
@@ -19457,8 +19709,8 @@ var app = (function () {
     		attack: 0,
     		cost: 8,
     		health: 0,
-    		description: "將所有友軍單位的力量和生命值，提升成友軍單位中力量或生命值最高的數值。\r\n賦予所有友軍單位其他友軍單位的特性。",
-    		descriptionRaw: "將所有友軍單位的力量和生命值，提升成友軍單位中力量或生命值最高的數值。\r\n賦予所有友軍單位其他友軍單位的特性。",
+    		description: "將所有友軍單位的力量值與生命值，提升成友軍單位中力量值或生命值最高的數值。\r\n賦予所有友軍單位其他友軍單位的特性。",
+    		descriptionRaw: "將所有友軍單位的力量值與生命值，提升成友軍單位中力量值或生命值最高的數值。\r\n賦予所有友軍單位其他友軍單位的特性。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "\"I know I know\nYou want some more\nIf you ready let's go\nGiving it all\"\n「我懂我懂\n你想要更多\n準備好就一起走\n拼上全力不放手」\n——瑟菈紛〈MORE〉",
@@ -19544,8 +19796,8 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "選1個侍從單位。在手牌生成1張該牌的複製牌，並賦予其+1|+1。",
-    		descriptionRaw: "選1個侍從單位。在手牌生成1張該牌的複製牌，並賦予其+1|+1。",
+    		description: "挑選1個侍從單位。在手牌生成1張該牌的複製牌，並賦予其+1|+1。",
+    		descriptionRaw: "挑選1個侍從單位。在手牌生成1張該牌的複製牌，並賦予其+1|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「自我提升是一場遊戲，你是其中的英雄，同時也是壞蛋。你們會纏鬥不休，或許你還會以為自己贏了。但到頭來，擋在前方的還是你自己。」——擬態機兵",
@@ -19929,8 +20181,8 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "從我方牌組最上方4張牌選1個侍從單位。\r\n抽出該牌、在手牌生成1張與之相同的<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>複製單位，並將其餘卡牌洗回我方牌組。",
-    		descriptionRaw: "從我方牌組最上方4張牌選1個侍從單位。\r\n抽出該牌、在手牌生成1張與之相同的閃靈複製單位，並將其餘卡牌洗回我方牌組。",
+    		description: "從我方牌組最上方4張牌中挑選1個侍從單位。\r\n抽出該牌、在手牌生成1張與之相同的<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>複製單位，並將其餘卡牌洗回我方牌組。",
+    		descriptionRaw: "從我方牌組最上方4張牌中挑選1個侍從單位。\r\n抽出該牌、在手牌生成1張與之相同的閃靈複製單位，並將其餘卡牌洗回我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「去……包圍他們……」——夜曲",
@@ -20017,8 +20269,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "擊殺1個擁有<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>的友軍單位，以從我方牌組召喚1個魔耗值高出1點的侍從單位。",
-    		descriptionRaw: "擊殺1個擁有遺願的友軍單位，以從我方牌組召喚1個魔耗值高出1點的侍從單位。",
+    		description: "擊殺1個擁有<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>的友軍單位，以從我方牌組召喚1個魔耗值+1的侍從單位。",
+    		descriptionRaw: "擊殺1個擁有遺願的友軍單位，以從我方牌組召喚1個魔耗值+1的侍從單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「開飯啦！」——無饜屠夫",
@@ -20144,8 +20396,8 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "從1個單位<link=keyword.Drain><style=Keyword>汲取</style></link>1點生命值，並在我方牌組生成2張此牌的複製牌。施放此牌<style=Variable>3</style>次後，將<link=vocab.Everywhere><style=Vocab>各處</style></link>此牌的相同卡牌幻化為<link=card.transform><style=AssociatedCard>做好準備</style></link>。<style=Variable></style>",
-    		descriptionRaw: "從1個單位汲取1點生命值，並在我方牌組生成2張此牌的複製牌。施放此牌3次後，將各處此牌的相同卡牌幻化為做好準備。",
+    		description: "從1個單位<link=keyword.Drain><style=Keyword>汲取</style></link>1點生命值，並在我方牌組生成2張此牌的複製牌。施放此牌<style=Variable>3</style>次後，將<link=vocab.Everywhere><style=Vocab>各處</style></link>的相同卡牌幻化為<link=card.transform><style=AssociatedCard>做好準備</style></link>。<style=Variable></style>",
+    		descriptionRaw: "從1個單位汲取1點生命值，並在我方牌組生成2張此牌的複製牌。施放此牌3次後，將各處的相同卡牌幻化為做好準備。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "\"We go hard, 'til we get it, get it\nWe go hard, we so in it, in it\nWe Pop Stars (Pop Stars), only winning, winning now\nAin't nobody bringing us down, down, down, down\"\n「使盡全力直至夢想到手\n使盡全力直到渾然忘我\n我們是Pop Stars 眼中只有勝利\n無人能敵」\n——伊芙琳〈POP/STARS〉",
@@ -20187,8 +20439,8 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "對所有敵軍單位與敵方主堡造成5點傷害。將<link=vocab.Everywhere><style=Vocab>各處</style></link>此牌的相同卡牌幻化為<link=card.transform><style=AssociatedCard>使盡全力</style></link>。",
-    		descriptionRaw: "對所有敵軍單位與敵方主堡造成5點傷害。將各處此牌的相同卡牌幻化為使盡全力。",
+    		description: "對所有敵軍單位與敵方主堡造成5點傷害。將<link=vocab.Everywhere><style=Vocab>各處</style></link>的相同卡牌幻化為<link=card.transform><style=AssociatedCard>使盡全力</style></link>。",
+    		descriptionRaw: "對所有敵軍單位與敵方主堡造成5點傷害。將各處的相同卡牌幻化為使盡全力。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "\"Sorry for the bad news sorry I'm so bad\nOnly took a minute for me to get all you had\nSorry for the bad news know it makes you sad\nI'll be here for a minute baby you should pack your bags\"\n「非常抱歉我這人非常糟\n瞬間就奪走你一切轉眼就跑\n非常抱歉你今天心情必定很糟\n寶貝快做好準備因為我馬上就到」\n——伊芙琳〈THE BADDEST〉",
@@ -20318,8 +20570,8 @@ var app = (function () {
     		health: 3,
     		description: "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：賦予1個敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>，且本回合給予所有敵軍單位<nobr>-1|-0</nobr>。",
     		descriptionRaw: "夜臨：賦予1個敵軍單位弱勢，且本回合給予所有敵軍單位-1|-0。",
-    		levelupDescription: "我方以5個或以上<br><link=keyword.Nightfall><style=Keyword>夜臨</style></link>友軍單位攻擊<style=Variable></style>。",
-    		levelupDescriptionRaw: "我方以5個或以上夜臨友軍單位攻擊。",
+    		levelupDescription: "我方以5個以上<br><link=keyword.Nightfall><style=Keyword>夜臨</style></link>友軍單位攻擊<style=Variable></style>。",
+    		levelupDescriptionRaw: "我方以5個以上夜臨友軍單位攻擊。",
     		flavorText: "「看來，一旦驚動太多靈魂，牠就會入侵我們的世界。只有希望才能把怪物送回原本的世界……但希望早已隨著皇后的最後一口氣，以及國王無盡的痛苦哀號，永遠消逝了。」\n——歷史學家延斯．托曼的筆記",
     		artistName: "SIXMOREVODKA",
     		name: "夜曲",
@@ -20904,8 +21156,8 @@ var app = (function () {
     		attack: 0,
     		cost: 10,
     		health: 0,
-    		description: "選擇1個友軍單位，\r\n<link=keyword.Recall><style=Keyword>召回</style></link>所有其他單位與地標。",
-    		descriptionRaw: "選擇1個友軍單位，\r\n召回所有其他單位與地標。",
+    		description: "挑選1個友軍單位，\r\n<link=keyword.Recall><style=Keyword>召回</style></link>所有其他單位與地標。",
+    		descriptionRaw: "挑選1個友軍單位，\r\n召回所有其他單位與地標。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「我獨行我路。」——獨身修女",
@@ -20952,8 +21204,8 @@ var app = (function () {
     		health: 3,
     		description: "<link=vocab.Support><style=Vocab>支援</style></link>：本回合受此牌支援的友軍單位成長到4|4。",
     		descriptionRaw: "支援：本回合受此牌支援的友軍單位成長到4|4。",
-    		levelupDescription: "友軍單位受到<link=vocab.Support><style=Vocab>支援</style></link>3次或以上<style=Variable></style>。",
-    		levelupDescriptionRaw: "友軍單位受到支援3次或以上。",
+    		levelupDescription: "友軍單位受到<link=vocab.Support><style=Vocab>支援</style></link>3次以上<style=Variable></style>。",
+    		levelupDescriptionRaw: "友軍單位受到支援3次以上。",
     		flavorText: "「皮克斯，別擔心！我們會脫離林地的，而且我們會把所有東西都『變可愛』！準備好了嗎？！」",
     		artistName: "SIXMOREVODKA",
     		name: "露璐",
@@ -21707,8 +21959,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "使1個友軍單位與1個敵軍單位互相<link=vocab.Strike><style=Vocab>打擊</style></link>。若友軍單位為龍族，打擊後可恢復2點生命。",
-    		descriptionRaw: "使1個友軍單位與1個敵軍單位互相打擊。若友軍單位為龍族，打擊後可恢復2點生命。",
+    		description: "使1個友軍單位與1個敵軍單位互相<link=vocab.Strike><style=Vocab>打擊</style></link>。若友軍單位為龍族，打擊後可恢復2點生命值。",
+    		descriptionRaw: "使1個友軍單位與1個敵軍單位互相打擊。若友軍單位為龍族，打擊後可恢復2點生命值。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "當騎士和龍族從廝殺中分開後，殘喘受傷的龍似乎又重獲力量。牠聞到了鮮血的味道，並渴望更多。",
@@ -21754,8 +22006,8 @@ var app = (function () {
     		health: 4,
     		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：本回合給予此牌+1|+1。",
     		descriptionRaw: "攻擊：本回合給予此牌+1|+1。",
-    		levelupDescription: "此牌在場上時，龍族友軍單位造成12點或以上傷害<style=Variable></style>。",
-    		levelupDescriptionRaw: "此牌在場上時，龍族友軍單位造成12點或以上傷害。",
+    		levelupDescription: "此牌在場上時，龍族友軍單位造成12點以上傷害<style=Variable></style>。",
+    		levelupDescriptionRaw: "此牌在場上時，龍族友軍單位造成12點以上傷害。",
     		flavorText: "「一方面，她的本質與我們最痛恨的敵人相同，她的族類過去為蒂瑪西亞帶來的只有災禍。但另一方面，她又深受王子信賴，也看似足以成為意志堅定的戰士，和我們可貴的友軍。我只希望她不會背叛我們對她的信任。」\n——傑里克中尉的威沃見聞",
     		artistName: "SIXMOREVODKA",
     		name: "希瓦娜",
@@ -22180,8 +22432,8 @@ var app = (function () {
     		attack: 1,
     		cost: 2,
     		health: 3,
-    		description: "召喚此牌時，若我方<link=vocab.Behold><style=Vocab>掌控</style></link>魔耗值8點或以上的卡牌，則賦予此牌+3|+0。",
-    		descriptionRaw: "召喚此牌時，若我方掌控魔耗值8點或以上的卡牌，則賦予此牌+3|+0。",
+    		description: "召喚此牌時，若我方<link=vocab.Behold><style=Vocab>掌控</style></link>魔耗值8點以上的卡牌，則賦予此牌+3|+0。",
+    		descriptionRaw: "召喚此牌時，若我方掌控魔耗值8點以上的卡牌，則賦予此牌+3|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "斥候蹲在一塊埋藏在雪下的爛布前，寒冷的空氣混雜著人汗和火煙的臭味。\n他把爛布拉出來，並看到有一個護符吊在其中一角。護符在烏雲密布的天空下顯得黯然無光，但他還是認出這個護符的產地：艾伐洛森。 ",
@@ -22220,8 +22472,8 @@ var app = (function () {
     		attack: 0,
     		cost: 7,
     		health: 0,
-    		description: "挑選手牌中的1個單位進行揭示，並為我方主堡恢復等同其力量值的生命。\r\n<link=keyword.Enlightened><style=Keyword>開悟</style></link>：使該牌魔耗值降為0點。",
-    		descriptionRaw: "挑選手牌中的1個單位進行揭示，並為我方主堡恢復等同其力量值的生命。\r\n開悟：使該牌魔耗值降為0點。",
+    		description: "挑選手牌中的1個單位進行揭示，並為我方主堡恢復等同其力量值的生命值。\r\n<link=keyword.Enlightened><style=Keyword>開悟</style></link>：使該牌魔耗值降為0點。",
+    		descriptionRaw: "挑選手牌中的1個單位進行揭示，並為我方主堡恢復等同其力量值的生命值。\r\n開悟：使該牌魔耗值降為0點。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「成年巨魔皮厚骨硬，且傷口會迅速痊癒，是一群頑強的敵人。要俐落了斷他們的性命，否則他們不久就會痊癒歸來。」——艾伐洛森神射手",
@@ -22262,8 +22514,8 @@ var app = (function () {
     		attack: 5,
     		cost: 6,
     		health: 5,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：若我方<link=vocab.Behold><style=Vocab>掌控</style></link>魔耗值8點或以上的卡牌，則賦予1個友軍單位<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>與<link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>再生</style></link>。",
-    		descriptionRaw: "出牌：若我方掌控魔耗值8點或以上的卡牌，則賦予1個友軍單位勢不可擋與再生。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：若我方<link=vocab.Behold><style=Vocab>掌控</style></link>魔耗值8點以上的卡牌，則賦予1個友軍單位<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>蠻力</style></link>與<link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>再生</style></link>。",
+    		descriptionRaw: "出牌：若我方掌控魔耗值8點以上的卡牌，則賦予1個友軍單位蠻力與再生。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "據說懂得古神之歌的巨魔不多，但學會便能呼喚祖先之名，賦予同胞驚人力量。",
@@ -22271,7 +22523,7 @@ var app = (function () {
     		name: "古魔占卜師",
     		cardCode: "03FR017",
     		keywords: [
-    			"勢不可擋",
+    			"蠻力",
     			"再生"
     		],
     		keywordRefs: [
@@ -22354,8 +22606,8 @@ var app = (function () {
     		attack: 5,
     		cost: 5,
     		health: 6,
-    		description: "召喚此牌時，在手牌生成1張<br><link=card.create><style=AssociatedCard>通天冰柱</style></link>。\r\n<link=vocab.Attack><style=Vocab>攻擊</style></link>：我方每<link=vocab.Behold><style=Vocab>掌控</style></link>1張魔耗值8點或以上的卡牌，則賦予此牌+1|+0。",
-    		descriptionRaw: "召喚此牌時，在手牌生成1張通天冰柱。\r\n攻擊：我方每掌控1張魔耗值8點或以上的卡牌，則賦予此牌+1|+0。",
+    		description: "召喚此牌時，在手牌生成1張<br><link=card.create><style=AssociatedCard>通天冰柱</style></link>。\r\n<link=vocab.Attack><style=Vocab>攻擊</style></link>：我方每<link=vocab.Behold><style=Vocab>掌控</style></link>1張魔耗值8點以上的卡牌，則賦予此牌+1|+0。",
+    		descriptionRaw: "召喚此牌時，在手牌生成1張通天冰柱。\r\n攻擊：我方每掌控1張魔耗值8點以上的卡牌，則賦予此牌+1|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "聽到艾伐洛森人拒絕後，特朗德打了個手勢，巨魔便排山倒海地衝前，直闖艾伐洛森部落的深處，毫無顧忌地破壞任何擋路的東西。",
@@ -22363,7 +22615,7 @@ var app = (function () {
     		name: "特朗德",
     		cardCode: "03FR006T2",
     		keywords: [
-    			"勢不可擋",
+    			"蠻力",
     			"再生"
     		],
     		keywordRefs: [
@@ -22613,8 +22865,8 @@ var app = (function () {
     		attack: 3,
     		cost: 4,
     		health: 5,
-    		description: "召喚此牌時，若我方<link=vocab.Behold><style=Vocab>掌控</style></link>魔耗值8點或以上的卡牌，則賦予此牌<link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>再生</style></link>。",
-    		descriptionRaw: "召喚此牌時，若我方掌控魔耗值8點或以上的卡牌，則賦予此牌再生。",
+    		description: "召喚此牌時，若我方<link=vocab.Behold><style=Vocab>掌控</style></link>魔耗值8點以上的卡牌，則賦予此牌<link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>再生</style></link>。",
+    		descriptionRaw: "召喚此牌時，若我方掌控魔耗值8點以上的卡牌，則賦予此牌再生。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "當他們到了艾伐洛森木屋群的時候，便呼喚海格上前。她大聲一笑，舉起了她的武器「雪裂者」，預備把木屋敲成木碎。",
@@ -22653,8 +22905,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "從我方牌組最上方4張牌中，抽出所有雪怪、普羅與厄努克，然後將其餘卡牌洗回我方牌組。",
-    		descriptionRaw: "從我方牌組最上方4張牌中，抽出所有雪怪、普羅與厄努克，然後將其餘卡牌洗回我方牌組。",
+    		description: "從我方牌組最上方4張牌中，抽出所有雪怪、普羅與厄努克，並將其餘卡牌洗回我方牌組。",
+    		descriptionRaw: "從我方牌組最上方4張牌中，抽出所有雪怪、普羅與厄努克，並將其餘卡牌洗回我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「然後一隻超~巨大的厄努克從樹後衝出來，上面騎著一隻超~小的普羅，然後還有一隻友善的雪怪，他們想跟朋友一起玩，所以就大喊『哇啊啊啊啊』，一起跑下山，然後……」——青年英格瓦",
@@ -22695,8 +22947,8 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 2,
-    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：若我方<link=vocab.Behold><style=Vocab>掌控</style></link>魔耗值8點或以上的卡牌，本回合額外獲得1顆魔力寶石。",
-    		descriptionRaw: "回合開始：若我方掌控魔耗值8點或以上的卡牌，本回合額外獲得1顆魔力寶石。",
+    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：若我方<link=vocab.Behold><style=Vocab>掌控</style></link>魔耗值8點以上的卡牌，本回合額外獲得1顆魔力寶石。",
+    		descriptionRaw: "回合開始：若我方掌控魔耗值8點以上的卡牌，本回合額外獲得1顆魔力寶石。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「起來吧，眾大古魔，起來吧！\n冰雪支配者，劃破天空吧！\n起來吧，眾大古魔，起來吧！\n賜我們力量，則他們死亡！」\n——巨魔戰歌",
@@ -22735,8 +22987,8 @@ var app = (function () {
     		attack: 0,
     		cost: 8,
     		health: 0,
-    		description: "獲得2個魔力寶石槽位。\r\n從我方牌組最上方的4張牌中，抽出所有魔耗值8點或以上的牌，然後將其餘卡牌洗回我方牌組。",
-    		descriptionRaw: "獲得2個魔力寶石槽位。\r\n從我方牌組最上方的4張牌中，抽出所有魔耗值8點或以上的牌，然後將其餘卡牌洗回我方牌組。",
+    		description: "獲得2個魔力寶石槽位。\r\n從我方牌組最上方的4張牌中，抽出所有魔耗值8點以上的牌，並將其餘卡牌洗回我方牌組。",
+    		descriptionRaw: "獲得2個魔力寶石槽位。\r\n從我方牌組最上方的4張牌中，抽出所有魔耗值8點以上的牌，並將其餘卡牌洗回我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "世代以來，艾伐洛森開拓者總會在冬季的暴風聲中聽到難以解釋的奇怪聲音。後來，當他們向北方更遠處探索時，終於發現聲音的來源——遠古的巨魔石雕。當風吹過其張開的嘴巴時，就會用早已失傳的語言呢喃出聲。",
@@ -22864,8 +23116,8 @@ var app = (function () {
     		attack: 1,
     		cost: 5,
     		health: 5,
-    		description: "召喚此牌時抽1張牌。\r\n若我方已打出至少10張<br>名稱不重複的其他卡牌，<br>則賦予此牌+4|+0。<style=Variable></style>",
-    		descriptionRaw: "召喚此牌時抽1張牌。\r\n若我方已打出至少10張名稱不重複的其他卡牌，則賦予此牌+4|+0。",
+    		description: "召喚此牌時抽1張牌。\r\n若我方已打出至少10張<br>名稱不同的其他卡牌，<br>則賦予此牌+4|+0。<style=Variable></style>",
+    		descriptionRaw: "召喚此牌時抽1張牌。\r\n若我方已打出至少10張名稱不同的其他卡牌，則賦予此牌+4|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "沒有任何事能阻止他逃離只懂癡笑的人群，只不過是水而已，沒什麼好怕的。",
@@ -23114,8 +23366,8 @@ var app = (function () {
     		health: 4,
     		description: "無論此牌在場上或在手牌中，<br>我方每打出其他牌，<br>即賦予此牌+1|+0（最多+8|+0）。<style=Variable></style>",
     		descriptionRaw: "無論此牌在場上或在手牌中，我方每打出其他牌，即賦予此牌+1|+0（最多+8|+0）。",
-    		levelupDescription: "此牌單次<link=vocab.Strike><style=Vocab>打擊</style></link><br>造成10點或以上傷害。",
-    		levelupDescriptionRaw: "此牌單次打擊造成10點或以上傷害。",
+    		levelupDescription: "此牌單次<link=vocab.Strike><style=Vocab>打擊</style></link>造成10點以上傷害。",
+    		levelupDescriptionRaw: "此牌單次打擊造成10點以上傷害。",
     		flavorText: "「菲艾特警，拜託妳稍微為他人著想一下可以嗎？出任務造成那麼多破壞，你知道有多少毀損申報單要填嗎！？」——新銳調查組員",
     		artistName: "SIXMOREVODKA",
     		name: "菲艾",
@@ -23242,8 +23494,8 @@ var app = (function () {
     		attack: 10,
     		cost: 5,
     		health: 5,
-    		description: "此牌在攻擊時，每<link=vocab.Strike><style=Vocab>打擊</style></link>1個單位，<br>就對敵方主堡造成5點傷害。",
-    		descriptionRaw: "此牌在攻擊時，每打擊1個單位，就對敵方主堡造成5點傷害。",
+    		description: "此牌在攻擊時，每<link=vocab.Strike><style=Vocab>打擊</style></link>1個單位，\r\n就對敵方主堡造成5點傷害。",
+    		descriptionRaw: "此牌在攻擊時，每打擊1個單位，\r\n就對敵方主堡造成5點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「看來你的夥伴們都筋疲力盡了。要不供出你們把海克斯科技藏在哪，要不試試你的腦袋跟牆壁誰比較硬，你選哪個？」",
@@ -24186,8 +24438,8 @@ var app = (function () {
     		attack: 4,
     		cost: 6,
     		health: 5,
-    		description: "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：治癒所有友軍單位及<br>我方主堡3點生命，<br>然後進行<link=vocab.Rally><style=Vocab>備戰</style></link>。\r\n",
-    		descriptionRaw: "洗劫：治癒所有友軍單位及我方主堡3點生命，然後進行備戰。\r\n",
+    		description: "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：治療所有友軍單位及<br>我方主堡3點生命值，<br>然後進行<link=vocab.Rally><style=Vocab>備戰</style></link>。\r\n",
+    		descriptionRaw: "洗劫：治療所有友軍單位及我方主堡3點生命值，然後進行備戰。\r\n",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「水手們都覺得自己最強壯了，時常東邊吼來西邊吼去。對啦對啦，表現棒極了。但你們還是得吃橘子！養顏美容，鞏固牙齒，還能讓我笑咍咍。你要不吃，要不就下水，簡單吧。」",
@@ -24226,8 +24478,8 @@ var app = (function () {
     		attack: 2,
     		cost: 4,
     		health: 2,
-    		description: "召喚此牌時，從我方牌組抽出1張<br>魔耗值3點或以下的法術牌。",
-    		descriptionRaw: "召喚此牌時，從我方牌組抽出1張魔耗值3點或以下的法術牌。",
+    		description: "召喚此牌時，從我方牌組抽出1張<br>魔耗值3點以下的法術牌。",
+    		descriptionRaw: "召喚此牌時，從我方牌組抽出1張魔耗值3點以下的法術牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "捷普曾經在三分鐘內游了蔚藍航道整整一圈，在尾段左閃右躲一一避開了熱鴉號四散的船骸！那天的海流實在是順啦！",
@@ -25016,8 +25268,8 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 3,
-    		description: "召喚此牌時，賦予<link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位<br><link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
-    		descriptionRaw: "召喚此牌時，賦予最強敵軍單位弱勢。",
+    		description: "召喚此牌時，賦予<link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位\r\n<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
+    		descriptionRaw: "召喚此牌時，賦予最強敵軍單位\r\n弱勢。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「你就長這個猴樣？夭壽喔，簡直比懸賞令上的還不堪入目，希望你的人頭值得我浪費時間。」",
@@ -25277,7 +25529,7 @@ var app = (function () {
     		name: "剛普朗克",
     		cardCode: "02BW032",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -25367,7 +25619,7 @@ var app = (function () {
     		name: "剛普朗克",
     		cardCode: "02BW032T3",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -25708,8 +25960,8 @@ var app = (function () {
     		health: 1,
     		description: "我方施放法術時，<br>抵銷所有以此牌為目標的法術/技能，<br>並於本回合給予此牌<link=keyword.Elusive><sprite name=Elusive><style=Keyword>隱密</style></link>。",
     		descriptionRaw: "我方施放法術時，抵銷所有以此牌為目標的法術/技能，並於本回合給予此牌隱密。",
-    		levelupDescription: "我方施放6次或以上法術<style=Variable></style>。",
-    		levelupDescriptionRaw: "我方施放6次或以上法術。",
+    		levelupDescription: "我方施放6次以上法術<style=Variable></style>。",
+    		levelupDescriptionRaw: "我方施放6次以上法術。",
     		flavorText: "比爾吉沃特的傳奇人物當中，飛斯的性格乖戾又難搞。一些水手將附近發生的無數船禍都怪罪於他……",
     		artistName: "SIXMOREVODKA",
     		name: "飛斯",
@@ -25803,7 +26055,7 @@ var app = (function () {
     		name: "長牙獸",
     		cardCode: "02BW046T2",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -25887,8 +26139,8 @@ var app = (function () {
     		health: 2,
     		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：打出1張「命運」卡牌。",
     		descriptionRaw: "出牌：打出1張「命運」卡牌。",
-    		levelupDescription: "此牌在場上時，我方抽出9張或以上卡牌<style=Variable></style>。",
-    		levelupDescriptionRaw: "此牌在場上時，我方抽出9張或以上卡牌。",
+    		levelupDescription: "此牌在場上時，我方抽出9張以上卡牌<style=Variable></style>。",
+    		levelupDescriptionRaw: "此牌在場上時，我方抽出9張以上卡牌。",
     		flavorText: "「專心看雙手的動作，計算卡牌數量，眼睛盡量跟上，然後別忘了……」",
     		artistName: "SIXMOREVODKA",
     		name: "逆命",
@@ -25927,8 +26179,8 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位，<br>並對其造成2點傷害。",
-    		descriptionRaw: "擊暈最強敵軍單位，並對其造成2點傷害。",
+    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位，\r\n並對其造成2點傷害。",
+    		descriptionRaw: "擊暈最強敵軍單位，\r\n並對其造成2點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「看那閃閃金光。」——逆命",
@@ -26146,8 +26398,8 @@ var app = (function () {
     		attack: 0,
     		cost: 7,
     		health: 12,
-    		description: "此牌升級時，<br>複製被<link=vocab.Toss><style=Vocab>亂擲</style></link>且魔耗值4點或以上的<br>友軍單位至我方牌組。",
-    		descriptionRaw: "此牌升級時，複製被亂擲且魔耗值4點或以上的友軍單位至我方牌組。",
+    		description: "此牌升級時，<br>複製被<link=vocab.Toss><style=Vocab>亂擲</style></link>且魔耗值4點以上的<br>友軍單位至我方牌組。",
+    		descriptionRaw: "此牌升級時，複製被亂擲且魔耗值4點以上的友軍單位至我方牌組。",
     		levelupDescription: "我方進入<link=keyword.Deep><sprite name=Deep><style=Keyword>探底</style></link>狀態。<style=Variable></style>",
     		levelupDescriptionRaw: "我方進入探底狀態。",
     		flavorText: "「錨被拔起帆被扯下，蘭科號轉眼變得七零八落。活下來的只剩我們幾個，而夜晚將至，寒冷也將追隨而來。抱歉了媽媽，妳說的對，泰坦巨獸是真實存在的。」<br>——殘破筆記拼湊出的內容",
@@ -27216,7 +27468,7 @@ var app = (function () {
     		name: "狂狼騎士",
     		cardCode: "02FR009",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -27302,7 +27554,7 @@ var app = (function () {
     		name: "史瓦妮",
     		cardCode: "02FR002",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -27417,8 +27669,8 @@ var app = (function () {
     		attack: 6,
     		cost: 5,
     		health: 6,
-    		description: "使其他力量值5點或以上的友軍單位<br>擁有<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。",
-    		descriptionRaw: "使其他力量值5點或以上的友軍單位擁有勢不可擋。",
+    		description: "使其他力量值5點以上的友軍單位<br>擁有<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>蠻力</style></link>。",
+    		descriptionRaw: "使其他力量值5點以上的友軍單位擁有蠻力。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "巨熊族捨棄了人性，完全釋放自己，駕馭雷暴之力。以閃電之姿穿越凍原，以雷吼之聲隆隆咆哮。",
@@ -27426,7 +27678,7 @@ var app = (function () {
     		name: "風暴之爪巨熊",
     		cardCode: "02FR005T1",
     		keywords: [
-    			"勢不可擋",
+    			"蠻力",
     			"Missing Translation"
     		],
     		keywordRefs: [
@@ -27505,8 +27757,8 @@ var app = (function () {
     		attack: 7,
     		cost: 8,
     		health: 7,
-    		description: "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：使我方牌組中單位的<br>力量值和生命值加倍。\r\n<link=vocab.Play><style=Vocab>出牌</style></link>：抽出1張<link=card.champ1><style=AssociatedCard>史瓦妮</style></link>。\r\n",
-    		descriptionRaw: "洗劫：使我方牌組中單位的力量值和生命值加倍。\r\n出牌：抽出1張史瓦妮。\r\n",
+    		description: "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：使我方牌組中單位的<br>力量值與生命值加倍。\r\n<link=vocab.Play><style=Vocab>出牌</style></link>：抽出1張<link=card.champ1><style=AssociatedCard>史瓦妮</style></link>。\r\n",
+    		descriptionRaw: "洗劫：使我方牌組中單位的力量值與生命值加倍。\r\n出牌：抽出1張史瓦妮。\r\n",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「春天不只帶來適合種植的溫暖天氣，也會帶來劫盜船……本來數量繁多的糧食也會變得稀少。」<br>——艾伐洛森爐衛",
@@ -27600,7 +27852,7 @@ var app = (function () {
     		name: "史瓦妮",
     		cardCode: "02FR002T3",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -27684,7 +27936,7 @@ var app = (function () {
     		name: "無情劫掠者",
     		cardCode: "02FR006",
     		keywords: [
-    			"勢不可擋",
+    			"蠻力",
     			"堅忍"
     		],
     		keywordRefs: [
@@ -27772,7 +28024,7 @@ var app = (function () {
     		name: "海王號",
     		cardCode: "02NX001",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -27851,8 +28103,8 @@ var app = (function () {
     		attack: 4,
     		cost: 5,
     		health: 7,
-    		description: "對敵方主堡造成非戰鬥傷害時，<br><link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>位於後排的<link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。<br><link=vocab.NexusStrike><style=Vocab>打擊主堡</style></link>：<br>對所有敵軍單位與敵方主堡造成<br>3點傷害。",
-    		descriptionRaw: "對敵方主堡造成非戰鬥傷害時，擊暈位於後排的最強敵軍單位。打擊主堡：對所有敵軍單位與敵方主堡造成3點傷害。",
+    		description: "對敵方主堡造成非戰鬥傷害時，\r\n<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>位於後排的<link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。\r\n<link=vocab.NexusStrike><style=Vocab>打擊主堡</style></link>：\r\n對所有敵軍單位及敵方主堡\r\n造成3點傷害。",
+    		descriptionRaw: "對敵方主堡造成非戰鬥傷害時，\r\n擊暈位於後排的最強敵軍單位。\r\n打擊主堡：\r\n對所有敵軍單位及敵方主堡\r\n造成3點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「為了打下諾克薩斯的江山，任何犧牲都<br>在所不惜。」 ",
@@ -27899,7 +28151,7 @@ var app = (function () {
     		descriptionRaw: "若該單位已負傷或遭到擊暈，則對其造成4點傷害。\r\n在我方牌組生成1張斯溫。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "快聽，你聽見了嗎？那如雷貫耳的是上千雙羽翼的拍擊聲。",
+    		flavorText: "快聽，你聽見了嗎？那如雷貫耳的是上千雙羽翼<br>的拍擊聲。",
     		artistName: "Kudos Productions",
     		name: "斯溫 群鴉盛宴",
     		cardCode: "02NX007T1",
@@ -28021,7 +28273,7 @@ var app = (function () {
     		descriptionRaw: "若該單位已負傷或遭到擊暈，則對其造成4點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "快聽，你聽見了嗎？那如雷貫耳的是上千雙羽翼的拍擊聲。",
+    		flavorText: "快聽，你聽見了嗎？那如雷貫耳的是上千雙羽翼<br>的拍擊聲。",
     		artistName: "Kudos Productions",
     		name: "群鴉盛宴",
     		cardCode: "02NX009",
@@ -28142,8 +28394,8 @@ var app = (function () {
     		attack: 6,
     		cost: 6,
     		health: 5,
-    		description: "只有力量值5點或以上的敵軍單位<br>才能對此牌造成傷害。",
-    		descriptionRaw: "只有力量值5點或以上的敵軍單位才能對此牌造成傷害。",
+    		description: "力量值5點以上的敵軍單位<br>才能對此牌造成傷害。",
+    		descriptionRaw: "力量值5點以上的敵軍單位才能對此牌造成傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「戰爭怪獸一旦啟動，便無人能擋。不想死就滾開吧。」——巨異蜥騎兵",
@@ -28151,7 +28403,7 @@ var app = (function () {
     		name: "披甲角獸騎兵",
     		cardCode: "02NX010",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -28277,7 +28529,7 @@ var app = (function () {
     		name: "幽鐵弩砲",
     		cardCode: "02NX005",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -28574,8 +28826,8 @@ var app = (function () {
     		attack: 4,
     		cost: 5,
     		health: 5,
-    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：召喚1個<link=card.create><style=AssociatedCard>威洛</style></link>，<br>該單位出場時<br>即<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。",
-    		descriptionRaw: "攻擊：召喚1個威洛，該單位出場時即挑戰最強敵軍單位。",
+    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：<br>召喚<link=card.create><style=AssociatedCard>威洛</style></link><link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。",
+    		descriptionRaw: "攻擊：召喚威洛挑戰最強敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「威洛，你帶路，我跟著！」",
@@ -28832,8 +29084,8 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "選擇1個敵軍單位，使2個友軍單位輪流<link=vocab.Strike><style=Vocab>打擊</style></link>該單位。",
-    		descriptionRaw: "選擇1個敵軍單位，使2個友軍單位輪流打擊該單位。",
+    		description: "挑選1個敵軍單位，使2個友軍單位輪流<link=vocab.Strike><style=Vocab>打擊</style></link>該單位。",
+    		descriptionRaw: "挑選1個敵軍單位，使2個友軍單位輪流打擊該單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「快過來，與我並肩作戰！」——綠牙守衛",
@@ -28874,8 +29126,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "<link=vocab.Toss><style=Vocab>亂擲</style></link>3張牌。\r\n治癒所有友軍單位3點生命。",
-    		descriptionRaw: "亂擲3張牌。\r\n治癒所有友軍單位3點生命。",
+    		description: "<link=vocab.Toss><style=Vocab>亂擲</style></link>3張牌。\r\n治療所有友軍單位3點生命值。",
+    		descriptionRaw: "亂擲3張牌。\r\n治療所有友軍單位3點生命值。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「島嶼將被淨化。」——茂凱",
@@ -29048,8 +29300,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "<link=vocab.Toss><style=Vocab>亂擲</style></link>3張牌。\r\n治癒所有友軍單位3點生命。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>茂凱</style></link>。",
-    		descriptionRaw: "亂擲3張牌。\r\n治癒所有友軍單位3點生命。\r\n在我方牌組生成1張茂凱。",
+    		description: "<link=vocab.Toss><style=Vocab>亂擲</style></link>3張牌。\r\n治療所有友軍單位3點生命值。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>茂凱</style></link>。",
+    		descriptionRaw: "亂擲3張牌。\r\n治療所有友軍單位3點生命值。\r\n在我方牌組生成1張茂凱。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「島嶼將被淨化。」——茂凱",
@@ -29135,8 +29387,8 @@ var app = (function () {
     		attack: 1,
     		cost: 2,
     		health: 4,
-    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<br><link=vocab.Toss><style=Vocab>亂擲</style></link>2張牌<br>並治癒我方主堡2點生命。",
-    		descriptionRaw: "遺願：亂擲2張牌並治癒我方主堡2點生命。",
+    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<br><link=vocab.Toss><style=Vocab>亂擲</style></link>2張牌<br>並治療我方主堡2點生命值。",
+    		descriptionRaw: "遺願：亂擲2張牌並治療我方主堡2點生命值。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「……非常出色的品種……這就是我小時候遇到過的那隻生物……一點都沒有變老！真想知道……下一個城鎮。說不定這些傢伙長生不老！」——拼湊起來的無名日記",
@@ -29220,8 +29472,8 @@ var app = (function () {
     		attack: 2,
     		cost: 5,
     		health: 4,
-    		description: "每有1個其他友軍單位陣亡，<br>便從敵方主堡<link=keyword.Drain><style=Keyword>汲取</style></link>1點生命值。",
-    		descriptionRaw: "每有1個其他友軍單位陣亡，便從敵方主堡汲取1點生命值。",
+    		description: "每有1個其他友軍單位陣亡，\r\n便從敵方主堡<link=keyword.Drain><style=Keyword>汲取</style></link>1點生命值。",
+    		descriptionRaw: "每有1個其他友軍單位陣亡，\r\n便從敵方主堡汲取1點生命值。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「碰上了那個叫……尼凡的新任擺渡人！他……載我們去……他很會唱歌！……在那之前……得邀請他來吃晚餐。」——拼湊起來的無名日記",
@@ -29307,7 +29559,7 @@ var app = (function () {
     		],
     		region: "闇影島",
     		regionRef: "ShadowIsles",
-    		attack: 2,
+    		attack: 1,
     		cost: 3,
     		health: 1,
     		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<br>擊殺1個友軍單位<br>來召喚2個<link=card.create><style=AssociatedCard>小樹精</style></link>。",
@@ -29651,8 +29903,8 @@ var app = (function () {
     		health: 5,
     		description: "我方施放法術時，<br>本回合給予此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>；\r\n再次施放法術時，<br>則額外於本回合給予其<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
     		descriptionRaw: "我方施放法術時，本回合給予此牌挑戰者；\r\n再次施放法術時，則額外於本回合給予其光盾。",
-    		levelupDescription: "我方施放8次或以上法術<style=Variable></style>。",
-    		levelupDescriptionRaw: "我方施放8次或以上法術。",
+    		levelupDescription: "我方施放8次以上法術<style=Variable></style>。",
+    		levelupDescriptionRaw: "我方施放8次以上法術。",
     		flavorText: "「配得的人，巨龍賜予協助；疲乏的人，巨龍賜予活力；患病的人，巨龍賜予舒緩；迷失的人，巨龍賜予光芒；動搖的人，巨龍賜予平衡……」",
     		artistName: "SIXMOREVODKA",
     		name: "李星",
@@ -29867,8 +30119,8 @@ var app = (function () {
     		attack: 1,
     		cost: 2,
     		health: 3,
-    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：<br>若上回合施放2次或以上法術，<br>則召喚1個<link=card.summon><style=AssociatedCard>幼龍</style></link><style=Variable></style>。",
-    		descriptionRaw: "回合開始：若上回合施放2次或以上法術，則召喚1個幼龍。",
+    		description: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：<br>若上回合施放2次以上法術，<br>則召喚1個<link=card.summon><style=AssociatedCard>幼龍</style></link><style=Variable></style>。",
+    		descriptionRaw: "回合開始：若上回合施放2次以上法術，則召喚1個幼龍。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「學徒必須思想清晰，因為巨龍的牽引讓太陽劃過天際，照亮我們的世界。」\n——龍道所傳教義",
@@ -29909,8 +30161,8 @@ var app = (function () {
     		attack: 3,
     		cost: 2,
     		health: 2,
-    		description: "本回合打出2次法術牌<br>就能從手牌中召喚此牌。",
-    		descriptionRaw: "本回合打出2次法術牌就能從手牌中召喚此牌。",
+    		description: "本回合打出2張法術牌後，<br>從手牌中召喚此牌。",
+    		descriptionRaw: "本回合打出2張法術牌後，從手牌中召喚此牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「學徒必須專心聆聽，因為巨龍發出了原初之咆哮，將魔力賜給我們未臻成熟的心靈。」<br>——龍道所傳教義",
@@ -30122,8 +30374,8 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "從手牌召喚1個<br>魔耗值3點或以下的友軍單位。",
-    		descriptionRaw: "從手牌召喚1個魔耗值3點或以下的友軍單位。",
+    		description: "從手牌召喚1個<br>魔耗值3點以下的友軍單位。",
+    		descriptionRaw: "從手牌召喚1個魔耗值3點以下的友軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "……並以驚人的速度重整旗鼓。倖存者集結軍勢、擁立軍帥，並讓侵略者一嘗最初淨土的頑強精神。",
@@ -30166,11 +30418,11 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "若上回合我方已施放<br>2次或以上法術，<br>則此牌魔耗值-2。\r\n抽2張其他法術牌。\r\n",
-    		descriptionRaw: "若上回合我方已施放2次或以上法術，則此牌魔耗值-2。\r\n抽2張其他法術牌。\r\n",
+    		description: "若上回合我方已施放<br>2次以上法術，<br>則此牌魔耗值-2。\r\n抽2張其他法術牌。\r\n",
+    		descriptionRaw: "若上回合我方已施放2次以上法術，則此牌魔耗值-2。\r\n抽2張其他法術牌。\r\n",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "靜心冥想無法預設目的，必須在過程中迷失，才能尋得其道。",
+    		flavorText: "靜心冥想無法預設目的，必須在過程中迷失，<br>才能尋得其道。",
     		artistName: "Kudos Productions",
     		name: "深度冥想",
     		cardCode: "02IO009",
@@ -30341,8 +30593,8 @@ var app = (function () {
     		health: 4,
     		description: "我方<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>或<link=keyword.Recall><style=Keyword>召回</style></link>1個敵軍單位時，<br>此牌對該單位造成2點傷害。",
     		descriptionRaw: "我方擊暈或召回1個敵軍單位時，此牌對該單位造成2點傷害。",
-    		levelupDescription: "我方<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>或<link=keyword.Recall><style=Keyword>召回</style></link><br>5個或以上單位<style=Variable></style>。",
-    		levelupDescriptionRaw: "我方擊暈或召回5個或以上單位。",
+    		levelupDescription: "我方<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>或<link=keyword.Recall><style=Keyword>召回</style></link><br>5個以上單位<style=Variable></style>。",
+    		levelupDescriptionRaw: "我方擊暈或召回5個以上單位。",
     		flavorText: "「死亡就像風...」",
     		artistName: "SIXMOREVODKA",
     		name: "犽宿",
@@ -30509,7 +30761,7 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 2,
-    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：<br>本回合給予受此牌支援的友軍單位<link=keyword.Lifesteal><sprite name=Lifesteal><style=Keyword>吸血</style></link>。",
+    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：本回合給予受此牌<br>支援的友軍單位<link=keyword.Lifesteal><sprite name=Lifesteal><style=Keyword>吸血</style></link>。",
     		descriptionRaw: "支援：本回合給予受此牌支援的友軍單位吸血。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -30637,7 +30889,7 @@ var app = (function () {
     		attack: 4,
     		cost: 6,
     		health: 3,
-    		description: "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：<br>在手牌生成1張來自我方牌組區域的法術牌。",
+    		description: "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：在手牌生成1張來自<br>我方牌組區域的法術牌。",
     		descriptionRaw: "回合結束：在手牌生成1張來自我方牌組區域的法術牌。",
     		levelupDescription: "我方進入<link=keyword.Enlightened><style=Keyword>開悟</style></link>狀態。",
     		levelupDescriptionRaw: "我方進入開悟狀態。",
@@ -30723,7 +30975,7 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "在手牌生成1張來自我方牌組區域的<br>法術牌。\r\n<link=keyword.Enlightened><style=Keyword>開悟</style></link>：改為生成2張。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>卡瑪</style></link>。",
+    		description: "在手牌生成1張來自我方<br>牌組區域的法術牌。\r\n<link=keyword.Enlightened><style=Keyword>開悟</style></link>：改為生成2張。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>卡瑪</style></link>。",
     		descriptionRaw: "在手牌生成1張來自我方牌組區域的法術牌。\r\n開悟：改為生成2張。\r\n在我方牌組生成1張卡瑪。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -30812,8 +31064,8 @@ var app = (function () {
     		health: 2,
     		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：召喚1個攻擊中的<link=card.summon><style=AssociatedCard>疾風殘影</style></link>，<br>其能力值與此牌相同。",
     		descriptionRaw: "攻擊：召喚1個攻擊中的疾風殘影，其能力值與此牌相同。",
-    		levelupDescription: "此牌與其暗影總共<link=vocab.Strike><style=Vocab>打擊</style></link>敵方主堡<br>2次<style=Variable></style>。",
-    		levelupDescriptionRaw: "此牌與其暗影總共打擊敵方主堡2次。",
+    		levelupDescription: "此牌與其殘影總共<link=vocab.Strike><style=Vocab>打擊</style></link>敵方主堡<br>2次<style=Variable></style>。",
+    		levelupDescriptionRaw: "此牌與其殘影總共打擊敵方主堡2次。",
     		flavorText: "「只有愚者才追求平衡。暗影向我展現了真實的力量。」",
     		artistName: "SIXMOREVODKA",
     		name: "劫",
@@ -30984,7 +31236,7 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 1,
-    		description: "召喚此牌時，賦予手牌中所有友軍單位+1|+1。",
+    		description: "召喚此牌時，賦予手牌中<br>所有友軍單位+1|+1。",
     		descriptionRaw: "召喚此牌時，賦予手牌中所有友軍單位+1|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -31315,8 +31567,8 @@ var app = (function () {
     		attack: 0,
     		cost: 6,
     		health: 0,
-    		description: "選擇1個友軍單位，<br>召喚2個與之相同的複製單位，<br>其皆為<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>。",
-    		descriptionRaw: "選擇1個友軍單位，召喚2個與之相同的複製單位，其皆為閃靈。",
+    		description: "挑選1個友軍單位，<br>召喚2個與之相同的複製單位，<br>其皆為<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>。",
+    		descriptionRaw: "挑選1個友軍單位，召喚2個與之相同的複製單位，其皆為閃靈。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「慎在兩個世界之間進退兩難，他最終只會把兩邊都搞砸。我只把自己全心奉獻給愛歐尼亞。」——劫",
@@ -31521,10 +31773,10 @@ var app = (function () {
     		attack: 3,
     		cost: 4,
     		health: 5,
-    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：<br>本回合給予受此牌支援的友軍單位<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
+    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：本回合給予受此牌支援<br>的友軍單位<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
     		descriptionRaw: "支援：本回合給予受此牌支援的友軍單位光盾。",
-    		levelupDescription: "此牌在場上時，<br>友軍單位獲得<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link><br>4次或以上<style=Variable></style>。",
-    		levelupDescriptionRaw: "此牌在場上時，友軍單位獲得光盾4次或以上。",
+    		levelupDescription: "此牌在場上時，友軍單位獲得<br><link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>4次以上<style=Variable></style>。",
+    		levelupDescriptionRaw: "此牌在場上時，友軍單位獲得光盾4次以上。",
     		flavorText: "「物質與精神領域相互纏繞，猶如緊扣的雙手...」 ",
     		artistName: "SIXMOREVODKA",
     		name: "慎",
@@ -31563,8 +31815,8 @@ var app = (function () {
     		attack: 4,
     		cost: 4,
     		health: 6,
-    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：<br>本回合給予受此牌支援的友軍單位<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。\r\n有友軍單位獲得<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>時，<br>本回合給予該單位+3|+0。",
-    		descriptionRaw: "支援：本回合給予受此牌支援的友軍單位光盾。\r\n有友軍單位獲得光盾時，本回合給予該單位+3|+0。",
+    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：本回合給予受此牌支援<br>的友軍單位<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。\r\n友軍單位獲得<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>時，<br>本回合給予該單位+3|+0。",
+    		descriptionRaw: "支援：本回合給予受此牌支援的友軍單位光盾。\r\n友軍單位獲得光盾時，本回合給予該單位+3|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「...雙方的行動和諧存在，在我的看守下，他們互不侵犯。」",
@@ -31605,7 +31857,7 @@ var app = (function () {
     		attack: 0,
     		cost: 6,
     		health: 0,
-    		description: "調換2個友軍單位位置，並在本回合給予其<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>慎</style></link>。",
+    		description: "調換2個友軍單位位置，<br>並在本回合給予其<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>慎</style></link>。",
     		descriptionRaw: "調換2個友軍單位位置，並在本回合給予其光盾。\r\n在我方牌組生成1張慎。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -31814,8 +32066,8 @@ var app = (function () {
     		attack: 4,
     		cost: 6,
     		health: 4,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：選1張<link=card.me><style=AssociatedCard>西風聖者</style></link>以外的手牌，並在手牌生成1張該牌的複製牌。",
-    		descriptionRaw: "出牌：選1張西風聖者以外的手牌，並在手牌生成1張該牌的複製牌。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：挑選1張<link=card.me><style=AssociatedCard>西風聖者</style></link>以外的手牌，並在手牌生成1張該牌的複製牌。",
+    		descriptionRaw: "出牌：挑選1張西風聖者以外的手牌，並在手牌生成1張該牌的複製牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「長老安慰戰敗的悲泣戰士：『去尋找諸天之上的聖者吧。唯有他能尋回仍留在記憶中的失物』。」\n——《最初淨土傳說》",
@@ -31854,7 +32106,7 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 1,
-    		description: "<link=vocab.Strike><style=Vocab>打擊</style></link>：<br>使手牌中魔耗值最高的單位<br>魔耗值-1。",
+    		description: "<link=vocab.Strike><style=Vocab>打擊</style></link>：使手牌中魔耗值<br>最高的單位魔耗值-1。",
     		descriptionRaw: "打擊：使手牌中魔耗值最高的單位魔耗值-1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -31937,8 +32189,8 @@ var app = (function () {
     		attack: 0,
     		cost: 7,
     		health: 0,
-    		description: "治癒1個友軍單位<br>或我方主堡7點生命。<br>抽1張牌。",
-    		descriptionRaw: "治癒1個友軍單位或我方主堡7點生命。抽1張牌。",
+    		description: "治療1個友軍單位或<br>我方主堡7點生命值。<br>抽1張牌。",
+    		descriptionRaw: "治療1個友軍單位或我方主堡7點生命值。抽1張牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「唯有提高心靈層次，肉身才能變得完整。」<br>——卡瑪",
@@ -32105,7 +32357,7 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "在手牌生成1張來自我方牌組區域的法術牌。\r\n<link=keyword.Enlightened><style=Keyword>開悟</style></link>：改為生成2張。",
+    		description: "在手牌生成1張來自我方<br>牌組區域的法術牌。\r\n<link=keyword.Enlightened><style=Keyword>開悟</style></link>：改為生成2張。",
     		descriptionRaw: "在手牌生成1張來自我方牌組區域的法術牌。\r\n開悟：改為生成2張。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -32608,8 +32860,8 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "治癒1個友軍單位<br>或我方主堡3點生命。",
-    		descriptionRaw: "治癒1個友軍單位或我方主堡3點生命。",
+    		description: "治療1個友軍單位或<br>我方主堡3點生命值。",
+    		descriptionRaw: "治療1個友軍單位或我方主堡3點生命值。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "雖然每個世代、區域和家族都有各自的獨家秘方，但有些配方的確效果更為出眾。",
@@ -33110,7 +33362,7 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 3,
-    		description: "召喚此牌時及<link=vocab.Strike><style=Vocab>打擊</style></link>：在手牌生成1張<link=card.create><style=AssociatedCard>迴旋飛斧</style></link>。",
+    		description: "召喚此牌時及<link=vocab.Strike><style=Vocab>打擊</style></link>：<br>在手牌生成1張<link=card.create><style=AssociatedCard>迴旋飛斧</style></link>。",
     		descriptionRaw: "召喚此牌時及打擊：在手牌生成1張迴旋飛斧。",
     		levelupDescription: "此牌使用<link=card.create><style=AssociatedCard>迴旋飛斧</style></link><link=vocab.Strike><style=Vocab>打擊</style></link>2次<style=Variable></style>。",
     		levelupDescriptionRaw: "此牌使用迴旋飛斧打擊2次。",
@@ -33155,7 +33407,7 @@ var app = (function () {
     		attack: 4,
     		cost: 3,
     		health: 4,
-    		description: "召喚此牌時及<link=vocab.Strike><style=Vocab>打擊</style></link>：在手牌生成2張<link=card.create><style=AssociatedCard>迴旋飛斧</style></link>。",
+    		description: "召喚此牌時及<link=vocab.Strike><style=Vocab>打擊</style></link>：<br>在手牌生成2張<link=card.create><style=AssociatedCard>迴旋飛斧</style></link>。",
     		descriptionRaw: "召喚此牌時及打擊：在手牌生成2張迴旋飛斧。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -33165,7 +33417,7 @@ var app = (function () {
     		cardCode: "01NX020T3",
     		keywords: [
     			"快速攻擊",
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"QuickStrike",
@@ -33201,7 +33453,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "使1個戰鬥中友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>1個戰鬥中敵軍單位。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>達瑞文</style></link>。",
+    		description: "使1個戰鬥中友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link><br>1個戰鬥中敵軍單位。<br>\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>達瑞文</style></link>。",
     		descriptionRaw: "使1個戰鬥中友軍單位打擊1個戰鬥中敵軍單位。\r\n在我方牌組生成1張達瑞文。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -33291,8 +33543,8 @@ var app = (function () {
     		health: 5,
     		description: "<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>攻擊</style></link>：對此牌右邊的每個攻擊中友軍單位造成1點傷害，且每傷害1個攻擊中友軍單位，便對敵方主堡造成1點傷害。",
     		descriptionRaw: "攻擊：對此牌右邊的每個攻擊中友軍單位造成1點傷害，且每傷害1個攻擊中友軍單位，便對敵方主堡造成1點傷害。",
-    		levelupDescription: "5個或以上友軍單位承受傷害且未陣亡<style=Variable></style>。",
-    		levelupDescriptionRaw: "5個或以上友軍單位承受傷害且未陣亡。",
+    		levelupDescription: "5個以上友軍單位<br>承受傷害且未陣亡<style=Variable></style>。",
+    		levelupDescriptionRaw: "5個以上友軍單位承受傷害且未陣亡。",
     		flavorText: "邪惡，冷漠，殘酷，迷人，敏銳，魅力十足。\n令人難以抗拒……",
     		artistName: "SIXMOREVODKA",
     		name: "弗拉迪米爾",
@@ -33330,8 +33582,8 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "對<link=card.vlad><style=AssociatedCard>弗拉迪米爾</style></link>右邊的每個攻擊中友軍單位造成1點傷害，且每傷害1個攻擊中友軍單位，便從敵方主堡<link=keyword.Drain><style=Keyword>汲取</style></link>1點生命。",
-    		descriptionRaw: "對弗拉迪米爾右邊的每個攻擊中友軍單位造成1點傷害，且每傷害1個攻擊中友軍單位，便從敵方主堡汲取1點生命。",
+    		description: "對<link=card.vlad><style=AssociatedCard>弗拉迪米爾</style></link>右邊的每個攻擊中友軍單位造成1點傷害，且每傷害1個攻擊中友軍單位，便從敵方主堡<link=keyword.Drain><style=Keyword>汲取</style></link>1點生命值。",
+    		descriptionRaw: "對弗拉迪米爾右邊的每個攻擊中友軍單位造成1點傷害，且每傷害1個攻擊中友軍單位，便從敵方主堡汲取1點生命值。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「十足美味。」——弗拉迪米爾",
@@ -33418,8 +33670,8 @@ var app = (function () {
     		attack: 6,
     		cost: 5,
     		health: 6,
-    		description: "<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>攻擊</style></link>：對此牌右邊的每個攻擊中友軍單位造成1點傷害，且每傷害1個攻擊中友軍單位，便從敵方主堡<link=keyword.Drain><style=Keyword>汲取</style></link>1點生命。",
-    		descriptionRaw: "攻擊：對此牌右邊的每個攻擊中友軍單位造成1點傷害，且每傷害1個攻擊中友軍單位，便從敵方主堡汲取1點生命。",
+    		description: "<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>攻擊</style></link>：對此牌右邊的每個攻擊中友軍單位造成1點傷害，且每傷害1個攻擊中友軍單位，便從敵方主堡<link=keyword.Drain><style=Keyword>汲取</style></link>1點生命值。",
+    		descriptionRaw: "攻擊：對此牌右邊的每個攻擊中友軍單位造成1點傷害，且每傷害1個攻擊中友軍單位，便從敵方主堡汲取1點生命值。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「親愛的，這餘興節目無法滿足你了嗎？不妨讓我向妳展示真正的盛大演出吧。」",
@@ -33504,8 +33756,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "擊殺1個力量值3點或以下<br>的單位。",
-    		descriptionRaw: "擊殺1個力量值3點或以下的單位。",
+    		description: "擊殺1個力量值3點<br>以下的單位。",
+    		descriptionRaw: "擊殺1個力量值3點以下的單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "人難免一死，只不過弱者比較早死。",
@@ -33595,14 +33847,14 @@ var app = (function () {
     		health: 5,
     		description: "",
     		descriptionRaw: "",
-    		levelupDescription: "此牌在場上時<br>敵方主堡生命值為10點或以下。",
-    		levelupDescriptionRaw: "此牌在場上時敵方主堡生命值為10點或以下。",
+    		levelupDescription: "此牌在場上時<br>敵方主堡生命值為10點以下。",
+    		levelupDescriptionRaw: "此牌在場上時敵方主堡生命值為10點以下。",
     		flavorText: "「鋼鐵般的意志，媲美泰坦巨人的力量。特菲利安軍團沒有更優秀的將軍人選了。」——斯溫\n",
     		artistName: "SIXMOREVODKA",
     		name: "達瑞斯",
     		cardCode: "01NX038",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -33896,7 +34148,7 @@ var app = (function () {
     		name: "達瑞斯",
     		cardCode: "01NX038T2",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -34097,7 +34349,7 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 2,
-    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：<br>本回合給予其他攻擊中友軍單位<br>+1|+0。",
+    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：本回合給予其他<br>攻擊中友軍單位+1|+0。",
     		descriptionRaw: "攻擊：本回合給予其他攻擊中友軍單位+1|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -34137,7 +34389,7 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 2,
-    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：賦予我方<link=vocab.Everywhere><style=Vocab>各處</style></link>的軍團流寇+1|+1。",
+    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：賦予我方<link=vocab.Everywhere><style=Vocab>各處</style></link>的<br>軍團流寇+1|+1。",
     		descriptionRaw: "攻擊：賦予我方各處的軍團流寇+1|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -34186,7 +34438,7 @@ var app = (function () {
     		name: "人氣角鬥士",
     		cardCode: "01NX009",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -34219,7 +34471,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "使1個戰鬥中友軍單位<br><link=vocab.Strike><style=Vocab>打擊</style></link>1個戰鬥中敵軍單位。",
+    		description: "使1個戰鬥中友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link><br>1個戰鬥中敵軍單位。",
     		descriptionRaw: "使1個戰鬥中友軍單位打擊1個戰鬥中敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -34261,8 +34513,8 @@ var app = (function () {
     		attack: 0,
     		cost: 6,
     		health: 0,
-    		description: "若我方場上有1個<br>力量值5點或以上的友軍單位，<br>則擊殺所有力量值4點或以下的單位。",
-    		descriptionRaw: "若我方場上有1個力量值5點或以上的友軍單位，則擊殺所有力量值4點或以下的單位。",
+    		description: "若我方場上有1個力量值5點以上的友軍單位，則擊殺所有力量值4點以下的單位。",
+    		descriptionRaw: "若我方場上有1個力量值5點以上的友軍單位，則擊殺所有力量值4點以下的單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「誰準備好上場廝殺啦？！！！」——競技場主持人",
@@ -34345,8 +34597,8 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>所有<br>力量值4點或以下的敵軍單位。",
-    		descriptionRaw: "擊暈所有力量值4點或以下的敵軍單位。",
+    		description: "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>所有<br>力量值4點以下的敵軍單位。",
+    		descriptionRaw: "擊暈所有力量值4點以下的敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「他深深地吸一口氣，我們即將看到——沒錯，觀眾們！那就是雷電最有名的戰嚎！我們當場都嚇到腿軟了，閃～～電！」——競技場主持人",
@@ -34470,7 +34722,7 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 2,
-    		description: "召喚此牌時，在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.create><style=AssociatedCard>利刃刀鋒</style></link>。",
+    		description: "召喚此牌時，在手牌生成1張<br><link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.create><style=AssociatedCard>利刃刀鋒</style></link>。",
     		descriptionRaw: "召喚此牌時，在手牌生成1張飛逝利刃刀鋒。",
     		levelupDescription: "此牌<link=vocab.Strike><style=Vocab>打擊</style></link>1次。<br>此牌升級時會被<link=keyword.Recall><style=Keyword>召回</style></link>。",
     		levelupDescriptionRaw: "此牌打擊1次。此牌升級時會被召回。",
@@ -34610,7 +34862,7 @@ var app = (function () {
     		name: "法隆上尉",
     		cardCode: "01NX051",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -34811,7 +35063,7 @@ var app = (function () {
     		attack: 3,
     		cost: 2,
     		health: 2,
-    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：<br>本回合給予受此牌支援的友軍單位<br><link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>。",
+    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：本回合給予受此牌<br>支援的友軍單位<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>。",
     		descriptionRaw: "支援：本回合給予受此牌支援的友軍單位快速攻擊。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -34891,7 +35143,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "施放或棄置時，賦予所有友軍單位+1|+0。",
+    		description: "施放或棄置時，賦予<br>所有友軍單位+1|+0。",
     		descriptionRaw: "施放或棄置時，賦予所有友軍單位+1|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -35024,7 +35276,7 @@ var app = (function () {
     		name: "攻城槌",
     		cardCode: "01NX044",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -35137,8 +35389,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "本回合給予1個友軍單位+3|+0<br>與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。",
-    		descriptionRaw: "本回合給予1個友軍單位+3|+0與勢不可擋。",
+    		description: "本回合給予1個友軍單位<br>+3|+0與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>蠻力</style></link>。",
+    		descriptionRaw: "本回合給予1個友軍單位+3|+0與蠻力。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「我說過縝密戰略沒那麼重要，不代表不好，只是真的沒那麼重要。」——達瑞斯",
@@ -35306,8 +35558,8 @@ var app = (function () {
     		attack: 4,
     		cost: 5,
     		health: 3,
-    		description: "召喚此牌時，我方場上每有1個<br>力量值5點或以上的友軍單位，<br>則抽1張牌。",
-    		descriptionRaw: "召喚此牌時，我方場上每有1個力量值5點或以上的友軍單位，則抽1張牌。",
+    		description: "召喚此牌時，我方場上每有1個<br>力量值5點以上的友軍單位，<br>則抽1張牌。",
+    		descriptionRaw: "召喚此牌時，我方場上每有1個力量值5點以上的友軍單位，則抽1張牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「唯有堅決敏銳的眼力才能挑選出夠格加入特菲利安軍團的人才。她呢，她從一哩外就能從羊群中看見一隻狼。」——軍團大將軍",
@@ -35397,7 +35649,7 @@ var app = (function () {
     		name: "野蠻角鬥士",
     		cardCode: "01NX045",
     		keywords: [
-    			"勢不可擋",
+    			"蠻力",
     			"挑戰者"
     		],
     		keywordRefs: [
@@ -35518,8 +35770,8 @@ var app = (function () {
     		attack: 4,
     		cost: 4,
     		health: 3,
-    		description: "<link=vocab.Allegiance><style=Vocab>效忠</style></link>：<br>賦予此牌+1|+1及<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。",
-    		descriptionRaw: "效忠：賦予此牌+1|+1及勢不可擋。",
+    		description: "<link=vocab.Allegiance><style=Vocab>效忠</style></link>：<br>賦予此牌+1|+1及<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>蠻力</style></link>。",
+    		descriptionRaw: "效忠：賦予此牌+1|+1及蠻力。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "這個特殊的兵種確實需要馬，不過不是拿來騎；他們的座下怪獸覺得馬吃起來是人間美味。",
@@ -35808,8 +36060,8 @@ var app = (function () {
     		attack: 5,
     		cost: 5,
     		health: 4,
-    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：<br>本回合給予受此牌支援的友軍單位<br>+3|+0與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。",
-    		descriptionRaw: "支援：本回合給予受此牌支援的友軍單位+3|+0與勢不可擋。",
+    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：<br>本回合給予受此牌支援的友軍單位<br>+3|+0與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>蠻力</style></link>。",
+    		descriptionRaw: "支援：本回合給予受此牌支援的友軍單位+3|+0與蠻力。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「席菈扎是個很棒的女友——我是說朋友，我們絕對沒有在交往。但假設我們正在交往，我想對她說，週年紀念日快樂。提問到此結束，謝謝。」",
@@ -35890,7 +36142,7 @@ var app = (function () {
     		attack: 1,
     		cost: 3,
     		health: 4,
-    		description: "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：若有友軍單位於本回合陣亡，則賦予其他友軍單位+1|+1。",
+    		description: "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：若有友軍單位於本回合<br>陣亡，則賦予其他友軍單位+1|+1。",
     		descriptionRaw: "回合結束：若有友軍單位於本回合陣亡，則賦予其他友軍單位+1|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -35935,8 +36187,8 @@ var app = (function () {
     		health: 2,
     		description: "",
     		descriptionRaw: "",
-    		levelupDescription: "此牌在場上時，<br>有4個或以上友軍單位陣亡，<br>或<link=card.senna><style=AssociatedCard>光之哨兵姍娜</style></link>陣亡<style=Variable></style>。",
-    		levelupDescriptionRaw: "此牌在場上時，有4個或以上友軍單位陣亡，或光之哨兵姍娜陣亡。",
+    		levelupDescription: "此牌在場上時，<br>有4個以上友軍單位陣亡，<br>或<link=card.senna><style=AssociatedCard>光之哨兵姍娜</style></link>陣亡<style=Variable></style>。",
+    		levelupDescriptionRaw: "此牌在場上時，有4個以上友軍單位陣亡，或光之哨兵姍娜陣亡。",
     		flavorText: "「姍娜，只要有你在，我就會好好的。」",
     		artistName: "SIXMOREVODKA",
     		name: "路西恩",
@@ -36022,8 +36274,8 @@ var app = (function () {
     		health: 5,
     		description: "",
     		descriptionRaw: "",
-    		levelupDescription: "此牌在場上時，<br>我方消耗6點或以上魔力<br>施放法術<style=Variable></style>。<br>升級時在手牌生成1張<link=card.warcry><style=AssociatedCard>終極閃光</style></link>。",
-    		levelupDescriptionRaw: "此牌在場上時，我方消耗6點或以上魔力施放法術。升級時在手牌生成1張終極閃光。",
+    		levelupDescription: "此牌在場上時，<br>我方消耗6點以上魔力<br>施放法術<style=Variable></style>。<br>升級時在手牌生成1張<link=card.warcry><style=AssociatedCard>終極閃光</style></link>。",
+    		levelupDescriptionRaw: "此牌在場上時，我方消耗6點以上魔力施放法術。升級時在手牌生成1張終極閃光。",
     		flavorText: "「我一直都知道自己很特別……體內蘊藏著光芒。我還不了解那究竟是什麼，但我必須搞清楚！」 ",
     		artistName: "SIXMOREVODKA",
     		name: "拉克絲",
@@ -36109,8 +36361,8 @@ var app = (function () {
     		attack: 5,
     		cost: 6,
     		health: 6,
-    		description: "若我方消耗6點或以上魔力施放法術，則在手牌生成1張<link=card.warcry><style=AssociatedCard>終極閃光</style></link>。<style=Variable></style>",
-    		descriptionRaw: "若我方消耗6點或以上魔力施放法術，則在手牌生成1張終極閃光。",
+    		description: "若我方消耗6點以上魔力施放法術，<br>則在手牌生成1張<link=card.warcry><style=AssociatedCard>終極閃光</style></link>。<style=Variable></style>",
+    		descriptionRaw: "若我方消耗6點以上魔力施放法術，則在手牌生成1張終極閃光。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「我不會再壓抑了！」",
@@ -36160,7 +36412,7 @@ var app = (function () {
     		name: "終極閃光",
     		cardCode: "01DE042T3",
     		keywords: [
-    			"勢不可擋",
+    			"蠻力",
     			"飛逝",
     			"慢速"
     		],
@@ -36458,7 +36710,7 @@ var app = (function () {
     		attack: 0,
     		cost: 8,
     		health: 0,
-    		description: "使1個戰鬥中友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>所有戰鬥中敵軍單位。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>蓋倫</style></link>。",
+    		description: "使1個戰鬥中友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link><br>所有戰鬥中敵軍單位。<br>\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>蓋倫</style></link>。",
     		descriptionRaw: "使1個戰鬥中友軍單位打擊所有戰鬥中敵軍單位。\r\n在我方牌組生成1張蓋倫。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -36714,7 +36966,7 @@ var app = (function () {
     		attack: 4,
     		cost: 2,
     		health: 3,
-    		description: "每回合首次有友軍單位陣亡時，進行<link=vocab.Rally><style=Vocab>備戰</style></link>。",
+    		description: "每回合首次有友軍單位陣亡時，<br>進行<link=vocab.Rally><style=Vocab>備戰</style></link>。",
     		descriptionRaw: "每回合首次有友軍單位陣亡時，進行備戰。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -36798,7 +37050,7 @@ var app = (function () {
     		attack: 0,
     		cost: 8,
     		health: 0,
-    		description: "使1個戰鬥中友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>所有戰鬥中敵軍單位。",
+    		description: "使1個戰鬥中友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link><br>所有戰鬥中敵軍單位。",
     		descriptionRaw: "使1個戰鬥中友軍單位打擊所有戰鬥中敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -36880,8 +37132,8 @@ var app = (function () {
     		attack: 4,
     		cost: 4,
     		health: 3,
-    		description: "若我方在本牌局已施放1張魔耗值6點或以上的法術牌，則賦予此牌+2|+2。",
-    		descriptionRaw: "若我方在本牌局已施放1張魔耗值6點或以上的法術牌，則賦予此牌+2|+2。",
+    		description: "在本牌局中，我方施放魔耗值6點<br>以上的法術牌後，賦予此牌+2|+2。",
+    		descriptionRaw: "在本牌局中，我方施放魔耗值6點以上的法術牌後，賦予此牌+2|+2。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「很久以前，因符文聖戰引發的狂暴魔法，將整片符文大地摧殘得狼狽不堪。本組織之所以建立，正是為了驅逐王國內外的所有魔法，保護全體人民。」——獵魔者手冊",
@@ -36961,7 +37213,7 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 2,
-    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：<br>本回合給予受此牌支援的友軍單位+1|+1。",
+    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：<br>本回合給予受此牌支援的<br>友軍單位+1|+1。",
     		descriptionRaw: "支援：本回合給予受此牌支援的友軍單位+1|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -37086,7 +37338,7 @@ var app = (function () {
     		attack: 0,
     		cost: 6,
     		health: 0,
-    		description: "本回合每有1個友軍單位陣亡，<br>則此牌魔耗值-1。<br>隨機召喚1個魔耗值5的<br>蒂瑪西亞侍從單位。",
+    		description: "本回合每有1個友軍單位陣亡，<br>則此牌魔耗值-1。隨機召喚<br>1個魔耗值5的蒂瑪西亞侍從單位。",
     		descriptionRaw: "本回合每有1個友軍單位陣亡，則此牌魔耗值-1。隨機召喚1個魔耗值5的蒂瑪西亞侍從單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -37174,8 +37426,8 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "本回合給予1個友軍單位+3|+0與<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>菲歐拉</style></link>。",
-    		descriptionRaw: "本回合給予1個友軍單位+3|+0與光盾。\r\n在我方牌組生成1張菲歐拉。",
+    		description: "本回合給予1個友軍單位<br>+3|+0與<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。<br>在我方牌組生成1張<link=card.level1><style=AssociatedCard>菲歐拉</style></link>。",
+    		descriptionRaw: "本回合給予1個友軍單位+3|+0與光盾。在我方牌組生成1張菲歐拉。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「『你打起架就像一隻普羅』，這形容真是再貼切不過了！」——菲歐拉",
@@ -37258,8 +37510,8 @@ var app = (function () {
     		attack: 1,
     		cost: 1,
     		health: 1,
-    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<br>在手牌生成1張魔耗值<br>6點或以上的法術牌，<br>必不屬於蒂瑪西亞區域。",
-    		descriptionRaw: "遺願：在手牌生成1張魔耗值6點或以上的法術牌，必不屬於蒂瑪西亞區域。",
+    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<br>在手牌生成1張魔耗值6點以上，<br>不屬於蒂瑪西亞區域的法術牌。",
+    		descriptionRaw: "遺願：在手牌生成1張魔耗值6點以上，不屬於蒂瑪西亞區域的法術牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「雖然奧術物品擁有不可言喻的迷人風采。但這些充滿力量的物品必須交到可靠的專家手上，遠離我們善良無知的市民為上策。」\n——獵魔者手冊",
@@ -37552,8 +37804,8 @@ var app = (function () {
     		attack: 3,
     		cost: 2,
     		health: 2,
-    		description: "若我方在本牌局已施放1張魔耗值6點或以上的法術牌，則賦予此牌+1|+1與<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。",
-    		descriptionRaw: "若我方在本牌局已施放1張魔耗值6點或以上的法術牌，則賦予此牌+1|+1與挑戰者。",
+    		description: "在本牌局中，我方施放魔耗值<br>6點以上的法術牌後，賦予此牌<br>+1|+1與<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。",
+    		descriptionRaw: "在本牌局中，我方施放魔耗值6點以上的法術牌後，賦予此牌+1|+1與挑戰者。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「蒂瑪西亞的人民，保護你們的安全是我的榮幸。不過，我們需要各位堅定不移的支持。因為即使在高聳的城牆內，仍有魔法師混在我們當中！」\n",
@@ -37718,7 +37970,7 @@ var app = (function () {
     		attack: 4,
     		cost: 5,
     		health: 5,
-    		description: "召喚此牌時，<br>若本回合有友軍單位陣亡，<br>則賦予此牌<link=keyword.Lifesteal><sprite name=Lifesteal><style=Keyword>吸血</style></link>與<link=keyword.Tough><sprite name=Tough><style=Keyword>堅忍</style></link>。",
+    		description: "召喚此牌時，若本回合有<br>友軍單位陣亡，則賦予此牌<br><link=keyword.Lifesteal><sprite name=Lifesteal><style=Keyword>吸血</style></link>與<link=keyword.Tough><sprite name=Tough><style=Keyword>堅忍</style></link>。",
     		descriptionRaw: "召喚此牌時，若本回合有友軍單位陣亡，則賦予此牌吸血與堅忍。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -38383,8 +38635,8 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 3,
-    		description: "若我方在本牌局已施放1張<br>魔耗值6點或以上的法術牌，<br>則在手牌生成1張<link=card.create><style=AssociatedCard>束縛</style></link>。",
-    		descriptionRaw: "若我方在本牌局已施放1張魔耗值6點或以上的法術牌，則在手牌生成1張束縛。",
+    		description: "在本牌局中，我方施放魔耗值<br>6點以上的法術牌後，在手牌生成1張<link=card.create><style=AssociatedCard>束縛</style></link>。",
+    		descriptionRaw: "在本牌局中，我方施放魔耗值6點以上的法術牌後，在手牌生成1張束縛。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「抱歉，打擾了。麻煩您全力配合調查。我們注意到一些……『不尋常的事』……」",
@@ -38423,7 +38675,7 @@ var app = (function () {
     		attack: 6,
     		cost: 6,
     		health: 6,
-    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：本回合給予其他攻擊中友軍單位+1|+1與<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>。",
+    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：本回合給予其他攻擊中<br>友軍單位+1|+1與<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>。",
     		descriptionRaw: "攻擊：本回合給予其他攻擊中友軍單位+1|+1與威嚇。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -38464,7 +38716,7 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 3,
-    		description: "召喚此牌時，<br>若本回合有友軍單位陣亡，<br>則抽1張單位牌。",
+    		description: "召喚此牌時，若本回合有<br>友軍單位陣亡，則抽1張單位牌。",
     		descriptionRaw: "召喚此牌時，若本回合有友軍單位陣亡，則抽1張單位牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -38596,8 +38848,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "棄置1張牌即可出此牌。對任1目標造成3點傷害。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>吉茵珂絲</style></link>。",
-    		descriptionRaw: "棄置1張牌即可出此牌。對任1目標造成3點傷害。\r\n在我方牌組生成1張吉茵珂絲。",
+    		description: "棄置1張牌即可出此牌。<br>對任1目標造成3點傷害。<br>在我方牌組生成1張<link=card.level1><style=AssociatedCard>吉茵珂絲</style></link>。",
+    		descriptionRaw: "棄置1張牌即可出此牌。對任1目標造成3點傷害。在我方牌組生成1張吉茵珂絲。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「大火力登場！」——吉茵珂絲",
@@ -38733,8 +38985,8 @@ var app = (function () {
     		health: 1,
     		description: "<link=vocab.NexusStrike><style=Vocab>打擊主堡</style></link>：<br>將5張<link=card.shuffle><style=AssociatedCard>劇毒膨菇</style></link>隨機植入敵方牌組。",
     		descriptionRaw: "打擊主堡：將5張劇毒膨菇隨機植入敵方牌組。",
-    		levelupDescription: "把15張或以上<link=card.shuffle><style=AssociatedCard>劇毒膨菇</style></link><br>植入敵方牌組<style=Variable></style>。",
-    		levelupDescriptionRaw: "把15張或以上劇毒膨菇植入敵方牌組。",
+    		levelupDescription: "把15張以上<link=card.shuffle><style=AssociatedCard>劇毒膨菇</style></link><br>植入敵方牌組<style=Variable></style>。",
+    		levelupDescriptionRaw: "把15張以上劇毒膨菇植入敵方牌組。",
     		flavorText: "「班德爾偵察隊第154條守則：未知不足以為懼！<br>第276條守則：森林居民是我們的朋友！<br>第354條守則：毛茸茸的東西或許可以摸，<br>但絕對不能吃！第417條守則……」",
     		artistName: "SIXMOREVODKA",
     		name: "提摩",
@@ -38874,10 +39126,10 @@ var app = (function () {
     		attack: 1,
     		cost: 5,
     		health: 3,
-    		description: "施放法術時，在手牌生成1張<br>相同魔耗值的<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>砲臺。<br>本回合該牌魔耗值為0。",
-    		descriptionRaw: "施放法術時，在手牌生成1張相同魔耗值的飛逝砲臺。本回合該牌魔耗值為0。",
-    		levelupDescription: "此牌在場上時我方召喚力量值共計12點或以上的砲臺<style=Variable></style>。",
-    		levelupDescriptionRaw: "此牌在場上時我方召喚力量值共計12點或以上的砲臺。",
+    		description: "施放法術時，在手牌生成1張<br>相同魔耗值的<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>砲臺，<br>其魔耗值為0。",
+    		descriptionRaw: "施放法術時，在手牌生成1張相同魔耗值的飛逝砲臺，其魔耗值為0。",
+    		levelupDescription: "此牌在場上時我方召喚力量值共計12點以上的砲臺<style=Variable></style>。",
+    		levelupDescriptionRaw: "此牌在場上時我方召喚力量值共計12點以上的砲臺。",
     		flavorText: "「瘋狂科學家？哼！我明明是『超級正常只不過偶爾缺乏條理又不拘一格』的科學家好嗎？謝謝再見！」",
     		artistName: "SIXMOREVODKA",
     		name: "漢默丁格",
@@ -39008,8 +39260,8 @@ var app = (function () {
     		attack: 2,
     		cost: 5,
     		health: 4,
-    		description: "施放法術時，在手牌生成1張<br>相同魔耗值的<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>砲臺。<br>本回合給予該牌+1|+1<br>且魔耗值為0。",
-    		descriptionRaw: "施放法術時，在手牌生成1張相同魔耗值的飛逝砲臺。本回合給予該牌+1|+1且魔耗值為0。",
+    		description: "施放法術時，在手牌生成1張<br>相同魔耗值的<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>砲臺，<br>賦予其+1|+1且魔耗值為0。",
+    		descriptionRaw: "施放法術時，在手牌生成1張相同魔耗值的飛逝砲臺，賦予其+1|+1且魔耗值為0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「不斷進步！！！」",
@@ -39068,9 +39320,9 @@ var app = (function () {
     		spellSpeedRef: "",
     		rarity: "無",
     		rarityRef: "None",
-    		subtype: "科技",
+    		subtype: "機械",
     		subtypes: [
-    			"科技"
+    			"機械"
     		],
     		supertype: "",
     		type: "單位",
@@ -39102,7 +39354,7 @@ var app = (function () {
     		name: "Mk4：風暴吊球機",
     		cardCode: "01PZ056T9",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -39111,9 +39363,9 @@ var app = (function () {
     		spellSpeedRef: "",
     		rarity: "無",
     		rarityRef: "None",
-    		subtype: "科技",
+    		subtype: "機械",
     		subtypes: [
-    			"科技"
+    			"機械"
     		],
     		supertype: "",
     		type: "單位",
@@ -39198,9 +39450,9 @@ var app = (function () {
     		spellSpeedRef: "",
     		rarity: "無",
     		rarityRef: "None",
-    		subtype: "科技",
+    		subtype: "機械",
     		subtypes: [
-    			"科技"
+    			"機械"
     		],
     		supertype: "",
     		type: "單位",
@@ -39241,9 +39493,9 @@ var app = (function () {
     		spellSpeedRef: "",
     		rarity: "無",
     		rarityRef: "None",
-    		subtype: "科技",
+    		subtype: "機械",
     		subtypes: [
-    			"科技"
+    			"機械"
     		],
     		supertype: "",
     		type: "單位",
@@ -39284,9 +39536,9 @@ var app = (function () {
     		spellSpeedRef: "",
     		rarity: "無",
     		rarityRef: "None",
-    		subtype: "科技",
+    		subtype: "機械",
     		subtypes: [
-    			"科技"
+    			"機械"
     		],
     		supertype: "",
     		type: "單位",
@@ -39327,9 +39579,9 @@ var app = (function () {
     		spellSpeedRef: "",
     		rarity: "無",
     		rarityRef: "None",
-    		subtype: "科技",
+    		subtype: "機械",
     		subtypes: [
-    			"科技"
+    			"機械"
     		],
     		supertype: "",
     		type: "單位",
@@ -39368,9 +39620,9 @@ var app = (function () {
     		spellSpeedRef: "",
     		rarity: "無",
     		rarityRef: "None",
-    		subtype: "科技",
+    		subtype: "機械",
     		subtypes: [
-    			"科技"
+    			"機械"
     		],
     		supertype: "",
     		type: "單位",
@@ -39411,9 +39663,9 @@ var app = (function () {
     		spellSpeedRef: "",
     		rarity: "無",
     		rarityRef: "None",
-    		subtype: "科技",
+    		subtype: "機械",
     		subtypes: [
-    			"科技"
+    			"機械"
     		],
     		supertype: "",
     		type: "單位",
@@ -39700,9 +39952,9 @@ var app = (function () {
     		spellSpeedRef: "",
     		rarity: "無",
     		rarityRef: "None",
-    		subtype: "科技",
+    		subtype: "機械",
     		subtypes: [
-    			"科技"
+    			"機械"
     		],
     		supertype: "",
     		type: "單位",
@@ -39811,7 +40063,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "本回合給予1個友軍單位+4|+0<br>與<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>。",
+    		description: "本回合給予1個友軍單位<br>+4|+0與<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>。",
     		descriptionRaw: "本回合給予1個友軍單位+4|+0與快速攻擊。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -39937,8 +40189,8 @@ var app = (function () {
     		attack: 1,
     		cost: 4,
     		health: 3,
-    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：選1個侍從單位，<br>將此牌幻化為<br>與之相同的複製單位。",
-    		descriptionRaw: "出牌：選1個侍從單位，將此牌幻化為與之相同的複製單位。",
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：挑選1個侍從單位，<br>將此牌幻化為<br>與之相同的複製單位。",
+    		descriptionRaw: "出牌：挑選1個侍從單位，將此牌幻化為與之相同的複製單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「各位化學伯爵，大家好！」",
@@ -39977,8 +40229,8 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "選1個侍從單位，<br>將此牌幻化為<br>與之相同的複製單位。",
-    		descriptionRaw: "選1個侍從單位，將此牌幻化為與之相同的複製單位。",
+    		description: "挑選1個侍從單位，將此牌<br>幻化為與之相同的複製單位。",
+    		descriptionRaw: "挑選1個侍從單位，將此牌幻化為與之相同的複製單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "肯定不是兩個喬裝打扮的約德爾人。",
@@ -40103,10 +40355,10 @@ var app = (function () {
     		attack: 1,
     		cost: 3,
     		health: 3,
-    		description: "<link=vocab.NexusStrike><style=Vocab>打擊主堡</style></link>：<br>在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.create><style=AssociatedCard>秘術射擊</style></link>。",
+    		description: "<link=vocab.NexusStrike><style=Vocab>打擊主堡</style></link>：在手牌生成1張<br><link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.create><style=AssociatedCard>秘術射擊</style></link>。",
     		descriptionRaw: "打擊主堡：在手牌生成1張飛逝秘術射擊。",
-    		levelupDescription: "我方指定6個或以上敵軍單位<br>為法術/技能目標<style=Variable></style>。",
-    		levelupDescriptionRaw: "我方指定6個或以上敵軍單位為法術/技能目標。",
+    		levelupDescription: "我方指定6個以上敵軍單位<br>為法術/技能目標<style=Variable></style>。",
+    		levelupDescriptionRaw: "我方指定6個以上敵軍單位為法術/技能目標。",
     		flavorText: "「護目鏡？有了。圍巾？有了。我完全搞得懂運作原理的魔法臂鎧？有了，有了，都有了！」",
     		artistName: "SIXMOREVODKA",
     		name: "伊澤瑞爾",
@@ -40148,7 +40400,7 @@ var app = (function () {
     		attack: 2,
     		cost: 3,
     		health: 4,
-    		description: "<link=vocab.NexusStrike><style=Vocab>打擊主堡</style></link>：在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.create><style=AssociatedCard>秘術射擊</style></link>。\r\n我方施放法術時，對敵方主堡造成1點傷害；若施放目標為敵軍單位，則改為對敵方主堡造成2點傷害。",
+    		description: "<link=vocab.NexusStrike><style=Vocab>打擊主堡</style></link>：在手牌生成1張<br><link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.create><style=AssociatedCard>秘術射擊</style></link>。\r\n我方施放法術時，對敵方主堡造成1點傷害；若施放目標為敵軍單位，則改為對敵方主堡造成2點傷害。",
     		descriptionRaw: "打擊主堡：在手牌生成1張飛逝秘術射擊。\r\n我方施放法術時，對敵方主堡造成1點傷害；若施放目標為敵軍單位，則改為對敵方主堡造成2點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -40401,7 +40653,7 @@ var app = (function () {
     		attack: 3,
     		cost: 4,
     		health: 2,
-    		description: "召喚此牌時，本牌局我方每召喚1個<link=card.me><style=AssociatedCard>陋巷酒吧老闆</style></link>，則在手牌生成1張來自我方牌組區域的卡牌。<style=Variable></style>",
+    		description: "召喚此牌時，本牌局我方每召喚<br>1個<link=card.me><style=AssociatedCard>陋巷酒吧老闆</style></link>，則在手牌生成<br>1張來自我方牌組區域的卡牌。<style=Variable></style>",
     		descriptionRaw: "召喚此牌時，本牌局我方每召喚1個陋巷酒吧老闆，則在手牌生成1張來自我方牌組區域的卡牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -40441,8 +40693,8 @@ var app = (function () {
     		attack: 0,
     		cost: 7,
     		health: 0,
-    		description: "從敵軍單位與主堡中任選3個目標，依序造成3點、2點、1點<br>傷害。",
-    		descriptionRaw: "從敵軍單位與主堡中任選3個目標，依序造成3點、2點、1點傷害。",
+    		description: "從敵軍單位與主堡中挑選3個<br>目標，依序造成3點、2點、<br>1點傷害。",
+    		descriptionRaw: "從敵軍單位與主堡中挑選3個目標，依序造成3點、2點、1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「天才不需要運氣，照樣百發百中。」——伊澤瑞爾",
@@ -40526,8 +40778,8 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "選1張手牌，在我方牌組生成4張與之相同的複製牌。",
-    		descriptionRaw: "選1張手牌，在我方牌組生成4張與之相同的複製牌。",
+    		description: "挑選1張手牌，在我方牌組生成4張與之相同的複製牌。",
+    		descriptionRaw: "挑選1張手牌，在我方牌組生成4張與之相同的複製牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "最真摯的盜竊叫作模仿。",
@@ -40611,8 +40863,8 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "在本牌局中，若我方已打出<br><style=Variable>20</style>張不同名稱的卡牌，<br>則召喚1個<link=card.summon><style=AssociatedCard>貓劫降臨</style></link>。<style=Variable></style>",
-    		descriptionRaw: "在本牌局中，若我方已打出20張不同名稱的卡牌，則召喚1個貓劫降臨。",
+    		description: "在本牌局中，若我方已打出<br><style=Variable>20</style>張名稱不同的卡牌，<br>則召喚1個<link=card.summon><style=AssociatedCard>貓劫降臨</style></link>。<style=Variable></style>",
+    		descriptionRaw: "在本牌局中，若我方已打出20張名稱不同的卡牌，則召喚1個貓劫降臨。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「到頭來，為了馮奕卜的願景付出努力的所有人都被蒙在鼓裡。我們對後果一無所知，不曉得自己即將釋放多麼恐怖的力量。」——皮爾托福專案工程師",
@@ -40662,7 +40914,7 @@ var app = (function () {
     		name: "貓劫降臨",
     		cardCode: "01PZ033T1",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -40777,8 +41029,8 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "從敵方單位與主堡中任選2個目標，各造成1點傷害。\r\n抽1張牌。",
-    		descriptionRaw: "從敵方單位與主堡中任選2個目標，各造成1點傷害。\r\n抽1張牌。",
+    		description: "從敵方單位與主堡中挑選2個<br>目標，各造成1點傷害。\r\n抽1張牌。",
+    		descriptionRaw: "從敵方單位與主堡中挑選2個目標，各造成1點傷害。\r\n抽1張牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「這就是我們發現弧放電的方式！沒錯，這個假設是我的前輩提出的，但他卻低估了電弧的廣泛應用。真是愚鈍的傢伙……」——漢默丁格",
@@ -41151,8 +41403,8 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "在本牌局中，若我方已打出<br><style=Variable>15</style>張不同名稱的卡牌，<br>則召喚1個<link=card.summon><style=AssociatedCard>貓劫降臨</style></link>。<style=Variable></style>",
-    		descriptionRaw: "在本牌局中，若我方已打出15張不同名稱的卡牌，則召喚1個貓劫降臨。",
+    		description: "在本牌局中，若我方已打出<br><style=Variable>15</style>張名稱不同的卡牌，<br>則召喚1個<link=card.summon><style=AssociatedCard>貓劫降臨</style></link>。<style=Variable></style>",
+    		descriptionRaw: "在本牌局中，若我方已打出15張名稱不同的卡牌，則召喚1個貓劫降臨。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「到頭來，為了馮奕卜的願景付出努力的所有人都被蒙在鼓裡。我們對後果一無所知，不曉得自己即將釋放多麼恐怖的力量。」——皮爾托福專案工程師",
@@ -41276,7 +41528,7 @@ var app = (function () {
     		attack: 3,
     		cost: 4,
     		health: 3,
-    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<br>在手牌生成1張來自我方牌組區域的史詩牌。",
+    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：在手牌生成1張來自<br>我方牌組區域的史詩牌。",
     		descriptionRaw: "遺願：在手牌生成1張來自我方牌組區域的史詩牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -41442,8 +41694,8 @@ var app = (function () {
     		attack: 4,
     		cost: 5,
     		health: 4,
-    		description: "若我方在本牌局已施放1張魔耗值6點或以上的法術牌，則賦予此牌+4|+0與<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>。",
-    		descriptionRaw: "若我方在本牌局已施放1張魔耗值6點或以上的法術牌，則賦予此牌+4|+0與快速攻擊。",
+    		description: "在本牌局中，我方施放魔耗值6點<br>以上的法術牌後，賦予此牌<br>+4|+0與<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>。",
+    		descriptionRaw: "在本牌局中，我方施放魔耗值6點以上的法術牌後，賦予此牌+4|+0與快速攻擊。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "姓名：科拉斯．漢維克；年齡：51歲；執照類別：第2級（附條件）；狀態：吊銷；備註：無視多次警告，實驗室爆炸（第13X764NM號案件）後仍持續輸出。切勿予以放行許可。",
@@ -41692,8 +41944,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "在手牌生成1張魔耗值6點或以上、<br>來自我方牌組區域的法術牌。<br>恢復我方所有法術魔力。",
-    		descriptionRaw: "在手牌生成1張魔耗值6點或以上、來自我方牌組區域的法術牌。恢復我方所有法術魔力。",
+    		description: "在手牌生成1張魔耗值6點以上、<br>來自我方牌組區域的法術牌。<br>恢復我方所有法術魔力。",
+    		descriptionRaw: "在手牌生成1張魔耗值6點以上、來自我方牌組區域的法術牌。恢復我方所有法術魔力。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "只消一次頓悟，便可造就一生傳奇。",
@@ -41818,7 +42070,7 @@ var app = (function () {
     		attack: 1,
     		cost: 2,
     		health: 3,
-    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：<br>本回合給予受此牌支援的友軍單位<link=keyword.Elusive><sprite name=Elusive><style=Keyword>隱密</style></link>。",
+    		description: "<link=vocab.Support><style=Vocab>支援</style></link>：本回合給予受此牌<br>支援的友軍單位<link=keyword.Elusive><sprite name=Elusive><style=Keyword>隱密</style></link>。",
     		descriptionRaw: "支援：本回合給予受此牌支援的友軍單位隱密。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -41988,7 +42240,7 @@ var app = (function () {
     		attack: 2,
     		cost: 6,
     		health: 4,
-    		description: "<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>攻擊</style></link>：<br>對所有敵軍單位與敵方主堡<br>造成1點傷害。<br><link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<br>復甦此牌並幻化為<link=card.transform><style=AssociatedCard>蛋妮維亞</style></link>。",
+    		description: "<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>攻擊</style></link>：對所有敵軍單位與<br>敵方主堡造成1點傷害。<br><link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<br>復甦此牌並幻化為<link=card.transform><style=AssociatedCard>蛋妮維亞</style></link>。",
     		descriptionRaw: "攻擊：對所有敵軍單位與敵方主堡造成1點傷害。遺願：復甦此牌並幻化為蛋妮維亞。",
     		levelupDescription: "我方進入<link=keyword.Enlightened><style=Keyword>開悟</style></link>狀態。",
     		levelupDescriptionRaw: "我方進入開悟狀態。",
@@ -42032,7 +42284,7 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "對所有敵軍單位和敵方主<br>堡造成1點傷害。",
+    		description: "對所有敵軍單位和敵方主堡<br>造成1點傷害。",
     		descriptionRaw: "對所有敵軍單位和敵方主堡造成1點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -42123,7 +42375,7 @@ var app = (function () {
     		attack: 3,
     		cost: 6,
     		health: 5,
-    		description: "<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>攻擊</style></link>：<br>對所有敵軍單位與敵方主堡<br>造成2點傷害。<br><link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<br>復甦此牌並幻化為<link=card.transform><style=AssociatedCard>蛋妮維亞</style></link>。",
+    		description: "<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>攻擊</style></link>：對所有敵軍單位與<br>敵方主堡造成2點傷害。<br><link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<br>復甦此牌並幻化為<link=card.transform><style=AssociatedCard>蛋妮維亞</style></link>。",
     		descriptionRaw: "攻擊：對所有敵軍單位與敵方主堡造成2點傷害。遺願：復甦此牌並幻化為蛋妮維亞。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -42262,7 +42514,7 @@ var app = (function () {
     		name: "泰達米爾",
     		cardCode: "01FR039",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -42350,7 +42602,7 @@ var app = (function () {
     		name: "泰達米爾",
     		cardCode: "01FR039T2",
     		keywords: [
-    			"勢不可擋",
+    			"蠻力",
     			"威嚇"
     		],
     		keywordRefs: [
@@ -42385,7 +42637,7 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "挑選1個友軍單位，<br>賦予我方<link=vocab.Everywhere><style=Vocab>各處</style></link>與之相同的單位與卡牌<br>+2|+2。",
+    		description: "挑選1個友軍單位，賦予我方<link=vocab.Everywhere><style=Vocab>各處</style></link><br>與之相同的單位與卡牌+2|+2。",
     		descriptionRaw: "挑選1個友軍單位，賦予我方各處與之相同的單位與卡牌+2|+2。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -42427,7 +42679,7 @@ var app = (function () {
     		attack: 1,
     		cost: 1,
     		health: 1,
-    		description: "召喚此牌時，<br>賦予牌組最上方2個友軍單位+1|+1。",
+    		description: "召喚此牌時，賦予牌組<br>最上方2個友軍單位+1|+1。",
     		descriptionRaw: "召喚此牌時，賦予牌組最上方2個友軍單位+1|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -42512,7 +42764,7 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 5,
-    		description: "此牌首次承受傷害且未陣亡時，召喚1個<link=card.create><style=AssociatedCard>大力普羅</style></link>。",
+    		description: "此牌首次承受傷害且未陣亡時，<br>召喚1個<link=card.create><style=AssociatedCard>大力普羅</style></link>。",
     		descriptionRaw: "此牌首次承受傷害且未陣亡時，召喚1個大力普羅。",
     		levelupDescription: "此牌共承受10點傷害並存活<style=Variable></style>。",
     		levelupDescriptionRaw: "此牌共承受10點傷害並存活。",
@@ -42556,7 +42808,7 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 2,
-    		description: "<link=vocab.Strike><style=Vocab>打擊</style></link>：若此牌打擊力量值0的單位，則視同擊殺之。",
+    		description: "<link=vocab.Strike><style=Vocab>打擊</style></link>：若此牌打擊力量值0的單位，<br>則視同擊殺之。",
     		descriptionRaw: "打擊：若此牌打擊力量值0的單位，則視同擊殺之。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -42679,8 +42931,8 @@ var app = (function () {
     		attack: 1,
     		cost: 1,
     		health: 1,
-    		description: "召喚此牌時，<br>在手牌隨機生成1張<br>魔耗值1的其他普羅牌。",
-    		descriptionRaw: "召喚此牌時，在手牌隨機生成1張魔耗值1的其他普羅牌。",
+    		description: "召喚此牌時，在手牌隨機生成<br>1張魔耗值1點的其他普羅牌。",
+    		descriptionRaw: "召喚此牌時，在手牌隨機生成1張魔耗值1點的其他普羅牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「我在弗雷爾卓德待了一輩子，從沒見過比這難過的小傢伙更令人痛心不捨的了。」——普羅牧人",
@@ -42720,8 +42972,8 @@ var app = (function () {
     		attack: 1,
     		cost: 1,
     		health: 1,
-    		description: "召喚此牌時，<br>在手牌隨機生成1張<br>魔耗值1的其他普羅牌。",
-    		descriptionRaw: "召喚此牌時，在手牌隨機生成1張魔耗值1的其他普羅牌。",
+    		description: "召喚此牌時，在手牌隨機生成<br>1張魔耗值1點的其他普羅牌。",
+    		descriptionRaw: "召喚此牌時，在手牌隨機生成1張魔耗值1點的其他普羅牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「喔吼！看這陽光的小傢伙！好像可以把凜冬都融化成明媚春天。」——普羅牧人",
@@ -42761,8 +43013,8 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "選1個敵軍單位，<br>若其力量值為0點，<br>則對該單位造成4點傷害。<br>若否，則<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>該單位。",
-    		descriptionRaw: "選1個敵軍單位，若其力量值為0點，則對該單位造成4點傷害。若否，則凍傷該單位。",
+    		description: "挑選1個敵軍單位，<br>若其力量值為0點，<br>則對該單位造成4點傷害。<br>若否，則<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>該單位。",
+    		descriptionRaw: "挑選1個敵軍單位，若其力量值為0點，則對該單位造成4點傷害。若否，則凍傷該單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「凜冬橫越大地之時，她能讓強者變得卑微，弱者變得墮落。」——戰痕族長史特芬",
@@ -42806,10 +43058,10 @@ var app = (function () {
     		attack: 5,
     		cost: 4,
     		health: 3,
-    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>的敵軍。",
-    		descriptionRaw: "攻擊：凍傷最強的敵軍。",
-    		levelupDescription: "我方<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>5個或以上的<br>敵軍單位<style=Variable></style>。<br>此牌升級時，在牌組最上方生成1張<link=card.create><style=AssociatedCard>水晶箭</style></link>。",
-    		levelupDescriptionRaw: "我方凍傷5個或以上的敵軍單位。此牌升級時，在牌組最上方生成1張水晶箭。",
+    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。",
+    		descriptionRaw: "攻擊：凍傷最強敵軍單位。",
+    		levelupDescription: "我方<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>5個以上的敵軍單位<style=Variable></style>。<br>此牌升級時，在牌組最上方生成1張<link=card.create><style=AssociatedCard>水晶箭</style></link>。",
+    		levelupDescriptionRaw: "我方凍傷5個以上的敵軍單位。此牌升級時，在牌組最上方生成1張水晶箭。",
     		flavorText: "「當我瞭望家園，看到的不僅是現在，也看到可能的未來：一片昌盛的榮景，不只是我的族人得享富足，也包括所有企求和平的人。弗雷爾卓德，萬眾而一心！」",
     		artistName: "SIXMOREVODKA",
     		name: "艾希",
@@ -42846,8 +43098,8 @@ var app = (function () {
     		attack: 0,
     		cost: 2,
     		health: 0,
-    		description: "<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>1個敵軍單位，<br>接著<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>所有其他<br>生命值3點或以下的敵軍單位。<br>抽1張牌。",
-    		descriptionRaw: "凍傷1個敵軍單位，接著凍傷所有其他生命值3點或以下的敵軍單位。抽1張牌。",
+    		description: "<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>1個敵軍單位，<br>接著<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>所有其他<br>生命值3點以下的敵軍單位。<br>抽1張牌。",
+    		descriptionRaw: "凍傷1個敵軍單位，接著凍傷所有其他生命值3點以下的敵軍單位。抽1張牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「全世界的力量都在這一箭。」——艾希",
@@ -43227,8 +43479,8 @@ var app = (function () {
     		attack: 3,
     		cost: 4,
     		health: 3,
-    		description: "<link=vocab.Allegiance><style=Vocab>效忠</style></link>：<br>賦予牌組最上方的友軍單位+3|+3與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。",
-    		descriptionRaw: "效忠：賦予牌組最上方的友軍單位+3|+3與勢不可擋。",
+    		description: "<link=vocab.Allegiance><style=Vocab>效忠</style></link>：賦予牌組最上方的友軍單位<br>+3|+3與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>蠻力</style></link>。",
+    		descriptionRaw: "效忠：賦予牌組最上方的友軍單位+3|+3與蠻力。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "增援部隊在山脊上列陣，騎衛隊低頭向戰爭之母行禮。因為他們的艾希女王，艾伐洛森的化身，將為子民帶來和平。",
@@ -43236,7 +43488,7 @@ var app = (function () {
     		name: "艾伐洛森騎衛隊",
     		cardCode: "01FR037",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -43318,7 +43570,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "賦予1個負傷友軍單位+3|+3。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>布郎姆</style></link>。",
+    		description: "賦予1個負傷友軍單位+3|+3。<br>\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>布郎姆</style></link>。",
     		descriptionRaw: "賦予1個負傷友軍單位+3|+3。\r\n在我方牌組生成1張布郎姆。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -43369,7 +43621,7 @@ var app = (function () {
     		name: "狂爪狼王",
     		cardCode: "01FR026",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -43402,8 +43654,8 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>1個生命值3點或以下的<br>敵軍單位。",
-    		descriptionRaw: "凍傷1個生命值3點或以下的敵軍單位。",
+    		description: "<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>1個生命值3點以下的<br>敵軍單位。",
+    		descriptionRaw: "凍傷1個生命值3點以下的敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「很冷嗎？哈！希望你的精神要比盛夏打造的鋼鐵更加堅韌！」——布郎姆",
@@ -43453,7 +43705,7 @@ var app = (function () {
     		name: "戰痕之母芙蕊娜",
     		cardCode: "01FR013",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -43528,7 +43780,7 @@ var app = (function () {
     		attack: 5,
     		cost: 5,
     		health: 5,
-    		description: "召喚此牌時，賦予牌組中所有友軍單位+1|+1。",
+    		description: "召喚此牌時，賦予牌組中<br>所有友軍單位+1|+1。",
     		descriptionRaw: "召喚此牌時，賦予牌組中所有友軍單位+1|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -43568,7 +43820,7 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 3,
-    		description: "召喚此牌時，<br>若我方場上有普羅單位，<br>則抽1張普羅牌。",
+    		description: "召喚此牌時，若我方場上有<br>普羅單位，則抽1張普羅牌。",
     		descriptionRaw: "召喚此牌時，若我方場上有普羅單位，則抽1張普羅牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -43617,7 +43869,7 @@ var app = (function () {
     		name: "戰痕少女掠奪者",
     		cardCode: "01FR054",
     		keywords: [
-    			"勢不可擋",
+    			"蠻力",
     			"再生"
     		],
     		keywordRefs: [
@@ -43897,8 +44149,8 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 3,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<br>治癒1個友軍單位或<br>我方主堡3點生命。",
-    		descriptionRaw: "出牌：治癒1個友軍單位或我方主堡3點生命。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<br>治療1個友軍單位或<br>我方主堡3點生命值。",
+    		descriptionRaw: "出牌：治療1個友軍單位或我方主堡3點生命值。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「這棟老建築就是『微醺貓頭鷹』，我們有各式燉菜和佳釀幫你驅走寒意，快進來吧！」",
@@ -43938,8 +44190,8 @@ var app = (function () {
     		attack: 10,
     		cost: 10,
     		health: 10,
-    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：<br><link=keyword.Obliterate><style=Keyword>泯滅</style></link>手牌及場上所有<br>力量值4點或以下的侍從單位。",
-    		descriptionRaw: "出牌：泯滅手牌及場上所有力量值4點或以下的侍從單位。",
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：<br><link=keyword.Obliterate><style=Keyword>泯滅</style></link>手牌及場上所有<br>力量值4點以下的侍從單位。",
+    		descriptionRaw: "出牌：泯滅手牌及場上所有力量值4點以下的侍從單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「我從碎石堆中站起身，發現周圍地上燒出一圈烙印。夥伴曾經站立的地方成了一堆悶燒的灰燼，而不遠處有個若隱若現的形體邁步向前……」<br>——漫遊者比亞",
@@ -43980,8 +44232,8 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>手牌及場上所有<br>力量值4點或以下的侍從單位。",
-    		descriptionRaw: "泯滅手牌及場上所有力量值4點或以下的侍從單位。",
+    		description: "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>手牌及場上所有力量值<br>4點以下的侍從單位。",
+    		descriptionRaw: "泯滅手牌及場上所有力量值4點以下的侍從單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「怪異光線灑滿了整座峽谷，一聲尖銳呼嘯把懸崖上的岩石震得喀喀作響，晃得我差點筋骨分離，腦中一片空白！接著……鴉雀無聲。」——漫遊者比亞",
@@ -44157,7 +44409,7 @@ var app = (function () {
     		name: "野魂秘術師",
     		cardCode: "01FR047",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -44190,8 +44442,8 @@ var app = (function () {
     		attack: 5,
     		cost: 7,
     		health: 5,
-    		description: "召喚此牌時，<br><link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>所有生命值3點或以下的<br>敵軍單位。",
-    		descriptionRaw: "召喚此牌時，凍傷所有生命值3點或以下的敵軍單位。",
+    		description: "召喚此牌時，<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>凍傷</style></link>所有生命值<br>3點以下的敵軍單位。",
+    		descriptionRaw: "召喚此牌時，凍傷所有生命值3點以下的敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「啊啊啊啊啊啊啊！」——漫遊者比亞",
@@ -44272,8 +44524,8 @@ var app = (function () {
     		attack: 0,
     		cost: 7,
     		health: 0,
-    		description: "本回合給予所有友軍單位+2|+2與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。",
-    		descriptionRaw: "本回合給予所有友軍單位+2|+2與勢不可擋。",
+    		description: "本回合給予所有友軍單位<br>+2|+2與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>蠻力</style></link>。",
+    		descriptionRaw: "本回合給予所有友軍單位+2|+2與蠻力。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "一聲孤獨的狼嚎在黑夜裡迴盪，嚎叫聲隨後此起彼落。過了一陣子，狼嚎聲合而為一，宛如一首由嗜血的激動叫聲所組成的主旋律。",
@@ -44357,7 +44609,7 @@ var app = (function () {
     		attack: 3,
     		cost: 3,
     		health: 3,
-    		description: "召喚此牌時，在我方牌組最上方3張牌中生成1張<link=card.create><style=AssociatedCard>暴怒雪怪</style></link>。",
+    		description: "召喚此牌時，在我方牌組最上方<br>3張牌中生成1張<link=card.create><style=AssociatedCard>暴怒雪怪</style></link>。",
     		descriptionRaw: "召喚此牌時，在我方牌組最上方3張牌中生成1張暴怒雪怪。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -44397,8 +44649,8 @@ var app = (function () {
     		attack: 3,
     		cost: 5,
     		health: 3,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<br>從我方牌組最上方6張牌中召喚所有厄努克，將其餘卡牌洗回我方牌組。",
-    		descriptionRaw: "出牌：從我方牌組最上方6張牌中召喚所有厄努克，將其餘卡牌洗回我方牌組。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：<br>從我方牌組最上方6張牌中召喚所有厄努克，並將其餘卡牌洗回我方牌組。",
+    		descriptionRaw: "出牌：從我方牌組最上方6張牌中召喚所有厄努克，並將其餘卡牌洗回我方牌組。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「艾伐洛森人就像雙眼無神的草食厄努克牛群，連無痕者都能輕易撂倒。他們靠著人多勢眾才得以存活。」——戰痕之母芙蕊娜",
@@ -44480,8 +44732,8 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "獲得1個魔力寶石槽位，<br>並治癒主堡3點生命。",
-    		descriptionRaw: "獲得1個魔力寶石槽位，並治癒主堡3點生命。",
+    		description: "獲得1個魔力寶石槽位，<br>並治療主堡3點生命值。",
+    		descriptionRaw: "獲得1個魔力寶石槽位，並治療主堡3點生命值。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "魔方之石是一塊具有神奇恢復能力的超凡寶石，無論紅水晶或藍水晶都無法比擬其散發出的光澤。 ",
@@ -44571,7 +44823,7 @@ var app = (function () {
     		name: "遠古雪怪",
     		cardCode: "01FR031",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -44656,7 +44908,7 @@ var app = (function () {
     		name: "大力普羅",
     		cardCode: "01FR053",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -44818,7 +45070,7 @@ var app = (function () {
     		attack: 2,
     		cost: 2,
     		health: 3,
-    		description: "每當我方施放法術，<br>便賦予我方牌組最上方的友軍單位<br>+1|+1。",
+    		description: "每當我方施放法術，便賦予我方牌組最上方的友軍單位+1|+1。",
     		descriptionRaw: "每當我方施放法術，便賦予我方牌組最上方的友軍單位+1|+1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -44861,7 +45113,7 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "若我方場上有雪怪單位，<br>則召喚1個<link=card.create><style=AssociatedCard>暴怒雪怪</style></link>。<br>若無，<br>則改為生成該牌置於我方牌組最上方。",
+    		description: "若我方場上有雪怪單位，<br>則召喚1個<link=card.create><style=AssociatedCard>暴怒雪怪</style></link>。<br>若無，則改為生成該牌<br>置於我方牌組最上方。",
     		descriptionRaw: "若我方場上有雪怪單位，則召喚1個暴怒雪怪。若無，則改為生成該牌置於我方牌組最上方。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -44912,7 +45164,7 @@ var app = (function () {
     		name: "虛厄韌獸",
     		cardCode: "01FR034",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -44945,8 +45197,8 @@ var app = (function () {
     		attack: 3,
     		cost: 4,
     		health: 3,
-    		description: "召喚此牌時，<br>抽1張力量值5點或以上的單位牌。",
-    		descriptionRaw: "召喚此牌時，抽1張力量值5點或以上的單位牌。",
+    		description: "召喚此牌時，<br>抽1張力量值5點以上的單位牌。",
+    		descriptionRaw: "召喚此牌時，抽1張力量值5點以上的單位牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「你……你必須相信我！那是隻巨獸。我真心不騙，超巨大！」",
@@ -45114,7 +45366,7 @@ var app = (function () {
     		health: 3,
     		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：召喚1個攻擊中的<link=card.summon><style=AssociatedCard>小蜘蛛</style></link>。",
     		descriptionRaw: "攻擊：召喚1個攻擊中的小蜘蛛。",
-    		levelupDescription: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：我方場上有3個或更多其他蜘蛛單位。",
+    		levelupDescription: "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：我方場上有3個<br>或更多其他蜘蛛單位。",
     		levelupDescriptionRaw: "回合開始：我方場上有3個或更多其他蜘蛛單位。",
     		flavorText: "伊莉絲曾是諾克薩斯有權有勢家族的女主人，她與闇影島結下密不可分的關係，從中獲得永生的年輕美貌，代價是獻上幾個無辜靈魂作為祭品。她不假思索就答應了。",
     		artistName: "SIXMOREVODKA",
@@ -45158,8 +45410,8 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "若本回合有友軍單位陣亡，則召喚2個<link=card.create><style=AssociatedCard>小蜘蛛</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>伊莉絲</style></link>。",
-    		descriptionRaw: "若本回合有友軍單位陣亡，則召喚2個小蜘蛛。\r\n在我方牌組生成1張伊莉絲。",
+    		description: "若本回合有友軍單位陣亡，<br>則召喚2個<link=card.create><style=AssociatedCard>小蜘蛛</style></link>。<br>在我方牌組生成1張<link=card.level1><style=AssociatedCard>伊莉絲</style></link>。",
+    		descriptionRaw: "若本回合有友軍單位陣亡，則召喚2個小蜘蛛。在我方牌組生成1張伊莉絲。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "嚇到起雞皮疙瘩很可怕？你還沒嘗過打從心底感到毛骨悚然的滋味。",
@@ -45202,11 +45454,11 @@ var app = (function () {
     		attack: 4,
     		cost: 2,
     		health: 3,
-    		description: "使我方其他蜘蛛單位<br>擁有<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>和<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>。",
+    		description: "使我方其他蜘蛛單位擁有<br><link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>和<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>。",
     		descriptionRaw: "使我方其他蜘蛛單位擁有挑戰者和威嚇。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "情人眼裡出蜘蛛。",
+    		flavorText: "情人眼裡出蛛絲。",
     		artistName: "SIXMOREVODKA",
     		name: "蜘蛛女王伊莉絲",
     		cardCode: "01SI053T2",
@@ -45375,14 +45627,14 @@ var app = (function () {
     		health: 5,
     		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：召喚2個攻擊中的<link=card.summon><style=AssociatedCard>幽魂騎士</style></link>。",
     		descriptionRaw: "攻擊：召喚2個攻擊中的幽魂騎士。",
-    		levelupDescription: "我方以7個或以上<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>友軍單位攻擊<style=Variable></style>。",
-    		levelupDescriptionRaw: "我方以7個或以上閃靈友軍單位攻擊。",
+    		levelupDescription: "我方以7個以上<br><link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>友軍單位攻擊<style=Variable></style>。",
+    		levelupDescriptionRaw: "我方以7個以上閃靈友軍單位攻擊。",
     		flavorText: "那不是雷電，是戰爭之影要現身了。",
     		artistName: "SIXMOREVODKA",
     		name: "赫克林",
     		cardCode: "01SI042",
     		keywords: [
-    			"勢不可擋"
+    			"蠻力"
     		],
     		keywordRefs: [
     			"Overwhelm"
@@ -45427,7 +45679,7 @@ var app = (function () {
     		name: "赫克林",
     		cardCode: "01SI042T1",
     		keywords: [
-    			"勢不可擋",
+    			"蠻力",
     			"Missing Translation"
     		],
     		keywordRefs: [
@@ -45508,8 +45760,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "若本回合有3個或以上<br>友軍單位陣亡，<br>則召喚<link=card.summon><style=AssociatedCard>威洛魔</style></link>。\r\n<style=Variable></style>",
-    		descriptionRaw: "若本回合有3個或以上友軍單位陣亡，則召喚威洛魔。\r\n",
+    		description: "若本回合有3個以上<br>友軍單位陣亡，<br>則召喚<link=card.summon><style=AssociatedCard>威洛魔</style></link>。\r\n<style=Variable></style>",
+    		descriptionRaw: "若本回合有3個以上友軍單位陣亡，則召喚威洛魔。\r\n",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「在毒牙之神面前跪下吧。最好連性命也一併奉獻。」——伊莉絲",
@@ -45682,8 +45934,8 @@ var app = (function () {
     		health: 3,
     		description: "",
     		descriptionRaw: "",
-    		levelupDescription: "此牌在場上時，<br>有3個或以上友軍單位陣亡<style=Variable></style>。",
-    		levelupDescriptionRaw: "此牌在場上時，有3個或以上友軍單位陣亡。",
+    		levelupDescription: "此牌在場上時，<br>有3個以上友軍單位陣亡<style=Variable></style>。",
+    		levelupDescriptionRaw: "此牌在場上時，有3個以上友軍單位陣亡。",
     		flavorText: "她生前是一名將軍，守護王國的英雌。但隨著肉身消逝，她心中僅剩報復的熊熊怒火。她成了滿心只想報仇雪恨的不死怨靈。",
     		artistName: "SIXMOREVODKA",
     		name: "克黎思妲",
@@ -45724,8 +45976,8 @@ var app = (function () {
     		attack: 5,
     		cost: 3,
     		health: 4,
-    		description: "每回合此牌首次攻擊時，<br>復甦1個<link=vocab.Strongest><style=Vocab>最強</style></link>已陣亡友軍侍從單位，<br>使其處於攻擊中並賦予<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>。<br>該回合此牌與該單位締結關係，<br>此牌所受傷害轉嫁至該單位。",
-    		descriptionRaw: "每回合此牌首次攻擊時，復甦1個最強已陣亡友軍侍從單位，使其處於攻擊中並賦予閃靈。該回合此牌與該單位締結關係，此牌所受傷害轉嫁至該單位。",
+    		description: "每回合此牌首次攻擊時，\r\n復甦1個<link=vocab.Strongest><style=Vocab>最強</style></link>已陣亡友軍侍從單位，\r\n使其處於攻擊中並賦予<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>。\r\n該回合此牌與該單位締結關係，\r\n此牌所受傷害轉嫁至該單位。",
+    		descriptionRaw: "每回合此牌首次攻擊時，\r\n復甦1個最強已陣亡友軍侍從單位，\r\n使其處於攻擊中並賦予閃靈。\r\n該回合此牌與該單位締結關係，\r\n此牌所受傷害轉嫁至該單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「被錯待的人應得報仇雪恨！」",
@@ -45768,8 +46020,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "若本回合有友軍單位陣亡，則可對1個單位造成4點傷害。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>克黎思妲</style></link>。",
-    		descriptionRaw: "若本回合有友軍單位陣亡，則可對1個單位造成4點傷害。\r\n在我方牌組生成1張克黎思妲。",
+    		description: "若本回合有友軍單位陣亡，<br>則對1個單位造成4點傷害。<br>在我方牌組生成1張<link=card.level1><style=AssociatedCard>克黎思妲</style></link>。",
+    		descriptionRaw: "若本回合有友軍單位陣亡，則對1個單位造成4點傷害。在我方牌組生成1張克黎思妲。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「黑矛為墮落的靈魂吟唱。」——克黎思妲",
@@ -45811,8 +46063,8 @@ var app = (function () {
     		attack: 7,
     		cost: 8,
     		health: 5,
-    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：若本回合有友軍陣亡，<br>則擊殺2個<link=keyword.Weakest><style=Keyword>最弱</style></link>敵軍單位。",
-    		descriptionRaw: "出牌：若本回合有友軍陣亡，則擊殺2個最弱敵軍單位。",
+    		description: "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：若本回合有友軍單位陣亡，\r\n則擊殺2個<link=keyword.Weakest><style=Keyword>最弱</style></link>敵軍單位。",
+    		descriptionRaw: "出牌：若本回合有友軍單位陣亡，\r\n則擊殺2個最弱敵軍單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「他們說……他們稱之為傳奇旅程。我們的任務是保衛……蒂瑪西亞的未來。我們懷抱著希望航行，但是……犧牲這麼多人……究竟為了什麼？」<br>——蒂瑪西亞士兵，阿里．倫斯",
@@ -46107,8 +46359,8 @@ var app = (function () {
     		health: 6,
     		description: "",
     		descriptionRaw: "",
-    		levelupDescription: "此牌在場上時，<br>有6個或以上單位陣亡<style=Variable></style>。",
-    		levelupDescriptionRaw: "此牌在場上時，有6個或以上單位陣亡。",
+    		levelupDescription: "此牌在場上時，<br>有6個以上單位陣亡<style=Variable></style>。",
+    		levelupDescriptionRaw: "此牌在場上時，有6個以上單位陣亡。",
     		flavorText: "「鎖鏈鏗鏘作響，有人要來把你抓走……\n鎖鏈鏗鏘作響，獄長就在你身後……」",
     		artistName: "SIXMOREVODKA",
     		name: "瑟雷西",
@@ -46152,9 +46404,9 @@ var app = (function () {
     		descriptionRaw: "出牌：對敵方主堡造成等同其當前一半生命值的傷害，無條件進位。遺願：將此牌收回手牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
-    		flavorText: "大多靈魂的記憶在年歲中逐漸消失殆盡，遺失了自我。但是萬分痛苦的雷卓思仍緊緊抓住過往不放。有些事情，連時間也無法沖淡。",
+    		flavorText: "大多靈魂的記憶在年歲中逐漸消失殆盡，遺失了自我。但是萬分痛苦的萊卓斯仍緊緊抓住過往不放。有些事情，連時間也無法沖淡。",
     		artistName: "SIXMOREVODKA",
-    		name: "雷卓思指揮官",
+    		name: "萊卓斯指揮官",
     		cardCode: "01SI033",
     		keywords: [
     			"威嚇",
@@ -46192,8 +46444,8 @@ var app = (function () {
     		attack: 0,
     		cost: 9,
     		health: 0,
-    		description: "復甦本牌局<link=vocab.Strongest><style=Vocab>最強</style></link>的<br>6個陣亡友軍單位，<br>賦予其<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>。",
-    		descriptionRaw: "復甦本牌局最強的6個陣亡友軍單位，賦予其閃靈。",
+    		description: "復甦本牌局<link=vocab.Strongest><style=Vocab>最強</style></link>的6個陣亡<br>友軍單位，並賦予其<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>。",
+    		descriptionRaw: "復甦本牌局最強的6個陣亡友軍單位，並賦予其閃靈。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "有幾天夜裡，一群飢餓的怨靈會乘著黯霧，穿越汪洋狩獵生者的靈魂，以新的邪惡不死生物餵養逐漸壯大的黑暗面。",
@@ -46278,8 +46530,8 @@ var app = (function () {
     		attack: 0,
     		cost: 1,
     		health: 0,
-    		description: "從1個友軍單位<link=keyword.Drain><style=Keyword>汲取</style></link>4點生命。",
-    		descriptionRaw: "從1個友軍單位汲取4點生命。",
+    		description: "從1個友軍單位<link=keyword.Drain><style=Keyword>汲取</style></link>4點生命值。",
+    		descriptionRaw: "從1個友軍單位汲取4點生命值。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「你的衰亡，造就我的強大。」——瑟雷西",
@@ -46445,8 +46697,8 @@ var app = (function () {
     		attack: 0,
     		cost: 4,
     		health: 0,
-    		description: "對本回合召喚的所有敵軍單位造成3點傷害。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>瑟雷西</style></link>。",
-    		descriptionRaw: "對本回合召喚的所有敵軍單位造成3點傷害。\r\n在我方牌組生成1張瑟雷西。",
+    		description: "對本回合召喚的所有<br>敵軍單位造成3點傷害。<br>在我方牌組生成1張<link=card.level1><style=AssociatedCard>瑟雷西</style></link>。",
+    		descriptionRaw: "對本回合召喚的所有敵軍單位造成3點傷害。在我方牌組生成1張瑟雷西。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「沒人逃得了。」——瑟雷西",
@@ -46531,7 +46783,7 @@ var app = (function () {
     		attack: 2,
     		cost: 3,
     		health: 4,
-    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：<br>場上每有1個<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>友軍單位，<br>則賦予此牌+1|+0。",
+    		description: "<link=vocab.Attack><style=Vocab>攻擊</style></link>：場上每有1個<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link><br>友軍單位，則賦予此牌+1|+0。",
     		descriptionRaw: "攻擊：場上每有1個閃靈友軍單位，則賦予此牌+1|+0。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
@@ -46573,8 +46825,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "若本回合有友軍單位陣亡，則可對1個單位造成4點傷害。",
-    		descriptionRaw: "若本回合有友軍單位陣亡，則可對1個單位造成4點傷害。",
+    		description: "若本回合有友軍單位陣亡，<br>則對1個單位造成4點傷害。",
+    		descriptionRaw: "若本回合有友軍單位陣亡，則對1個單位造成4點傷害。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「黑矛為墮落的靈魂吟唱。」——克黎思妲",
@@ -47043,7 +47295,7 @@ var app = (function () {
     		levelupDescriptionRaw: "",
     		flavorText: "半刃半人。這把武器連同主人的承諾一起被打破，跟著其誓言守護的國王一起崩毀，伴隨曾受到祝福的暗影王國一起殞落。",
     		artistName: "Kudos Productions",
-    		name: "雷卓思之刃",
+    		name: "萊卓斯之刃",
     		cardCode: "01SI033T1",
     		keywords: [
     			"技能"
@@ -47079,8 +47331,8 @@ var app = (function () {
     		attack: 0,
     		cost: 3,
     		health: 0,
-    		description: "選擇1個友軍單位，<br>召喚1個與之相同的複製單位，<br>其為<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>且能力值為1|1。",
-    		descriptionRaw: "選擇1個友軍單位，召喚1個與之相同的複製單位，其為閃靈且能力值為1|1。",
+    		description: "挑選1個友軍單位，<br>召喚1個與之相同的複製單位，<br>其為<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>且能力值為1|1。",
+    		descriptionRaw: "挑選1個友軍單位，召喚1個與之相同的複製單位，其為閃靈且能力值為1|1。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "「我從水裡撈起屍體，想查清這個可憐人的身分。我的手才碰到他的肩膀，他忽然轉過頭來面向我。這個人……是我？」——蒂瑪西亞士兵，阿里．倫斯",
@@ -47119,7 +47371,7 @@ var app = (function () {
     		region: "闇影島",
     		regionRef: "ShadowIsles",
     		attack: 0,
-    		cost: 6,
+    		cost: 7,
     		health: 0,
     		description: "擊殺1個友軍單位，並對任1目標<br>造成等同該單位力量值的傷害。",
     		descriptionRaw: "擊殺1個友軍單位，並對任1目標造成等同該單位力量值的傷害。",
@@ -47415,8 +47667,8 @@ var app = (function () {
     		attack: 4,
     		cost: 5,
     		health: 3,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：擊殺1個友軍單位，<br>並隨機召喚1個<br>魔耗值高出2點的侍從單位。",
-    		descriptionRaw: "出牌：擊殺1個友軍單位，並隨機召喚1個魔耗值高出2點的侍從單位。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：擊殺1個友軍單位，<br>並隨機召喚1個<br>魔耗值+2的侍從單位。",
+    		descriptionRaw: "出牌：擊殺1個友軍單位，並隨機召喚1個魔耗值+2的侍從單位。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "怨靈們，把聲音借給我！我們將協力召出<br>無盡的黑暗！",
@@ -47497,8 +47749,8 @@ var app = (function () {
     		attack: 6,
     		cost: 8,
     		health: 6,
-    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：選擇1個手牌中的友軍單位，<br>召喚1個與之相同的複製單位，<br>其為<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>。",
-    		descriptionRaw: "出牌：選擇1個手牌中的友軍單位，召喚1個與之相同的複製單位，其為閃靈。",
+    		description: "<link=vocab.Play><style=Vocab>出牌</style></link>：挑選1個手牌中的友軍單位，<br>召喚1個與之相同的複製單位，<br>其為<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>。",
+    		descriptionRaw: "出牌：挑選1個手牌中的友軍單位，召喚1個與之相同的複製單位，其為閃靈。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "殞落王者的詛咒所到之處，無一倖免。仁慈之人變得殘忍；勇敢之人變得野蠻；怨恨蒙蔽了理智。",
@@ -47582,8 +47834,8 @@ var app = (function () {
     		attack: 4,
     		cost: 7,
     		health: 4,
-    		description: "召喚此牌時，復甦<link=vocab.Strongest><style=Vocab>最強</style></link>的已陣亡友軍英雄。",
-    		descriptionRaw: "召喚此牌時，復甦最強的已陣亡友軍英雄。",
+    		description: "召喚此牌時，\r\n復甦<link=vocab.Strongest><style=Vocab>最強</style></link>的已陣亡我方英雄。",
+    		descriptionRaw: "召喚此牌時，\r\n復甦最強的已陣亡我方英雄。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "一根即將熄滅的蠟燭，除了點燃下一根新蠟燭，還能有什麼作用？",
@@ -47622,8 +47874,8 @@ var app = (function () {
     		attack: 0,
     		cost: 5,
     		health: 0,
-    		description: "對所有敵軍單位造成1點傷害，<br>並治癒我方主堡3點生命。",
-    		descriptionRaw: "對所有敵軍單位造成1點傷害，並治癒我方主堡3點生命。",
+    		description: "對所有敵軍單位造成1點傷害，<br>並治療我方主堡3點生命值。",
+    		descriptionRaw: "對所有敵軍單位造成1點傷害，並治療我方主堡3點生命值。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "我們每每被擊殺都將使他們更加強大。",
@@ -47708,8 +47960,8 @@ var app = (function () {
     		attack: 1,
     		cost: 1,
     		health: 1,
-    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：在手牌生成1張<br>魔耗值3點或以下的<br>其他<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>侍從牌。",
-    		descriptionRaw: "遺願：在手牌生成1張魔耗值3點或以下的其他遺願侍從牌。",
+    		description: "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：在手牌生成1張魔耗值3點<br>以下的其他<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>侍從牌。",
+    		descriptionRaw: "遺願：在手牌生成1張魔耗值3點以下的其他遺願侍從牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "他用盡全力屏住呼吸，祈禱獄長別發現自己。當時的他還不曉得，這場躲貓貓只不過是瑟雷西一連串恐怖折磨的開頭罷了……",
@@ -47877,8 +48129,8 @@ var app = (function () {
     		attack: 0,
     		cost: 0,
     		health: 0,
-    		description: "選1個侍從單位。<br>在手牌生成1張<br>與之相同的<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>複製牌。",
-    		descriptionRaw: "選1個侍從單位。在手牌生成1張與之相同的閃靈複製牌。",
+    		description: "挑選1個侍從單位。<br>在手牌生成1張<br>與之相同的<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>複製牌。",
+    		descriptionRaw: "挑選1個侍從單位。在手牌生成1張與之相同的閃靈複製牌。",
     		levelupDescription: "",
     		levelupDescriptionRaw: "",
     		flavorText: "片刻之間，回憶映在眼簾。斑斑日光在她的肌膚上跳躍，飽滿多汁的黑刺莓在齒間迸裂，林地微風傳來悠悠樂聲，拂過她的耳邊。然後……畫面消失了。",
